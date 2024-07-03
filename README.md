@@ -48,12 +48,12 @@
 
 <p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/keyunj/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/keyunj/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/keyunj/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/keyunj/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/keyunj/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/keyunj/cv-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
 
