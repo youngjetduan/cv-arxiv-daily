@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699](http://arxiv.org/abs/2407.04699)|null|
+|**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694](http://arxiv.org/abs/2407.04694)|null|
+|**2024-07-05**|**ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models**|Yuzhe Gu et.al.|[2407.04693](http://arxiv.org/abs/2407.04693)|null|
+|**2024-07-05**|**Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge**|Yuanze Lin et.al.|[2407.04681](http://arxiv.org/abs/2407.04681)|null|
+|**2024-07-05**|**Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition**|Ye Bai et.al.|[2407.04675](http://arxiv.org/abs/2407.04675)|null|
+|**2024-07-05**|**Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement**|Yongji Wu et.al.|[2407.04656](http://arxiv.org/abs/2407.04656)|null|
+|**2024-07-05**|**Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**|Reza Averly et.al.|[2407.04629](http://arxiv.org/abs/2407.04629)|null|
+|**2024-07-05**|**On scalable oversight with weak LLMs judging strong LLMs**|Zachary Kenton et.al.|[2407.04622](http://arxiv.org/abs/2407.04622)|null|
+|**2024-07-05**|**OneRestore: A Universal Restoration Framework for Composite Degradation**|Yu Guo et.al.|[2407.04621](http://arxiv.org/abs/2407.04621)|**[link](https://github.com/gy65896/onerestore)**|
+|**2024-07-05**|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|Yu Sun et.al.|[2407.04620](http://arxiv.org/abs/2407.04620)|**[link](https://github.com/test-time-training/ttt-lm-jax)**|
 |**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310](http://arxiv.org/abs/2407.03310)|null|
 |**2024-07-03**|**Eyes on the Game: Deciphering Implicit Human Signals to Infer Human Proficiency, Trust, and Intent**|Nikhil Hulle et.al.|[2407.03298](http://arxiv.org/abs/2407.03298)|null|
 |**2024-07-03**|**Large Language Models for JSON Schema Discovery**|Michael J. Mior et.al.|[2407.03286](http://arxiv.org/abs/2407.03286)|null|
@@ -45,6 +55,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**Unsupervised speech enhancement with spectral kurtosis and double deep priors**|Hien Ohnaka et.al.|[2407.03887](http://arxiv.org/abs/2407.03887)|null|
 |**2024-07-02**|**Advancing Compressed Video Action Recognition through Progressive Knowledge Distillation**|Efstathia Soufleri et.al.|[2407.02713](http://arxiv.org/abs/2407.02713)|**[link](https://github.com/Efstathia-Soufleri/PKD)**|
 |**2024-07-02**|**Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960](http://arxiv.org/abs/2407.01960)|null|
 |**2024-07-01**|**Exact statistical analysis for response-adaptive clinical trials: a general and computationally tractable approach**|Stef Baas et.al.|[2407.01055](http://arxiv.org/abs/2407.01055)|null|
