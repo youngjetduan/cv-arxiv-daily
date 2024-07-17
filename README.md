@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Hydra: Brokering Cloud and HPC Resources to Support the Execution of Heterogeneous Workloads at Scale**|Aymen Alsaadi et.al.|[2407.11967](http://arxiv.org/abs/2407.11967)|null|
+|**2024-07-16**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|null|
+|**2024-07-16**|**NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?**|Mo Li et.al.|[2407.11963](http://arxiv.org/abs/2407.11963)|**[link](https://github.com/open-compass/opencompass)**|
+|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
+|**2024-07-16**|**Min-max theory and existence of H-spheres with arbitrary codimensions**|Rui Gao et.al.|[2407.11945](http://arxiv.org/abs/2407.11945)|null|
+|**2024-07-16**|**Beyond Spatial Explanations: Explainable Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2407.11941](http://arxiv.org/abs/2407.11941)|null|
+|**2024-07-16**|**Generalized Difference-in-Differences**|Yiqing Xu et.al.|[2407.11937](http://arxiv.org/abs/2407.11937)|null|
+|**2024-07-16**|**Learning Multi-view Anomaly Detection**|Haoyang He et.al.|[2407.11935](http://arxiv.org/abs/2407.11935)|null|
+|**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
+|**2024-07-16**|**What's Wrong? Refining Meeting Summaries with LLM Feedback**|Frederic Kirstein et.al.|[2407.11919](http://arxiv.org/abs/2407.11919)|null|
 |**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972](http://arxiv.org/abs/2407.10972)|**[link](https://github.com/vgbench/VGBench)**|
 |**2024-07-15**|**Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**|Hongyu Wang et.al.|[2407.10969](http://arxiv.org/abs/2407.10969)|null|
 |**2024-07-15**|**Induction of non-Fermi liquids by critical cavity photons at the onset of superradiance**|Ipsita Mandal et.al.|[2407.10963](http://arxiv.org/abs/2407.10963)|null|
@@ -115,6 +125,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Enhancing Split Computing and Early Exit Applications through Predefined Sparsity**|Luigi Capogrosso et.al.|[2407.11763](http://arxiv.org/abs/2407.11763)|**[link](https://github.com/intelligolabs/sparsity_sc_ee)**|
+|**2024-07-16**|**Preconditioned Gradient Descent Finds Over-Parameterized Neural Networks with Sharp Generalization for Nonparametric Regression**|Yingzhen Yang et.al.|[2407.11353](http://arxiv.org/abs/2407.11353)|null|
+|**2024-07-10**|**Exploring the Boundaries of On-Device Inference: When Tiny Falls Short, Go Hierarchical**|Adarsh Prasad Behera et.al.|[2407.11061](http://arxiv.org/abs/2407.11061)|null|
 |**2024-07-15**|**Multilingual Contrastive Decoding via Language-Agnostic Layers Skipping**|Wenhao Zhu et.al.|[2407.10795](http://arxiv.org/abs/2407.10795)|null|
 |**2024-07-13**|**Towards understanding epoch-wise double descent in two-layer linear neural networks**|Amanda Olmin et.al.|[2407.09845](http://arxiv.org/abs/2407.09845)|null|
 |**2024-07-11**|**Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**|Dina Hussein et.al.|[2407.08715](http://arxiv.org/abs/2407.08715)|null|
