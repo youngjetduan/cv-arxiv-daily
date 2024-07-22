@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507](http://arxiv.org/abs/2407.14507)|**[link](https://github.com/iaar-shanghai/icsfsurvey)**|
+|**2024-07-19**|**On Pre-training of Multimodal Language Models Customized for Chart Understanding**|Wan-Cyuan Fan et.al.|[2407.14506](http://arxiv.org/abs/2407.14506)|null|
+|**2024-07-19**|**PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding**|Chenshu Hou et.al.|[2407.14491](http://arxiv.org/abs/2407.14491)|null|
+|**2024-07-19**|**Evaluating the Reliability of Self-Explanations in Large Language Models**|Korbinian Randl et.al.|[2407.14487](http://arxiv.org/abs/2407.14487)|**[link](https://github.com/k-randl/self-explaining_llms)**|
+|**2024-07-19**|**Contrastive Learning with Counterfactual Explanations for Radiology Report Generation**|Mingjie Li et.al.|[2407.14474](http://arxiv.org/abs/2407.14474)|null|
+|**2024-07-19**|**Check-Eval: A Checklist-based Approach for Evaluating Text Quality**|Jayr Pereira et.al.|[2407.14467](http://arxiv.org/abs/2407.14467)|null|
+|**2024-07-19**|**AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection**|Majedaldein Almahasneh et.al.|[2407.14464](http://arxiv.org/abs/2407.14464)|null|
+|**2024-07-19**|**PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer**|Jiahong Ma et.al.|[2407.14459](http://arxiv.org/abs/2407.14459)|**[link](https://github.com/air029/polyformer)**|
+|**2024-07-19**|**Undermining Mental Proof: How AI Can Make Cooperation Harder by Making Thinking Easier**|Zachary Wojtowicz et.al.|[2407.14452](http://arxiv.org/abs/2407.14452)|null|
+|**2024-07-19**|**From Instruction to Insight: Exploring the Functional and Semantic Roles of Text in Interactive Dashboards**|Nicole Sultanum et.al.|[2407.14451](http://arxiv.org/abs/2407.14451)|null|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
 |**2024-07-18**|**Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2407.13757](http://arxiv.org/abs/2407.13757)|null|
 |**2024-07-18**|**CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications**|Mirza Masfiqur Rahman et.al.|[2407.13742](http://arxiv.org/abs/2407.13742)|null|
@@ -145,6 +155,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Joint or Disjoint: Mixing Training Regimes for Early-Exit Models**|Bartłomiej Krzepkowski et.al.|[2407.14320](http://arxiv.org/abs/2407.14320)|**[link](https://github.com/kamadforge/early-exit-benchmark)**|
+|**2024-07-19**|**BERTer: The Efficient One**|Pradyumna Saligram et.al.|[2407.14039](http://arxiv.org/abs/2407.14039)|null|
 |**2024-07-18**|**On the consistency of rotation curves and spatially integrated HI flux profiles**|Tariq Yasin et.al.|[2407.13754](http://arxiv.org/abs/2407.13754)|null|
 |**2024-07-19**|**Revisiting Adaptive Cellular Recognition Under Domain Shifts: A Contextual Correspondence View**|Jianan Fan et.al.|[2407.12870](http://arxiv.org/abs/2407.12870)|**[link](https://github.com/camwew/Cellular-Recognition_DA_CC)**|
 |**2024-07-17**|**Hallucination Index: An Image Quality Metric for Generative Reconstruction Models**|Matthew Tivnan et.al.|[2407.12780](http://arxiv.org/abs/2407.12780)|null|
