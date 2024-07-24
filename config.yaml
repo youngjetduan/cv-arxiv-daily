@@ -23,6 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLM":
-        filters: ["Large Language Models", "Inference Acceleration", "Attention", "KV Cache", "Parallelism"]
+        filters: ["KV Cache", "pipeline parallelism", "data parallelism", "tensor parallelism", "operator parallelism", "distributed deep learning"]
     "Early Stopping":
         filters: ["Early Stopping", "Early Exit", "Dynamic Inference", "Instance Aware", "Many-In-One"]
