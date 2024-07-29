@@ -178,6 +178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625](http://arxiv.org/abs/2407.18625)|null|
 |**2024-07-25**|**Superior Scoring Rules for Probabilistic Evaluation of Single-Label Multi-Class Classification Tasks**|Rouhollah Ahmadian et.al.|[2407.17697](http://arxiv.org/abs/2407.17697)|null|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-22**|**WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding**|Quan Kong et.al.|[2407.15350](http://arxiv.org/abs/2407.15350)|null|
