@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention**|Lianghong Guo et.al.|[2407.20042](http://arxiv.org/abs/2407.20042)|null|
+|**2024-07-29**|**Inference acceleration for large language models using "stairs" assisted greedy generation**|Domas Grigaliūnas et.al.|[2407.19947](http://arxiv.org/abs/2407.19947)|null|
+|**2024-07-29**|**Rina: Enhancing Ring-AllReduce with In-network Aggregation in Distributed Model Training**|Zixuan Chen et.al.|[2407.19721](http://arxiv.org/abs/2407.19721)|null|
 |**2024-07-25**|**Efficient Inference of Vision Instruction-Following Models with Elastic Cache**|Zuyan Liu et.al.|[2407.18121](http://arxiv.org/abs/2407.18121)|**[link](https://github.com/liuzuyan/elasticcache)**|
 |**2024-07-28**|**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**|Luohe Shi et.al.|[2407.18003](http://arxiv.org/abs/2407.18003)|null|
 |**2024-07-25**|**Efficient LLM Training and Serving with Heterogeneous Context Sharding among Attention Heads**|Xihui Lin et.al.|[2407.17678](http://arxiv.org/abs/2407.17678)|null|
