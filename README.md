@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-25**|**Efficient Inference of Vision Instruction-Following Models with Elastic Cache**|Zuyan Liu et.al.|[2407.18121](http://arxiv.org/abs/2407.18121)|**[link](https://github.com/liuzuyan/elasticcache)**|
-|**2024-07-25**|**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**|Shi Luohe et.al.|[2407.18003](http://arxiv.org/abs/2407.18003)|null|
+|**2024-07-28**|**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**|Luohe Shi et.al.|[2407.18003](http://arxiv.org/abs/2407.18003)|null|
 |**2024-07-25**|**Efficient LLM Training and Serving with Heterogeneous Context Sharding among Attention Heads**|Xihui Lin et.al.|[2407.17678](http://arxiv.org/abs/2407.17678)|null|
 |**2024-07-23**|**A deeper look at depth pruning of LLMs**|Shoaib Ahmed Siddiqui et.al.|[2407.16286](http://arxiv.org/abs/2407.16286)|**[link](https://github.com/shoaibahmed/llm_depth_pruning)**|
 |**2024-07-22**|**RazorAttention: Efficient KV Cache Compression Through Retrieval Heads**|Hanlin Tang et.al.|[2407.15891](http://arxiv.org/abs/2407.15891)|null|
@@ -172,7 +172,7 @@
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Revisión de Métodos de Planificación de Camino de Cobertura para Entornos Agrícolas**|Ismael Ait et.al.|[2407.02449](http://arxiv.org/abs/2407.02449)|null|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -208,7 +208,7 @@
 |**2024-06-21**|**Cost-Effective RF Fingerprinting Based on Hybrid CVNN-RF Classifier with Automated Multi-Dimensional Early-Exit Strategy**|Jiayan Gan et.al.|[2406.14869](http://arxiv.org/abs/2406.14869)|null|
 |**2024-06-20**|**On Layer-wise Representation Similarity: Application for Multi-Exit Models with a Single Classifier**|Jiachen Jiang et.al.|[2406.14479](http://arxiv.org/abs/2406.14479)|null|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors

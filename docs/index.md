@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-25**|**Efficient Inference of Vision Instruction-Following Models with Elastic Cache**|Zuyan Liu et.al.|[2407.18121](http://arxiv.org/abs/2407.18121)|**[link](https://github.com/liuzuyan/elasticcache)**|
-|**2024-07-25**|**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**|Shi Luohe et.al.|[2407.18003](http://arxiv.org/abs/2407.18003)|null|
+|**2024-07-28**|**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**|Luohe Shi et.al.|[2407.18003](http://arxiv.org/abs/2407.18003)|null|
 |**2024-07-25**|**Efficient LLM Training and Serving with Heterogeneous Context Sharding among Attention Heads**|Xihui Lin et.al.|[2407.17678](http://arxiv.org/abs/2407.17678)|null|
 |**2024-07-23**|**A deeper look at depth pruning of LLMs**|Shoaib Ahmed Siddiqui et.al.|[2407.16286](http://arxiv.org/abs/2407.16286)|**[link](https://github.com/shoaibahmed/llm_depth_pruning)**|
 |**2024-07-22**|**RazorAttention: Efficient KV Cache Compression Through Retrieval Heads**|Hanlin Tang et.al.|[2407.15891](http://arxiv.org/abs/2407.15891)|null|
