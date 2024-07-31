@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
+|**2024-07-30**|**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder**|Hyun Rae Jo et.al.|[2407.20485](http://arxiv.org/abs/2407.20485)|null|
+|**2024-07-25**|**An Efficient Inference Framework for Early-exit Large Language Models**|Ruijie Miao et.al.|[2407.20272](http://arxiv.org/abs/2407.20272)|null|
 |**2024-07-29**|**When to Stop? Towards Efficient Code Generation in LLMs with Excess Token Prevention**|Lianghong Guo et.al.|[2407.20042](http://arxiv.org/abs/2407.20042)|null|
 |**2024-07-29**|**Inference acceleration for large language models using "stairs" assisted greedy generation**|Domas Grigaliūnas et.al.|[2407.19947](http://arxiv.org/abs/2407.19947)|null|
 |**2024-07-29**|**Rina: Enhancing Ring-AllReduce with In-network Aggregation in Distributed Model Training**|Zixuan Chen et.al.|[2407.19721](http://arxiv.org/abs/2407.19721)|null|
@@ -175,6 +178,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**An Efficient Inference Framework for Early-exit Large Language Models**|Ruijie Miao et.al.|[2407.20272](http://arxiv.org/abs/2407.20272)|null|
 |**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625](http://arxiv.org/abs/2407.18625)|null|
 |**2024-07-25**|**Superior Scoring Rules for Probabilistic Evaluation of Single-Label Multi-Class Classification Tasks**|Rouhollah Ahmadian et.al.|[2407.17697](http://arxiv.org/abs/2407.17697)|null|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
