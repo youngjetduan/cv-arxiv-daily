@@ -182,6 +182,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Early Stopping Based on Repeated Significance**|Eric Bax et.al.|[2408.00908](http://arxiv.org/abs/2408.00908)|null|
 |**2024-07-31**|**Automated Sperm Morphology Analysis Based on Instance-Aware Part Segmentation**|Wenyuan Chen et.al.|[2408.00112](http://arxiv.org/abs/2408.00112)|null|
 |**2024-07-30**|**Accelerating Large Language Model Inference with Self-Supervised Early Exits**|Florian Valade et.al.|[2407.21082](http://arxiv.org/abs/2407.21082)|null|
 |**2024-07-25**|**An Efficient Inference Framework for Early-exit Large Language Models**|Ruijie Miao et.al.|[2407.20272](http://arxiv.org/abs/2407.20272)|null|
