@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-04**|**Cross-layer Attention Sharing for Large Language Models**|Yongyu Mu et.al.|[2408.01890](http://arxiv.org/abs/2408.01890)|null|
 |**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
 |**2024-07-31**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
 |**2024-07-31**|**EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models**|Mingqiang Huang et.al.|[2407.21325](http://arxiv.org/abs/2407.21325)|null|
@@ -188,6 +189,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-03**|**Advancing Green AI: Efficient and Accurate Lightweight CNNs for Rice Leaf Disease Identification**|Khairun Saddami et.al.|[2408.01752](http://arxiv.org/abs/2408.01752)|null|
 |**2024-08-01**|**Early Stopping Based on Repeated Significance**|Eric Bax et.al.|[2408.00908](http://arxiv.org/abs/2408.00908)|null|
 |**2024-07-31**|**Automated Sperm Morphology Analysis Based on Instance-Aware Part Segmentation**|Wenyuan Chen et.al.|[2408.00112](http://arxiv.org/abs/2408.00112)|null|
 |**2024-07-30**|**Accelerating Large Language Model Inference with Self-Supervised Early Exits**|Florian Valade et.al.|[2407.21082](http://arxiv.org/abs/2407.21082)|null|
