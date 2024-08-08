@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**|Yilong Chen et.al.|[2408.03675](http://arxiv.org/abs/2408.03675)|**[link](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL)**|
 |**2024-08-04**|**Cross-layer Attention Sharing for Large Language Models**|Yongyu Mu et.al.|[2408.01890](http://arxiv.org/abs/2408.01890)|null|
 |**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
 |**2024-07-31**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
@@ -183,6 +184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
 |**2024-08-03**|**Advancing Green AI: Efficient and Accurate Lightweight CNNs for Rice Leaf Disease Identification**|Khairun Saddami et.al.|[2408.01752](http://arxiv.org/abs/2408.01752)|null|
 |**2024-08-01**|**Early Stopping Based on Repeated Significance**|Eric Bax et.al.|[2408.00908](http://arxiv.org/abs/2408.00908)|null|
 |**2024-07-31**|**Automated Sperm Morphology Analysis Based on Instance-Aware Part Segmentation**|Wenyuan Chen et.al.|[2408.00112](http://arxiv.org/abs/2408.00112)|null|
