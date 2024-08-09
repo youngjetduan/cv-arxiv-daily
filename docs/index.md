@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-07**|**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**|Yilong Chen et.al.|[2408.03675](http://arxiv.org/abs/2408.03675)|**[link](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL)**|
+|**2024-08-08**|**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**|Yilong Chen et.al.|[2408.03675](http://arxiv.org/abs/2408.03675)|**[link](https://github.com/PaddlePaddle/Research)**|
 |**2024-08-04**|**Cross-layer Attention Sharing for Large Language Models**|Yongyu Mu et.al.|[2408.01890](http://arxiv.org/abs/2408.01890)|null|
 |**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
 |**2024-07-31**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
