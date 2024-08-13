@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration**|Zhiwen Mo et.al.|[2408.06003](http://arxiv.org/abs/2408.06003)|null|
+|**2024-08-10**|**Eigen Attention: Attention in Low-Rank Space for KV Cache Compression**|Utkarsh Saxena et.al.|[2408.05646](http://arxiv.org/abs/2408.05646)|null|
+|**2024-08-05**|**SLO-aware GPU Frequency Scaling for Energy Efficient LLM Inference Serving**|Andreas Kosmas Kakolyris et.al.|[2408.05235](http://arxiv.org/abs/2408.05235)|null|
 |**2024-08-08**|**Partial Experts Checkpoint: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training**|Weilin Cai et.al.|[2408.04307](http://arxiv.org/abs/2408.04307)|null|
 |**2024-08-07**|**Zero-Delay QKV Compression for Mitigating KV Cache and Network Bottlenecks in LLM Inference**|Zeyu Zhang et.al.|[2408.04107](http://arxiv.org/abs/2408.04107)|null|
 |**2024-08-08**|**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**|Yilong Chen et.al.|[2408.03675](http://arxiv.org/abs/2408.03675)|**[link](https://github.com/PaddlePaddle/Research)**|
@@ -186,6 +189,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors**|Hyungtae Lim et.al.|[2408.06328](http://arxiv.org/abs/2408.06328)|null|
+|**2024-08-12**|**Transfer learning of state-based potential games for process optimization in decentralized manufacturing systems**|Steve Yuwono et.al.|[2408.05992](http://arxiv.org/abs/2408.05992)|null|
+|**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927](http://arxiv.org/abs/2408.05927)|null|
+|**2024-08-08**|**Early-Exit meets Model-Distributed Inference at Edge Networks**|Marco Colocrese et.al.|[2408.05247](http://arxiv.org/abs/2408.05247)|null|
 |**2024-08-09**|**PriPHiT: Privacy-Preserving Hierarchical Training of Deep Neural Networks**|Yamin Sepehri et.al.|[2408.05092](http://arxiv.org/abs/2408.05092)|null|
 |**2024-08-09**|**Early Exit Strategies for Approximate k-NN Search in Dense Retrieval**|Francesco Busolin et.al.|[2408.04981](http://arxiv.org/abs/2408.04981)|null|
 |**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
