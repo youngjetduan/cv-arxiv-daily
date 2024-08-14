@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -22,7 +22,7 @@ layout: default
 |**2024-08-08**|**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**|Yilong Chen et.al.|[2408.03675](http://arxiv.org/abs/2408.03675)|**[link](https://github.com/PaddlePaddle/Research)**|
 |**2024-08-04**|**Cross-layer Attention Sharing for Large Language Models**|Yongyu Mu et.al.|[2408.01890](http://arxiv.org/abs/2408.01890)|null|
 |**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
-|**2024-07-31**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
+|**2024-08-13**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
 |**2024-07-31**|**EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models**|Mingqiang Huang et.al.|[2407.21325](http://arxiv.org/abs/2407.21325)|null|
 |**2024-07-30**|**Palu: Compressing KV-Cache with Low-Rank Projection**|Chi-Chih Chang et.al.|[2407.21118](http://arxiv.org/abs/2407.21118)|null|
 |**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
