@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -196,7 +196,7 @@ layout: default
 |**2024-08-14**|**Rethinking the Key Factors for the Generalization of Remote Sensing Stereo Matching Networks**|Liting Jiang et.al.|[2408.07613](http://arxiv.org/abs/2408.07613)|null|
 |**2024-08-12**|**HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors**|Hyungtae Lim et.al.|[2408.06328](http://arxiv.org/abs/2408.06328)|null|
 |**2024-08-12**|**Transfer learning of state-based potential games for process optimization in decentralized manufacturing systems**|Steve Yuwono et.al.|[2408.05992](http://arxiv.org/abs/2408.05992)|null|
-|**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927](http://arxiv.org/abs/2408.05927)|null|
+|**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927](http://arxiv.org/abs/2408.05927)|**[link](https://github.com/taehong-moon/ee-diffusion)**|
 |**2024-08-08**|**Early-Exit meets Model-Distributed Inference at Edge Networks**|Marco Colocrese et.al.|[2408.05247](http://arxiv.org/abs/2408.05247)|null|
 |**2024-08-09**|**PriPHiT: Privacy-Preserving Hierarchical Training of Deep Neural Networks**|Yamin Sepehri et.al.|[2408.05092](http://arxiv.org/abs/2408.05092)|null|
 |**2024-08-09**|**Early Exit Strategies for Approximate k-NN Search in Dense Retrieval**|Francesco Busolin et.al.|[2408.04981](http://arxiv.org/abs/2408.04981)|null|

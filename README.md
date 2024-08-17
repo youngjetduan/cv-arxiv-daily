@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -192,7 +192,7 @@
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Revisión de Métodos de Planificación de Camino de Cobertura para Entornos Agrícolas**|Ismael Ait et.al.|[2407.02449](http://arxiv.org/abs/2407.02449)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -202,7 +202,7 @@
 |**2024-08-14**|**Rethinking the Key Factors for the Generalization of Remote Sensing Stereo Matching Networks**|Liting Jiang et.al.|[2408.07613](http://arxiv.org/abs/2408.07613)|null|
 |**2024-08-12**|**HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors**|Hyungtae Lim et.al.|[2408.06328](http://arxiv.org/abs/2408.06328)|null|
 |**2024-08-12**|**Transfer learning of state-based potential games for process optimization in decentralized manufacturing systems**|Steve Yuwono et.al.|[2408.05992](http://arxiv.org/abs/2408.05992)|null|
-|**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927](http://arxiv.org/abs/2408.05927)|null|
+|**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927](http://arxiv.org/abs/2408.05927)|**[link](https://github.com/taehong-moon/ee-diffusion)**|
 |**2024-08-08**|**Early-Exit meets Model-Distributed Inference at Edge Networks**|Marco Colocrese et.al.|[2408.05247](http://arxiv.org/abs/2408.05247)|null|
 |**2024-08-09**|**PriPHiT: Privacy-Preserving Hierarchical Training of Deep Neural Networks**|Yamin Sepehri et.al.|[2408.05092](http://arxiv.org/abs/2408.05092)|null|
 |**2024-08-09**|**Early Exit Strategies for Approximate k-NN Search in Dense Retrieval**|Francesco Busolin et.al.|[2408.04981](http://arxiv.org/abs/2408.04981)|null|
@@ -242,7 +242,7 @@
 |**2024-06-21**|**Cost-Effective RF Fingerprinting Based on Hybrid CVNN-RF Classifier with Automated Multi-Dimensional Early-Exit Strategy**|Jiayan Gan et.al.|[2406.14869](http://arxiv.org/abs/2406.14869)|null|
 |**2024-06-20**|**On Layer-wise Representation Similarity: Application for Multi-Exit Models with a Single Classifier**|Jiachen Jiang et.al.|[2406.14479](http://arxiv.org/abs/2406.14479)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
