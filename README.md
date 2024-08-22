@@ -206,6 +206,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
+|**2024-08-21**|**EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models**|Chongwen Zhao et.al.|[2408.11308](http://arxiv.org/abs/2408.11308)|null|
 |**2024-08-20**|**Inferring Underwater Topography with FINN**|Coşku Can Horuz et.al.|[2408.10649](http://arxiv.org/abs/2408.10649)|null|
 |**2024-08-15**|**An Efficient Continuous Control Perspective for Reinforcement-Learning-based Sequential Recommendation**|Jun Wang et.al.|[2408.08047](http://arxiv.org/abs/2408.08047)|null|
 |**2024-08-14**|**Rethinking the Key Factors for the Generalization of Remote Sensing Stereo Matching Networks**|Liting Jiang et.al.|[2408.07613](http://arxiv.org/abs/2408.07613)|null|
