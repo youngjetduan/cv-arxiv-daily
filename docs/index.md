@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Model Parallel Training and Transfer Learning for Convolutional Neural Networks by Domain Decomposition**|Axel Klawonn et.al.|[2408.14442](http://arxiv.org/abs/2408.14442)|null|
+|**2024-08-23**|**Network-Offloaded Bandwidth-Optimal Broadcast and Allgather for Distributed AI**|Mikhail Khalilov et.al.|[2408.13356](http://arxiv.org/abs/2408.13356)|null|
 |**2024-08-22**|**LCM-SVC: Latent Diffusion Model Based Singing Voice Conversion with Inference Acceleration via Latent Consistency Distillation**|Shihao Chen et.al.|[2408.12354](http://arxiv.org/abs/2408.12354)|null|
 |**2024-08-23**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|**[link](https://github.com/infini-ai-lab/magicdec)**|
 |**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|null|
@@ -201,6 +203,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning**|Joey Hejna et.al.|[2408.14037](http://arxiv.org/abs/2408.14037)|**[link](https://github.com/jhejna/remix)**|
+|**2024-08-24**|**Make Every Penny Count: Difficulty-Adaptive Self-Consistency for Cost-Efficient Reasoning**|Xinglin Wang et.al.|[2408.13457](http://arxiv.org/abs/2408.13457)|null|
+|**2024-08-24**|**Face Clustering via Early Stopping and Edge Recall**|Junjie Liu et.al.|[2408.13431](http://arxiv.org/abs/2408.13431)|null|
 |**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
 |**2024-08-21**|**EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models**|Chongwen Zhao et.al.|[2408.11308](http://arxiv.org/abs/2408.11308)|null|
 |**2024-08-20**|**Inferring Underwater Topography with FINN**|Coşku Can Horuz et.al.|[2408.10649](http://arxiv.org/abs/2408.10649)|null|
