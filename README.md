@@ -27,7 +27,7 @@
 |**2024-08-21**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
 |**2024-08-17**|**RepControlNet: ControlNet Reparameterization**|Zhaoli Deng et.al.|[2408.09240](http://arxiv.org/abs/2408.09240)|null|
 |**2024-08-17**|**Atlas: Hierarchical Partitioning for Quantum Circuit Simulation on GPUs (Extended Version)**|Mingkuan Xu et.al.|[2408.09055](http://arxiv.org/abs/2408.09055)|null|
-|**2024-08-23**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|null|
+|**2024-08-23**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|**[link](https://github.com/bytedance/abq-llm)**|
 |**2024-08-16**|**Context-Aware Assistant Selection for Improved Inference Acceleration with Large Language Models**|Jerry Huang et.al.|[2408.08470](http://arxiv.org/abs/2408.08470)|null|
 |**2024-08-15**|**Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices**|Shengyuan Ye et.al.|[2408.08015](http://arxiv.org/abs/2408.08015)|null|
 |**2024-08-17**|**Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference**|Rohan Baskar Prabhakar et.al.|[2408.07802](http://arxiv.org/abs/2408.07802)|null|
