@@ -115,7 +115,7 @@
 |**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972](http://arxiv.org/abs/2407.10972)|**[link](https://github.com/vgbench/VGBench)**|
 |**2024-07-15**|**Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**|Hongyu Wang et.al.|[2407.10969](http://arxiv.org/abs/2407.10969)|null|
 |**2024-07-15**|**Induction of non-Fermi liquids by critical cavity photons at the onset of superradiance**|Ipsita Mandal et.al.|[2407.10963](http://arxiv.org/abs/2407.10963)|null|
-|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
+|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|**[link](https://github.com/hanguo97/flute)**|
 |**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958](http://arxiv.org/abs/2407.10958)|null|
 |**2024-07-15**|**MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models**|Chengguang Gan et.al.|[2407.10953](http://arxiv.org/abs/2407.10953)|null|
 |**2024-07-15**|**The infamous 95 GeV $\rm b \bar b$ excess at LEP: Two b or not two b?**|Patrick Janot et.al.|[2407.10948](http://arxiv.org/abs/2407.10948)|null|
@@ -212,7 +212,7 @@
 |**2024-08-24**|**Inferring the shape of a solid inside a draining tank from its liquid level dynamics**|Gbenga Fabusola et.al.|[2408.14503](http://arxiv.org/abs/2408.14503)|null|
 |**2024-08-26**|**Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning**|Joey Hejna et.al.|[2408.14037](http://arxiv.org/abs/2408.14037)|**[link](https://github.com/jhejna/remix)**|
 |**2024-08-24**|**Make Every Penny Count: Difficulty-Adaptive Self-Consistency for Cost-Efficient Reasoning**|Xinglin Wang et.al.|[2408.13457](http://arxiv.org/abs/2408.13457)|null|
-|**2024-08-24**|**Face Clustering via Early Stopping and Edge Recall**|Junjie Liu et.al.|[2408.13431](http://arxiv.org/abs/2408.13431)|null|
+|**2024-08-24**|**Face Clustering via Early Stopping and Edge Recall**|Junjie Liu et.al.|[2408.13431](http://arxiv.org/abs/2408.13431)|**[link](https://github.com/jumptoliujj/fc-eser)**|
 |**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
 |**2024-08-21**|**EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models**|Chongwen Zhao et.al.|[2408.11308](http://arxiv.org/abs/2408.11308)|null|
 |**2024-08-20**|**Inferring Underwater Topography with FINN**|Coşku Can Horuz et.al.|[2408.10649](http://arxiv.org/abs/2408.10649)|null|
