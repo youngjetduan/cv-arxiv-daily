@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
+|**2024-09-11**|**FreeRide: Harvesting Bubbles in Pipeline Parallelism**|Jiashu Zhang et.al.|[2409.06941](http://arxiv.org/abs/2409.06941)|null|
 |**2024-09-09**|**DFabric: Scaling Out Data Parallel Applications with CXL-Ethernet Hybrid Interconnects**|Xu Zhang et.al.|[2409.05404](http://arxiv.org/abs/2409.05404)|null|
 |**2024-09-08**|**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference**|Xiurui Pan et.al.|[2409.04992](http://arxiv.org/abs/2409.04992)|null|
 |**2024-09-04**|**Accelerating Large Language Model Training with Hybrid GPU-based Compression**|Lang Xu et.al.|[2409.02423](http://arxiv.org/abs/2409.02423)|null|
@@ -209,6 +211,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge**|Han Wang et.al.|[2409.07394](http://arxiv.org/abs/2409.07394)|**[link](https://github.com/hannight/adacad)**|
+|**2024-09-11**|**From optimal score matching to optimal sampling**|Zehao Dou et.al.|[2409.07032](http://arxiv.org/abs/2409.07032)|null|
+|**2024-09-10**|**Noisy Early Stopping for Noisy Labels**|William Toner et.al.|[2409.06830](http://arxiv.org/abs/2409.06830)|null|
+|**2024-09-10**|**Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**|Mu Cai et.al.|[2409.06827](http://arxiv.org/abs/2409.06827)|**[link](https://github.com/qcraftai/cross-modal-ssl)**|
 |**2024-08-26**|**Optimizing STAR Aligner for High Throughput Computing in the Cloud**|Piotr Kica et.al.|[2409.05886](http://arxiv.org/abs/2409.05886)|null|
 |**2024-09-09**|**Early-exit Convolutional Neural Networks**|Edanur Demir et.al.|[2409.05336](http://arxiv.org/abs/2409.05336)|null|
 |**2024-09-08**|**Attention-Based Efficient Breath Sound Removal in Studio Audio Recordings**|Nidula Elgiriyewithana et.al.|[2409.04949](http://arxiv.org/abs/2409.04949)|null|
