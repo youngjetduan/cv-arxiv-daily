@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-14**|**A Dynamic Weighting Strategy to Mitigate Worker Node Failure in Distributed Deep Learning**|Yuesheng Xu et.al.|[2409.09242](http://arxiv.org/abs/2409.09242)|null|
+|**2024-09-11**|**Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU**|Zhenyu Ning et.al.|[2409.09086](http://arxiv.org/abs/2409.09086)|null|
 |**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
 |**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
 |**2024-09-11**|**FreeRide: Harvesting Bubbles in Pipeline Parallelism**|Jiashu Zhang et.al.|[2409.06941](http://arxiv.org/abs/2409.06941)|null|
@@ -218,6 +220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-14**|**Group Sequential Testing of a Treatment Effect Using a Surrogate Marker**|Layla Parast et.al.|[2409.09440](http://arxiv.org/abs/2409.09440)|null|
 |**2024-09-13**|**Exploring System-Heterogeneous Federated Learning with Dynamic Model Selection**|Dixi Yao et.al.|[2409.08858](http://arxiv.org/abs/2409.08858)|null|
 |**2024-09-11**|**AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge**|Han Wang et.al.|[2409.07394](http://arxiv.org/abs/2409.07394)|**[link](https://github.com/hannight/adacad)**|
 |**2024-09-11**|**From optimal score matching to optimal sampling**|Zehao Dou et.al.|[2409.07032](http://arxiv.org/abs/2409.07032)|null|
@@ -226,7 +229,7 @@
 |**2024-08-26**|**Optimizing STAR Aligner for High Throughput Computing in the Cloud**|Piotr Kica et.al.|[2409.05886](http://arxiv.org/abs/2409.05886)|null|
 |**2024-09-09**|**Early-exit Convolutional Neural Networks**|Edanur Demir et.al.|[2409.05336](http://arxiv.org/abs/2409.05336)|**[link](https://github.com/eksuas/eenets.pytorch)**|
 |**2024-09-08**|**Attention-Based Efficient Breath Sound Removal in Studio Audio Recordings**|Nidula Elgiriyewithana et.al.|[2409.04949](http://arxiv.org/abs/2409.04949)|null|
-|**2024-09-01**|**RTop-K: Ultra-Fast Row-Wise Top-K Algorithm and GPU Implementation for Neural Networks**|Xi Xie et.al.|[2409.00822](http://arxiv.org/abs/2409.00822)|null|
+|**2024-09-16**|**RTop-K: Ultra-Fast Row-Wise Top-K Algorithm and GPU Implementation for Neural Networks**|Xi Xie et.al.|[2409.00822](http://arxiv.org/abs/2409.00822)|null|
 |**2024-08-30**|**Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**|Guangya Wan et.al.|[2408.17017](http://arxiv.org/abs/2408.17017)|null|
 |**2024-08-24**|**Inferring the shape of a solid inside a draining tank from its liquid level dynamics**|Gbenga Fabusola et.al.|[2408.14503](http://arxiv.org/abs/2408.14503)|null|
 |**2024-08-26**|**Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning**|Joey Hejna et.al.|[2408.14037](http://arxiv.org/abs/2408.14037)|**[link](https://github.com/jhejna/remix)**|
