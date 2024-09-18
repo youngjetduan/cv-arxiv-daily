@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**ISO: Overlap of Computation and Communication within Seqenence For LLM Inference**|Bin Xiao et.al.|[2409.11155](http://arxiv.org/abs/2409.11155)|null|
+|**2024-09-17**|**KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models**|Bo Lv et.al.|[2409.11057](http://arxiv.org/abs/2409.11057)|null|
+|**2024-09-16**|**CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**|Luning Wang et.al.|[2409.10593](http://arxiv.org/abs/2409.10593)|null|
 |**2024-09-14**|**A Dynamic Weighting Strategy to Mitigate Worker Node Failure in Distributed Deep Learning**|Yuesheng Xu et.al.|[2409.09242](http://arxiv.org/abs/2409.09242)|null|
 |**2024-09-11**|**Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU**|Zhenyu Ning et.al.|[2409.09086](http://arxiv.org/abs/2409.09086)|null|
 |**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
@@ -214,6 +217,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403](http://arxiv.org/abs/2409.11403)|null|
+|**2024-09-16**|**Improving Multi-candidate Speculative Decoding**|Xiaofan Lu et.al.|[2409.10644](http://arxiv.org/abs/2409.10644)|null|
 |**2024-09-14**|**Group Sequential Testing of a Treatment Effect Using a Surrogate Marker**|Layla Parast et.al.|[2409.09440](http://arxiv.org/abs/2409.09440)|null|
 |**2024-09-13**|**Exploring System-Heterogeneous Federated Learning with Dynamic Model Selection**|Dixi Yao et.al.|[2409.08858](http://arxiv.org/abs/2409.08858)|null|
 |**2024-09-11**|**AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge**|Han Wang et.al.|[2409.07394](http://arxiv.org/abs/2409.07394)|**[link](https://github.com/hannight/adacad)**|
