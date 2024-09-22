@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.21
+## Updated on 2024.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2024-09-04**|**ISO: Overlap of Computation and Communication within Seqenence For LLM Inference**|Bin Xiao et.al.|[2409.11155](http://arxiv.org/abs/2409.11155)|null|
 |**2024-09-17**|**KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models**|Bo Lv et.al.|[2409.11057](http://arxiv.org/abs/2409.11057)|null|
-|**2024-09-16**|**CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**|Luning Wang et.al.|[2409.10593](http://arxiv.org/abs/2409.10593)|null|
+|**2024-09-16**|**CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**|Luning Wang et.al.|[2409.10593](http://arxiv.org/abs/2409.10593)|**[link](https://github.com/wln20/CSKV)**|
 |**2024-09-14**|**A Dynamic Weighting Strategy to Mitigate Worker Node Failure in Distributed Deep Learning**|Yuesheng Xu et.al.|[2409.09242](http://arxiv.org/abs/2409.09242)|null|
 |**2024-09-11**|**Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU**|Zhenyu Ning et.al.|[2409.09086](http://arxiv.org/abs/2409.09086)|null|
 |**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
@@ -217,7 +217,7 @@
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Revisión de Métodos de Planificación de Camino de Cobertura para Entornos Agrícolas**|Ismael Ait et.al.|[2407.02449](http://arxiv.org/abs/2407.02449)|null|
 
-<p align=right>(<a href=#updated-on-20240921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -288,7 +288,7 @@
 |**2024-06-21**|**Cost-Effective RF Fingerprinting Based on Hybrid CVNN-RF Classifier with Automated Multi-Dimensional Early-Exit Strategy**|Jiayan Gan et.al.|[2406.14869](http://arxiv.org/abs/2406.14869)|null|
 |**2024-06-20**|**On Layer-wise Representation Similarity: Application for Multi-Exit Models with a Single Classifier**|Jiachen Jiang et.al.|[2406.14479](http://arxiv.org/abs/2406.14479)|null|
 
-<p align=right>(<a href=#updated-on-20240921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
