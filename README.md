@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization**|Yifan Tan et.al.|[2409.16546](http://arxiv.org/abs/2409.16546)|null|
+|**2024-09-25**|**A QoE-Aware Split Inference Accelerating Algorithm for NOMA-based Edge Intelligence**|Xin Yuan et.al.|[2409.16537](http://arxiv.org/abs/2409.16537)|null|
 |**2024-09-23**|**CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
 |**2024-09-23**|**Inference-Friendly Models With MixAttention**|Shashank Rajput et.al.|[2409.15012](http://arxiv.org/abs/2409.15012)|null|
 |**2024-09-23**|**Mutation-Based Deep Learning Framework Testing Method in JavaScript Environment**|Yinglong Zou et.al.|[2409.14968](http://arxiv.org/abs/2409.14968)|null|
@@ -232,7 +234,7 @@
 |**2024-09-24**|**Reinforcement Leaning for Infinite-Dimensional Systems**|Wei Zhang et.al.|[2409.15737](http://arxiv.org/abs/2409.15737)|null|
 |**2024-09-21**|**Normalized Narrow Jump To Conclusions: Normalized Narrow Shortcuts for Parameter Efficient Early Exit Transformer Prediction**|Amrit Diggavi Seshadri et.al.|[2409.14091](http://arxiv.org/abs/2409.14091)|null|
 |**2024-09-21**|**Multiple-Exit Tuning: Towards Inference-Efficient Adaptation for Vision Transformer**|Zheng Liu et.al.|[2409.13999](http://arxiv.org/abs/2409.13999)|null|
-|**2024-09-18**|**Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments**|Gang Chen et.al.|[2409.11975](http://arxiv.org/abs/2409.11975)|null|
+|**2024-09-18**|**Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments**|Gang Chen et.al.|[2409.11975](http://arxiv.org/abs/2409.11975)|**[link](https://github.com/tud-amr/semantic_dsp_map)**|
 |**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403](http://arxiv.org/abs/2409.11403)|null|
 |**2024-09-16**|**Improving Multi-candidate Speculative Decoding**|Xiaofan Lu et.al.|[2409.10644](http://arxiv.org/abs/2409.10644)|**[link](https://github.com/JackZeng0208/DynaSD)**|
 |**2024-09-14**|**Group Sequential Testing of a Treatment Effect Using a Surrogate Marker**|Layla Parast et.al.|[2409.09440](http://arxiv.org/abs/2409.09440)|**[link](https://github.com/laylaparast/SurrogateSeq)**|
