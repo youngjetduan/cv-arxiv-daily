@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores**|Shaobo Ma et.al.|[2409.17870](http://arxiv.org/abs/2409.17870)|null|
+|**2024-09-25**|**Search for Efficient Large Language Models**|Xuan Shen et.al.|[2409.17372](http://arxiv.org/abs/2409.17372)|null|
+|**2024-09-25**|**Mnemosyne: Parallelization Strategies for Efficiently Serving Multi-Million Context Length LLM Inference Requests Without Approximations**|Amey Agrawal et.al.|[2409.17264](http://arxiv.org/abs/2409.17264)|null|
 |**2024-09-25**|**AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization**|Yifan Tan et.al.|[2409.16546](http://arxiv.org/abs/2409.16546)|null|
 |**2024-09-25**|**A QoE-Aware Split Inference Accelerating Algorithm for NOMA-based Edge Intelligence**|Xin Yuan et.al.|[2409.16537](http://arxiv.org/abs/2409.16537)|null|
 |**2024-09-23**|**CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
@@ -225,7 +228,7 @@
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Revisión de Métodos de Planificación de Camino de Cobertura para Entornos Agrícolas**|Ismael Ait et.al.|[2407.02449](http://arxiv.org/abs/2407.02449)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -299,7 +302,7 @@
 |**2024-06-21**|**Cost-Effective RF Fingerprinting Based on Hybrid CVNN-RF Classifier with Automated Multi-Dimensional Early-Exit Strategy**|Jiayan Gan et.al.|[2406.14869](http://arxiv.org/abs/2406.14869)|null|
 |**2024-06-20**|**On Layer-wise Representation Similarity: Application for Multi-Exit Models with a Single Classifier**|Jiachen Jiang et.al.|[2406.14479](http://arxiv.org/abs/2406.14479)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
