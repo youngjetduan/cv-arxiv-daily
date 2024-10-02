@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-30**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002](http://arxiv.org/abs/2409.20002)|null|
-|**2024-09-27**|**Toward Greener Matrix Operations by Lossless Compressed Formats**|Francesco Tosoni et.al.|[2409.18620](http://arxiv.org/abs/2409.18620)|null|
+|**2024-09-27**|**Toward Greener Matrix Operations by Lossless Compressed Formats**|Francesco Tosoni et.al.|[2409.18620](http://arxiv.org/abs/2409.18620)|**[link](https://gitlab.com/ftosoni/green-lossless-spmv)**|
 |**2024-09-26**|**Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores**|Shaobo Ma et.al.|[2409.17870](http://arxiv.org/abs/2409.17870)|null|
 |**2024-09-25**|**Search for Efficient Large Language Models**|Xuan Shen et.al.|[2409.17372](http://arxiv.org/abs/2409.17372)|null|
 |**2024-09-25**|**Mnemosyne: Parallelization Strategies for Efficiently Serving Multi-Million Context Length LLM Inference Requests Without Approximations**|Amey Agrawal et.al.|[2409.17264](http://arxiv.org/abs/2409.17264)|null|
