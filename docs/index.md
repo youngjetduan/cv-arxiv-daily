@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -242,7 +242,7 @@ layout: default
 |**2024-09-30**|**Inference of water waves surface elevation from horizontal velocity components using physics informed neural networks (PINN)**|Omar Sallam et.al.|[2409.19851](http://arxiv.org/abs/2409.19851)|null|
 |**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901](http://arxiv.org/abs/2409.18901)|**[link](https://github.com/chenshihfang/GOT)**|
 |**2024-09-24**|**Reinforcement Leaning for Infinite-Dimensional Systems**|Wei Zhang et.al.|[2409.15737](http://arxiv.org/abs/2409.15737)|null|
-|**2024-09-21**|**Normalized Narrow Jump To Conclusions: Normalized Narrow Shortcuts for Parameter Efficient Early Exit Transformer Prediction**|Amrit Diggavi Seshadri et.al.|[2409.14091](http://arxiv.org/abs/2409.14091)|null|
+|**2024-10-03**|**Normalized Narrow Jump To Conclusions: Normalized Narrow Shortcuts for Parameter Efficient Early Exit Transformer Prediction**|Amrit Diggavi Seshadri et.al.|[2409.14091](http://arxiv.org/abs/2409.14091)|null|
 |**2024-09-21**|**Multiple-Exit Tuning: Towards Inference-Efficient Adaptation for Vision Transformer**|Zheng Liu et.al.|[2409.13999](http://arxiv.org/abs/2409.13999)|null|
 |**2024-09-18**|**Particle-based Instance-aware Semantic Occupancy Mapping in Dynamic Environments**|Gang Chen et.al.|[2409.11975](http://arxiv.org/abs/2409.11975)|**[link](https://github.com/tud-amr/semantic_dsp_map)**|
 |**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403](http://arxiv.org/abs/2409.11403)|null|
