@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**EinDecomp: Decomposition of Declaratively-Specified Machine Learning and Numerical Computations for Parallel Execution**|Daniel Bourgeois et.al.|[2410.02682](http://arxiv.org/abs/2410.02682)|null|
+|**2024-10-03**|**SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2410.02367](http://arxiv.org/abs/2410.02367)|**[link](https://github.com/thu-ml/SageAttention)**|
 |**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
 |**2024-10-02**|**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**|Minsoo Kim et.al.|[2410.01518](http://arxiv.org/abs/2410.01518)|null|
 |**2024-10-02**|**A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts**|Suyu Ge et.al.|[2410.01485](http://arxiv.org/abs/2410.01485)|null|
@@ -243,6 +245,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Convergence of Score-Based Discrete Diffusion Models: A Discrete-Time Analysis**|Zikun Zhang et.al.|[2410.02321](http://arxiv.org/abs/2410.02321)|null|
+|**2024-10-03**|**Global dynamical structures from infinitesimal data**|Benjamin McInroe et.al.|[2410.02111](http://arxiv.org/abs/2410.02111)|null|
+|**2024-10-02**|**CHASE-SQL: Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL**|Mohammadreza Pourreza et.al.|[2410.01943](http://arxiv.org/abs/2410.01943)|null|
 |**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
 |**2024-10-01**|**Timber! Poisoning Decision Trees**|Stefano Calzavara et.al.|[2410.00862](http://arxiv.org/abs/2410.00862)|null|
 |**2024-09-30**|**Inference of water waves surface elevation from horizontal velocity components using physics informed neural networks (PINN)**|Omar Sallam et.al.|[2409.19851](http://arxiv.org/abs/2409.19851)|null|
