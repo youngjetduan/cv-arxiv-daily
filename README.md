@@ -37,7 +37,7 @@
 |**2024-09-23**|**CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
 |**2024-09-23**|**Inference-Friendly Models With MixAttention**|Shashank Rajput et.al.|[2409.15012](http://arxiv.org/abs/2409.15012)|null|
 |**2024-09-23**|**Mutation-Based Deep Learning Framework Testing Method in JavaScript Environment**|Yinglong Zou et.al.|[2409.14968](http://arxiv.org/abs/2409.14968)|null|
-|**2024-09-16**|**Do Large Language Models Need a Content Delivery Network?**|Yihua Cheng et.al.|[2409.13761](http://arxiv.org/abs/2409.13761)|null|
+|**2024-09-16**|**Do Large Language Models Need a Content Delivery Network?**|Yihua Cheng et.al.|[2409.13761](http://arxiv.org/abs/2409.13761)|**[link](https://github.com/lmcache/lmcache)**|
 |**2024-09-20**|**Time Distributed Deep Learning models for Purely Exogenous Forecasting. Application to Water Table Depth Prediction using Weather Image Time Series**|Matteo Salis et.al.|[2409.13284](http://arxiv.org/abs/2409.13284)|null|
 |**2024-09-23**|**CritiPrefill: A Segment-wise Criticality-based Approach for Prefilling Acceleration in LLMs**|Junlin Lv et.al.|[2409.12490](http://arxiv.org/abs/2409.12490)|**[link](https://github.com/66ring/critiprefill)**|
 |**2024-09-04**|**ISO: Overlap of Computation and Communication within Seqenence For LLM Inference**|Bin Xiao et.al.|[2409.11155](http://arxiv.org/abs/2409.11155)|null|
@@ -91,7 +91,7 @@
 |**2024-07-23**|**A deeper look at depth pruning of LLMs**|Shoaib Ahmed Siddiqui et.al.|[2407.16286](http://arxiv.org/abs/2407.16286)|**[link](https://github.com/shoaibahmed/llm_depth_pruning)**|
 |**2024-07-22**|**RazorAttention: Efficient KV Cache Compression Through Retrieval Heads**|Hanlin Tang et.al.|[2407.15891](http://arxiv.org/abs/2407.15891)|null|
 |**2024-07-22**|**AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**|Junyu Xie et.al.|[2407.15850](http://arxiv.org/abs/2407.15850)|**[link](https://github.com/Jyxarthur/AutoAD-Zero)**|
-|**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847](http://arxiv.org/abs/2407.15847)|null|
+|**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847](http://arxiv.org/abs/2407.15847)|**[link](https://github.com/pasquini-dario/LLMmap)**|
 |**2024-07-22**|**CarFormer: Self-Driving with Learned Object-Centric Representations**|Shadi Hamdan et.al.|[2407.15843](http://arxiv.org/abs/2407.15843)|null|
 |**2024-07-22**|**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**|Mingze Xu et.al.|[2407.15841](http://arxiv.org/abs/2407.15841)|**[link](https://github.com/apple/ml-slowfast-llava)**|
 |**2024-07-22**|**MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity**|Yangzhou Liu et.al.|[2407.15838](http://arxiv.org/abs/2407.15838)|**[link](https://github.com/yuecao0119/mminstruct)**|
@@ -221,7 +221,7 @@
 |**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310](http://arxiv.org/abs/2407.03310)|null|
 |**2024-07-03**|**Eyes on the Game: Deciphering Implicit Human Signals to Infer Human Proficiency, Trust, and Intent**|Nikhil Hulle et.al.|[2407.03298](http://arxiv.org/abs/2407.03298)|null|
 |**2024-07-03**|**Large Language Models for JSON Schema Discovery**|Michael J. Mior et.al.|[2407.03286](http://arxiv.org/abs/2407.03286)|null|
-|**2024-07-03**|**LLM Internal States Reveal Hallucination Risk Faced With a Query**|Ziwei Ji et.al.|[2407.03282](http://arxiv.org/abs/2407.03282)|null|
+|**2024-07-03**|**LLM Internal States Reveal Hallucination Risk Faced With a Query**|Ziwei Ji et.al.|[2407.03282](http://arxiv.org/abs/2407.03282)|**[link](https://github.com/ziweiji/Internal_States_Reveal_Hallucination)**|
 |**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
 |**2024-07-03**|**Nesterov's Accelerated Jacobi-Type Methods for Large-scale Symmetric Positive Semidefinite Linear Systems**|Ling Liang et.al.|[2407.03272](http://arxiv.org/abs/2407.03272)|null|
 |**2024-07-03**|**STF: Sentence Transformer Fine-Tuning For Topic Categorization With Limited Data**|Kheir Eddine Daouadi et.al.|[2407.03253](http://arxiv.org/abs/2407.03253)|null|
