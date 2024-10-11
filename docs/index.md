@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -23,7 +23,7 @@ layout: default
 |**2024-10-04**|**SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation**|Aurick Qiao et.al.|[2410.03960](http://arxiv.org/abs/2410.03960)|null|
 |**2024-10-04**|**LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy**|Rongzhi Zhang et.al.|[2410.03111](http://arxiv.org/abs/2410.03111)|null|
 |**2024-10-04**|**UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference**|Jing Xiong et.al.|[2410.03090](http://arxiv.org/abs/2410.03090)|null|
-|**2024-10-04**|**LEGO: QEC Decoding System Architecture for Dynamic Circuits**|Yue Wu et.al.|[2410.03073](http://arxiv.org/abs/2410.03073)|null|
+|**2024-10-09**|**LEGO: QEC Decoding System Architecture for Dynamic Circuits**|Yue Wu et.al.|[2410.03073](http://arxiv.org/abs/2410.03073)|null|
 |**2024-10-04**|**Compute Or Load KV Cache? Why Not Both?**|Shuowei Jin et.al.|[2410.03065](http://arxiv.org/abs/2410.03065)|null|
 |**2024-10-03**|**EinDecomp: Decomposition of Declaratively-Specified Machine Learning and Numerical Computations for Parallel Execution**|Daniel Bourgeois et.al.|[2410.02682](http://arxiv.org/abs/2410.02682)|null|
 |**2024-10-03**|**SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2410.02367](http://arxiv.org/abs/2410.02367)|**[link](https://github.com/thu-ml/SageAttention)**|
