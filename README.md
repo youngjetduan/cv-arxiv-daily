@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads**|Guangxuan Xiao et.al.|[2410.10819](http://arxiv.org/abs/2410.10819)|**[link](https://github.com/mit-han-lab/duo-attention)**|
+|**2024-10-14**|**When Attention Sink Emerges in Language Models: An Empirical View**|Xiangming Gu et.al.|[2410.10781](http://arxiv.org/abs/2410.10781)|**[link](https://github.com/sail-sg/attention-sink)**|
+|**2024-10-14**|**Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling**|Wenze Liu et.al.|[2410.10511](http://arxiv.org/abs/2410.10511)|**[link](https://github.com/poppuppy/sar)**|
+|**2024-10-14**|**EasyRAG: Efficient Retrieval-Augmented Generation Framework for Network Automated Operations**|Zhangchi Feng et.al.|[2410.10315](http://arxiv.org/abs/2410.10315)|**[link](https://github.com/buaadreamer/easyrag)**|
 |**2024-10-11**|**ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression**|Yefei He et.al.|[2410.08584](http://arxiv.org/abs/2410.08584)|null|
 |**2024-10-10**|**KV Prediction for Improved Time to First Token**|Maxwell Horton et.al.|[2410.08391](http://arxiv.org/abs/2410.08391)|**[link](https://github.com/apple/corenet)**|
 |**2024-10-10**|**TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text**|Songshuo Lu et.al.|[2410.07590](http://arxiv.org/abs/2410.07590)|**[link](https://github.com/MooreThreads/TurboRAG)**|
@@ -259,6 +263,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Focused ReAct: Improving ReAct through Reiterate and Early Stop**|Shuoqiu Li et.al.|[2410.10779](http://arxiv.org/abs/2410.10779)|null|
+|**2024-10-14**|**big.LITTLE Vision Transformer for Efficient Visual Recognition**|He Guo et.al.|[2410.10267](http://arxiv.org/abs/2410.10267)|null|
+|**2024-10-12**|**DuoDiff: Accelerating Diffusion Models with a Dual-Backbone Approach**|Daniel Gallo Fernández et.al.|[2410.09633](http://arxiv.org/abs/2410.09633)|**[link](https://github.com/razvanmatisan/duodiff)**|
+|**2024-10-11**|**Scaling Gaussian Processes for Learning Curve Prediction via Latent Kronecker Structure**|Jihao Andreas Lin et.al.|[2410.09239](http://arxiv.org/abs/2410.09239)|null|
 |**2024-10-08**|**Benchmarking of a new data splitting method on volcanic eruption data**|Simona Reale et.al.|[2410.06306](http://arxiv.org/abs/2410.06306)|null|
 |**2024-10-08**|**MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More**|Wei Huang et.al.|[2410.06270](http://arxiv.org/abs/2410.06270)|**[link](https://github.com/aaronhuang-778/mc-moe)**|
 |**2024-10-08**|**Mini-Batch Kernel $k$ -means**|Ben Jourdan et.al.|[2410.05902](http://arxiv.org/abs/2410.05902)|null|
