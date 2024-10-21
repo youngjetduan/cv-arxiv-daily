@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference**|You Wu et.al.|[2410.14442](http://arxiv.org/abs/2410.14442)|**[link](https://github.com/whyNLP/LCKV)**|
+|**2024-10-18**|**TiMePReSt: Time and Memory Efficient Pipeline Parallel DNN Training with Removed Staleness**|Ankita Dutta et.al.|[2410.14312](http://arxiv.org/abs/2410.14312)|null|
 |**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
 |**2024-10-17**|**AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations**|Qian Tao et.al.|[2410.13212](http://arxiv.org/abs/2410.13212)|null|
 |**2024-10-15**|**In-context KV-Cache Eviction for LLMs via Attention-Gate**|Zihao Zeng et.al.|[2410.12876](http://arxiv.org/abs/2410.12876)|null|
