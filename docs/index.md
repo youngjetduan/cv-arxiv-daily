@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -18,7 +18,7 @@ layout: default
 |**2024-10-25**|**Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning**|Yu Fu et.al.|[2410.19258](http://arxiv.org/abs/2410.19258)|null|
 |**2024-10-24**|**KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**|Yifei Yang et.al.|[2410.18517](http://arxiv.org/abs/2410.18517)|**[link](https://github.com/yangyifei729/kvsharer)**|
 |**2024-10-24**|**The Nature of Mathematical Modeling and Probabilistic Optimization Engineering in Generative AI**|Fulu Li et.al.|[2410.18441](http://arxiv.org/abs/2410.18441)|null|
-|**2024-10-23**|**Efficient Inference for Augmented Large Language Models**|Rana Shahout et.al.|[2410.18248](http://arxiv.org/abs/2410.18248)|null|
+|**2024-10-25**|**Fast Inference for Augmented Large Language Models**|Rana Shahout et.al.|[2410.18248](http://arxiv.org/abs/2410.18248)|null|
 |**2024-10-23**|**Value Residual Learning For Alleviating Attention Concentration In Transformers**|Zhanchao Zhou et.al.|[2410.17897](http://arxiv.org/abs/2410.17897)|**[link](https://github.com/Zcchill/Value-Residual-Learning)**|
 |**2024-10-23**|**Markov Chain of Thought for Efficient Mathematical Reasoning**|Wen Yang et.al.|[2410.17635](http://arxiv.org/abs/2410.17635)|null|
 |**2024-10-22**|**PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction**|Long Xing et.al.|[2410.17247](http://arxiv.org/abs/2410.17247)|**[link](https://github.com/cooperx521/pyramiddrop)**|
