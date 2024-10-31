@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference**|Junqi Zhao et.al.|[2410.23079](http://arxiv.org/abs/2410.23079)|**[link](https://github.com/junqizhao888/buzz-llm)**|
 |**2024-10-29**|**The Impact of Inference Acceleration Strategies on Bias of LLMs**|Elisabeth Kirsten et.al.|[2410.22118](http://arxiv.org/abs/2410.22118)|null|
 |**2024-10-29**|**How Does Critical Batch Size Scale in Pre-training?**|Hanlin Zhang et.al.|[2410.21676](http://arxiv.org/abs/2410.21676)|null|
 |**2024-10-28**|**ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference**|Hanshi Sun et.al.|[2410.21465](http://arxiv.org/abs/2410.21465)|**[link](https://github.com/bytedance/ShadowKV)**|
@@ -293,6 +294,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Power side-channel leakage localization through adversarial training of deep neural networks**|Jimmy Gammell et.al.|[2410.22425](http://arxiv.org/abs/2410.22425)|null|
+|**2024-10-27**|**Branch-and-bound algorithm for efficient reliability analysis of general coherent systems**|Ji-Eun Byun et.al.|[2410.22363](http://arxiv.org/abs/2410.22363)|null|
 |**2024-10-28**|**Agreement Tasks in Fault-Prone Synchronous Networks of Arbitrary Structure**|Pierre Fraigniaud et.al.|[2410.21538](http://arxiv.org/abs/2410.21538)|null|
 |**2024-10-28**|**Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA**|Sangmin Bae et.al.|[2410.20672](http://arxiv.org/abs/2410.20672)|null|
 |**2024-10-27**|**Sequential Large Language Model-Based Hyper-Parameter Optimization**|Kanan Mahammadli et.al.|[2410.20302](http://arxiv.org/abs/2410.20302)|**[link](https://github.com/kananmahammadli/sllmbo)**|
