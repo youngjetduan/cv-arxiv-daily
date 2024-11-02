@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM
@@ -291,7 +291,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Power side-channel leakage localization through adversarial training of deep neural networks**|Jimmy Gammell et.al.|[2410.22425](http://arxiv.org/abs/2410.22425)|null|
+|**2024-10-29**|**Power side-channel leakage localization through adversarial training of deep neural networks**|Jimmy Gammell et.al.|[2410.22425](http://arxiv.org/abs/2410.22425)|**[link](https://github.com/jimgammell/gan_side_channel_leakage_detector)**|
 |**2024-10-27**|**Branch-and-bound algorithm for efficient reliability analysis of general coherent systems**|Ji-Eun Byun et.al.|[2410.22363](http://arxiv.org/abs/2410.22363)|null|
 |**2024-10-28**|**Agreement Tasks in Fault-Prone Synchronous Networks of Arbitrary Structure**|Pierre Fraigniaud et.al.|[2410.21538](http://arxiv.org/abs/2410.21538)|null|
 |**2024-10-28**|**Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA**|Sangmin Bae et.al.|[2410.20672](http://arxiv.org/abs/2410.20672)|null|
