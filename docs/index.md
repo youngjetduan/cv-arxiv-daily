@@ -78,7 +78,7 @@ layout: default
 |**2024-09-30**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002](http://arxiv.org/abs/2409.20002)|null|
 |**2024-09-27**|**Toward Greener Matrix Operations by Lossless Compressed Formats**|Francesco Tosoni et.al.|[2409.18620](http://arxiv.org/abs/2409.18620)|**[link](https://gitlab.com/ftosoni/green-lossless-spmv)**|
 |**2024-09-26**|**Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores**|Shaobo Ma et.al.|[2409.17870](http://arxiv.org/abs/2409.17870)|null|
-|**2024-09-25**|**Search for Efficient Large Language Models**|Xuan Shen et.al.|[2409.17372](http://arxiv.org/abs/2409.17372)|null|
+|**2024-09-25**|**Search for Efficient Large Language Models**|Xuan Shen et.al.|[2409.17372](http://arxiv.org/abs/2409.17372)|**[link](https://github.com/shawnricecake/search-llm)**|
 |**2024-09-25**|**Mnemosyne: Parallelization Strategies for Efficiently Serving Multi-Million Context Length LLM Inference Requests Without Approximations**|Amey Agrawal et.al.|[2409.17264](http://arxiv.org/abs/2409.17264)|null|
 |**2024-09-25**|**AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization**|Yifan Tan et.al.|[2409.16546](http://arxiv.org/abs/2409.16546)|**[link](https://github.com/AlignedQuant/AlignedKV)**|
 |**2024-09-25**|**A QoE-Aware Split Inference Accelerating Algorithm for NOMA-based Edge Intelligence**|Xin Yuan et.al.|[2409.16537](http://arxiv.org/abs/2409.16537)|null|
@@ -207,7 +207,7 @@ layout: default
 |**2024-07-15**|**GRUtopia: Dream General Robots in a City at Scale**|Hanqing Wang et.al.|[2407.10943](http://arxiv.org/abs/2407.10943)|**[link](https://github.com/openrobotlab/grutopia)**|
 |**2024-07-15**|**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**|Yuanhao Zhai et.al.|[2407.10937](http://arxiv.org/abs/2407.10937)|**[link](https://github.com/yhZhai/idol)**|
 |**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
-|**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|null|
+|**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|**[link](https://github.com/em-llm/EM-LLM-model)**|
 |**2024-07-12**|**ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Likely Toxic Prompts**|Amelia F. Hardy et.al.|[2407.09447](http://arxiv.org/abs/2407.09447)|**[link](https://github.com/sisl/astprompter)**|
 |**2024-07-12**|**MUSCLE: A Model Update Strategy for Compatible LLM Evolution**|Jessica Echterhoff et.al.|[2407.09435](http://arxiv.org/abs/2407.09435)|null|
 |**2024-07-12**|**Open (Clinical) LLMs are Sensitive to Instruction Phrasings**|Alberto Mario Ceballos Arroyo et.al.|[2407.09429](http://arxiv.org/abs/2407.09429)|**[link](https://github.com/alceballosa/clin-robust)**|
