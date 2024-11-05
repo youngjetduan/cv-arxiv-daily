@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization**|Eldar Kurtic et.al.|[2411.02355](http://arxiv.org/abs/2411.02355)|null|
+|**2024-11-04**|**Real-time and Downtime-tolerant Fault Diagnosis for Railway Turnout Machines (RTMs) Empowered with Cloud-Edge Pipeline Parallelism**|Fan Wu et.al.|[2411.02086](http://arxiv.org/abs/2411.02086)|null|
+|**2024-11-04**|**xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism**|Jiarui Fang et.al.|[2411.01738](http://arxiv.org/abs/2411.01738)|**[link](https://github.com/xdit-project/xdit)**|
+|**2024-11-02**|**NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference**|Xuanlin Jiang et.al.|[2411.01142](http://arxiv.org/abs/2411.01142)|null|
+|**2024-11-01**|**MoNTA: Accelerating Mixture-of-Experts Training with Network-Traffc-Aware Parallel Optimization**|Jingming Guo et.al.|[2411.00662](http://arxiv.org/abs/2411.00662)|**[link](https://github.com/enflametechnology/deepspeed)**|
+|**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359](http://arxiv.org/abs/2411.00359)|null|
+|**2024-11-01**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-10-31**|**Neurobench: DCASE 2020 Acoustic Scene Classification benchmark on XyloAudio 2**|Weijie Ke et.al.|[2410.23776](http://arxiv.org/abs/2410.23776)|null|
 |**2024-10-31**|**ALISE: Accelerating Large Language Model Serving with Speculative Scheduling**|Youpeng Zhao et.al.|[2410.23537](http://arxiv.org/abs/2410.23537)|null|
 |**2024-10-29**|**VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration**|Dezhan Tu et.al.|[2410.23317](http://arxiv.org/abs/2410.23317)|null|
@@ -291,6 +298,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution**|Yang Yue et.al.|[2411.02359](http://arxiv.org/abs/2411.02359)|**[link](https://github.com/yueyang130/deer-vla)**|
+|**2024-11-02**|**Bi-Level Graph Structure Learning for Next POI Recommendation**|Liang Wang et.al.|[2411.01169](http://arxiv.org/abs/2411.01169)|null|
+|**2024-10-30**|**Accelerated AI Inference via Dynamic Execution Methods**|Haim Barad et.al.|[2411.00853](http://arxiv.org/abs/2411.00853)|null|
+|**2024-11-01**|**Preventing Model Collapse in Deep Canonical Correlation Analysis by Noise Regularization**|Junlin He et.al.|[2411.00383](http://arxiv.org/abs/2411.00383)|null|
 |**2024-10-29**|**Power side-channel leakage localization through adversarial training of deep neural networks**|Jimmy Gammell et.al.|[2410.22425](http://arxiv.org/abs/2410.22425)|**[link](https://github.com/jimgammell/gan_side_channel_leakage_detector)**|
 |**2024-10-27**|**Branch-and-bound algorithm for efficient reliability analysis of general coherent systems**|Ji-Eun Byun et.al.|[2410.22363](http://arxiv.org/abs/2410.22363)|null|
 |**2024-10-28**|**Agreement Tasks in Fault-Prone Synchronous Networks of Arbitrary Structure**|Pierre Fraigniaud et.al.|[2410.21538](http://arxiv.org/abs/2410.21538)|null|
