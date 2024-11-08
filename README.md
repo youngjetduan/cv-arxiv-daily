@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -301,7 +301,7 @@
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Revisión de Métodos de Planificación de Camino de Cobertura para Entornos Agrícolas**|Ismael Ait et.al.|[2407.02449](http://arxiv.org/abs/2407.02449)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -311,7 +311,7 @@
 |**2024-11-06**|**Gradient Descent Finds Over-Parameterized Neural Networks with Sharp Generalization for Nonparametric Regression: A Distribution-Free Analysis**|Yingzhen Yang et.al.|[2411.02904](http://arxiv.org/abs/2411.02904)|null|
 |**2024-11-05**|**Centerness-based Instance-aware Knowledge Distillation with Task-wise Mutual Lifting for Object Detection on Drone Imagery**|Bowei Du et.al.|[2411.02861](http://arxiv.org/abs/2411.02861)|null|
 |**2024-11-05**|**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**|Hongpeng Jin et.al.|[2411.02829](http://arxiv.org/abs/2411.02829)|null|
-|**2024-11-04**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|
+|**2024-11-06**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|
 |**2024-11-04**|**DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution**|Yang Yue et.al.|[2411.02359](http://arxiv.org/abs/2411.02359)|**[link](https://github.com/yueyang130/deer-vla)**|
 |**2024-11-02**|**Bi-Level Graph Structure Learning for Next POI Recommendation**|Liang Wang et.al.|[2411.01169](http://arxiv.org/abs/2411.01169)|null|
 |**2024-10-30**|**Accelerated AI Inference via Dynamic Execution Methods**|Haim Barad et.al.|[2411.00853](http://arxiv.org/abs/2411.00853)|null|
@@ -418,7 +418,7 @@
 |**2024-06-21**|**Cost-Effective RF Fingerprinting Based on Hybrid CVNN-RF Classifier with Automated Multi-Dimensional Early-Exit Strategy**|Jiayan Gan et.al.|[2406.14869](http://arxiv.org/abs/2406.14869)|null|
 |**2024-06-20**|**On Layer-wise Representation Similarity: Application for Multi-Exit Models with a Single Classifier**|Jiachen Jiang et.al.|[2406.14479](http://arxiv.org/abs/2406.14479)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
