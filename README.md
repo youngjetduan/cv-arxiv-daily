@@ -141,7 +141,7 @@
 |**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
 |**2024-08-13**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
 |**2024-07-31**|**EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models**|Mingqiang Huang et.al.|[2407.21325](http://arxiv.org/abs/2407.21325)|null|
-|**2024-07-30**|**Palu: Compressing KV-Cache with Low-Rank Projection**|Chi-Chih Chang et.al.|[2407.21118](http://arxiv.org/abs/2407.21118)|null|
+|**2024-07-30**|**Palu: Compressing KV-Cache with Low-Rank Projection**|Chi-Chih Chang et.al.|[2407.21118](http://arxiv.org/abs/2407.21118)|**[link](https://github.com/shadowpa0327/Palu)**|
 |**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
 |**2024-07-31**|**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder**|Hyun-rae Jo et.al.|[2407.20485](http://arxiv.org/abs/2407.20485)|null|
 |**2024-07-25**|**An Efficient Inference Framework for Early-exit Large Language Models**|Ruijie Miao et.al.|[2407.20272](http://arxiv.org/abs/2407.20272)|null|
