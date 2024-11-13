@@ -250,7 +250,7 @@ def json_to_md(filename,md_filename,
                use_tc = True,
                show_badge = True,
                use_b2t = True,
-               max_show_results = 50):
+               max_show_results = 100):
     """
     @param filename: str
     @param md_filename: str
@@ -329,7 +329,7 @@ def json_to_md(filename,md_filename,
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|ID|Publish Date|Title|Authors|PDF|Code|Kimi|\n" + "|---|---|---|---|---|---|\n")
+                    f.write("|ID|Publish Date|Title|Authors|PDF|Code|Kimi|\n" + "|---|---|---|---|---|---|---|\n")
                 else:
                     f.write("| ID | Publish Date | Title | Authors | PDF | Code | Kimi |\n")
                     f.write("|:---|:-------------|:------|:--------|:----|:-----|:-----|\n")
@@ -338,7 +338,7 @@ def json_to_md(filename,md_filename,
             day_content = sort_papers(day_content)
 
             for ii, (_,v) in enumerate(day_content.items()):
-                if ii > max_show_results:
+                if ii >= max_show_results:
                     break
                 if v is not None:
                     f.write(pretty_math(f"|{ii:2d}" + v)) # make latex pretty
