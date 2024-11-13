@@ -114,7 +114,6 @@ layout: default
 |97|**2024-09-09**|**DFabric: Scaling Out Data Parallel Applications with CXL-Ethernet Hybrid Interconnects**|Xu Zhang et.al.|[2409.05404](http://arxiv.org/abs/2409.05404)|null|[Kimi](https://papers.cool/arxiv/2409.05404)|
 |98|**2024-09-08**|**InstInfer: In-Storage Attention Offloading for Cost-Effective Long-Context LLM Inference**|Xiurui Pan et.al.|[2409.04992](http://arxiv.org/abs/2409.04992)|null|[Kimi](https://papers.cool/arxiv/2409.04992)|
 |99|**2024-09-04**|**Accelerating Large Language Model Training with Hybrid GPU-based Compression**|Lang Xu et.al.|[2409.02423](http://arxiv.org/abs/2409.02423)|null|[Kimi](https://papers.cool/arxiv/2409.02423)|
-|100|**2024-09-03**|**Contemporary Model Compression on Large Language Models Inference**|Dong Liu et.al.|[2409.01990](http://arxiv.org/abs/2409.01990)|null|[Kimi](https://papers.cool/arxiv/2409.01990)|
 
 ## Early Stopping
 
@@ -220,7 +219,6 @@ layout: default
 |97|**2024-07-15**|**Multilingual Contrastive Decoding via Language-Agnostic Layers Skipping**|Wenhao Zhu et.al.|[2407.10795](http://arxiv.org/abs/2407.10795)|**[link](https://github.com/njunlp/skiplayercd)**|[Kimi](https://papers.cool/arxiv/2407.10795)|
 |98|**2024-07-13**|**Towards understanding epoch-wise double descent in two-layer linear neural networks**|Amanda Olmin et.al.|[2407.09845](http://arxiv.org/abs/2407.09845)|null|[Kimi](https://papers.cool/arxiv/2407.09845)|
 |99|**2024-07-11**|**Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**|Dina Hussein et.al.|[2407.08715](http://arxiv.org/abs/2407.08715)|null|[Kimi](https://papers.cool/arxiv/2407.08715)|
-|100|**2024-07-07**|**Learning Motion Blur Robust Vision Transformers with Dynamic Early Exit for Real-Time UAV Tracking**|You Wu et.al.|[2407.05383](http://arxiv.org/abs/2407.05383)|null|[Kimi](https://papers.cool/arxiv/2407.05383)|
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
