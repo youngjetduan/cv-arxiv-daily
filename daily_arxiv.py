@@ -410,7 +410,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+            show_badge = show_badge, max_show_results=10)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
