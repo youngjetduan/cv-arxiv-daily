@@ -17,6 +17,7 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 arxiv_url = "http://arxiv.org/"
 cool_url = "https://papers.cool/"
 
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
@@ -42,11 +43,13 @@ def load_config(config_file:str) -> dict:
         for k,v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
         return keywords
+
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader)
         config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
     return config
+
 
 def get_authors(authors, first_author = False):
     output = str()
@@ -55,6 +58,8 @@ def get_authors(authors, first_author = False):
     else:
         output = authors[0]
     return output
+
+
 def sort_papers(papers):
     output = dict()
     keys = list(papers.keys())
@@ -62,7 +67,7 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
-import requests
+
 
 def get_code_link(qword:str) -> str:
     """
@@ -85,6 +90,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
+
 def get_daily_papers(topic,query="slam", max_results=2):
     """
     @param topic: str
@@ -101,18 +107,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
     )
 
     for result in search_engine.results():
-
         paper_id            = result.get_short_id()
         paper_title         = result.title
-        paper_url           = result.entry_id
         code_url            = base_url + paper_id #TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
+        paper_first_author  = get_authors(result.authors, first_author = True)
         primary_category    = result.primary_category
         publish_time        = result.published.date()
         update_time         = result.updated.date()
-        comments            = result.comment
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
@@ -131,11 +134,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             repo_url = None
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
+
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|[Kimi]({})|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,abs_url,repo_url,kimi_url)
@@ -148,12 +147,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Kimi: [{}]({})".format(
                        update_time,paper_title,paper_first_author,abs_url,abs_url,kimi_url,kimi_url)
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+            content_to_web[paper_key] += f"\n"
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
@@ -161,6 +155,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     data = {topic:content}
     data_web = {topic:content_to_web}
     return data,data_web
+
 
 def update_paper_links(filename):
     '''
@@ -215,9 +210,11 @@ def update_paper_links(filename):
 
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
+
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
+
 
 def update_json_file(filename,data_dict):
     '''
@@ -244,6 +241,7 @@ def update_json_file(filename,data_dict):
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
+
 
 def json_to_md(filename,md_filename,
                task = '',
@@ -289,7 +287,6 @@ def json_to_md(filename,md_filename,
 
     # write data into README.md
     with open(md_filename,"a+") as f:
-
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
@@ -439,6 +436,7 @@ def demo(**config):
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge, max_show_results=max_show_results)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
