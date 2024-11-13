@@ -341,7 +341,7 @@ def json_to_md(filename,md_filename,
                 if ii >= max_show_results:
                     break
                 if v is not None:
-                    f.write(pretty_math(f"|{ii:2d}" + v)) # make latex pretty
+                    f.write(pretty_math(f"|{ii+1:2d}" + v)) # make latex pretty
 
             f.write(f"\n")
 
