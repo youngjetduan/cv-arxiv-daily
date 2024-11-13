@@ -175,6 +175,8 @@ def update_paper_links(filename):
         code = parts[5].strip()
         kimi = parts[6].strip()
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
+        if len(kimi) == 0:
+            kimi = cool_url + 'arxiv/' + arxiv_id.split('/')[-1]
         return date,title,authors,arxiv_id,code,kimi
 
     with open(filename,"r") as f:
@@ -339,7 +341,7 @@ def json_to_md(filename,md_filename,
             day_content = sort_papers(day_content)
 
             for ii, (_,v) in enumerate(day_content.items()):
-                if ii > max_show_num:
+                if ii > max_show_results:
                     break
                 if v is not None:
                     f.write(pretty_math(v)) # make latex pretty
