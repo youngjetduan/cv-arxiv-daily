@@ -175,8 +175,8 @@ def update_paper_links(filename):
         code = parts[5].strip()
         kimi = parts[6].strip()
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        if len(kimi) == 0:
-            kimi = cool_url + 'arxiv/' + paper_id
+        if len(kimi) == 0 or 'Kimi' not in kimi:
+            kimi = "[Kimi](" + cool_url + 'arxiv/' + paper_id + ")"
         return date,title,authors,arxiv_id,code,kimi
 
     with open(filename,"r") as f:
