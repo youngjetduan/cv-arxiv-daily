@@ -166,7 +166,7 @@ def update_paper_links(filename):
     '''
     weekly update paper links in json file
     '''
-    def parse_arxiv_string(s):
+    def parse_arxiv_string(s, paper_id):
         parts = s.split("|")
         date = parts[1].strip()
         title = parts[2].strip()
@@ -176,7 +176,7 @@ def update_paper_links(filename):
         kimi = parts[6].strip()
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         if len(kimi) == 0:
-            kimi = cool_url + 'arxiv/' + arxiv_id.split('/')[-1]
+            kimi = cool_url + 'arxiv/' + paper_id
         return date,title,authors,arxiv_id,code,kimi
 
     with open(filename,"r") as f:
@@ -193,7 +193,7 @@ def update_paper_links(filename):
             for paper_id,contents in v.items():
                 contents = str(contents)
 
-                update_time, paper_title, paper_first_author, paper_url, code_url, kimi_url = parse_arxiv_string(contents)
+                update_time, paper_title, paper_first_author, paper_url, code_url, kimi_url = parse_arxiv_string(contents, paper_id)
 
                 contents = "|{}|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url,kimi_url)
                 json_data[keywords][paper_id] = str(contents)
