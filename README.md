@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
 |**2024-11-10**|**Accelerating Large Language Model Training with 4D Parallelism and Memory Consumption Estimator**|Kazuki Fujii et.al.|[2411.06465](http://arxiv.org/abs/2411.06465)|null|
-|**2024-11-08**|**Balancing Pipeline Parallelism with Vocabulary Parallelism**|Man Tsung Yeung et.al.|[2411.05288](http://arxiv.org/abs/2411.05288)|null|
+|**2024-11-08**|**Balancing Pipeline Parallelism with Vocabulary Parallelism**|Man Tsung Yeung et.al.|[2411.05288](http://arxiv.org/abs/2411.05288)|**[link](https://github.com/sail-sg/vocabularyparallelism)**|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
 |**2024-11-06**|**Stepping Forward on the Last Mile**|Chen Feng et.al.|[2411.04036](http://arxiv.org/abs/2411.04036)|null|
 |**2024-11-05**|**TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection**|Wei Wu et.al.|[2411.02886](http://arxiv.org/abs/2411.02886)|null|
@@ -305,7 +305,7 @@
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Revisión de Métodos de Planificación de Camino de Cobertura para Entornos Agrícolas**|Ismael Ait et.al.|[2407.02449](http://arxiv.org/abs/2407.02449)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -425,7 +425,7 @@
 |**2024-06-21**|**Cost-Effective RF Fingerprinting Based on Hybrid CVNN-RF Classifier with Automated Multi-Dimensional Early-Exit Strategy**|Jiayan Gan et.al.|[2406.14869](http://arxiv.org/abs/2406.14869)|null|
 |**2024-06-20**|**On Layer-wise Representation Similarity: Application for Multi-Exit Models with a Single Classifier**|Jiachen Jiang et.al.|[2406.14479](http://arxiv.org/abs/2406.14479)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
