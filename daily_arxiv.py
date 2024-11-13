@@ -12,9 +12,10 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
-base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
+base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 arxiv_url = "http://arxiv.org/"
+cool_url = "https://papers.cool/"
 
 def load_config(config_file:str) -> dict:
     '''
@@ -121,7 +122,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id
         else:
             paper_key = paper_id[0:ver_pos]
-        paper_url = arxiv_url + 'abs/' + paper_key
+        abs_url = arxiv_url + 'abs/' + paper_key
+        kimi_url = cool_url + 'arxiv/' + paper_key
 
         try:
             # source code link
@@ -135,16 +137,16 @@ def get_daily_papers(topic,query="slam", max_results=2):
             #    if repo_url is None:
             #        repo_url = get_code_link(paper_key)
             if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|[Kimi]({})|\n".format(
+                       update_time,paper_title,paper_first_author,paper_key,abs_url,repo_url,kimi_url)
+                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**, Kimi: [{}]({})".format(
+                       update_time,paper_title,paper_first_author,abs_url,abs_url,repo_url,repo_url,kimi_url,kimi_url)
 
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|[Kimi]({})|\n".format(
+                       update_time,paper_title,paper_first_author,paper_key,abs_url,kimi_url)
+                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Kimi: [{}]({})".format(
+                       update_time,paper_title,paper_first_author,abs_url,abs_url,kimi_url,kimi_url)
 
             # TODO: select useful comments
             comments = None
@@ -171,8 +173,9 @@ def update_paper_links(filename):
         authors = parts[3].strip()
         arxiv_id = parts[4].strip()
         code = parts[5].strip()
+        kimi = parts[6].strip()
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date,title,authors,arxiv_id,code
+        return date,title,authors,arxiv_id,code,kimi
 
     with open(filename,"r") as f:
         content = f.read()
@@ -188,9 +191,9 @@ def update_paper_links(filename):
             for paper_id,contents in v.items():
                 contents = str(contents)
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+                update_time, paper_title, paper_first_author, paper_url, code_url, kimi_url = parse_arxiv_string(contents)
 
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
+                contents = "|{}|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url,kimi_url)
                 json_data[keywords][paper_id] = str(contents)
                 logging.info(f'paper_id = {paper_id}, contents = {contents}')
 
@@ -246,7 +249,8 @@ def json_to_md(filename,md_filename,
                use_title = True,
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               max_show_results = 50):
     """
     @param filename: str
     @param md_filename: str
@@ -326,15 +330,17 @@ def json_to_md(filename,md_filename,
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    f.write("|Publish Date|Title|Authors|PDF|Code|Kimi|\n" + "|---|---|---|---|---|---|\n")
                 else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    f.write("| Publish Date | Title | Authors | PDF | Code | Kimi |\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|:------|:------|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
 
-            for _,v in day_content.items():
+            for ii, (_,v) in enumerate(day_content.items()):
+                if ii > max_show_num:
+                    break
                 if v is not None:
                     f.write(pretty_math(v)) # make latex pretty
 
@@ -377,6 +383,7 @@ def demo(**config):
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
+    max_show_results = config['max_show_results']
     show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
@@ -417,7 +424,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            use_tc=False, use_b2t=False, max_show_results=max_show_results)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -429,7 +436,7 @@ def demo(**config):
         else:
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+            to_web=False, use_title= False, show_badge = show_badge, max_show_results=max_show_results)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
