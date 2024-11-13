@@ -332,10 +332,10 @@ def json_to_md(filename,md_filename,
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|Kimi|\n" + "|---|---|---|---|---|---|\n")
+                    f.write("|ID|Publish Date|Title|Authors|PDF|Code|Kimi|\n" + "|---|---|---|---|---|---|\n")
                 else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code | Kimi |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|:------|\n")
+                    f.write("| ID | Publish Date | Title | Authors | PDF | Code | Kimi |\n")
+                    f.write("|:---|:-------------|:------|:--------|:----|:-----|:-----|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
@@ -344,7 +344,7 @@ def json_to_md(filename,md_filename,
                 if ii > max_show_results:
                     break
                 if v is not None:
-                    f.write(pretty_math(v)) # make latex pretty
+                    f.write(pretty_math(f"|{ii:2d}|" + v)) # make latex pretty
 
             f.write(f"\n")
 
