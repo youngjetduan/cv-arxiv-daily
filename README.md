@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.13
+## Updated on 2024.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 | 9|**2024-11-04**|**"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization**|Eldar Kurtic et.al.|[2411.02355](http://arxiv.org/abs/2411.02355)|null|[Kimi](https://papers.cool/arxiv/2411.02355)|
 |10|**2024-11-04**|**Real-time and Downtime-tolerant Fault Diagnosis for Railway Turnout Machines (RTMs) Empowered with Cloud-Edge Pipeline Parallelism**|Fan Wu et.al.|[2411.02086](http://arxiv.org/abs/2411.02086)|null|[Kimi](https://papers.cool/arxiv/2411.02086)|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -46,7 +46,7 @@
 | 9|**2024-11-04**|**DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution**|Yang Yue et.al.|[2411.02359](http://arxiv.org/abs/2411.02359)|**[link](https://github.com/yueyang130/deer-vla)**|[Kimi](https://papers.cool/arxiv/2411.02359)|
 |10|**2024-11-02**|**Bi-Level Graph Structure Learning for Next POI Recommendation**|Liang Wang et.al.|[2411.01169](http://arxiv.org/abs/2411.01169)|null|[Kimi](https://papers.cool/arxiv/2411.01169)|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
