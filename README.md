@@ -18,9 +18,9 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|null|[Kimi](https://papers.cool/arxiv/2411.10958)|
+| 1|**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|**[link](https://github.com/thu-ml/SageAttention)**|[Kimi](https://papers.cool/arxiv/2411.10958)|
 | 2|**2024-11-16**|**Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model**|Ting Liu et.al.|[2411.10803](http://arxiv.org/abs/2411.10803)|null|[Kimi](https://papers.cool/arxiv/2411.10803)|
-| 3|**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510](http://arxiv.org/abs/2411.10510)|null|[Kimi](https://papers.cool/arxiv/2411.10510)|
+| 3|**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510](http://arxiv.org/abs/2411.10510)|**[link](https://github.com/roblox/smoothcache)**|[Kimi](https://papers.cool/arxiv/2411.10510)|
 | 4|**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|[Kimi](https://papers.cool/arxiv/2411.09688)|
 | 5|**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|[Kimi](https://papers.cool/arxiv/2411.09510)|
 | 6|**2024-11-12**|**Towards Low-bit Communication for Tensor Parallel LLM Inference**|Harry Dong et.al.|[2411.07942](http://arxiv.org/abs/2411.07942)|null|[Kimi](https://papers.cool/arxiv/2411.07942)|
