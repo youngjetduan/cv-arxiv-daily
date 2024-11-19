@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 | 9|**2024-11-05**|**TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection**|Wei Wu et.al.|[2411.02886](http://arxiv.org/abs/2411.02886)|null|[Kimi](https://papers.cool/arxiv/2411.02886)|
 |10|**2024-11-05**|**DroidSpeak: Enhancing Cross-LLM Communication**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|null|[Kimi](https://papers.cool/arxiv/2411.02820)|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -46,7 +46,7 @@
 | 9|**2024-11-05**|**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**|Hongpeng Jin et.al.|[2411.02829](http://arxiv.org/abs/2411.02829)|null|[Kimi](https://papers.cool/arxiv/2411.02829)|
 |10|**2024-11-06**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|[Kimi](https://papers.cool/arxiv/2411.02471)|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
