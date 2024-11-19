@@ -378,7 +378,7 @@ def json_to_md(filename, md_filename,
     logging.info(f"{task} finished")
 
 
-def publish_md(json_file, md_file, task, **kwargs):
+def publish_md(json_file, md_file, data_collector, task, **kwargs):
     if config['update_paper_links']:
         update_paper_links(json_file)
     else:
@@ -416,26 +416,27 @@ def demo(**config):
     # 1. update README.md file
     if publish_readme:
         publish_md(config['json_paper_path'], config['md_readme_path'], \
-            task ='Update Readme', show_badge=show_badge, max_show_results=10)
+            data_collector, task ='Update Readme', show_badge=show_badge, \
+            max_show_results=10)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
         publish_md(config['json_paper_path'], config['md_gitpage_path'], \
-            task ='Update GitPage', to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False, max_show_results=max_show_results, \
-            add_links={'Archive': config['md_archive_path']})
+            data_collector, task ='Update GitPage', show_badge = show_badge, \
+            to_web = True, use_tc=False, use_b2t=False, \
+            max_show_results=max_show_results, add_links={'Archive': config['md_archive_path']})
             
     # 3. update docs/index.md file (to gitpage)
     if publish_gitpage:
         publish_md(config['json_paper_path'], config['md_archive_path'], \
-            task ='Update GitPage', to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            data_collector, task ='Update GitPage', show_badge = show_badge, \
+            to_web = True, use_tc=False, use_b2t=False)
 
     # 4. Update docs/wechat.md file
     if publish_wechat:
         publish_md(config['json_paper_path'], config['md_wechat_path'], \
-        task='Update Wechat', to_web=False, use_title= False, \
-        show_badge = show_badge, max_show_results=max_show_results)
+        data_collector, task='Update Wechat', show_badge = show_badge, \
+        to_web=False, use_title= False, max_show_results=max_show_results)
 
 
 if __name__ == "__main__":
