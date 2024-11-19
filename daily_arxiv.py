@@ -309,7 +309,7 @@ def json_to_md(filename, md_filename,
 
         # add other links
         for ii, (title, link) in enumerate(add_links.items()):
-            f.write(f"> Other links {ii}: [title](link)\n\n")
+            f.write(f"> Other links {ii}: [{title}]({link})\n\n")
 
         #Add: table of contents
         if use_tc == True:
@@ -383,7 +383,7 @@ def publish_md(json_file, md_file, data_collector, task, **kwargs):
         update_paper_links(json_file)
     else:
         update_json_file(json_file, data_collector)
-    json_to_md(json_file, md_file, task =task, **kwargs)
+    json_to_md(json_file, md_file, task=task, **kwargs)
 
 
 def demo(**config):
