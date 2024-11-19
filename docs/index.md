@@ -10,6 +10,8 @@ layout: default
 ## Updated on 2024.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
+> Other links 0: [title](link)
+
 ## LLM
 
 | ID | Publish Date | Title | Authors | PDF | Code | Kimi |
