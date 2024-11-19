@@ -243,14 +243,15 @@ def update_json_file(filename,data_dict):
         json.dump(json_data,f)
 
 
-def json_to_md(filename,md_filename,
+def json_to_md(filename, md_filename,
                task = '',
                to_web = False,
                use_title = True,
                use_tc = True,
                show_badge = True,
                use_b2t = True,
-               max_show_results = 100):
+               max_show_results = None,
+               add_links = {}):
     """
     @param filename: str
     @param md_filename: str
@@ -306,6 +307,10 @@ def json_to_md(filename,md_filename,
         # TODO: add usage
         f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
+        # add other links
+        for ii, (title, link) in enumerate(add_links.items()):
+            f.write(f"> Other links {ii}: [title](link)\n\n")
+
         #Add: table of contents
         if use_tc == True:
             f.write("<details>\n")
@@ -338,7 +343,7 @@ def json_to_md(filename,md_filename,
             day_content = sort_papers(day_content)
 
             for ii, (_,v) in enumerate(day_content.items()):
-                if ii >= max_show_results:
+                if max_show_results is not None and ii >= max_show_results:
                     break
                 if v is not None:
                     f.write(pretty_math(f"|{ii+1:2d}" + v)) # make latex pretty
@@ -372,6 +377,15 @@ def json_to_md(filename,md_filename,
 
     logging.info(f"{task} finished")
 
+
+def publish_md(json_file, md_file, task, **kwargs):
+    if config['update_paper_links']:
+        update_paper_links(json_file)
+    else:
+        update_json_file(json_file, data_collector)
+    json_to_md(json_file, md_file, task =task, **kwargs)
+
+
 def demo(**config):
     # TODO: use config
     data_collector = []
@@ -381,6 +395,7 @@ def demo(**config):
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
+    publish_archive = config['publish_archive']
     publish_wechat = config['publish_wechat']
     max_show_results = config['max_show_results']
     show_badge = config['show_badge']
@@ -400,42 +415,27 @@ def demo(**config):
 
     # 1. update README.md file
     if publish_readme:
-        json_file = config['json_readme_path']
-        md_file   = config['md_readme_path']
-        # update paper links
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:
-            # update json data
-            update_json_file(json_file,data_collector)
-        # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge, max_show_results=10)
+        publish_md(config['json_paper_path'], config['md_readme_path'], \
+            task ='Update Readme', show_badge=show_badge, max_show_results=10)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
-        json_file = config['json_gitpage_path']
-        md_file   = config['md_gitpage_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:
-            update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False, max_show_results=max_show_results)
+        publish_md(config['json_paper_path'], config['md_gitpage_path'], \
+            task ='Update GitPage', to_web = True, show_badge = show_badge, \
+            use_tc=False, use_b2t=False, max_show_results=max_show_results, \
+            add_links={'Archive': config['md_archive_path']})
+            
+    # 3. update docs/index.md file (to gitpage)
+    if publish_gitpage:
+        publish_md(config['json_paper_path'], config['md_archive_path'], \
+            task ='Update GitPage', to_web = True, show_badge = show_badge, \
+            use_tc=False, use_b2t=False)
 
-    # 3. Update docs/wechat.md file
+    # 4. Update docs/wechat.md file
     if publish_wechat:
-        json_file = config['json_wechat_path']
-        md_file   = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:
-            update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge, max_show_results=max_show_results)
+        publish_md(config['json_paper_path'], config['md_wechat_path'], \
+        task='Update Wechat', to_web=False, use_title= False, \
+        show_badge = show_badge, max_show_results=max_show_results)
 
 
 if __name__ == "__main__":
