@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links 0: [Archive](./docs/archive.md)
@@ -16,7 +16,7 @@ layout: default
 
 | ID | Publish Date | Title | Authors | PDF | Code | Kimi |
 |:---|:-------------|:------|:--------|:----|:-----|:-----|
-| 1|**2024-11-21**|**Quantization without Tears**|Minghao Fu et.al.|[2411.13918](http://arxiv.org/abs/2411.13918)|null|[Kimi](https://papers.cool/arxiv/2411.13918)|
+| 1|**2024-11-22**|**Quantization without Tears**|Minghao Fu et.al.|[2411.13918](http://arxiv.org/abs/2411.13918)|null|[Kimi](https://papers.cool/arxiv/2411.13918)|
 | 2|**2024-11-19**|**Faster Multi-GPU Training with PPLL: A Pipeline Parallelism Framework Leveraging Local Learning**|Xiuyuan Guo et.al.|[2411.12780](http://arxiv.org/abs/2411.12780)|null|[Kimi](https://papers.cool/arxiv/2411.12780)|
 | 3|**2024-11-18**|**Parsing Millions of DNS Records per Second**|Jeroen Koekkoek et.al.|[2411.12035](http://arxiv.org/abs/2411.12035)|**[link](https://github.com/nlnetlabs/simdzone)**|[Kimi](https://papers.cool/arxiv/2411.12035)|
 | 4|**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|**[link](https://github.com/thu-ml/SageAttention)**|[Kimi](https://papers.cool/arxiv/2411.10958)|
