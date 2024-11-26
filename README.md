@@ -18,16 +18,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|null|[Kimi](https://papers.cool/arxiv/2411.15024)|
-| 2|**2024-11-21**|**Functional Array Programming in an Extended Pi-Calculus**|Hans Hüttel et.al.|[2411.14579](http://arxiv.org/abs/2411.14579)|null|[Kimi](https://papers.cool/arxiv/2411.14579)|
-| 3|**2024-11-22**|**Quantization without Tears**|Minghao Fu et.al.|[2411.13918](http://arxiv.org/abs/2411.13918)|null|[Kimi](https://papers.cool/arxiv/2411.13918)|
-| 4|**2024-11-19**|**Faster Multi-GPU Training with PPLL: A Pipeline Parallelism Framework Leveraging Local Learning**|Xiuyuan Guo et.al.|[2411.12780](http://arxiv.org/abs/2411.12780)|null|[Kimi](https://papers.cool/arxiv/2411.12780)|
-| 5|**2024-11-18**|**Parsing Millions of DNS Records per Second**|Jeroen Koekkoek et.al.|[2411.12035](http://arxiv.org/abs/2411.12035)|**[link](https://github.com/nlnetlabs/simdzone)**|[Kimi](https://papers.cool/arxiv/2411.12035)|
-| 6|**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|**[link](https://github.com/thu-ml/SageAttention)**|[Kimi](https://papers.cool/arxiv/2411.10958)|
-| 7|**2024-11-16**|**Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model**|Ting Liu et.al.|[2411.10803](http://arxiv.org/abs/2411.10803)|null|[Kimi](https://papers.cool/arxiv/2411.10803)|
-| 8|**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510](http://arxiv.org/abs/2411.10510)|**[link](https://github.com/roblox/smoothcache)**|[Kimi](https://papers.cool/arxiv/2411.10510)|
-| 9|**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|**[link](https://github.com/SqueezeAILab/SqueezedAttention)**|[Kimi](https://papers.cool/arxiv/2411.09688)|
-|10|**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|[Kimi](https://papers.cool/arxiv/2411.09510)|
+| 1|**2024-11-25**|**Lion Cub: Minimizing Communication Overhead in Distributed Lion**|Satoki Ishikawa et.al.|[2411.16462](http://arxiv.org/abs/2411.16462)|null|[Kimi](https://papers.cool/arxiv/2411.16462)|
+| 2|**2024-11-24**|**Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution**|Haiquan Wang et.al.|[2411.15871](http://arxiv.org/abs/2411.15871)|null|[Kimi](https://papers.cool/arxiv/2411.15871)|
+| 3|**2024-11-24**|**A Method for Building Large Language Models with Predefined KV Cache Capacity**|Zhonghua Yi et.al.|[2411.15785](http://arxiv.org/abs/2411.15785)|null|[Kimi](https://papers.cool/arxiv/2411.15785)|
+| 4|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|null|[Kimi](https://papers.cool/arxiv/2411.15024)|
+| 5|**2024-11-21**|**Functional Array Programming in an Extended Pi-Calculus**|Hans Hüttel et.al.|[2411.14579](http://arxiv.org/abs/2411.14579)|null|[Kimi](https://papers.cool/arxiv/2411.14579)|
+| 6|**2024-11-22**|**Quantization without Tears**|Minghao Fu et.al.|[2411.13918](http://arxiv.org/abs/2411.13918)|null|[Kimi](https://papers.cool/arxiv/2411.13918)|
+| 7|**2024-11-19**|**Faster Multi-GPU Training with PPLL: A Pipeline Parallelism Framework Leveraging Local Learning**|Xiuyuan Guo et.al.|[2411.12780](http://arxiv.org/abs/2411.12780)|null|[Kimi](https://papers.cool/arxiv/2411.12780)|
+| 8|**2024-11-18**|**Parsing Millions of DNS Records per Second**|Jeroen Koekkoek et.al.|[2411.12035](http://arxiv.org/abs/2411.12035)|**[link](https://github.com/nlnetlabs/simdzone)**|[Kimi](https://papers.cool/arxiv/2411.12035)|
+| 9|**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958](http://arxiv.org/abs/2411.10958)|**[link](https://github.com/thu-ml/SageAttention)**|[Kimi](https://papers.cool/arxiv/2411.10958)|
+|10|**2024-11-16**|**Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model**|Ting Liu et.al.|[2411.10803](http://arxiv.org/abs/2411.10803)|null|[Kimi](https://papers.cool/arxiv/2411.10803)|
 
 <p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
