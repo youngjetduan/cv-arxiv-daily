@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links 0: [Archive](./docs/archive.md)
@@ -17,7 +17,7 @@ layout: default
 | ID | Publish Date | Title | Authors | PDF | Code | Kimi |
 |:---|:-------------|:------|:--------|:----|:-----|:-----|
 | 1|**2024-11-27**|**FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving**|Ao Shen et.al.|[2411.18424](http://arxiv.org/abs/2411.18424)|null|[Kimi](https://papers.cool/arxiv/2411.18424)|
-| 2|**2024-11-27**|**Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|[Kimi](https://papers.cool/arxiv/2411.18077)|
+| 2|**2024-11-28**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|[Kimi](https://papers.cool/arxiv/2411.18077)|
 | 3|**2024-11-27**|**Addressing Architectural Obstacles for Overlay with Stream Network Abstraction**|Chengyue Wang et.al.|[2411.17966](http://arxiv.org/abs/2411.17966)|null|[Kimi](https://papers.cool/arxiv/2411.17966)|
 | 4|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|**[link](https://github.com/abdelfattah-lab/attamba)**|[Kimi](https://papers.cool/arxiv/2411.17685)|
 | 5|**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|[Kimi](https://papers.cool/arxiv/2411.17651)|
