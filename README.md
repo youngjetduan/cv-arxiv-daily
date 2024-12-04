@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.03
+## Updated on 2024.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 | 9|**2024-11-24**|**Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution**|Haiquan Wang et.al.|[2411.15871](http://arxiv.org/abs/2411.15871)|null|[Kimi](https://papers.cool/arxiv/2411.15871)|
 |10|**2024-11-27**|**A Method for Building Large Language Models with Predefined KV Cache Capacity**|Zhonghua Yi et.al.|[2411.15785](http://arxiv.org/abs/2411.15785)|null|[Kimi](https://papers.cool/arxiv/2411.15785)|
 
-<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -46,7 +46,7 @@
 | 9|**2024-11-11**|**The Unreasonable Effectiveness of Monte Carlo Simulations in A/B Testing**|Márton Trencséni et.al.|[2411.06701](http://arxiv.org/abs/2411.06701)|**[link](https://github.com/mtrencseni/unreasonable-effectiveness-monte-carlo-ab-testing-2024)**|[Kimi](https://papers.cool/arxiv/2411.06701)|
 |10|**2024-11-07**|**Performance-Guided LLM Knowledge Distillation for Efficient Text Classification at Scale**|Flavio Di Palo et.al.|[2411.05045](http://arxiv.org/abs/2411.05045)|null|[Kimi](https://papers.cool/arxiv/2411.05045)|
 
-<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
