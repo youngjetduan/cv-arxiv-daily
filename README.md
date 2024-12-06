@@ -18,16 +18,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-04**|**PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation**|Ao Wang et.al.|[2412.03409](http://arxiv.org/abs/2412.03409)|**[link](https://github.com/THU-MIG/PrefixKV)**|[Kimi](https://papers.cool/arxiv/2412.03409)|
-| 2|**2024-12-04**|**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**|Guangda Liu et.al.|[2412.03213](http://arxiv.org/abs/2412.03213)|null|[Kimi](https://papers.cool/arxiv/2412.03213)|
-| 3|**2024-12-04**|**Unifying KV Cache Compression for Large Language Models with LeanKV**|Yanqi Zhang et.al.|[2412.03131](http://arxiv.org/abs/2412.03131)|null|[Kimi](https://papers.cool/arxiv/2412.03131)|
-| 4|**2024-12-04**|**Lightweight Multiplane Images Network for Real-Time Stereoscopic Conversion from Planar Video**|Shanding Diao et.al.|[2412.03102](http://arxiv.org/abs/2412.03102)|null|[Kimi](https://papers.cool/arxiv/2412.03102)|
-| 5|**2024-12-03**|**Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems**|Marcel Aach et.al.|[2412.02729](http://arxiv.org/abs/2412.02729)|**[link](https://github.com/olympiquemarcel/rasda)**|[Kimi](https://papers.cool/arxiv/2412.02729)|
-| 6|**2024-12-03**|**Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity**|Da Ma et.al.|[2412.02252](http://arxiv.org/abs/2412.02252)|null|[Kimi](https://papers.cool/arxiv/2412.02252)|
-| 7|**2024-12-02**|**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**|Ziqi Pang et.al.|[2412.01827](http://arxiv.org/abs/2412.01827)|null|[Kimi](https://papers.cool/arxiv/2412.01827)|
-| 8|**2024-12-03**|**Yi-Lightning Technical Report**|01. AI et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|null|[Kimi](https://papers.cool/arxiv/2412.01253)|
-| 9|**2024-12-02**|**INTELLECT-1 Technical Report**|Sami Jaghouar et.al.|[2412.01152](http://arxiv.org/abs/2412.01152)|null|[Kimi](https://papers.cool/arxiv/2412.01152)|
-|10|**2024-12-03**|**Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification**|Wenxuan Huang et.al.|[2412.00876](http://arxiv.org/abs/2412.00876)|**[link](https://github.com/osilly/dynamic_llava)**|[Kimi](https://papers.cool/arxiv/2412.00876)|
+| 1|**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|null|[Kimi](https://papers.cool/arxiv/2412.04449)|
+| 2|**2024-12-04**|**PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation**|Ao Wang et.al.|[2412.03409](http://arxiv.org/abs/2412.03409)|**[link](https://github.com/THU-MIG/PrefixKV)**|[Kimi](https://papers.cool/arxiv/2412.03409)|
+| 3|**2024-12-04**|**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**|Guangda Liu et.al.|[2412.03213](http://arxiv.org/abs/2412.03213)|null|[Kimi](https://papers.cool/arxiv/2412.03213)|
+| 4|**2024-12-04**|**Unifying KV Cache Compression for Large Language Models with LeanKV**|Yanqi Zhang et.al.|[2412.03131](http://arxiv.org/abs/2412.03131)|null|[Kimi](https://papers.cool/arxiv/2412.03131)|
+| 5|**2024-12-04**|**Lightweight Multiplane Images Network for Real-Time Stereoscopic Conversion from Planar Video**|Shanding Diao et.al.|[2412.03102](http://arxiv.org/abs/2412.03102)|null|[Kimi](https://papers.cool/arxiv/2412.03102)|
+| 6|**2024-12-03**|**Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems**|Marcel Aach et.al.|[2412.02729](http://arxiv.org/abs/2412.02729)|**[link](https://github.com/olympiquemarcel/rasda)**|[Kimi](https://papers.cool/arxiv/2412.02729)|
+| 7|**2024-12-03**|**Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity**|Da Ma et.al.|[2412.02252](http://arxiv.org/abs/2412.02252)|null|[Kimi](https://papers.cool/arxiv/2412.02252)|
+| 8|**2024-12-02**|**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**|Ziqi Pang et.al.|[2412.01827](http://arxiv.org/abs/2412.01827)|null|[Kimi](https://papers.cool/arxiv/2412.01827)|
+| 9|**2024-12-05**|**Yi-Lightning Technical Report**|01. AI et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|null|[Kimi](https://papers.cool/arxiv/2412.01253)|
+|10|**2024-12-02**|**INTELLECT-1 Technical Report**|Sami Jaghouar et.al.|[2412.01152](http://arxiv.org/abs/2412.01152)|null|[Kimi](https://papers.cool/arxiv/2412.01152)|
 
 <p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
@@ -35,7 +35,7 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-04**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|null|[Kimi](https://papers.cool/arxiv/2412.03324)|
+| 1|**2024-12-05**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|**[link](https://github.com/NUS-HPC-AI-Lab/SGL)**|[Kimi](https://papers.cool/arxiv/2412.03324)|
 | 2|**2024-12-03**|**Time-Series-Informed Closed-loop Learning for Sequential Decision Making and Control**|Sebastian Hirt et.al.|[2412.02423](http://arxiv.org/abs/2412.02423)|null|[Kimi](https://papers.cool/arxiv/2412.02423)|
 | 3|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 | 4|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
