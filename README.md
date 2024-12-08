@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.07
+## Updated on 2024.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 | 9|**2024-12-05**|**Yi-Lightning Technical Report**|01. AI et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|null|[Kimi](https://papers.cool/arxiv/2412.01253)|
 |10|**2024-12-02**|**INTELLECT-1 Technical Report**|Sami Jaghouar et.al.|[2412.01152](http://arxiv.org/abs/2412.01152)|null|[Kimi](https://papers.cool/arxiv/2412.01152)|
 
-<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -46,7 +46,7 @@
 | 9|**2024-11-27**|**One-Step Early Stopping Strategy using Neural Tangent Kernel Theory and Rademacher Complexity**|Daniel Martin Xavier et.al.|[2411.18806](http://arxiv.org/abs/2411.18806)|null|[Kimi](https://papers.cool/arxiv/2411.18806)|
 |10|**2024-11-27**|**HEMGS: A Hybrid Entropy Model for 3D Gaussian Splatting Data Compression**|Lei Liu et.al.|[2411.18473](http://arxiv.org/abs/2411.18473)|null|[Kimi](https://papers.cool/arxiv/2411.18473)|
 
-<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
