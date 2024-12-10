@@ -18,16 +18,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-06**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|[Kimi](https://papers.cool/arxiv/2412.04964)|
-| 2|**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|[Kimi](https://papers.cool/arxiv/2412.04788)|
-| 3|**2024-12-05**|**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference**|Xiaohuan Pei et.al.|[2412.04652](http://arxiv.org/abs/2412.04652)|null|[Kimi](https://papers.cool/arxiv/2412.04652)|
-| 4|**2024-12-05**|**votess: A multi-target, GPU-capable, parallel Voronoi tessellator**|C. Byrohl et.al.|[2412.04514](http://arxiv.org/abs/2412.04514)|null|[Kimi](https://papers.cool/arxiv/2412.04514)|
-| 5|**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|**[link](https://github.com/mcg-nju/p-mod)**|[Kimi](https://papers.cool/arxiv/2412.04449)|
-| 6|**2024-12-04**|**PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation**|Ao Wang et.al.|[2412.03409](http://arxiv.org/abs/2412.03409)|**[link](https://github.com/THU-MIG/PrefixKV)**|[Kimi](https://papers.cool/arxiv/2412.03409)|
-| 7|**2024-12-04**|**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**|Guangda Liu et.al.|[2412.03213](http://arxiv.org/abs/2412.03213)|null|[Kimi](https://papers.cool/arxiv/2412.03213)|
-| 8|**2024-12-04**|**Unifying KV Cache Compression for Large Language Models with LeanKV**|Yanqi Zhang et.al.|[2412.03131](http://arxiv.org/abs/2412.03131)|null|[Kimi](https://papers.cool/arxiv/2412.03131)|
-| 9|**2024-12-04**|**Lightweight Multiplane Images Network for Real-Time Stereoscopic Conversion from Planar Video**|Shanding Diao et.al.|[2412.03102](http://arxiv.org/abs/2412.03102)|null|[Kimi](https://papers.cool/arxiv/2412.03102)|
-|10|**2024-12-03**|**Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems**|Marcel Aach et.al.|[2412.02729](http://arxiv.org/abs/2412.02729)|**[link](https://github.com/olympiquemarcel/rasda)**|[Kimi](https://papers.cool/arxiv/2412.02729)|
+| 1|**2024-12-09**|**Pruning All-Rounder: Rethinking and Improving Inference Efficiency for Large Vision Language Models**|Wei Suo et.al.|[2412.06458](http://arxiv.org/abs/2412.06458)|null|[Kimi](https://papers.cool/arxiv/2412.06458)|
+| 2|**2024-12-08**|**BiDM: Pushing the Limit of Quantization for Diffusion Models**|Xingyu Zheng et.al.|[2412.05926](http://arxiv.org/abs/2412.05926)|**[link](https://github.com/xingyu-zheng/bidm)**|[Kimi](https://papers.cool/arxiv/2412.05926)|
+| 3|**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|[Kimi](https://papers.cool/arxiv/2412.05896)|
+| 4|**2024-12-07**|**Batch-Max: Higher LLM Throughput using Larger Batch Sizes and KV Cache Compression**|Michael R. Metel et.al.|[2412.05693](http://arxiv.org/abs/2412.05693)|null|[Kimi](https://papers.cool/arxiv/2412.05693)|
+| 5|**2024-12-06**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|[Kimi](https://papers.cool/arxiv/2412.04964)|
+| 6|**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|[Kimi](https://papers.cool/arxiv/2412.04788)|
+| 7|**2024-12-05**|**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference**|Xiaohuan Pei et.al.|[2412.04652](http://arxiv.org/abs/2412.04652)|null|[Kimi](https://papers.cool/arxiv/2412.04652)|
+| 8|**2024-12-05**|**votess: A multi-target, GPU-capable, parallel Voronoi tessellator**|C. Byrohl et.al.|[2412.04514](http://arxiv.org/abs/2412.04514)|null|[Kimi](https://papers.cool/arxiv/2412.04514)|
+| 9|**2024-12-05**|**p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**|Jun Zhang et.al.|[2412.04449](http://arxiv.org/abs/2412.04449)|**[link](https://github.com/mcg-nju/p-mod)**|[Kimi](https://papers.cool/arxiv/2412.04449)|
+|10|**2024-12-07**|**PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation**|Ao Wang et.al.|[2412.03409](http://arxiv.org/abs/2412.03409)|**[link](https://github.com/THU-MIG/PrefixKV)**|[Kimi](https://papers.cool/arxiv/2412.03409)|
 
 <p align=right>(<a href=#updated-on-20241210>back to top</a>)</p>
 
