@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 | 9|**2024-12-04**|**Lightweight Multiplane Images Network for Real-Time Stereoscopic Conversion from Planar Video**|Shanding Diao et.al.|[2412.03102](http://arxiv.org/abs/2412.03102)|null|[Kimi](https://papers.cool/arxiv/2412.03102)|
 |10|**2024-12-03**|**Resource-Adaptive Successive Doubling for Hyperparameter Optimization with Large Datasets on High-Performance Computing Systems**|Marcel Aach et.al.|[2412.02729](http://arxiv.org/abs/2412.02729)|**[link](https://github.com/olympiquemarcel/rasda)**|[Kimi](https://papers.cool/arxiv/2412.02729)|
 
-<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241210>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -46,7 +46,7 @@
 | 9|**2024-11-26**|**Selfish Evolution: Making Discoveries in Extreme Label Noise with the Help of Overfitting Dynamics**|Nima Sedaghat et.al.|[2412.00077](http://arxiv.org/abs/2412.00077)|null|[Kimi](https://papers.cool/arxiv/2412.00077)|
 |10|**2024-11-28**|**DIESEL -- Dynamic Inference-Guidance via Evasion of Semantic Embeddings in LLMs**|Ben Ganon et.al.|[2411.19038](http://arxiv.org/abs/2411.19038)|null|[Kimi](https://papers.cool/arxiv/2411.19038)|
 
-<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241210>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
