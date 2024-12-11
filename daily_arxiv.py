@@ -275,15 +275,14 @@ def json_to_md(filename, md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
 
-    if os.path.exists(filename):
-        with open(filename,"r") as f:
-            content = f.read()
-            if not content:
-                data = {}
-            else:
-                data = json.loads(content)
-    else:
-        data = {}
+    print(f'write file {md_filename} based on {filename}')
+
+    with open(filename,"r") as f:
+        content = f.read()
+        if not content:
+            data = {}
+        else:
+            data = json.loads(content)
 
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
