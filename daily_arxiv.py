@@ -275,12 +275,15 @@ def json_to_md(filename, md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
 
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    if os.path.exists(filename):
+        with open(filename,"r") as f:
+            content = f.read()
+            if not content:
+                data = {}
+            else:
+                data = json.loads(content)
+    else:
+        data = {}
 
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
@@ -426,10 +429,10 @@ def demo(**config):
             to_web = True, use_tc=False, use_b2t=False, \
             max_show_results=max_show_results, add_links={'Archive': config['md_archive_path']})
             
-    # 3. update docs/index.md file (to gitpage)
-    if publish_gitpage:
+    # 3. update docs/index.md file (to archive)
+    if publish_archive:
         publish_md(config['json_paper_path'], config['md_archive_path'], \
-            data_collector, task ='Update GitPage', show_badge = show_badge, \
+            data_collector, task ='Update Archive', show_badge = show_badge, \
             to_web = True, use_tc=False, use_b2t=False)
 
     # 4. Update docs/wechat.md file
