@@ -310,8 +310,9 @@ def json_to_md(filename, md_filename,
         f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
         # add other links
+        f.write(f"> Other links:\n")
         for ii, (title, link) in enumerate(add_links.items()):
-            f.write(f"> Other links {ii}: [{title}]({link})\n\n")
+            f.write(f">> [{title}]({link})\n\n")
 
         #Add: table of contents
         if use_tc == True:
@@ -426,7 +427,7 @@ def demo(**config):
         publish_md(config['json_paper_path'], config['md_gitpage_path'], \
             data_collector, task ='Update GitPage', show_badge = show_badge, \
             to_web = True, use_tc=False, use_b2t=False, \
-            max_show_results=max_show_results, add_links={'Archive': config['md_archive_path']})
+            max_show_results=max_show_results, add_links={'Archive': os.path.basename(config['md_archive_path']).split('.')[0]})
             
     # 3. update docs/index.md file (to archive)
     if publish_archive:
