@@ -6,6 +6,7 @@
 ## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
+> Other links:
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -25,7 +26,7 @@
 | 5|**2024-12-08**|**BiDM: Pushing the Limit of Quantization for Diffusion Models**|Xingyu Zheng et.al.|[2412.05926](http://arxiv.org/abs/2412.05926)|**[link](https://github.com/xingyu-zheng/bidm)**|[Kimi](https://papers.cool/arxiv/2412.05926)|
 | 6|**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|[Kimi](https://papers.cool/arxiv/2412.05896)|
 | 7|**2024-12-07**|**Batch-Max: Higher LLM Throughput using Larger Batch Sizes and KV Cache Compression**|Michael R. Metel et.al.|[2412.05693](http://arxiv.org/abs/2412.05693)|null|[Kimi](https://papers.cool/arxiv/2412.05693)|
-| 8|**2024-12-06**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|[Kimi](https://papers.cool/arxiv/2412.04964)|
+| 8|**2024-12-11**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|[Kimi](https://papers.cool/arxiv/2412.04964)|
 | 9|**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|[Kimi](https://papers.cool/arxiv/2412.04788)|
 |10|**2024-12-05**|**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference**|Xiaohuan Pei et.al.|[2412.04652](http://arxiv.org/abs/2412.04652)|null|[Kimi](https://papers.cool/arxiv/2412.04652)|
 
