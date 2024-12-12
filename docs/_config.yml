@@ -1,6 +1,8 @@
 title: CV Arxiv Daily
-description: Automatically Update Interested Papers Daily using Github Actions (Update Every 8th hours)
+description: Automatically Update Interested Papers Daily using Github Actions (Update Every 12th hours)
 show_downloads: true
+
+markdown: GFM
 
 github:
   zip_url: https://github.com/youngjetduan/cv-arxiv-daily
