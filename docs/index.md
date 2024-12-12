@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links 0: [Archive](./docs/archive.md)
@@ -121,7 +121,7 @@ layout: default
 
 | ID | Publish Date | Title | Authors | PDF | Code | Kimi |
 |:---|:-------------|:------|:--------|:----|:-----|:-----|
-| 1|**2024-12-09**|**Diff-GO $^\text{n}$ : Enhancing Diffusion Models for Goal-Oriented Communications**|Suchinthaka Wanninayaka et.al.|[2412.06980](http://arxiv.org/abs/2412.06980)|null|[Kimi](https://papers.cool/arxiv/2412.06980)|
+| 1|**2024-12-11**|**Diff-GO $^\text{n}$ : Enhancing Diffusion Models for Goal-Oriented Communications**|Suchinthaka Wanninayaka et.al.|[2412.06980](http://arxiv.org/abs/2412.06980)|null|[Kimi](https://papers.cool/arxiv/2412.06980)|
 | 2|**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|[Kimi](https://papers.cool/arxiv/2412.05276)|
 | 3|**2024-12-06**|**BEExformer: A Fast Inferencing Transformer Architecture via Binarization with Multiple Early Exits**|Wazib Ansar et.al.|[2412.05225](http://arxiv.org/abs/2412.05225)|null|[Kimi](https://papers.cool/arxiv/2412.05225)|
 | 4|**2024-12-05**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|**[link](https://github.com/NUS-HPC-AI-Lab/SGL)**|[Kimi](https://papers.cool/arxiv/2412.03324)|

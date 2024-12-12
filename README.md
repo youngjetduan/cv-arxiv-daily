@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,13 +29,13 @@
 | 9|**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|[Kimi](https://papers.cool/arxiv/2412.04788)|
 |10|**2024-12-05**|**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference**|Xiaohuan Pei et.al.|[2412.04652](http://arxiv.org/abs/2412.04652)|null|[Kimi](https://papers.cool/arxiv/2412.04652)|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 ## Early Stopping
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-09**|**Diff-GO $^\text{n}$ : Enhancing Diffusion Models for Goal-Oriented Communications**|Suchinthaka Wanninayaka et.al.|[2412.06980](http://arxiv.org/abs/2412.06980)|null|[Kimi](https://papers.cool/arxiv/2412.06980)|
+| 1|**2024-12-11**|**Diff-GO $^\text{n}$ : Enhancing Diffusion Models for Goal-Oriented Communications**|Suchinthaka Wanninayaka et.al.|[2412.06980](http://arxiv.org/abs/2412.06980)|null|[Kimi](https://papers.cool/arxiv/2412.06980)|
 | 2|**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|[Kimi](https://papers.cool/arxiv/2412.05276)|
 | 3|**2024-12-06**|**BEExformer: A Fast Inferencing Transformer Architecture via Binarization with Multiple Early Exits**|Wazib Ansar et.al.|[2412.05225](http://arxiv.org/abs/2412.05225)|null|[Kimi](https://papers.cool/arxiv/2412.05225)|
 | 4|**2024-12-05**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|**[link](https://github.com/NUS-HPC-AI-Lab/SGL)**|[Kimi](https://papers.cool/arxiv/2412.03324)|
@@ -46,7 +46,7 @@
 | 9|**2024-11-28**|**Deep Neural Network-Based Prediction of B-Cell Epitopes for SARS-CoV and SARS-CoV-2: Enhancing Vaccine Design through Machine Learning**|Xinyu Shi et.al.|[2412.00109](http://arxiv.org/abs/2412.00109)|null|[Kimi](https://papers.cool/arxiv/2412.00109)|
 |10|**2024-11-26**|**Selfish Evolution: Making Discoveries in Extreme Label Noise with the Help of Overfitting Dynamics**|Nima Sedaghat et.al.|[2412.00077](http://arxiv.org/abs/2412.00077)|null|[Kimi](https://papers.cool/arxiv/2412.00077)|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
