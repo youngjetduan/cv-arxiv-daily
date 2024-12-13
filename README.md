@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -30,13 +30,13 @@
 | 9|**2024-12-07**|**Batch-Max: Higher LLM Throughput using Larger Batch Sizes and KV Cache Compression**|Michael R. Metel et.al.|[2412.05693](http://arxiv.org/abs/2412.05693)|null|[Kimi](https://papers.cool/arxiv/2412.05693)|
 |10|**2024-12-11**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|[Kimi](https://papers.cool/arxiv/2412.04964)|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Early Stopping
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501](http://arxiv.org/abs/2412.08501)|null|[Kimi](https://papers.cool/arxiv/2412.08501)|
+| 1|**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501](http://arxiv.org/abs/2412.08501)|**[link](https://github.com/Yann-zh/gradAE)**|[Kimi](https://papers.cool/arxiv/2412.08501)|
 | 2|**2024-12-11**|**Collaborative Inference for Large Models with Task Offloading and Early Exiting**|Zuan Xie et.al.|[2412.08284](http://arxiv.org/abs/2412.08284)|null|[Kimi](https://papers.cool/arxiv/2412.08284)|
 | 3|**2024-12-11**|**Diff-GO $^\text{n}$ : Enhancing Diffusion Models for Goal-Oriented Communications**|Suchinthaka Wanninayaka et.al.|[2412.06980](http://arxiv.org/abs/2412.06980)|null|[Kimi](https://papers.cool/arxiv/2412.06980)|
 | 4|**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|[Kimi](https://papers.cool/arxiv/2412.05276)|
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 |10|**2024-12-02**|**Reliable and scalable variable importance estimation via warm-start and early stopping**|Zexuan Sun et.al.|[2412.01120](http://arxiv.org/abs/2412.01120)|**[link](https://github.com/ZexuanSun/Early-stopping-VI)**|[Kimi](https://papers.cool/arxiv/2412.01120)|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
