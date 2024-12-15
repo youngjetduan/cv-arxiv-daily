@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -30,7 +30,7 @@
 | 9|**2024-12-08**|**BiDM: Pushing the Limit of Quantization for Diffusion Models**|Xingyu Zheng et.al.|[2412.05926](http://arxiv.org/abs/2412.05926)|**[link](https://github.com/xingyu-zheng/bidm)**|[Kimi](https://papers.cool/arxiv/2412.05926)|
 |10|**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|[Kimi](https://papers.cool/arxiv/2412.05896)|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
