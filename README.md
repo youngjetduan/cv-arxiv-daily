@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-12**|**ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**|Meizhi Zhong et.al.|[2412.09036](http://arxiv.org/abs/2412.09036)|null|[Kimi](https://papers.cool/arxiv/2412.09036)|
-| 2|**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|null|[Kimi](https://papers.cool/arxiv/2412.08890)|
-| 3|**2024-12-11**|**TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|[Kimi](https://papers.cool/arxiv/2412.08585)|
-| 4|**2024-12-11**|**EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance**|Yingxin Li et.al.|[2412.08521](http://arxiv.org/abs/2412.08521)|null|[Kimi](https://papers.cool/arxiv/2412.08521)|
-| 5|**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|[Kimi](https://papers.cool/arxiv/2412.07772)|
-| 6|**2024-12-10**|**ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer**|Jinyi Hu et.al.|[2412.07720](http://arxiv.org/abs/2412.07720)|**[link](https://github.com/thunlp/acdit)**|[Kimi](https://papers.cool/arxiv/2412.07720)|
-| 7|**2024-12-09**|**FP=xINT:A Low-Bit Series Expansion Algorithm for Post-Training Quantization**|Boyang Zhang et.al.|[2412.06865](http://arxiv.org/abs/2412.06865)|null|[Kimi](https://papers.cool/arxiv/2412.06865)|
-| 8|**2024-12-09**|**Pruning All-Rounder: Rethinking and Improving Inference Efficiency for Large Vision Language Models**|Wei Suo et.al.|[2412.06458](http://arxiv.org/abs/2412.06458)|null|[Kimi](https://papers.cool/arxiv/2412.06458)|
-| 9|**2024-12-08**|**BiDM: Pushing the Limit of Quantization for Diffusion Models**|Xingyu Zheng et.al.|[2412.05926](http://arxiv.org/abs/2412.05926)|**[link](https://github.com/xingyu-zheng/bidm)**|[Kimi](https://papers.cool/arxiv/2412.05926)|
-|10|**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|[Kimi](https://papers.cool/arxiv/2412.05896)|
+| 1|**2024-12-13**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|[Kimi](https://papers.cool/arxiv/2412.10319)|
+| 2|**2024-12-13**|**Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**|George Arthur Baker et.al.|[2412.10079](http://arxiv.org/abs/2412.10079)|null|[Kimi](https://papers.cool/arxiv/2412.10079)|
+| 3|**2024-12-13**|**Benchmarking Table Comprehension In The Wild**|Yikang Pan et.al.|[2412.09884](http://arxiv.org/abs/2412.09884)|null|[Kimi](https://papers.cool/arxiv/2412.09884)|
+| 4|**2024-12-13**|**V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding**|Junqi Ge et.al.|[2412.09616](http://arxiv.org/abs/2412.09616)|**[link](https://github.com/opengvlab/v2pe)**|[Kimi](https://papers.cool/arxiv/2412.09616)|
+| 5|**2024-12-12**|**InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions**|Pan Zhang et.al.|[2412.09596](http://arxiv.org/abs/2412.09596)|**[link](https://github.com/internlm/internlm-xcomposer)**|[Kimi](https://papers.cool/arxiv/2412.09596)|
+| 6|**2024-12-12**|**InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption**|Tiehan Fan et.al.|[2412.09283](http://arxiv.org/abs/2412.09283)|null|[Kimi](https://papers.cool/arxiv/2412.09283)|
+| 7|**2024-12-12**|**ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**|Meizhi Zhong et.al.|[2412.09036](http://arxiv.org/abs/2412.09036)|null|[Kimi](https://papers.cool/arxiv/2412.09036)|
+| 8|**2024-12-12**|**RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios**|Ruiwen Zhou et.al.|[2412.08972](http://arxiv.org/abs/2412.08972)|**[link](https://github.com/skyriver-2000/rulearena)**|[Kimi](https://papers.cool/arxiv/2412.08972)|
+| 9|**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|null|[Kimi](https://papers.cool/arxiv/2412.08890)|
+|10|**2024-12-11**|**TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|[Kimi](https://papers.cool/arxiv/2412.08585)|
 
 <p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
