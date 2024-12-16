@@ -24,6 +24,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLM":
-        filters: ["KV Cache", "inference acceleration", "heterogeneous inference", "pipeline parallelism", "data parallelism", "tensor parallelism", "operator parallelism", "distributed deep learning"]
-    "Early Stopping":
-        filters: ["Early Stopping", "Early Exit", "Dynamic Inference", "Instance Aware", "Many-In-One"]
+        filters: [  "long-term memory", "long context",
+                    "KV Cache", "inference acceleration", "heterogeneous inference", 
+                    "pipeline parallelism", "data parallelism", "tensor parallelism", "operator parallelism", "distributed deep learning",
+                    "Early Stopping", "Early Exit", "Dynamic Inference", "Instance Aware", "Many-In-One" ]
