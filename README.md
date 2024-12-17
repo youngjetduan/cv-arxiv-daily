@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-13**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|[Kimi](https://papers.cool/arxiv/2412.10319)|
-| 2|**2024-12-13**|**Lost in the Middle, and In-Between: Enhancing Language Models' Ability to Reason Over Long Contexts in Multi-Hop QA**|George Arthur Baker et.al.|[2412.10079](http://arxiv.org/abs/2412.10079)|**[link](https://github.com/spongeorge/long-context-multihop)**|[Kimi](https://papers.cool/arxiv/2412.10079)|
-| 3|**2024-12-13**|**Benchmarking Table Comprehension In The Wild**|Yikang Pan et.al.|[2412.09884](http://arxiv.org/abs/2412.09884)|null|[Kimi](https://papers.cool/arxiv/2412.09884)|
-| 4|**2024-12-13**|**V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding**|Junqi Ge et.al.|[2412.09616](http://arxiv.org/abs/2412.09616)|**[link](https://github.com/opengvlab/v2pe)**|[Kimi](https://papers.cool/arxiv/2412.09616)|
-| 5|**2024-12-12**|**InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions**|Pan Zhang et.al.|[2412.09596](http://arxiv.org/abs/2412.09596)|**[link](https://github.com/internlm/internlm-xcomposer)**|[Kimi](https://papers.cool/arxiv/2412.09596)|
-| 6|**2024-12-12**|**InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption**|Tiehan Fan et.al.|[2412.09283](http://arxiv.org/abs/2412.09283)|null|[Kimi](https://papers.cool/arxiv/2412.09283)|
-| 7|**2024-12-12**|**ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**|Meizhi Zhong et.al.|[2412.09036](http://arxiv.org/abs/2412.09036)|null|[Kimi](https://papers.cool/arxiv/2412.09036)|
-| 8|**2024-12-12**|**RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios**|Ruiwen Zhou et.al.|[2412.08972](http://arxiv.org/abs/2412.08972)|**[link](https://github.com/skyriver-2000/rulearena)**|[Kimi](https://papers.cool/arxiv/2412.08972)|
-| 9|**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|null|[Kimi](https://papers.cool/arxiv/2412.08890)|
-|10|**2024-12-11**|**TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|[Kimi](https://papers.cool/arxiv/2412.08585)|
+| 1|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|[Kimi](https://papers.cool/arxiv/2412.12094)|
+| 2|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|[Kimi](https://papers.cool/arxiv/2412.12009)|
+| 3|**2024-12-16**|**EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents**|Mengna Zhu et.al.|[2412.11814](http://arxiv.org/abs/2412.11814)|null|[Kimi](https://papers.cool/arxiv/2412.11814)|
+| 4|**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|[Kimi](https://papers.cool/arxiv/2412.11741)|
+| 5|**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|[Kimi](https://papers.cool/arxiv/2412.11685)|
+| 6|**2024-12-16**|**On the SDP Relaxation of Direct Torque Finite Control Set Model Predictive Control**|Luca M. Hartmann et.al.|[2412.11666](http://arxiv.org/abs/2412.11666)|null|[Kimi](https://papers.cool/arxiv/2412.11666)|
+| 7|**2024-12-16**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|null|[Kimi](https://papers.cool/arxiv/2412.11378)|
+| 8|**2024-12-15**|**Timing of Seven Isolated Pulsars in the Globular Cluster Terzan 1**|Justine Singleton et.al.|[2412.11271](http://arxiv.org/abs/2412.11271)|null|[Kimi](https://papers.cool/arxiv/2412.11271)|
+| 9|**2024-12-15**|**Wasserstein Bounds for generative diffusion models with Gaussian tail targets**|Xixian Wang et.al.|[2412.11251](http://arxiv.org/abs/2412.11251)|null|[Kimi](https://papers.cool/arxiv/2412.11251)|
+|10|**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210](http://arxiv.org/abs/2412.11210)|**[link](https://github.com/fengyi233/ViPOcc)**|[Kimi](https://papers.cool/arxiv/2412.11210)|
 
 <p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
