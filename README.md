@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|[Kimi](https://papers.cool/arxiv/2412.12094)|
-| 2|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|[Kimi](https://papers.cool/arxiv/2412.12009)|
-| 3|**2024-12-16**|**EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents**|Mengna Zhu et.al.|[2412.11814](http://arxiv.org/abs/2412.11814)|null|[Kimi](https://papers.cool/arxiv/2412.11814)|
-| 4|**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|[Kimi](https://papers.cool/arxiv/2412.11741)|
-| 5|**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|[Kimi](https://papers.cool/arxiv/2412.11685)|
-| 6|**2024-12-16**|**On the SDP Relaxation of Direct Torque Finite Control Set Model Predictive Control**|Luca M. Hartmann et.al.|[2412.11666](http://arxiv.org/abs/2412.11666)|null|[Kimi](https://papers.cool/arxiv/2412.11666)|
-| 7|**2024-12-16**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|null|[Kimi](https://papers.cool/arxiv/2412.11378)|
-| 8|**2024-12-15**|**Timing of Seven Isolated Pulsars in the Globular Cluster Terzan 1**|Justine Singleton et.al.|[2412.11271](http://arxiv.org/abs/2412.11271)|null|[Kimi](https://papers.cool/arxiv/2412.11271)|
-| 9|**2024-12-15**|**Wasserstein Bounds for generative diffusion models with Gaussian tail targets**|Xixian Wang et.al.|[2412.11251](http://arxiv.org/abs/2412.11251)|null|[Kimi](https://papers.cool/arxiv/2412.11251)|
-|10|**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210](http://arxiv.org/abs/2412.11210)|**[link](https://github.com/fengyi233/ViPOcc)**|[Kimi](https://papers.cool/arxiv/2412.11210)|
+| 1|**2024-12-17**|**GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models**|Mukai Li et.al.|[2412.12735](http://arxiv.org/abs/2412.12735)|null|[Kimi](https://papers.cool/arxiv/2412.12735)|
+| 2|**2024-12-17**|**More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**|Jiebin Zhang et.al.|[2412.12706](http://arxiv.org/abs/2412.12706)|null|[Kimi](https://papers.cool/arxiv/2412.12706)|
+| 3|**2024-12-17**|**LLMs are Also Effective Embedding Models: An In-depth Overview**|Chongyang Tao et.al.|[2412.12591](http://arxiv.org/abs/2412.12591)|null|[Kimi](https://papers.cool/arxiv/2412.12591)|
+| 4|**2024-12-17**|**PerSphere: A Comprehensive Framework for Multi-Faceted Perspective Retrieval and Summarization**|Yun Luo et.al.|[2412.12588](http://arxiv.org/abs/2412.12588)|**[link](https://github.com/LuoXiaoHeics/PerSphere)**|[Kimi](https://papers.cool/arxiv/2412.12588)|
+| 5|**2024-12-17**|**ITP: Instance-Aware Test Pruning for Out-of-Distribution Detection**|Haonan Xu et.al.|[2412.12566](http://arxiv.org/abs/2412.12566)|null|[Kimi](https://papers.cool/arxiv/2412.12566)|
+| 6|**2024-12-17**|**A System for Microserving of LLMs**|Hongyi Jin et.al.|[2412.12488](http://arxiv.org/abs/2412.12488)|null|[Kimi](https://papers.cool/arxiv/2412.12488)|
+| 7|**2024-12-17**|**Boosting Long-Context Information Seeking via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486](http://arxiv.org/abs/2412.12486)|**[link](https://github.com/qhjqhj00/activation_refilling)**|[Kimi](https://papers.cool/arxiv/2412.12486)|
+| 8|**2024-12-17**|**Core Context Aware Attention for Long Context Language Modeling**|Yaofo Chen et.al.|[2412.12465](http://arxiv.org/abs/2412.12465)|null|[Kimi](https://papers.cool/arxiv/2412.12465)|
+| 9|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|[Kimi](https://papers.cool/arxiv/2412.12094)|
+|10|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|[Kimi](https://papers.cool/arxiv/2412.12009)|
 
 <p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
