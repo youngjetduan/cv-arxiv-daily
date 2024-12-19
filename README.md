@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -27,10 +27,10 @@
 | 6|**2024-12-17**|**A System for Microserving of LLMs**|Hongyi Jin et.al.|[2412.12488](http://arxiv.org/abs/2412.12488)|null|[Kimi](https://papers.cool/arxiv/2412.12488)|
 | 7|**2024-12-17**|**Boosting Long-Context Information Seeking via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486](http://arxiv.org/abs/2412.12486)|**[link](https://github.com/qhjqhj00/activation_refilling)**|[Kimi](https://papers.cool/arxiv/2412.12486)|
 | 8|**2024-12-17**|**Core Context Aware Attention for Long Context Language Modeling**|Yaofo Chen et.al.|[2412.12465](http://arxiv.org/abs/2412.12465)|null|[Kimi](https://papers.cool/arxiv/2412.12465)|
-| 9|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|[Kimi](https://papers.cool/arxiv/2412.12094)|
+| 9|**2024-12-17**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|[Kimi](https://papers.cool/arxiv/2412.12094)|
 |10|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|[Kimi](https://papers.cool/arxiv/2412.12009)|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
