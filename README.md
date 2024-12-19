@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-17**|**GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models**|Mukai Li et.al.|[2412.12735](http://arxiv.org/abs/2412.12735)|null|[Kimi](https://papers.cool/arxiv/2412.12735)|
-| 2|**2024-12-17**|**More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**|Jiebin Zhang et.al.|[2412.12706](http://arxiv.org/abs/2412.12706)|null|[Kimi](https://papers.cool/arxiv/2412.12706)|
-| 3|**2024-12-17**|**LLMs are Also Effective Embedding Models: An In-depth Overview**|Chongyang Tao et.al.|[2412.12591](http://arxiv.org/abs/2412.12591)|null|[Kimi](https://papers.cool/arxiv/2412.12591)|
-| 4|**2024-12-17**|**PerSphere: A Comprehensive Framework for Multi-Faceted Perspective Retrieval and Summarization**|Yun Luo et.al.|[2412.12588](http://arxiv.org/abs/2412.12588)|**[link](https://github.com/LuoXiaoHeics/PerSphere)**|[Kimi](https://papers.cool/arxiv/2412.12588)|
-| 5|**2024-12-17**|**ITP: Instance-Aware Test Pruning for Out-of-Distribution Detection**|Haonan Xu et.al.|[2412.12566](http://arxiv.org/abs/2412.12566)|null|[Kimi](https://papers.cool/arxiv/2412.12566)|
-| 6|**2024-12-17**|**A System for Microserving of LLMs**|Hongyi Jin et.al.|[2412.12488](http://arxiv.org/abs/2412.12488)|null|[Kimi](https://papers.cool/arxiv/2412.12488)|
-| 7|**2024-12-17**|**Boosting Long-Context Information Seeking via Query-Guided Activation Refilling**|Hongjin Qian et.al.|[2412.12486](http://arxiv.org/abs/2412.12486)|**[link](https://github.com/qhjqhj00/activation_refilling)**|[Kimi](https://papers.cool/arxiv/2412.12486)|
-| 8|**2024-12-17**|**Core Context Aware Attention for Long Context Language Modeling**|Yaofo Chen et.al.|[2412.12465](http://arxiv.org/abs/2412.12465)|null|[Kimi](https://papers.cool/arxiv/2412.12465)|
-| 9|**2024-12-17**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|[Kimi](https://papers.cool/arxiv/2412.12094)|
-|10|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|[Kimi](https://papers.cool/arxiv/2412.12009)|
+| 1|**2024-12-18**|**Online MDP with Transition Prototypes: A Robust Adaptive Approach**|Shuo Sun et.al.|[2412.14075](http://arxiv.org/abs/2412.14075)|null|[Kimi](https://papers.cool/arxiv/2412.14075)|
+| 2|**2024-12-18**|**Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference**|Benjamin Warner et.al.|[2412.13663](http://arxiv.org/abs/2412.13663)|null|[Kimi](https://papers.cool/arxiv/2412.13663)|
+| 3|**2024-12-18**|**SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation**|Jialong Wu et.al.|[2412.13649](http://arxiv.org/abs/2412.13649)|null|[Kimi](https://papers.cool/arxiv/2412.13649)|
+| 4|**2024-12-18**|**LIFT: Improving Long Context Understanding Through Long Input Fine-Tuning**|Yansheng Mao et.al.|[2412.13626](http://arxiv.org/abs/2412.13626)|null|[Kimi](https://papers.cool/arxiv/2412.13626)|
+| 5|**2024-12-18**|**Attention-aware convolutional neural networks for identification of magnetic islands in the tearing mode on EAST tokamak**|Feifei Long et.al.|[2412.13498](http://arxiv.org/abs/2412.13498)|null|[Kimi](https://papers.cool/arxiv/2412.13498)|
+| 6|**2024-12-18**|**Deploying Foundation Model Powered Agent Services: A Survey**|Wenchao Xu et.al.|[2412.13437](http://arxiv.org/abs/2412.13437)|null|[Kimi](https://papers.cool/arxiv/2412.13437)|
+| 7|**2024-12-17**|**COSEE: Consistency-Oriented Signal-Based Early Exiting via Calibrated Sample Weighting Mechanism**|Jianing He et.al.|[2412.13236](http://arxiv.org/abs/2412.13236)|**[link](https://github.com/he-jianing/cosee)**|[Kimi](https://papers.cool/arxiv/2412.13236)|
+| 8|**2024-12-17**|**GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models**|Mukai Li et.al.|[2412.12735](http://arxiv.org/abs/2412.12735)|null|[Kimi](https://papers.cool/arxiv/2412.12735)|
+| 9|**2024-12-17**|**More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**|Jiebin Zhang et.al.|[2412.12706](http://arxiv.org/abs/2412.12706)|null|[Kimi](https://papers.cool/arxiv/2412.12706)|
+|10|**2024-12-17**|**LLMs are Also Effective Embedding Models: An In-depth Overview**|Chongyang Tao et.al.|[2412.12591](http://arxiv.org/abs/2412.12591)|null|[Kimi](https://papers.cool/arxiv/2412.12591)|
 
 <p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
 
