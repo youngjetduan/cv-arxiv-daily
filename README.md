@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-18**|**Online MDP with Transition Prototypes: A Robust Adaptive Approach**|Shuo Sun et.al.|[2412.14075](http://arxiv.org/abs/2412.14075)|null|[Kimi](https://papers.cool/arxiv/2412.14075)|
-| 2|**2024-12-18**|**Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference**|Benjamin Warner et.al.|[2412.13663](http://arxiv.org/abs/2412.13663)|null|[Kimi](https://papers.cool/arxiv/2412.13663)|
-| 3|**2024-12-18**|**SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation**|Jialong Wu et.al.|[2412.13649](http://arxiv.org/abs/2412.13649)|null|[Kimi](https://papers.cool/arxiv/2412.13649)|
-| 4|**2024-12-18**|**LIFT: Improving Long Context Understanding Through Long Input Fine-Tuning**|Yansheng Mao et.al.|[2412.13626](http://arxiv.org/abs/2412.13626)|null|[Kimi](https://papers.cool/arxiv/2412.13626)|
-| 5|**2024-12-18**|**Attention-aware convolutional neural networks for identification of magnetic islands in the tearing mode on EAST tokamak**|Feifei Long et.al.|[2412.13498](http://arxiv.org/abs/2412.13498)|null|[Kimi](https://papers.cool/arxiv/2412.13498)|
-| 6|**2024-12-18**|**Deploying Foundation Model Powered Agent Services: A Survey**|Wenchao Xu et.al.|[2412.13437](http://arxiv.org/abs/2412.13437)|null|[Kimi](https://papers.cool/arxiv/2412.13437)|
-| 7|**2024-12-17**|**COSEE: Consistency-Oriented Signal-Based Early Exiting via Calibrated Sample Weighting Mechanism**|Jianing He et.al.|[2412.13236](http://arxiv.org/abs/2412.13236)|**[link](https://github.com/he-jianing/cosee)**|[Kimi](https://papers.cool/arxiv/2412.13236)|
-| 8|**2024-12-17**|**GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models**|Mukai Li et.al.|[2412.12735](http://arxiv.org/abs/2412.12735)|null|[Kimi](https://papers.cool/arxiv/2412.12735)|
-| 9|**2024-12-17**|**More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**|Jiebin Zhang et.al.|[2412.12706](http://arxiv.org/abs/2412.12706)|null|[Kimi](https://papers.cool/arxiv/2412.12706)|
-|10|**2024-12-17**|**LLMs are Also Effective Embedding Models: An In-depth Overview**|Chongyang Tao et.al.|[2412.12591](http://arxiv.org/abs/2412.12591)|null|[Kimi](https://papers.cool/arxiv/2412.12591)|
+| 1|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204](http://arxiv.org/abs/2412.15204)|null|[Kimi](https://papers.cool/arxiv/2412.15204)|
+| 2|**2024-12-19**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|[Kimi](https://papers.cool/arxiv/2412.14975)|
+| 3|**2024-12-19**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|null|[Kimi](https://papers.cool/arxiv/2412.14838)|
+| 4|**2024-12-19**|**Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models**|Wenhan Liu et.al.|[2412.14574](http://arxiv.org/abs/2412.14574)|**[link](https://github.com/8421bcd/fullrank)**|[Kimi](https://papers.cool/arxiv/2412.14574)|
+| 5|**2024-12-19**|**HashAttention: Semantic Sparsity for Faster Inference**|Aditya Desai et.al.|[2412.14468](http://arxiv.org/abs/2412.14468)|null|[Kimi](https://papers.cool/arxiv/2412.14468)|
+| 6|**2024-12-18**|**Scaling Deep Learning Training with MPMD Pipeline Parallelism**|Anxhelo Xhebraj et.al.|[2412.14374](http://arxiv.org/abs/2412.14374)|null|[Kimi](https://papers.cool/arxiv/2412.14374)|
+| 7|**2024-12-18**|**ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals**|Utkarsh Saxena et.al.|[2412.14363](http://arxiv.org/abs/2412.14363)|**[link](https://github.com/utkarsh-dmx/project-resq)**|[Kimi](https://papers.cool/arxiv/2412.14363)|
+| 8|**2024-12-18**|**State Space Models are Strong Text Rerankers**|Zhichao Xu et.al.|[2412.14354](http://arxiv.org/abs/2412.14354)|null|[Kimi](https://papers.cool/arxiv/2412.14354)|
+| 9|**2024-12-19**|**Online MDP with Transition Prototypes: A Robust Adaptive Approach**|Shuo Sun et.al.|[2412.14075](http://arxiv.org/abs/2412.14075)|null|[Kimi](https://papers.cool/arxiv/2412.14075)|
+|10|**2024-12-19**|**Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference**|Benjamin Warner et.al.|[2412.13663](http://arxiv.org/abs/2412.13663)|**[link](https://github.com/answerdotai/modernbert)**|[Kimi](https://papers.cool/arxiv/2412.13663)|
 
 <p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
