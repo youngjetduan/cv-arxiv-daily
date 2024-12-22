@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -15,7 +15,7 @@ layout: default
 
 | ID | Publish Date | Title | Authors | PDF | Code | Kimi |
 |:---|:-------------|:------|:--------|:----|:-----|:-----|
-| 1|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204](http://arxiv.org/abs/2412.15204)|null|[Kimi](https://papers.cool/arxiv/2412.15204)|
+| 1|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204](http://arxiv.org/abs/2412.15204)|**[link](https://github.com/thudm/longbench)**|[Kimi](https://papers.cool/arxiv/2412.15204)|
 | 2|**2024-12-19**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|[Kimi](https://papers.cool/arxiv/2412.14975)|
 | 3|**2024-12-19**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|null|[Kimi](https://papers.cool/arxiv/2412.14838)|
 | 4|**2024-12-19**|**Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models**|Wenhan Liu et.al.|[2412.14574](http://arxiv.org/abs/2412.14574)|**[link](https://github.com/8421bcd/fullrank)**|[Kimi](https://papers.cool/arxiv/2412.14574)|
