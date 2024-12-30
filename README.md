@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-24**|**Efficient Long Context Language Model Retrieval with Compression**|Minju Seo et.al.|[2412.18232](http://arxiv.org/abs/2412.18232)|null|[Kimi](https://papers.cool/arxiv/2412.18232)|
-| 2|**2024-12-24**|**Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning**|Takuma Fukuda et.al.|[2412.18219](http://arxiv.org/abs/2412.18219)|**[link](https://github.com/tf63/acmap)**|[Kimi](https://papers.cool/arxiv/2412.18219)|
-| 3|**2024-12-24**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|[Kimi](https://papers.cool/arxiv/2412.18169)|
-| 4|**2024-12-24**|**Beyond Gradient Averaging in Parallel Optimization: Improved Robustness through Gradient Agreement Filtering**|Francois Chaubard et.al.|[2412.18052](http://arxiv.org/abs/2412.18052)|null|[Kimi](https://papers.cool/arxiv/2412.18052)|
-| 5|**2024-12-23**|**Theoretical Constraints on the Expressive Power of $\mathsf{RoPE}$ -based Tensor Attention Transformers**|Xiaoyu Li et.al.|[2412.18040](http://arxiv.org/abs/2412.18040)|null|[Kimi](https://papers.cool/arxiv/2412.18040)|
-| 6|**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747](http://arxiv.org/abs/2412.17747)|null|[Kimi](https://papers.cool/arxiv/2412.17747)|
-| 7|**2024-12-24**|**YuLan-Mini: An Open Data-efficient Language Model**|Yiwen Hu et.al.|[2412.17743](http://arxiv.org/abs/2412.17743)|**[link](https://github.com/ruc-gsai/yulan-mini)**|[Kimi](https://papers.cool/arxiv/2412.17743)|
-| 8|**2024-12-23**|**Improved Cotton Leaf Disease Classification Using Parameter-Efficient Deep Learning Framework**|Aswini Kumar Patra et.al.|[2412.17587](http://arxiv.org/abs/2412.17587)|null|[Kimi](https://papers.cool/arxiv/2412.17587)|
-| 9|**2024-12-23**|**Optimal Convergence Rates for Neural Operators**|Mike Nguyen et.al.|[2412.17518](http://arxiv.org/abs/2412.17518)|null|[Kimi](https://papers.cool/arxiv/2412.17518)|
-|10|**2024-12-23**|**A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression**|Chenlong Deng et.al.|[2412.17483](http://arxiv.org/abs/2412.17483)|null|[Kimi](https://papers.cool/arxiv/2412.17483)|
+| 1|**2024-12-27**|**Goal-oriented Communications based on Recursive Early Exit Neural Networks**|Jary Pomponi et.al.|[2412.19587](http://arxiv.org/abs/2412.19587)|null|[Kimi](https://papers.cool/arxiv/2412.19587)|
+| 2|**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|[Kimi](https://papers.cool/arxiv/2412.19535)|
+| 3|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|null|[Kimi](https://papers.cool/arxiv/2412.19442)|
+| 4|**2024-12-26**|**Performance Control in Early Exiting to Deploy Large Models at the Same Cost of Smaller Ones**|Mehrnaz Mofakhami et.al.|[2412.19325](http://arxiv.org/abs/2412.19325)|null|[Kimi](https://papers.cool/arxiv/2412.19325)|
+| 5|**2024-12-26**|**Multi-matrix Factorization Attention**|Jingcheng Hu et.al.|[2412.19255](http://arxiv.org/abs/2412.19255)|null|[Kimi](https://papers.cool/arxiv/2412.19255)|
+| 6|**2024-12-26**|**Repository Structure-Aware Training Makes SLMs Better Issue Resolver**|Zexiong Ma et.al.|[2412.19031](http://arxiv.org/abs/2412.19031)|null|[Kimi](https://papers.cool/arxiv/2412.19031)|
+| 7|**2024-12-25**|**Long-Range Tasks Using Short-Context LLMs: Incremental Reasoning With Structured Memories**|Dulhan Jayalath et.al.|[2412.18914](http://arxiv.org/abs/2412.18914)|null|[Kimi](https://papers.cool/arxiv/2412.18914)|
+| 8|**2024-12-25**|**Bootstrap Your Own Context Length**|Liang Wang et.al.|[2412.18860](http://arxiv.org/abs/2412.18860)|null|[Kimi](https://papers.cool/arxiv/2412.18860)|
+| 9|**2024-12-25**|**DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search**|Lei Yang et.al.|[2412.18811](http://arxiv.org/abs/2412.18811)|null|[Kimi](https://papers.cool/arxiv/2412.18811)|
+|10|**2024-12-24**|**Efficient Long Context Language Model Retrieval with Compression**|Minju Seo et.al.|[2412.18232](http://arxiv.org/abs/2412.18232)|null|[Kimi](https://papers.cool/arxiv/2412.18232)|
 
 <p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
