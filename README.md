@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2024-12-27**|**Goal-oriented Communications based on Recursive Early Exit Neural Networks**|Jary Pomponi et.al.|[2412.19587](http://arxiv.org/abs/2412.19587)|null|[Kimi](https://papers.cool/arxiv/2412.19587)|
-| 2|**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|[Kimi](https://papers.cool/arxiv/2412.19535)|
-| 3|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|null|[Kimi](https://papers.cool/arxiv/2412.19442)|
-| 4|**2024-12-26**|**Performance Control in Early Exiting to Deploy Large Models at the Same Cost of Smaller Ones**|Mehrnaz Mofakhami et.al.|[2412.19325](http://arxiv.org/abs/2412.19325)|null|[Kimi](https://papers.cool/arxiv/2412.19325)|
-| 5|**2024-12-26**|**Multi-matrix Factorization Attention**|Jingcheng Hu et.al.|[2412.19255](http://arxiv.org/abs/2412.19255)|null|[Kimi](https://papers.cool/arxiv/2412.19255)|
-| 6|**2024-12-26**|**Repository Structure-Aware Training Makes SLMs Better Issue Resolver**|Zexiong Ma et.al.|[2412.19031](http://arxiv.org/abs/2412.19031)|null|[Kimi](https://papers.cool/arxiv/2412.19031)|
-| 7|**2024-12-25**|**Long-Range Tasks Using Short-Context LLMs: Incremental Reasoning With Structured Memories**|Dulhan Jayalath et.al.|[2412.18914](http://arxiv.org/abs/2412.18914)|null|[Kimi](https://papers.cool/arxiv/2412.18914)|
-| 8|**2024-12-25**|**Bootstrap Your Own Context Length**|Liang Wang et.al.|[2412.18860](http://arxiv.org/abs/2412.18860)|null|[Kimi](https://papers.cool/arxiv/2412.18860)|
-| 9|**2024-12-25**|**DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search**|Lei Yang et.al.|[2412.18811](http://arxiv.org/abs/2412.18811)|null|[Kimi](https://papers.cool/arxiv/2412.18811)|
-|10|**2024-12-24**|**Efficient Long Context Language Model Retrieval with Compression**|Minju Seo et.al.|[2412.18232](http://arxiv.org/abs/2412.18232)|null|[Kimi](https://papers.cool/arxiv/2412.18232)|
+| 1|**2024-12-30**|**Adaptive Batch Size Schedules for Distributed Training of Language Models with Data and Model Parallelism**|Tim Tsz-Kit Lau et.al.|[2412.21124](http://arxiv.org/abs/2412.21124)|null|[Kimi](https://papers.cool/arxiv/2412.21124)|
+| 2|**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|[Kimi](https://papers.cool/arxiv/2412.20677)|
+| 3|**2024-12-29**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|[Kimi](https://papers.cool/arxiv/2412.20504)|
+| 4|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|null|[Kimi](https://papers.cool/arxiv/2412.20501)|
+| 5|**2024-12-29**|**NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism**|Xin Ai et.al.|[2412.20379](http://arxiv.org/abs/2412.20379)|null|[Kimi](https://papers.cool/arxiv/2412.20379)|
+| 6|**2024-12-28**|**LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System**|Hyucksung Kwon et.al.|[2412.20166](http://arxiv.org/abs/2412.20166)|null|[Kimi](https://papers.cool/arxiv/2412.20166)|
+| 7|**2024-12-28**|**ST $^3$ : Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming**|Jiedong Zhuang et.al.|[2412.20105](http://arxiv.org/abs/2412.20105)|null|[Kimi](https://papers.cool/arxiv/2412.20105)|
+| 8|**2024-12-27**|**Goal-oriented Communications based on Recursive Early Exit Neural Networks**|Jary Pomponi et.al.|[2412.19587](http://arxiv.org/abs/2412.19587)|null|[Kimi](https://papers.cool/arxiv/2412.19587)|
+| 9|**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|[Kimi](https://papers.cool/arxiv/2412.19535)|
+|10|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|null|[Kimi](https://papers.cool/arxiv/2412.19442)|
 
 <p align=right>(<a href=#updated-on-20241231>back to top</a>)</p>
 
