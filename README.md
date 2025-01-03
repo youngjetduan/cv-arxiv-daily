@@ -28,7 +28,7 @@
 | 7|**2024-12-28**|**ST $^3$ : Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming**|Jiedong Zhuang et.al.|[2412.20105](http://arxiv.org/abs/2412.20105)|null|[Kimi](https://papers.cool/arxiv/2412.20105)|
 | 8|**2024-12-27**|**Goal-oriented Communications based on Recursive Early Exit Neural Networks**|Jary Pomponi et.al.|[2412.19587](http://arxiv.org/abs/2412.19587)|null|[Kimi](https://papers.cool/arxiv/2412.19587)|
 | 9|**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|[Kimi](https://papers.cool/arxiv/2412.19535)|
-|10|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|**[link](https://github.com/treeai-lab/awesome-kv-cache-management)**|[Kimi](https://papers.cool/arxiv/2412.19442)|
+|10|**2025-01-02**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|**[link](https://github.com/treeai-lab/awesome-kv-cache-management)**|[Kimi](https://papers.cool/arxiv/2412.19442)|
 
 <p align=right>(<a href=#updated-on-20250103>back to top</a>)</p>
 
