@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|[Kimi](https://papers.cool/arxiv/2501.01792)|
-| 2|**2025-01-03**|**Data Parallel Visualization and Rendering on the RAMSES Supercomputer with ANARI**|Stefan Zellmann et.al.|[2501.01628](http://arxiv.org/abs/2501.01628)|null|[Kimi](https://papers.cool/arxiv/2501.01628)|
-| 3|**2025-01-02**|**TreeLUT: An Efficient Alternative to Deep Neural Networks for Inference Acceleration Using Gradient Boosted Decision Trees**|Alireza Khataei et.al.|[2501.01511](http://arxiv.org/abs/2501.01511)|null|[Kimi](https://papers.cool/arxiv/2501.01511)|
-| 4|**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|[Kimi](https://papers.cool/arxiv/2501.01005)|
-| 5|**2025-01-01**|**Rethinking Addressing in Language Models via Contexualized Equivariant Positional Encoding**|Jiajun Zhu et.al.|[2501.00712](http://arxiv.org/abs/2501.00712)|**[link](https://github.com/vita-group/tape)**|[Kimi](https://papers.cool/arxiv/2501.00712)|
-| 6|**2025-01-01**|**Adjoint sharding for very long context training of state space models**|Xingzi Xu et.al.|[2501.00692](http://arxiv.org/abs/2501.00692)|null|[Kimi](https://papers.cool/arxiv/2501.00692)|
-| 7|**2024-12-31**|**Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing**|Peihao Wang et.al.|[2501.00658](http://arxiv.org/abs/2501.00658)|**[link](https://github.com/vita-group/ssm-bottleneck)**|[Kimi](https://papers.cool/arxiv/2501.00658)|
-| 8|**2024-12-31**|**A Study on Context Length and Efficient Transformers for Biomedical Image Analysis**|Sarah M. Hooper et.al.|[2501.00619](http://arxiv.org/abs/2501.00619)|null|[Kimi](https://papers.cool/arxiv/2501.00619)|
-| 9|**2024-12-31**|**VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling**|Xinhao Li et.al.|[2501.00574](http://arxiv.org/abs/2501.00574)|null|[Kimi](https://papers.cool/arxiv/2501.00574)|
-|10|**2024-12-30**|**CaseSumm: A Large-Scale Dataset for Long-Context Summarization from U.S. Supreme Court Opinions**|Mourad Heddaya et.al.|[2501.00097](http://arxiv.org/abs/2501.00097)|null|[Kimi](https://papers.cool/arxiv/2501.00097)|
+| 1|**2025-01-05**|**PTEENet: Post-Trained Early-Exit Neural Networks Augmentation for Inference Cost Optimization**|Assaf Lahiany et.al.|[2501.02508](http://arxiv.org/abs/2501.02508)|null|[Kimi](https://papers.cool/arxiv/2501.02508)|
+| 2|**2025-01-05**|**ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling**|Chaojie Mao et.al.|[2501.02487](http://arxiv.org/abs/2501.02487)|null|[Kimi](https://papers.cool/arxiv/2501.02487)|
+| 3|**2025-01-04**|**AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference**|Zhuomin He et.al.|[2501.02336](http://arxiv.org/abs/2501.02336)|**[link](https://github.com/asisys/adaskip)**|[Kimi](https://papers.cool/arxiv/2501.02336)|
+| 4|**2025-01-04**|**The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit**|Huixue Zhou et.al.|[2501.02173](http://arxiv.org/abs/2501.02173)|null|[Kimi](https://papers.cool/arxiv/2501.02173)|
+| 5|**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|[Kimi](https://papers.cool/arxiv/2501.01792)|
+| 6|**2025-01-03**|**Data Parallel Visualization and Rendering on the RAMSES Supercomputer with ANARI**|Stefan Zellmann et.al.|[2501.01628](http://arxiv.org/abs/2501.01628)|null|[Kimi](https://papers.cool/arxiv/2501.01628)|
+| 7|**2025-01-02**|**TreeLUT: An Efficient Alternative to Deep Neural Networks for Inference Acceleration Using Gradient Boosted Decision Trees**|Alireza Khataei et.al.|[2501.01511](http://arxiv.org/abs/2501.01511)|null|[Kimi](https://papers.cool/arxiv/2501.01511)|
+| 8|**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|[Kimi](https://papers.cool/arxiv/2501.01005)|
+| 9|**2025-01-01**|**Rethinking Addressing in Language Models via Contexualized Equivariant Positional Encoding**|Jiajun Zhu et.al.|[2501.00712](http://arxiv.org/abs/2501.00712)|**[link](https://github.com/vita-group/tape)**|[Kimi](https://papers.cool/arxiv/2501.00712)|
+|10|**2025-01-01**|**Adjoint sharding for very long context training of state space models**|Xingzi Xu et.al.|[2501.00692](http://arxiv.org/abs/2501.00692)|null|[Kimi](https://papers.cool/arxiv/2501.00692)|
 
 <p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
