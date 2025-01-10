@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-08**|**Collaborative Inference Acceleration with Non-Penetrative Tensor Partitioning**|Zhibang Liu et.al.|[2501.04489](http://arxiv.org/abs/2501.04489)|null|[Kimi](https://papers.cool/arxiv/2501.04489)|
-| 2|**2025-01-06**|**The Power of Negative Zero: Datatype Customization for Quantized Large Language Models**|Yuzong Chen et.al.|[2501.04052](http://arxiv.org/abs/2501.04052)|null|[Kimi](https://papers.cool/arxiv/2501.04052)|
-| 3|**2025-01-07**|**CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering**|Jialiang Chen et.al.|[2501.03447](http://arxiv.org/abs/2501.03447)|null|[Kimi](https://papers.cool/arxiv/2501.03447)|
-| 4|**2025-01-05**|**PTEENet: Post-Trained Early-Exit Neural Networks Augmentation for Inference Cost Optimization**|Assaf Lahiany et.al.|[2501.02508](http://arxiv.org/abs/2501.02508)|null|[Kimi](https://papers.cool/arxiv/2501.02508)|
-| 5|**2025-01-07**|**ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling**|Chaojie Mao et.al.|[2501.02487](http://arxiv.org/abs/2501.02487)|null|[Kimi](https://papers.cool/arxiv/2501.02487)|
-| 6|**2025-01-04**|**AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference**|Zhuomin He et.al.|[2501.02336](http://arxiv.org/abs/2501.02336)|**[link](https://github.com/asisys/adaskip)**|[Kimi](https://papers.cool/arxiv/2501.02336)|
-| 7|**2025-01-04**|**The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit**|Huixue Zhou et.al.|[2501.02173](http://arxiv.org/abs/2501.02173)|null|[Kimi](https://papers.cool/arxiv/2501.02173)|
-| 8|**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|[Kimi](https://papers.cool/arxiv/2501.01792)|
-| 9|**2025-01-03**|**Data Parallel Visualization and Rendering on the RAMSES Supercomputer with ANARI**|Stefan Zellmann et.al.|[2501.01628](http://arxiv.org/abs/2501.01628)|null|[Kimi](https://papers.cool/arxiv/2501.01628)|
-|10|**2025-01-02**|**TreeLUT: An Efficient Alternative to Deep Neural Networks for Inference Acceleration Using Gradient Boosted Decision Trees**|Alireza Khataei et.al.|[2501.01511](http://arxiv.org/abs/2501.01511)|null|[Kimi](https://papers.cool/arxiv/2501.01511)|
+| 1|**2025-01-09**|**LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation**|Xi Ye et.al.|[2501.05414](http://arxiv.org/abs/2501.05414)|null|[Kimi](https://papers.cool/arxiv/2501.05414)|
+| 2|**2025-01-09**|**Euclid: Detecting Solar System objects in Euclid images and classifying them using Kohonen self-organising maps**|A. A. Nucita et.al.|[2501.05023](http://arxiv.org/abs/2501.05023)|null|[Kimi](https://papers.cool/arxiv/2501.05023)|
+| 3|**2025-01-09**|**SyNPar: Synthetic Null Data Parallelism for High-Power False Discovery Rate Control in High-Dimensional Variable Selection**|Changhu Wang et.al.|[2501.05012](http://arxiv.org/abs/2501.05012)|null|[Kimi](https://papers.cool/arxiv/2501.05012)|
+| 4|**2025-01-09**|**TreeKV: Smooth Key-Value Cache Compression with Tree Structures**|Ziwei He et.al.|[2501.04987](http://arxiv.org/abs/2501.04987)|null|[Kimi](https://papers.cool/arxiv/2501.04987)|
+| 5|**2025-01-08**|**Collaborative Inference Acceleration with Non-Penetrative Tensor Partitioning**|Zhibang Liu et.al.|[2501.04489](http://arxiv.org/abs/2501.04489)|null|[Kimi](https://papers.cool/arxiv/2501.04489)|
+| 6|**2025-01-06**|**The Power of Negative Zero: Datatype Customization for Quantized Large Language Models**|Yuzong Chen et.al.|[2501.04052](http://arxiv.org/abs/2501.04052)|null|[Kimi](https://papers.cool/arxiv/2501.04052)|
+| 7|**2025-01-07**|**CoReQA: Uncovering Potentials of Language Models in Code Repository Question Answering**|Jialiang Chen et.al.|[2501.03447](http://arxiv.org/abs/2501.03447)|null|[Kimi](https://papers.cool/arxiv/2501.03447)|
+| 8|**2025-01-05**|**PTEENet: Post-Trained Early-Exit Neural Networks Augmentation for Inference Cost Optimization**|Assaf Lahiany et.al.|[2501.02508](http://arxiv.org/abs/2501.02508)|null|[Kimi](https://papers.cool/arxiv/2501.02508)|
+| 9|**2025-01-07**|**ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling**|Chaojie Mao et.al.|[2501.02487](http://arxiv.org/abs/2501.02487)|null|[Kimi](https://papers.cool/arxiv/2501.02487)|
+|10|**2025-01-04**|**AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference**|Zhuomin He et.al.|[2501.02336](http://arxiv.org/abs/2501.02336)|**[link](https://github.com/asisys/adaskip)**|[Kimi](https://papers.cool/arxiv/2501.02336)|
 
 <p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
