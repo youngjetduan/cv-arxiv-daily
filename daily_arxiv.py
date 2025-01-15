@@ -125,7 +125,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id
         else:
             paper_key = paper_id[0:ver_pos]
-        abs_url = arxiv_url + 'abs/' + paper_key
+        pdf_url = arxiv_url + 'pdf/' + paper_key
         kimi_url = cool_url + 'arxiv/' + paper_key
 
         try:
@@ -137,15 +137,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|[Kimi]({})|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,abs_url,repo_url,kimi_url)
+                       update_time,paper_title,paper_first_author,paper_key,pdf_url,repo_url,kimi_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**, Kimi: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,abs_url,abs_url,repo_url,repo_url,kimi_url,kimi_url)
+                       update_time,paper_title,paper_first_author,pdf_url,pdf_url,repo_url,repo_url,kimi_url,kimi_url)
 
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|[Kimi]({})|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,abs_url,kimi_url)
+                       update_time,paper_title,paper_first_author,paper_key,pdf_url,kimi_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Kimi: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,abs_url,abs_url,kimi_url,kimi_url)
+                       update_time,paper_title,paper_first_author,pdf_url,pdf_url,kimi_url,kimi_url)
 
             content_to_web[paper_key] += f"\n"
 
