@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-12**|**Monotone Curve Estimation via Convex Duality**|Tongseok Lim et.al.|[2501.06975](http://arxiv.org/abs/2501.06975)|null|[Kimi](https://papers.cool/arxiv/2501.06975)|
-| 2|**2025-01-12**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807](http://arxiv.org/abs/2501.06807)|null|[Kimi](https://papers.cool/arxiv/2501.06807)|
-| 3|**2025-01-12**|**Mell: Memory-Efficient Large Language Model Serving via Multi-GPU KV Cache Management**|Liu Qianli et.al.|[2501.06709](http://arxiv.org/abs/2501.06709)|null|[Kimi](https://papers.cool/arxiv/2501.06709)|
-| 4|**2025-01-11**|**SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning**|Phillip Rieger et.al.|[2501.06650](http://arxiv.org/abs/2501.06650)|null|[Kimi](https://papers.cool/arxiv/2501.06650)|
-| 5|**2025-01-11**|**Guided Code Generation with LLMs: A Multi-Agent Framework for Complex Code Tasks**|Amr Almorsi et.al.|[2501.06625](http://arxiv.org/abs/2501.06625)|null|[Kimi](https://papers.cool/arxiv/2501.06625)|
-| 6|**2025-01-11**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|null|[Kimi](https://papers.cool/arxiv/2501.06589)|
-| 7|**2025-01-11**|**Tensor Product Attention Is All You Need**|Yifan Zhang et.al.|[2501.06425](http://arxiv.org/abs/2501.06425)|**[link](https://github.com/tensorgi/t6)**|[Kimi](https://papers.cool/arxiv/2501.06425)|
-| 8|**2025-01-10**|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu et.al.|[2501.06080](http://arxiv.org/abs/2501.06080)|null|[Kimi](https://papers.cool/arxiv/2501.06080)|
-| 9|**2025-01-09**|**Prediction-Assisted Online Distributed Deep Learning Workload Scheduling in GPU Clusters**|Ziyue Luo et.al.|[2501.05563](http://arxiv.org/abs/2501.05563)|null|[Kimi](https://papers.cool/arxiv/2501.05563)|
-|10|**2025-01-09**|**LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation**|Xi Ye et.al.|[2501.05414](http://arxiv.org/abs/2501.05414)|null|[Kimi](https://papers.cool/arxiv/2501.05414)|
+| 1|**2025-01-14**|**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models**|Yifu Qiu et.al.|[2501.08248](http://arxiv.org/pdf/2501.08248)|null|[Kimi](https://papers.cool/arxiv/2501.08248)|
+| 2|**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/pdf/2501.08192)|null|[Kimi](https://papers.cool/arxiv/2501.08192)|
+| 3|**2025-01-13**|**A Survey of Early Exit Deep Neural Networks in NLP**|Divya Jyoti Bajpai et.al.|[2501.07670](http://arxiv.org/pdf/2501.07670)|null|[Kimi](https://papers.cool/arxiv/2501.07670)|
+| 4|**2025-01-14**|**Monotone Curve Estimation via Convex Duality**|Tongseok Lim et.al.|[2501.06975](http://arxiv.org/pdf/2501.06975)|null|[Kimi](https://papers.cool/arxiv/2501.06975)|
+| 5|**2025-01-12**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807](http://arxiv.org/pdf/2501.06807)|null|[Kimi](https://papers.cool/arxiv/2501.06807)|
+| 6|**2025-01-12**|**Mell: Memory-Efficient Large Language Model Serving via Multi-GPU KV Cache Management**|Liu Qianli et.al.|[2501.06709](http://arxiv.org/pdf/2501.06709)|null|[Kimi](https://papers.cool/arxiv/2501.06709)|
+| 7|**2025-01-11**|**SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning**|Phillip Rieger et.al.|[2501.06650](http://arxiv.org/pdf/2501.06650)|null|[Kimi](https://papers.cool/arxiv/2501.06650)|
+| 8|**2025-01-11**|**Guided Code Generation with LLMs: A Multi-Agent Framework for Complex Code Tasks**|Amr Almorsi et.al.|[2501.06625](http://arxiv.org/pdf/2501.06625)|null|[Kimi](https://papers.cool/arxiv/2501.06625)|
+| 9|**2025-01-11**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/pdf/2501.06589)|null|[Kimi](https://papers.cool/arxiv/2501.06589)|
+|10|**2025-01-11**|**Tensor Product Attention Is All You Need**|Yifan Zhang et.al.|[2501.06425](http://arxiv.org/pdf/2501.06425)|**[link](https://github.com/tensorgi/t6)**|[Kimi](https://papers.cool/arxiv/2501.06425)|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
