@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-16**|**AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation**|Junjie He et.al.|[2501.09503](http://arxiv.org/pdf/2501.09503)|null|[Kimi](https://papers.cool/arxiv/2501.09503)|
-| 2|**2025-01-16**|**PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks**|Huiyou Zhan et.al.|[2501.09367](http://arxiv.org/pdf/2501.09367)|null|[Kimi](https://papers.cool/arxiv/2501.09367)|
-| 3|**2025-01-15**|**Doc-Guided Sent2Sent++: A Sent2Sent++ Agent with Doc-Guided memory for Document-level Machine Translation**|Jiaxin Guo et.al.|[2501.08523](http://arxiv.org/pdf/2501.08523)|null|[Kimi](https://papers.cool/arxiv/2501.08523)|
-| 4|**2025-01-14**|**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models**|Yifu Qiu et.al.|[2501.08248](http://arxiv.org/pdf/2501.08248)|null|[Kimi](https://papers.cool/arxiv/2501.08248)|
-| 5|**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/pdf/2501.08192)|null|[Kimi](https://papers.cool/arxiv/2501.08192)|
-| 6|**2025-01-13**|**A Survey of Early Exit Deep Neural Networks in NLP**|Divya Jyoti Bajpai et.al.|[2501.07670](http://arxiv.org/pdf/2501.07670)|null|[Kimi](https://papers.cool/arxiv/2501.07670)|
-| 7|**2025-01-14**|**Monotone Curve Estimation via Convex Duality**|Tongseok Lim et.al.|[2501.06975](http://arxiv.org/pdf/2501.06975)|null|[Kimi](https://papers.cool/arxiv/2501.06975)|
-| 8|**2025-01-12**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807](http://arxiv.org/pdf/2501.06807)|null|[Kimi](https://papers.cool/arxiv/2501.06807)|
-| 9|**2025-01-12**|**Mell: Memory-Efficient Large Language Model Serving via Multi-GPU KV Cache Management**|Liu Qianli et.al.|[2501.06709](http://arxiv.org/pdf/2501.06709)|null|[Kimi](https://papers.cool/arxiv/2501.06709)|
-|10|**2025-01-11**|**SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning**|Phillip Rieger et.al.|[2501.06650](http://arxiv.org/pdf/2501.06650)|null|[Kimi](https://papers.cool/arxiv/2501.06650)|
+| 1|**2025-01-17**|**AraXL: A Physically Scalable, Ultra-Wide RISC-V Vector Processor Design for Fast and Efficient Computation on Long Vectors**|Navaneeth Kunhi Purayil et.al.|[2501.10301](http://arxiv.org/pdf/2501.10301)|null|[Kimi](https://papers.cool/arxiv/2501.10301)|
+| 2|**2025-01-17**|**ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario**|Lucen Zhong et.al.|[2501.10132](http://arxiv.org/pdf/2501.10132)|**[link](https://github.com/thudm/complexfuncbench)**|[Kimi](https://papers.cool/arxiv/2501.10132)|
+| 3|**2025-01-17**|**Multi-Dimensional Vector ISA Extension for Mobile In-Cache Computing**|Alireza Khadem et.al.|[2501.09902](http://arxiv.org/pdf/2501.09902)|null|[Kimi](https://papers.cool/arxiv/2501.09902)|
+| 4|**2025-01-16**|**Coded Deep Learning: Framework and Algorithm**|En-hui Yang et.al.|[2501.09849](http://arxiv.org/pdf/2501.09849)|null|[Kimi](https://papers.cool/arxiv/2501.09849)|
+| 5|**2025-01-15**|**LeMo: Enabling LEss Token Involvement for MOre Context Fine-tuning**|Tuowei Wang et.al.|[2501.09767](http://arxiv.org/pdf/2501.09767)|null|[Kimi](https://papers.cool/arxiv/2501.09767)|
+| 6|**2025-01-16**|**AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation**|Junjie He et.al.|[2501.09503](http://arxiv.org/pdf/2501.09503)|null|[Kimi](https://papers.cool/arxiv/2501.09503)|
+| 7|**2025-01-16**|**PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks**|Huiyou Zhan et.al.|[2501.09367](http://arxiv.org/pdf/2501.09367)|null|[Kimi](https://papers.cool/arxiv/2501.09367)|
+| 8|**2025-01-15**|**Doc-Guided Sent2Sent++: A Sent2Sent++ Agent with Doc-Guided memory for Document-level Machine Translation**|Jiaxin Guo et.al.|[2501.08523](http://arxiv.org/pdf/2501.08523)|null|[Kimi](https://papers.cool/arxiv/2501.08523)|
+| 9|**2025-01-14**|**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models**|Yifu Qiu et.al.|[2501.08248](http://arxiv.org/pdf/2501.08248)|null|[Kimi](https://papers.cool/arxiv/2501.08248)|
+|10|**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/pdf/2501.08192)|null|[Kimi](https://papers.cool/arxiv/2501.08192)|
 
 <p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
 
