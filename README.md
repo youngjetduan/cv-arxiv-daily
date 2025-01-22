@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-17**|**AraXL: A Physically Scalable, Ultra-Wide RISC-V Vector Processor Design for Fast and Efficient Computation on Long Vectors**|Navaneeth Kunhi Purayil et.al.|[2501.10301](http://arxiv.org/pdf/2501.10301)|null|[Kimi](https://papers.cool/arxiv/2501.10301)|
-| 2|**2025-01-17**|**ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario**|Lucen Zhong et.al.|[2501.10132](http://arxiv.org/pdf/2501.10132)|**[link](https://github.com/thudm/complexfuncbench)**|[Kimi](https://papers.cool/arxiv/2501.10132)|
-| 3|**2025-01-17**|**Multi-Dimensional Vector ISA Extension for Mobile In-Cache Computing**|Alireza Khadem et.al.|[2501.09902](http://arxiv.org/pdf/2501.09902)|null|[Kimi](https://papers.cool/arxiv/2501.09902)|
-| 4|**2025-01-16**|**Coded Deep Learning: Framework and Algorithm**|En-hui Yang et.al.|[2501.09849](http://arxiv.org/pdf/2501.09849)|null|[Kimi](https://papers.cool/arxiv/2501.09849)|
-| 5|**2025-01-15**|**LeMo: Enabling LEss Token Involvement for MOre Context Fine-tuning**|Tuowei Wang et.al.|[2501.09767](http://arxiv.org/pdf/2501.09767)|null|[Kimi](https://papers.cool/arxiv/2501.09767)|
-| 6|**2025-01-16**|**AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation**|Junjie He et.al.|[2501.09503](http://arxiv.org/pdf/2501.09503)|null|[Kimi](https://papers.cool/arxiv/2501.09503)|
-| 7|**2025-01-16**|**PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks**|Huiyou Zhan et.al.|[2501.09367](http://arxiv.org/pdf/2501.09367)|null|[Kimi](https://papers.cool/arxiv/2501.09367)|
-| 8|**2025-01-15**|**Doc-Guided Sent2Sent++: A Sent2Sent++ Agent with Doc-Guided memory for Document-level Machine Translation**|Jiaxin Guo et.al.|[2501.08523](http://arxiv.org/pdf/2501.08523)|null|[Kimi](https://papers.cool/arxiv/2501.08523)|
-| 9|**2025-01-14**|**Eliciting In-context Retrieval and Reasoning for Long-context Large Language Models**|Yifu Qiu et.al.|[2501.08248](http://arxiv.org/pdf/2501.08248)|null|[Kimi](https://papers.cool/arxiv/2501.08248)|
-|10|**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/pdf/2501.08192)|null|[Kimi](https://papers.cool/arxiv/2501.08192)|
+| 1|**2025-01-21**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/pdf/2501.12375)|null|[Kimi](https://papers.cool/arxiv/2501.12375)|
+| 2|**2025-01-21**|**Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL**|Yeounoh Chung et.al.|[2501.12372](http://arxiv.org/pdf/2501.12372)|null|[Kimi](https://papers.cool/arxiv/2501.12372)|
+| 3|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/pdf/2501.12370)|null|[Kimi](https://papers.cool/arxiv/2501.12370)|
+| 4|**2025-01-21**|**CDW-CoT: Clustered Distance-Weighted Chain-of-Thoughts Reasoning**|Yuanheng Fang et.al.|[2501.12226](http://arxiv.org/pdf/2501.12226)|null|[Kimi](https://papers.cool/arxiv/2501.12226)|
+| 5|**2025-01-21**|**Muon-specific two-Higgs-doublet model for $(g-2)_μ$ anomaly, $W$ -boson mass-shift, and Zee model**|I. A. Yafi et.al.|[2501.12181](http://arxiv.org/pdf/2501.12181)|null|[Kimi](https://papers.cool/arxiv/2501.12181)|
+| 6|**2025-01-21**|**Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models**|Zihan Qiu et.al.|[2501.11873](http://arxiv.org/pdf/2501.11873)|null|[Kimi](https://papers.cool/arxiv/2501.11873)|
+| 7|**2025-01-20**|**Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training**|Jonghytun Lee et.al.|[2501.11771](http://arxiv.org/pdf/2501.11771)|null|[Kimi](https://papers.cool/arxiv/2501.11771)|
+| 8|**2025-01-20**|**Early Stopping Bayesian Optimization for Controller Tuning**|David Stenger et.al.|[2501.11532](http://arxiv.org/pdf/2501.11532)|null|[Kimi](https://papers.cool/arxiv/2501.11532)|
+| 9|**2025-01-20**|**CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation**|Zheng Chong et.al.|[2501.11325](http://arxiv.org/pdf/2501.11325)|null|[Kimi](https://papers.cool/arxiv/2501.11325)|
+|10|**2025-01-20**|**RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?**|Haotian Xu et.al.|[2501.11284](http://arxiv.org/pdf/2501.11284)|null|[Kimi](https://papers.cool/arxiv/2501.11284)|
 
 <p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
