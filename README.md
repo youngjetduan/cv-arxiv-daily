@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-21**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/pdf/2501.12375)|null|[Kimi](https://papers.cool/arxiv/2501.12375)|
-| 2|**2025-01-21**|**Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL**|Yeounoh Chung et.al.|[2501.12372](http://arxiv.org/pdf/2501.12372)|null|[Kimi](https://papers.cool/arxiv/2501.12372)|
-| 3|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/pdf/2501.12370)|null|[Kimi](https://papers.cool/arxiv/2501.12370)|
-| 4|**2025-01-21**|**CDW-CoT: Clustered Distance-Weighted Chain-of-Thoughts Reasoning**|Yuanheng Fang et.al.|[2501.12226](http://arxiv.org/pdf/2501.12226)|null|[Kimi](https://papers.cool/arxiv/2501.12226)|
-| 5|**2025-01-21**|**Muon-specific two-Higgs-doublet model for $(g-2)_μ$ anomaly, $W$ -boson mass-shift, and Zee model**|I. A. Yafi et.al.|[2501.12181](http://arxiv.org/pdf/2501.12181)|null|[Kimi](https://papers.cool/arxiv/2501.12181)|
-| 6|**2025-01-21**|**Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models**|Zihan Qiu et.al.|[2501.11873](http://arxiv.org/pdf/2501.11873)|null|[Kimi](https://papers.cool/arxiv/2501.11873)|
-| 7|**2025-01-20**|**Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training**|Jonghytun Lee et.al.|[2501.11771](http://arxiv.org/pdf/2501.11771)|null|[Kimi](https://papers.cool/arxiv/2501.11771)|
-| 8|**2025-01-20**|**Early Stopping Bayesian Optimization for Controller Tuning**|David Stenger et.al.|[2501.11532](http://arxiv.org/pdf/2501.11532)|null|[Kimi](https://papers.cool/arxiv/2501.11532)|
-| 9|**2025-01-20**|**CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation**|Zheng Chong et.al.|[2501.11325](http://arxiv.org/pdf/2501.11325)|null|[Kimi](https://papers.cool/arxiv/2501.11325)|
-|10|**2025-01-20**|**RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?**|Haotian Xu et.al.|[2501.11284](http://arxiv.org/pdf/2501.11284)|null|[Kimi](https://papers.cool/arxiv/2501.11284)|
+| 1|**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/pdf/2501.13080)|null|[Kimi](https://papers.cool/arxiv/2501.13080)|
+| 2|**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074](http://arxiv.org/pdf/2501.13074)|null|[Kimi](https://papers.cool/arxiv/2501.13074)|
+| 3|**2025-01-22**|**Ehrenfeucht-Haussler Rank and Chain of Thought**|Pablo Barceló et.al.|[2501.12997](http://arxiv.org/pdf/2501.12997)|null|[Kimi](https://papers.cool/arxiv/2501.12997)|
+| 4|**2025-01-22**|**LLM4WM: Adapting LLM for Wireless Multi-Tasking**|Xuanyu Liu et.al.|[2501.12983](http://arxiv.org/pdf/2501.12983)|null|[Kimi](https://papers.cool/arxiv/2501.12983)|
+| 5|**2025-01-22**|**Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference**|Weizhi Fei et.al.|[2501.12959](http://arxiv.org/pdf/2501.12959)|null|[Kimi](https://papers.cool/arxiv/2501.12959)|
+| 6|**2025-01-22**|**Late Breaking Result: FPGA-Based Emulation and Fault Injection for CNN Inference Accelerators**|Filip Masar et.al.|[2501.12818](http://arxiv.org/pdf/2501.12818)|null|[Kimi](https://papers.cool/arxiv/2501.12818)|
+| 7|**2025-01-22**|**NExtLong: Toward Effective Long-Context Training without Long Documents**|Chaochen Gao et.al.|[2501.12766](http://arxiv.org/pdf/2501.12766)|null|[Kimi](https://papers.cool/arxiv/2501.12766)|
+| 8|**2025-01-22**|**BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR**|Guodong Ma et.al.|[2501.12602](http://arxiv.org/pdf/2501.12602)|null|[Kimi](https://papers.cool/arxiv/2501.12602)|
+| 9|**2025-01-22**|**Kimi k1.5: Scaling Reinforcement Learning with LLMs**|Kimi Team et.al.|[2501.12599](http://arxiv.org/pdf/2501.12599)|null|[Kimi](https://papers.cool/arxiv/2501.12599)|
+|10|**2025-01-21**|**Slot-BERT: Self-supervised Object Discovery in Surgical Video**|Guiqiu Liao et.al.|[2501.12477](http://arxiv.org/pdf/2501.12477)|null|[Kimi](https://papers.cool/arxiv/2501.12477)|
 
 <p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
