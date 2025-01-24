@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/pdf/2501.13080)|null|[Kimi](https://papers.cool/arxiv/2501.13080)|
-| 2|**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074](http://arxiv.org/pdf/2501.13074)|null|[Kimi](https://papers.cool/arxiv/2501.13074)|
-| 3|**2025-01-22**|**Ehrenfeucht-Haussler Rank and Chain of Thought**|Pablo Barceló et.al.|[2501.12997](http://arxiv.org/pdf/2501.12997)|null|[Kimi](https://papers.cool/arxiv/2501.12997)|
-| 4|**2025-01-22**|**LLM4WM: Adapting LLM for Wireless Multi-Tasking**|Xuanyu Liu et.al.|[2501.12983](http://arxiv.org/pdf/2501.12983)|null|[Kimi](https://papers.cool/arxiv/2501.12983)|
-| 5|**2025-01-22**|**Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference**|Weizhi Fei et.al.|[2501.12959](http://arxiv.org/pdf/2501.12959)|null|[Kimi](https://papers.cool/arxiv/2501.12959)|
-| 6|**2025-01-22**|**Late Breaking Result: FPGA-Based Emulation and Fault Injection for CNN Inference Accelerators**|Filip Masar et.al.|[2501.12818](http://arxiv.org/pdf/2501.12818)|null|[Kimi](https://papers.cool/arxiv/2501.12818)|
-| 7|**2025-01-22**|**NExtLong: Toward Effective Long-Context Training without Long Documents**|Chaochen Gao et.al.|[2501.12766](http://arxiv.org/pdf/2501.12766)|null|[Kimi](https://papers.cool/arxiv/2501.12766)|
-| 8|**2025-01-22**|**BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR**|Guodong Ma et.al.|[2501.12602](http://arxiv.org/pdf/2501.12602)|null|[Kimi](https://papers.cool/arxiv/2501.12602)|
-| 9|**2025-01-22**|**Kimi k1.5: Scaling Reinforcement Learning with LLMs**|Kimi Team et.al.|[2501.12599](http://arxiv.org/pdf/2501.12599)|null|[Kimi](https://papers.cool/arxiv/2501.12599)|
-|10|**2025-01-21**|**Slot-BERT: Self-supervised Object Discovery in Surgical Video**|Guiqiu Liao et.al.|[2501.12477](http://arxiv.org/pdf/2501.12477)|null|[Kimi](https://papers.cool/arxiv/2501.12477)|
+| 1|**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926](http://arxiv.org/pdf/2501.13926)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|[Kimi](https://papers.cool/arxiv/2501.13926)|
+| 2|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/pdf/2501.13921)|null|[Kimi](https://papers.cool/arxiv/2501.13921)|
+| 3|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/pdf/2501.13898)|null|[Kimi](https://papers.cool/arxiv/2501.13898)|
+| 4|**2025-01-23**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models**|Zhenghao Lin et.al.|[2501.13629](http://arxiv.org/pdf/2501.13629)|null|[Kimi](https://papers.cool/arxiv/2501.13629)|
+| 5|**2025-01-23**|**Coarse-to-Fine Process Reward Modeling for Enhanced Mathematical Reasoning**|Yulan Hu et.al.|[2501.13622](http://arxiv.org/pdf/2501.13622)|null|[Kimi](https://papers.cool/arxiv/2501.13622)|
+| 6|**2025-01-23**|**Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge**|Haomiao Xiong et.al.|[2501.13468](http://arxiv.org/pdf/2501.13468)|**[link](https://github.com/hmxiong/streamchat)**|[Kimi](https://papers.cool/arxiv/2501.13468)|
+| 7|**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353](http://arxiv.org/pdf/2501.13353)|null|[Kimi](https://papers.cool/arxiv/2501.13353)|
+| 8|**2025-01-23**|**Qrazor: Reliable and effortless 4-bit llm quantization by significant data razoring**|Dongyoung Lee et.al.|[2501.13331](http://arxiv.org/pdf/2501.13331)|null|[Kimi](https://papers.cool/arxiv/2501.13331)|
+| 9|**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/pdf/2501.13080)|null|[Kimi](https://papers.cool/arxiv/2501.13080)|
+|10|**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074](http://arxiv.org/pdf/2501.13074)|null|[Kimi](https://papers.cool/arxiv/2501.13074)|
 
 <p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
