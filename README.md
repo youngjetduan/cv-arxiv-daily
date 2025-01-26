@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -21,7 +21,7 @@
 |---|---|---|---|---|---|---|
 | 1|**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926](http://arxiv.org/pdf/2501.13926)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|[Kimi](https://papers.cool/arxiv/2501.13926)|
 | 2|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/pdf/2501.13921)|null|[Kimi](https://papers.cool/arxiv/2501.13921)|
-| 3|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/pdf/2501.13898)|null|[Kimi](https://papers.cool/arxiv/2501.13898)|
+| 3|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/pdf/2501.13898)|**[link](https://github.com/zpywhu/pointobb-v3)**|[Kimi](https://papers.cool/arxiv/2501.13898)|
 | 4|**2025-01-23**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models**|Zhenghao Lin et.al.|[2501.13629](http://arxiv.org/pdf/2501.13629)|null|[Kimi](https://papers.cool/arxiv/2501.13629)|
 | 5|**2025-01-23**|**Coarse-to-Fine Process Reward Modeling for Enhanced Mathematical Reasoning**|Yulan Hu et.al.|[2501.13622](http://arxiv.org/pdf/2501.13622)|null|[Kimi](https://papers.cool/arxiv/2501.13622)|
 | 6|**2025-01-23**|**Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge**|Haomiao Xiong et.al.|[2501.13468](http://arxiv.org/pdf/2501.13468)|**[link](https://github.com/hmxiong/streamchat)**|[Kimi](https://papers.cool/arxiv/2501.13468)|
@@ -30,7 +30,7 @@
 | 9|**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/pdf/2501.13080)|null|[Kimi](https://papers.cool/arxiv/2501.13080)|
 |10|**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074](http://arxiv.org/pdf/2501.13074)|null|[Kimi](https://papers.cool/arxiv/2501.13074)|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
