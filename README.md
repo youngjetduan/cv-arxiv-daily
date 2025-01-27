@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926](http://arxiv.org/pdf/2501.13926)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|[Kimi](https://papers.cool/arxiv/2501.13926)|
-| 2|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/pdf/2501.13921)|null|[Kimi](https://papers.cool/arxiv/2501.13921)|
-| 3|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/pdf/2501.13898)|**[link](https://github.com/zpywhu/pointobb-v3)**|[Kimi](https://papers.cool/arxiv/2501.13898)|
-| 4|**2025-01-23**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models**|Zhenghao Lin et.al.|[2501.13629](http://arxiv.org/pdf/2501.13629)|null|[Kimi](https://papers.cool/arxiv/2501.13629)|
-| 5|**2025-01-23**|**Coarse-to-Fine Process Reward Modeling for Enhanced Mathematical Reasoning**|Yulan Hu et.al.|[2501.13622](http://arxiv.org/pdf/2501.13622)|null|[Kimi](https://papers.cool/arxiv/2501.13622)|
-| 6|**2025-01-23**|**Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge**|Haomiao Xiong et.al.|[2501.13468](http://arxiv.org/pdf/2501.13468)|**[link](https://github.com/hmxiong/streamchat)**|[Kimi](https://papers.cool/arxiv/2501.13468)|
-| 7|**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353](http://arxiv.org/pdf/2501.13353)|null|[Kimi](https://papers.cool/arxiv/2501.13353)|
-| 8|**2025-01-23**|**Qrazor: Reliable and effortless 4-bit llm quantization by significant data razoring**|Dongyoung Lee et.al.|[2501.13331](http://arxiv.org/pdf/2501.13331)|null|[Kimi](https://papers.cool/arxiv/2501.13331)|
-| 9|**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/pdf/2501.13080)|null|[Kimi](https://papers.cool/arxiv/2501.13080)|
-|10|**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074](http://arxiv.org/pdf/2501.13074)|null|[Kimi](https://papers.cool/arxiv/2501.13074)|
+| 1|**2025-01-24**|**Mean-field limit from general mixtures of experts to quantum neural networks**|Anderson Melchor Hernandez et.al.|[2501.14660](http://arxiv.org/pdf/2501.14660)|null|[Kimi](https://papers.cool/arxiv/2501.14660)|
+| 2|**2025-01-24**|**Experimentally Evaluating the Resource Efficiency of Big Data Autoscaling**|Jonathan Will et.al.|[2501.14456](http://arxiv.org/pdf/2501.14456)|null|[Kimi](https://papers.cool/arxiv/2501.14456)|
+| 3|**2025-01-24**|**Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains**|Xu Chu et.al.|[2501.14431](http://arxiv.org/pdf/2501.14431)|null|[Kimi](https://papers.cool/arxiv/2501.14431)|
+| 4|**2025-01-24**|**GraphBC: Improving LLMs for Better Graph Data Processing**|Xu Chu et.al.|[2501.14427](http://arxiv.org/pdf/2501.14427)|null|[Kimi](https://papers.cool/arxiv/2501.14427)|
+| 5|**2025-01-24**|**Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation**|Shengzhe Zhang et.al.|[2501.14269](http://arxiv.org/pdf/2501.14269)|**[link](https://github.com/SStarCCat/HM4SR)**|[Kimi](https://papers.cool/arxiv/2501.14269)|
+| 6|**2025-01-24**|**Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-based Model Caching and Inference Offloading**|Minrui Xu et.al.|[2501.14205](http://arxiv.org/pdf/2501.14205)|null|[Kimi](https://papers.cool/arxiv/2501.14205)|
+| 7|**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926](http://arxiv.org/pdf/2501.13926)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|[Kimi](https://papers.cool/arxiv/2501.13926)|
+| 8|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/pdf/2501.13921)|null|[Kimi](https://papers.cool/arxiv/2501.13921)|
+| 9|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/pdf/2501.13898)|**[link](https://github.com/zpywhu/pointobb-v3)**|[Kimi](https://papers.cool/arxiv/2501.13898)|
+|10|**2025-01-23**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models**|Zhenghao Lin et.al.|[2501.13629](http://arxiv.org/pdf/2501.13629)|null|[Kimi](https://papers.cool/arxiv/2501.13629)|
 
 <p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
