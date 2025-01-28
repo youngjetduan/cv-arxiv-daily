@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-24**|**Mean-field limit from general mixtures of experts to quantum neural networks**|Anderson Melchor Hernandez et.al.|[2501.14660](http://arxiv.org/pdf/2501.14660)|null|[Kimi](https://papers.cool/arxiv/2501.14660)|
-| 2|**2025-01-24**|**Experimentally Evaluating the Resource Efficiency of Big Data Autoscaling**|Jonathan Will et.al.|[2501.14456](http://arxiv.org/pdf/2501.14456)|null|[Kimi](https://papers.cool/arxiv/2501.14456)|
-| 3|**2025-01-24**|**Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains**|Xu Chu et.al.|[2501.14431](http://arxiv.org/pdf/2501.14431)|null|[Kimi](https://papers.cool/arxiv/2501.14431)|
-| 4|**2025-01-24**|**GraphBC: Improving LLMs for Better Graph Data Processing**|Xu Chu et.al.|[2501.14427](http://arxiv.org/pdf/2501.14427)|null|[Kimi](https://papers.cool/arxiv/2501.14427)|
-| 5|**2025-01-24**|**Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation**|Shengzhe Zhang et.al.|[2501.14269](http://arxiv.org/pdf/2501.14269)|**[link](https://github.com/SStarCCat/HM4SR)**|[Kimi](https://papers.cool/arxiv/2501.14269)|
-| 6|**2025-01-24**|**Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-based Model Caching and Inference Offloading**|Minrui Xu et.al.|[2501.14205](http://arxiv.org/pdf/2501.14205)|null|[Kimi](https://papers.cool/arxiv/2501.14205)|
-| 7|**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926](http://arxiv.org/pdf/2501.13926)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|[Kimi](https://papers.cool/arxiv/2501.13926)|
-| 8|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/pdf/2501.13921)|null|[Kimi](https://papers.cool/arxiv/2501.13921)|
-| 9|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/pdf/2501.13898)|**[link](https://github.com/zpywhu/pointobb-v3)**|[Kimi](https://papers.cool/arxiv/2501.13898)|
-|10|**2025-01-23**|**Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models**|Zhenghao Lin et.al.|[2501.13629](http://arxiv.org/pdf/2501.13629)|null|[Kimi](https://papers.cool/arxiv/2501.13629)|
+| 1|**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/pdf/2501.16226)|null|[Kimi](https://papers.cool/arxiv/2501.16226)|
+| 2|**2025-01-27**|**Provence: efficient and robust context pruning for retrieval-augmented generation**|Nadezhda Chirkova et.al.|[2501.16214](http://arxiv.org/pdf/2501.16214)|null|[Kimi](https://papers.cool/arxiv/2501.16214)|
+| 3|**2025-01-27**|**Options-Aware Dense Retrieval for Multiple-Choice query Answering**|Manish Singh et.al.|[2501.16111](http://arxiv.org/pdf/2501.16111)|null|[Kimi](https://papers.cool/arxiv/2501.16111)|
+| 4|**2025-01-27**|**Static Batching of Irregular Workloads on GPUs: Framework and Application to Efficient MoE Model Inference**|Yinghan Li et.al.|[2501.16103](http://arxiv.org/pdf/2501.16103)|null|[Kimi](https://papers.cool/arxiv/2501.16103)|
+| 5|**2025-01-27**|**Understanding Long Videos via LLM-Powered Entity Relation Graphs**|Meng Chu et.al.|[2501.15953](http://arxiv.org/pdf/2501.15953)|null|[Kimi](https://papers.cool/arxiv/2501.15953)|
+| 6|**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/pdf/2501.15785)|null|[Kimi](https://papers.cool/arxiv/2501.15785)|
+| 7|**2025-01-27**|**Renewable Energy Prediction: A Comparative Study of Deep Learning Models for Complex Dataset Analysis**|Haibo Wang et.al.|[2501.15731](http://arxiv.org/pdf/2501.15731)|null|[Kimi](https://papers.cool/arxiv/2501.15731)|
+| 8|**2025-01-26**|**A Benchmarking Platform for DDR4 Memory Performance in Data-Center-Class FPGAs**|Andrea Galimberti et.al.|[2501.15582](http://arxiv.org/pdf/2501.15582)|null|[Kimi](https://papers.cool/arxiv/2501.15582)|
+| 9|**2025-01-26**|**Qwen2.5-1M Technical Report**|An Yang et.al.|[2501.15383](http://arxiv.org/pdf/2501.15383)|null|[Kimi](https://papers.cool/arxiv/2501.15383)|
+|10|**2025-01-25**|**ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning**|Shangqian Gao et.al.|[2501.15316](http://arxiv.org/pdf/2501.15316)|null|[Kimi](https://papers.cool/arxiv/2501.15316)|
 
 <p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
 
