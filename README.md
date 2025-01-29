@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/pdf/2501.16226)|null|[Kimi](https://papers.cool/arxiv/2501.16226)|
-| 2|**2025-01-27**|**Provence: efficient and robust context pruning for retrieval-augmented generation**|Nadezhda Chirkova et.al.|[2501.16214](http://arxiv.org/pdf/2501.16214)|null|[Kimi](https://papers.cool/arxiv/2501.16214)|
-| 3|**2025-01-27**|**Options-Aware Dense Retrieval for Multiple-Choice query Answering**|Manish Singh et.al.|[2501.16111](http://arxiv.org/pdf/2501.16111)|null|[Kimi](https://papers.cool/arxiv/2501.16111)|
-| 4|**2025-01-27**|**Static Batching of Irregular Workloads on GPUs: Framework and Application to Efficient MoE Model Inference**|Yinghan Li et.al.|[2501.16103](http://arxiv.org/pdf/2501.16103)|null|[Kimi](https://papers.cool/arxiv/2501.16103)|
-| 5|**2025-01-27**|**Understanding Long Videos via LLM-Powered Entity Relation Graphs**|Meng Chu et.al.|[2501.15953](http://arxiv.org/pdf/2501.15953)|null|[Kimi](https://papers.cool/arxiv/2501.15953)|
-| 6|**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/pdf/2501.15785)|null|[Kimi](https://papers.cool/arxiv/2501.15785)|
-| 7|**2025-01-27**|**Renewable Energy Prediction: A Comparative Study of Deep Learning Models for Complex Dataset Analysis**|Haibo Wang et.al.|[2501.15731](http://arxiv.org/pdf/2501.15731)|null|[Kimi](https://papers.cool/arxiv/2501.15731)|
-| 8|**2025-01-26**|**A Benchmarking Platform for DDR4 Memory Performance in Data-Center-Class FPGAs**|Andrea Galimberti et.al.|[2501.15582](http://arxiv.org/pdf/2501.15582)|null|[Kimi](https://papers.cool/arxiv/2501.15582)|
-| 9|**2025-01-26**|**Qwen2.5-1M Technical Report**|An Yang et.al.|[2501.15383](http://arxiv.org/pdf/2501.15383)|null|[Kimi](https://papers.cool/arxiv/2501.15383)|
-|10|**2025-01-25**|**ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning**|Shangqian Gao et.al.|[2501.15316](http://arxiv.org/pdf/2501.15316)|null|[Kimi](https://papers.cool/arxiv/2501.15316)|
+| 1|**2025-01-28**|**TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT Devices Concealed within the Tor Network**|Yumingzhi Pan et.al.|[2501.16784](http://arxiv.org/pdf/2501.16784)|null|[Kimi](https://papers.cool/arxiv/2501.16784)|
+| 2|**2025-01-28**|**3D-MoE: A Mixture-of-Experts Multi-modal LLM for 3D Vision and Pose Diffusion via Rectified Flow**|Yueen Ma et.al.|[2501.16698](http://arxiv.org/pdf/2501.16698)|null|[Kimi](https://papers.cool/arxiv/2501.16698)|
+| 3|**2025-01-28**|**MCTS-SQL: An Effective Framework for Text-to-SQL with Monte Carlo Tree Search**|Shuozhi Yuan et.al.|[2501.16607](http://arxiv.org/pdf/2501.16607)|null|[Kimi](https://papers.cool/arxiv/2501.16607)|
+| 4|**2025-01-27**|**Searching for GEMS: Discovery and Characterization of Two Brown Dwarfs Around M Dwarfs**|Alexander Larsen et.al.|[2501.16554](http://arxiv.org/pdf/2501.16554)|null|[Kimi](https://papers.cool/arxiv/2501.16554)|
+| 5|**2025-01-27**|**MoEVD: Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/pdf/2501.16454)|null|[Kimi](https://papers.cool/arxiv/2501.16454)|
+| 6|**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/pdf/2501.16226)|null|[Kimi](https://papers.cool/arxiv/2501.16226)|
+| 7|**2025-01-27**|**Provence: efficient and robust context pruning for retrieval-augmented generation**|Nadezhda Chirkova et.al.|[2501.16214](http://arxiv.org/pdf/2501.16214)|null|[Kimi](https://papers.cool/arxiv/2501.16214)|
+| 8|**2025-01-27**|**Options-Aware Dense Retrieval for Multiple-Choice query Answering**|Manish Singh et.al.|[2501.16111](http://arxiv.org/pdf/2501.16111)|null|[Kimi](https://papers.cool/arxiv/2501.16111)|
+| 9|**2025-01-27**|**Static Batching of Irregular Workloads on GPUs: Framework and Application to Efficient MoE Model Inference**|Yinghan Li et.al.|[2501.16103](http://arxiv.org/pdf/2501.16103)|null|[Kimi](https://papers.cool/arxiv/2501.16103)|
+|10|**2025-01-27**|**Understanding Long Videos via LLM-Powered Entity Relation Graphs**|Meng Chu et.al.|[2501.15953](http://arxiv.org/pdf/2501.15953)|null|[Kimi](https://papers.cool/arxiv/2501.15953)|
 
 <p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
