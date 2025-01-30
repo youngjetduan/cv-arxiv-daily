@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-28**|**TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT Devices Concealed within the Tor Network**|Yumingzhi Pan et.al.|[2501.16784](http://arxiv.org/pdf/2501.16784)|null|[Kimi](https://papers.cool/arxiv/2501.16784)|
-| 2|**2025-01-28**|**3D-MoE: A Mixture-of-Experts Multi-modal LLM for 3D Vision and Pose Diffusion via Rectified Flow**|Yueen Ma et.al.|[2501.16698](http://arxiv.org/pdf/2501.16698)|null|[Kimi](https://papers.cool/arxiv/2501.16698)|
-| 3|**2025-01-28**|**MCTS-SQL: An Effective Framework for Text-to-SQL with Monte Carlo Tree Search**|Shuozhi Yuan et.al.|[2501.16607](http://arxiv.org/pdf/2501.16607)|null|[Kimi](https://papers.cool/arxiv/2501.16607)|
-| 4|**2025-01-27**|**Searching for GEMS: Discovery and Characterization of Two Brown Dwarfs Around M Dwarfs**|Alexander Larsen et.al.|[2501.16554](http://arxiv.org/pdf/2501.16554)|null|[Kimi](https://papers.cool/arxiv/2501.16554)|
-| 5|**2025-01-27**|**MoEVD: Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/pdf/2501.16454)|null|[Kimi](https://papers.cool/arxiv/2501.16454)|
-| 6|**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/pdf/2501.16226)|null|[Kimi](https://papers.cool/arxiv/2501.16226)|
-| 7|**2025-01-27**|**Provence: efficient and robust context pruning for retrieval-augmented generation**|Nadezhda Chirkova et.al.|[2501.16214](http://arxiv.org/pdf/2501.16214)|null|[Kimi](https://papers.cool/arxiv/2501.16214)|
-| 8|**2025-01-27**|**Options-Aware Dense Retrieval for Multiple-Choice query Answering**|Manish Singh et.al.|[2501.16111](http://arxiv.org/pdf/2501.16111)|null|[Kimi](https://papers.cool/arxiv/2501.16111)|
-| 9|**2025-01-27**|**Static Batching of Irregular Workloads on GPUs: Framework and Application to Efficient MoE Model Inference**|Yinghan Li et.al.|[2501.16103](http://arxiv.org/pdf/2501.16103)|null|[Kimi](https://papers.cool/arxiv/2501.16103)|
-|10|**2025-01-27**|**Understanding Long Videos via LLM-Powered Entity Relation Graphs**|Meng Chu et.al.|[2501.15953](http://arxiv.org/pdf/2501.15953)|null|[Kimi](https://papers.cool/arxiv/2501.15953)|
+| 1|**2025-01-29**|**Formally Verified Binary-level Pointer Analysis**|Freek Verbeek et.al.|[2501.17766](http://arxiv.org/pdf/2501.17766)|null|[Kimi](https://papers.cool/arxiv/2501.17766)|
+| 2|**2025-01-29**|**CSEval: Towards Automated, Multi-Dimensional, and Reference-Free Counterspeech Evaluation using Auto-Calibrated LLMs**|Amey Hengle et.al.|[2501.17581](http://arxiv.org/pdf/2501.17581)|null|[Kimi](https://papers.cool/arxiv/2501.17581)|
+| 3|**2025-01-29**|**Heuristic-Informed Mixture of Experts for Link Prediction in Multilayer Networks**|Lucio La Cava et.al.|[2501.17557](http://arxiv.org/pdf/2501.17557)|null|[Kimi](https://papers.cool/arxiv/2501.17557)|
+| 4|**2025-01-29**|**DINT Transformer**|Yueyang Cang et.al.|[2501.17486](http://arxiv.org/pdf/2501.17486)|null|[Kimi](https://papers.cool/arxiv/2501.17486)|
+| 5|**2025-01-28**|**TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT Devices Concealed within the Tor Network**|Yumingzhi Pan et.al.|[2501.16784](http://arxiv.org/pdf/2501.16784)|null|[Kimi](https://papers.cool/arxiv/2501.16784)|
+| 6|**2025-01-28**|**3D-MoE: A Mixture-of-Experts Multi-modal LLM for 3D Vision and Pose Diffusion via Rectified Flow**|Yueen Ma et.al.|[2501.16698](http://arxiv.org/pdf/2501.16698)|null|[Kimi](https://papers.cool/arxiv/2501.16698)|
+| 7|**2025-01-28**|**MCTS-SQL: An Effective Framework for Text-to-SQL with Monte Carlo Tree Search**|Shuozhi Yuan et.al.|[2501.16607](http://arxiv.org/pdf/2501.16607)|null|[Kimi](https://papers.cool/arxiv/2501.16607)|
+| 8|**2025-01-27**|**Searching for GEMS: Discovery and Characterization of Two Brown Dwarfs Around M Dwarfs**|Alexander Larsen et.al.|[2501.16554](http://arxiv.org/pdf/2501.16554)|null|[Kimi](https://papers.cool/arxiv/2501.16554)|
+| 9|**2025-01-27**|**MoEVD: Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/pdf/2501.16454)|null|[Kimi](https://papers.cool/arxiv/2501.16454)|
+|10|**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/pdf/2501.16226)|null|[Kimi](https://papers.cool/arxiv/2501.16226)|
 
 <p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
