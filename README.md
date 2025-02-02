@@ -22,7 +22,7 @@
 | 1|**2025-01-30**|**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**|Yi Ding et.al.|[2501.18533](http://arxiv.org/pdf/2501.18533)|null|[Kimi](https://papers.cool/arxiv/2501.18533)|
 | 2|**2025-01-30**|**State Stream Transformer (SST) : Emergent Metacognitive Behaviours Through Latent State Persistence**|Thea Aviss et.al.|[2501.18356](http://arxiv.org/pdf/2501.18356)|null|[Kimi](https://papers.cool/arxiv/2501.18356)|
 | 3|**2025-01-30**|**Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**|Swarnadeep Saha et.al.|[2501.18099](http://arxiv.org/pdf/2501.18099)|null|[Kimi](https://papers.cool/arxiv/2501.18099)|
-| 4|**2025-01-29**|**Physics-Grounded Differentiable Simulation for Soft Growing Robots**|Lucas Chen et.al.|[2501.17963](http://arxiv.org/pdf/2501.17963)|null|[Kimi](https://papers.cool/arxiv/2501.17963)|
+| 4|**2025-01-29**|**Physics-Grounded Differentiable Simulation for Soft Growing Robots**|Lucas Chen et.al.|[2501.17963](http://arxiv.org/pdf/2501.17963)|**[link](https://github.com/commalab/diffvinesimpy)**|[Kimi](https://papers.cool/arxiv/2501.17963)|
 | 5|**2025-01-29**|**Free Agent in Agent-Based Mixture-of-Experts Generative AI Framework**|Jung-Hua Liu et.al.|[2501.17903](http://arxiv.org/pdf/2501.17903)|null|[Kimi](https://papers.cool/arxiv/2501.17903)|
 | 6|**2025-01-29**|**Formally Verified Binary-level Pointer Analysis**|Freek Verbeek et.al.|[2501.17766](http://arxiv.org/pdf/2501.17766)|null|[Kimi](https://papers.cool/arxiv/2501.17766)|
 | 7|**2025-01-29**|**CSEval: Towards Automated, Multi-Dimensional, and Reference-Free Counterspeech Evaluation using Auto-Calibrated LLMs**|Amey Hengle et.al.|[2501.17581](http://arxiv.org/pdf/2501.17581)|null|[Kimi](https://papers.cool/arxiv/2501.17581)|
