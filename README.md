@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-30**|**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**|Yi Ding et.al.|[2501.18533](http://arxiv.org/pdf/2501.18533)|null|[Kimi](https://papers.cool/arxiv/2501.18533)|
-| 2|**2025-01-30**|**State Stream Transformer (SST) : Emergent Metacognitive Behaviours Through Latent State Persistence**|Thea Aviss et.al.|[2501.18356](http://arxiv.org/pdf/2501.18356)|null|[Kimi](https://papers.cool/arxiv/2501.18356)|
-| 3|**2025-01-30**|**Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge**|Swarnadeep Saha et.al.|[2501.18099](http://arxiv.org/pdf/2501.18099)|null|[Kimi](https://papers.cool/arxiv/2501.18099)|
-| 4|**2025-01-29**|**Physics-Grounded Differentiable Simulation for Soft Growing Robots**|Lucas Chen et.al.|[2501.17963](http://arxiv.org/pdf/2501.17963)|**[link](https://github.com/commalab/diffvinesimpy)**|[Kimi](https://papers.cool/arxiv/2501.17963)|
-| 5|**2025-01-29**|**Free Agent in Agent-Based Mixture-of-Experts Generative AI Framework**|Jung-Hua Liu et.al.|[2501.17903](http://arxiv.org/pdf/2501.17903)|null|[Kimi](https://papers.cool/arxiv/2501.17903)|
-| 6|**2025-01-29**|**Formally Verified Binary-level Pointer Analysis**|Freek Verbeek et.al.|[2501.17766](http://arxiv.org/pdf/2501.17766)|null|[Kimi](https://papers.cool/arxiv/2501.17766)|
-| 7|**2025-01-29**|**CSEval: Towards Automated, Multi-Dimensional, and Reference-Free Counterspeech Evaluation using Auto-Calibrated LLMs**|Amey Hengle et.al.|[2501.17581](http://arxiv.org/pdf/2501.17581)|null|[Kimi](https://papers.cool/arxiv/2501.17581)|
-| 8|**2025-01-29**|**Heuristic-Informed Mixture of Experts for Link Prediction in Multilayer Networks**|Lucio La Cava et.al.|[2501.17557](http://arxiv.org/pdf/2501.17557)|null|[Kimi](https://papers.cool/arxiv/2501.17557)|
-| 9|**2025-01-29**|**DINT Transformer**|Yueyang Cang et.al.|[2501.17486](http://arxiv.org/pdf/2501.17486)|null|[Kimi](https://papers.cool/arxiv/2501.17486)|
-|10|**2025-01-28**|**TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT Devices Concealed within the Tor Network**|Yumingzhi Pan et.al.|[2501.16784](http://arxiv.org/pdf/2501.16784)|null|[Kimi](https://papers.cool/arxiv/2501.16784)|
+| 1|**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399](http://arxiv.org/pdf/2501.19399)|null|[Kimi](https://papers.cool/arxiv/2501.19399)|
+| 2|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/pdf/2501.19392)|null|[Kimi](https://papers.cool/arxiv/2501.19392)|
+| 3|**2025-01-31**|**Efficient Reasoning with Hidden Thinking**|Xuan Shen et.al.|[2501.19201](http://arxiv.org/pdf/2501.19201)|**[link](https://github.com/shawnricecake/heima)**|[Kimi](https://papers.cool/arxiv/2501.19201)|
+| 4|**2025-01-31**|**Rethinking Early Stopping: Refine, Then Calibrate**|Eugène Berta et.al.|[2501.19195](http://arxiv.org/pdf/2501.19195)|**[link](https://github.com/eugeneberta/refinethencalibrate-theory)**|[Kimi](https://papers.cool/arxiv/2501.19195)|
+| 5|**2025-01-31**|**A theoretical framework for overfitting in energy-based modeling**|Giovanni Catania et.al.|[2501.19158](http://arxiv.org/pdf/2501.19158)|null|[Kimi](https://papers.cool/arxiv/2501.19158)|
+| 6|**2025-01-31**|**$\infty$ -Video: A Training-Free Approach to Long Video Understanding via Continuous-Time Memory Consolidation**|Saul Santos et.al.|[2501.19098](http://arxiv.org/pdf/2501.19098)|**[link](https://github.com/deep-spin/infinite-video)**|[Kimi](https://papers.cool/arxiv/2501.19098)|
+| 7|**2025-01-30**|**Rope to Nope and Back Again: A New Hybrid Attention Strategy**|Bowen Yang et.al.|[2501.18795](http://arxiv.org/pdf/2501.18795)|null|[Kimi](https://papers.cool/arxiv/2501.18795)|
+| 8|**2025-01-30**|**Zero-shot Large Language Models for Long Clinical Text Summarization with Temporal Reasoning**|Maya Kruse et.al.|[2501.18724](http://arxiv.org/pdf/2501.18724)|null|[Kimi](https://papers.cool/arxiv/2501.18724)|
+| 9|**2025-01-30**|**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**|Yi Ding et.al.|[2501.18533](http://arxiv.org/pdf/2501.18533)|null|[Kimi](https://papers.cool/arxiv/2501.18533)|
+|10|**2025-01-30**|**State Stream Transformer (SST) : Emergent Metacognitive Behaviours Through Latent State Persistence**|Thea Aviss et.al.|[2501.18356](http://arxiv.org/pdf/2501.18356)|null|[Kimi](https://papers.cool/arxiv/2501.18356)|
 
 <p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
 
