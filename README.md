@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399](http://arxiv.org/pdf/2501.19399)|null|[Kimi](https://papers.cool/arxiv/2501.19399)|
-| 2|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/pdf/2501.19392)|null|[Kimi](https://papers.cool/arxiv/2501.19392)|
-| 3|**2025-01-31**|**Efficient Reasoning with Hidden Thinking**|Xuan Shen et.al.|[2501.19201](http://arxiv.org/pdf/2501.19201)|**[link](https://github.com/shawnricecake/heima)**|[Kimi](https://papers.cool/arxiv/2501.19201)|
-| 4|**2025-01-31**|**Rethinking Early Stopping: Refine, Then Calibrate**|Eugène Berta et.al.|[2501.19195](http://arxiv.org/pdf/2501.19195)|**[link](https://github.com/eugeneberta/refinethencalibrate-theory)**|[Kimi](https://papers.cool/arxiv/2501.19195)|
-| 5|**2025-01-31**|**A theoretical framework for overfitting in energy-based modeling**|Giovanni Catania et.al.|[2501.19158](http://arxiv.org/pdf/2501.19158)|null|[Kimi](https://papers.cool/arxiv/2501.19158)|
-| 6|**2025-01-31**|**$\infty$ -Video: A Training-Free Approach to Long Video Understanding via Continuous-Time Memory Consolidation**|Saul Santos et.al.|[2501.19098](http://arxiv.org/pdf/2501.19098)|**[link](https://github.com/deep-spin/infinite-video)**|[Kimi](https://papers.cool/arxiv/2501.19098)|
-| 7|**2025-01-30**|**Rope to Nope and Back Again: A New Hybrid Attention Strategy**|Bowen Yang et.al.|[2501.18795](http://arxiv.org/pdf/2501.18795)|null|[Kimi](https://papers.cool/arxiv/2501.18795)|
-| 8|**2025-01-30**|**Zero-shot Large Language Models for Long Clinical Text Summarization with Temporal Reasoning**|Maya Kruse et.al.|[2501.18724](http://arxiv.org/pdf/2501.18724)|null|[Kimi](https://papers.cool/arxiv/2501.18724)|
-| 9|**2025-01-30**|**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**|Yi Ding et.al.|[2501.18533](http://arxiv.org/pdf/2501.18533)|null|[Kimi](https://papers.cool/arxiv/2501.18533)|
-|10|**2025-01-30**|**State Stream Transformer (SST) : Emergent Metacognitive Behaviours Through Latent State Persistence**|Thea Aviss et.al.|[2501.18356](http://arxiv.org/pdf/2501.18356)|null|[Kimi](https://papers.cool/arxiv/2501.18356)|
+| 1|**2025-02-04**|**Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded Sparse Data Parallelism**|Yuhao Qing et.al.|[2502.02581](http://arxiv.org/pdf/2502.02581)|null|[Kimi](https://papers.cool/arxiv/2502.02581)|
+| 2|**2025-02-04**|**Brief analysis of DeepSeek R1 and it's implications for Generative AI**|Sarah Mercer et.al.|[2502.02523](http://arxiv.org/pdf/2502.02523)|null|[Kimi](https://papers.cool/arxiv/2502.02523)|
+| 3|**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/pdf/2502.02493)|null|[Kimi](https://papers.cool/arxiv/2502.02493)|
+| 4|**2025-02-04**|**Lower Bounds for Chain-of-Thought Reasoning in Hard-Attention Transformers**|Alireza Amiri et.al.|[2502.02393](http://arxiv.org/pdf/2502.02393)|null|[Kimi](https://papers.cool/arxiv/2502.02393)|
+| 5|**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/pdf/2502.02384)|null|[Kimi](https://papers.cool/arxiv/2502.02384)|
+| 6|**2025-02-04**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362](http://arxiv.org/pdf/2502.02362)|null|[Kimi](https://papers.cool/arxiv/2502.02362)|
+| 7|**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/pdf/2502.02175)|null|[Kimi](https://papers.cool/arxiv/2502.02175)|
+| 8|**2025-02-04**|**M2R2: Mixture of Multi-Rate Residuals for Efficient Transformer Inference**|Nikhil Bhendawade et.al.|[2502.02040](http://arxiv.org/pdf/2502.02040)|null|[Kimi](https://papers.cool/arxiv/2502.02040)|
+| 9|**2025-02-04**|**Wavelet-based Positional Representation for Long Context**|Yui Oka et.al.|[2502.02004](http://arxiv.org/pdf/2502.02004)|null|[Kimi](https://papers.cool/arxiv/2502.02004)|
+|10|**2025-02-04**|**MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving**|Shiju Zhao et.al.|[2502.01960](http://arxiv.org/pdf/2502.01960)|null|[Kimi](https://papers.cool/arxiv/2502.01960)|
 
 <p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
