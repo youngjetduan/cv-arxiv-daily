@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-04**|**Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded Sparse Data Parallelism**|Yuhao Qing et.al.|[2502.02581](http://arxiv.org/pdf/2502.02581)|null|[Kimi](https://papers.cool/arxiv/2502.02581)|
-| 2|**2025-02-04**|**Brief analysis of DeepSeek R1 and it's implications for Generative AI**|Sarah Mercer et.al.|[2502.02523](http://arxiv.org/pdf/2502.02523)|null|[Kimi](https://papers.cool/arxiv/2502.02523)|
-| 3|**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/pdf/2502.02493)|null|[Kimi](https://papers.cool/arxiv/2502.02493)|
-| 4|**2025-02-04**|**Lower Bounds for Chain-of-Thought Reasoning in Hard-Attention Transformers**|Alireza Amiri et.al.|[2502.02393](http://arxiv.org/pdf/2502.02393)|null|[Kimi](https://papers.cool/arxiv/2502.02393)|
-| 5|**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/pdf/2502.02384)|null|[Kimi](https://papers.cool/arxiv/2502.02384)|
-| 6|**2025-02-04**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362](http://arxiv.org/pdf/2502.02362)|null|[Kimi](https://papers.cool/arxiv/2502.02362)|
-| 7|**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/pdf/2502.02175)|null|[Kimi](https://papers.cool/arxiv/2502.02175)|
-| 8|**2025-02-04**|**M2R2: Mixture of Multi-Rate Residuals for Efficient Transformer Inference**|Nikhil Bhendawade et.al.|[2502.02040](http://arxiv.org/pdf/2502.02040)|null|[Kimi](https://papers.cool/arxiv/2502.02040)|
-| 9|**2025-02-04**|**Wavelet-based Positional Representation for Long Context**|Yui Oka et.al.|[2502.02004](http://arxiv.org/pdf/2502.02004)|null|[Kimi](https://papers.cool/arxiv/2502.02004)|
-|10|**2025-02-04**|**MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving**|Shiju Zhao et.al.|[2502.01960](http://arxiv.org/pdf/2502.01960)|null|[Kimi](https://papers.cool/arxiv/2502.01960)|
+| 1|**2025-02-05**|**Demystifying Long Chain-of-Thought Reasoning in LLMs**|Edward Yeo et.al.|[2502.03373](http://arxiv.org/pdf/2502.03373)|null|[Kimi](https://papers.cool/arxiv/2502.03373)|
+| 2|**2025-02-05**|**ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model**|Qiguang Chen et.al.|[2502.03325](http://arxiv.org/pdf/2502.03325)|null|[Kimi](https://papers.cool/arxiv/2502.03325)|
+| 3|**2025-02-05**|**Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning**|DiJia Su et.al.|[2502.03275](http://arxiv.org/pdf/2502.03275)|null|[Kimi](https://papers.cool/arxiv/2502.03275)|
+| 4|**2025-02-05**|**MaxInfo: A Training-Free Key-Frame Selection Method Using Maximum Volume for Enhanced Video Understanding**|Pengyi Li et.al.|[2502.03183](http://arxiv.org/pdf/2502.03183)|null|[Kimi](https://papers.cool/arxiv/2502.03183)|
+| 5|**2025-02-05**|**Structured Token Retention and Computational Memory Paths in Large Language Models**|Jonathan Delena et.al.|[2502.03102](http://arxiv.org/pdf/2502.03102)|null|[Kimi](https://papers.cool/arxiv/2502.03102)|
+| 6|**2025-02-05**|**IAO Prompting: Making Knowledge Flow Explicit in LLMs through Structured Reasoning Templates**|Aissatou Diallo et.al.|[2502.03080](http://arxiv.org/pdf/2502.03080)|null|[Kimi](https://papers.cool/arxiv/2502.03080)|
+| 7|**2025-02-05**|**Scaling Laws for Upcycling Mixture-of-Experts Language Models**|Seng Pei Liew et.al.|[2502.03009](http://arxiv.org/pdf/2502.03009)|null|[Kimi](https://papers.cool/arxiv/2502.03009)|
+| 8|**2025-02-05**|**LLM-KT: Aligning Large Language Models with Knowledge Tracing using a Plug-and-Play Instruction**|Ziwei Wang et.al.|[2502.02945](http://arxiv.org/pdf/2502.02945)|null|[Kimi](https://papers.cool/arxiv/2502.02945)|
+| 9|**2025-02-05**|**Early Stopping in Contextual Bandits and Inferences**|Zihan Cui et.al.|[2502.02793](http://arxiv.org/pdf/2502.02793)|null|[Kimi](https://papers.cool/arxiv/2502.02793)|
+|10|**2025-02-04**|**Twilight: Adaptive Attention Sparsity with Hierarchical Top- $p$ Pruning**|Chaofan Lin et.al.|[2502.02770](http://arxiv.org/pdf/2502.02770)|null|[Kimi](https://papers.cool/arxiv/2502.02770)|
 
 <p align=right>(<a href=#updated-on-20250206>back to top</a>)</p>
 
