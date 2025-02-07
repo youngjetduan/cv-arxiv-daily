@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-05**|**Demystifying Long Chain-of-Thought Reasoning in LLMs**|Edward Yeo et.al.|[2502.03373](http://arxiv.org/pdf/2502.03373)|null|[Kimi](https://papers.cool/arxiv/2502.03373)|
-| 2|**2025-02-05**|**ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model**|Qiguang Chen et.al.|[2502.03325](http://arxiv.org/pdf/2502.03325)|null|[Kimi](https://papers.cool/arxiv/2502.03325)|
-| 3|**2025-02-05**|**Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning**|DiJia Su et.al.|[2502.03275](http://arxiv.org/pdf/2502.03275)|null|[Kimi](https://papers.cool/arxiv/2502.03275)|
-| 4|**2025-02-05**|**MaxInfo: A Training-Free Key-Frame Selection Method Using Maximum Volume for Enhanced Video Understanding**|Pengyi Li et.al.|[2502.03183](http://arxiv.org/pdf/2502.03183)|null|[Kimi](https://papers.cool/arxiv/2502.03183)|
-| 5|**2025-02-05**|**Structured Token Retention and Computational Memory Paths in Large Language Models**|Jonathan Delena et.al.|[2502.03102](http://arxiv.org/pdf/2502.03102)|null|[Kimi](https://papers.cool/arxiv/2502.03102)|
-| 6|**2025-02-05**|**IAO Prompting: Making Knowledge Flow Explicit in LLMs through Structured Reasoning Templates**|Aissatou Diallo et.al.|[2502.03080](http://arxiv.org/pdf/2502.03080)|null|[Kimi](https://papers.cool/arxiv/2502.03080)|
-| 7|**2025-02-05**|**Scaling Laws for Upcycling Mixture-of-Experts Language Models**|Seng Pei Liew et.al.|[2502.03009](http://arxiv.org/pdf/2502.03009)|null|[Kimi](https://papers.cool/arxiv/2502.03009)|
-| 8|**2025-02-05**|**LLM-KT: Aligning Large Language Models with Knowledge Tracing using a Plug-and-Play Instruction**|Ziwei Wang et.al.|[2502.02945](http://arxiv.org/pdf/2502.02945)|null|[Kimi](https://papers.cool/arxiv/2502.02945)|
-| 9|**2025-02-05**|**Early Stopping in Contextual Bandits and Inferences**|Zihan Cui et.al.|[2502.02793](http://arxiv.org/pdf/2502.02793)|null|[Kimi](https://papers.cool/arxiv/2502.02793)|
-|10|**2025-02-04**|**Twilight: Adaptive Attention Sparsity with Hierarchical Top- $p$ Pruning**|Chaofan Lin et.al.|[2502.02770](http://arxiv.org/pdf/2502.02770)|null|[Kimi](https://papers.cool/arxiv/2502.02770)|
+| 1|**2025-02-06**|**Exploring operation parallelism vs. ion movement in ion-trapped QCCD architectures**|Anabel Ovide et.al.|[2502.04181](http://arxiv.org/pdf/2502.04181)|null|[Kimi](https://papers.cool/arxiv/2502.04181)|
+| 2|**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/pdf/2502.04144)|null|[Kimi](https://papers.cool/arxiv/2502.04144)|
+| 3|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/pdf/2502.04077)|null|[Kimi](https://papers.cool/arxiv/2502.04077)|
+| 4|**2025-02-06**|**RWKV-UI: UI Understanding with Enhanced Perception and Reasoning**|Jiaxi Yang et.al.|[2502.03971](http://arxiv.org/pdf/2502.03971)|null|[Kimi](https://papers.cool/arxiv/2502.03971)|
+| 5|**2025-02-06**|**InfinitePOD: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers**|Chenchen Shou et.al.|[2502.03885](http://arxiv.org/pdf/2502.03885)|null|[Kimi](https://papers.cool/arxiv/2502.03885)|
+| 6|**2025-02-06**|**Rank Also Matters: Hierarchical Configuration for Mixture of Adapter Experts in LLM Fine-Tuning**|Peizhuang Cong et.al.|[2502.03884](http://arxiv.org/pdf/2502.03884)|null|[Kimi](https://papers.cool/arxiv/2502.03884)|
+| 7|**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/pdf/2502.03805)|null|[Kimi](https://papers.cool/arxiv/2502.03805)|
+| 8|**2025-02-05**|**(GG) MoE vs. MLP on Tabular Data**|Andrei Chernov et.al.|[2502.03608](http://arxiv.org/pdf/2502.03608)|null|[Kimi](https://papers.cool/arxiv/2502.03608)|
+| 9|**2025-02-05**|**HACK: Homomorphic Acceleration via Compression of the Key-Value Cache for Disaggregated LLM Inference**|Zeyu Zhang et.al.|[2502.03589](http://arxiv.org/pdf/2502.03589)|null|[Kimi](https://papers.cool/arxiv/2502.03589)|
+|10|**2025-02-05**|**Demystifying Long Chain-of-Thought Reasoning in LLMs**|Edward Yeo et.al.|[2502.03373](http://arxiv.org/pdf/2502.03373)|null|[Kimi](https://papers.cool/arxiv/2502.03373)|
 
 <p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
