@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-06**|**Exploring operation parallelism vs. ion movement in ion-trapped QCCD architectures**|Anabel Ovide et.al.|[2502.04181](http://arxiv.org/pdf/2502.04181)|null|[Kimi](https://papers.cool/arxiv/2502.04181)|
-| 2|**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/pdf/2502.04144)|null|[Kimi](https://papers.cool/arxiv/2502.04144)|
-| 3|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/pdf/2502.04077)|null|[Kimi](https://papers.cool/arxiv/2502.04077)|
-| 4|**2025-02-06**|**RWKV-UI: UI Understanding with Enhanced Perception and Reasoning**|Jiaxi Yang et.al.|[2502.03971](http://arxiv.org/pdf/2502.03971)|null|[Kimi](https://papers.cool/arxiv/2502.03971)|
-| 5|**2025-02-06**|**InfinitePOD: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers**|Chenchen Shou et.al.|[2502.03885](http://arxiv.org/pdf/2502.03885)|null|[Kimi](https://papers.cool/arxiv/2502.03885)|
-| 6|**2025-02-06**|**Rank Also Matters: Hierarchical Configuration for Mixture of Adapter Experts in LLM Fine-Tuning**|Peizhuang Cong et.al.|[2502.03884](http://arxiv.org/pdf/2502.03884)|null|[Kimi](https://papers.cool/arxiv/2502.03884)|
-| 7|**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/pdf/2502.03805)|null|[Kimi](https://papers.cool/arxiv/2502.03805)|
-| 8|**2025-02-05**|**(GG) MoE vs. MLP on Tabular Data**|Andrei Chernov et.al.|[2502.03608](http://arxiv.org/pdf/2502.03608)|null|[Kimi](https://papers.cool/arxiv/2502.03608)|
-| 9|**2025-02-05**|**HACK: Homomorphic Acceleration via Compression of the Key-Value Cache for Disaggregated LLM Inference**|Zeyu Zhang et.al.|[2502.03589](http://arxiv.org/pdf/2502.03589)|null|[Kimi](https://papers.cool/arxiv/2502.03589)|
-|10|**2025-02-05**|**Demystifying Long Chain-of-Thought Reasoning in LLMs**|Edward Yeo et.al.|[2502.03373](http://arxiv.org/pdf/2502.03373)|null|[Kimi](https://papers.cool/arxiv/2502.03373)|
+| 1|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/pdf/2502.05177)|null|[Kimi](https://papers.cool/arxiv/2502.05177)|
+| 2|**2025-02-07**|**VideoRoPE: What Makes for Good Video Rotary Position Embedding?**|Xilin Wei et.al.|[2502.05173](http://arxiv.org/pdf/2502.05173)|null|[Kimi](https://papers.cool/arxiv/2502.05173)|
+| 3|**2025-02-07**|**Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient**|Jan Ludziejewski et.al.|[2502.05172](http://arxiv.org/pdf/2502.05172)|null|[Kimi](https://papers.cool/arxiv/2502.05172)|
+| 4|**2025-02-07**|**NoLiMa: Long-Context Evaluation Beyond Literal Matching**|Ali Modarressi et.al.|[2502.05167](http://arxiv.org/pdf/2502.05167)|null|[Kimi](https://papers.cool/arxiv/2502.05167)|
+| 5|**2025-02-07**|**Data-Parallel Neural Network Training via Nonlinearly Preconditioned Trust-Region Method**|Samuel A. Cruz Alegría et.al.|[2502.05133](http://arxiv.org/pdf/2502.05133)|null|[Kimi](https://papers.cool/arxiv/2502.05133)|
+| 6|**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078](http://arxiv.org/pdf/2502.05078)|null|[Kimi](https://papers.cool/arxiv/2502.05078)|
+| 7|**2025-02-07**|**S $^2$ -MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency**|Yuting Zeng et.al.|[2502.04790](http://arxiv.org/pdf/2502.04790)|null|[Kimi](https://papers.cool/arxiv/2502.04790)|
+| 8|**2025-02-07**|**Early Stopping for Regression Trees**|Ratmir Miftachov et.al.|[2502.04709](http://arxiv.org/pdf/2502.04709)|null|[Kimi](https://papers.cool/arxiv/2502.04709)|
+| 9|**2025-02-07**|**ARR: Question Answering with Large Language Models via Analyzing, Retrieving, and Reasoning**|Yuwei Yin et.al.|[2502.04689](http://arxiv.org/pdf/2502.04689)|**[link](https://github.com/YuweiYin/ARR)**|[Kimi](https://papers.cool/arxiv/2502.04689)|
+|10|**2025-02-07**|**Unveiling the Mechanisms of Explicit CoT Training: How Chain-of-Thought Enhances Reasoning Generalization**|Xinhao Yao et.al.|[2502.04667](http://arxiv.org/pdf/2502.04667)|null|[Kimi](https://papers.cool/arxiv/2502.04667)|
 
 <p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
 
