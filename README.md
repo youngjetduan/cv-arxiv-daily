@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/pdf/2502.05177)|null|[Kimi](https://papers.cool/arxiv/2502.05177)|
-| 2|**2025-02-07**|**VideoRoPE: What Makes for Good Video Rotary Position Embedding?**|Xilin Wei et.al.|[2502.05173](http://arxiv.org/pdf/2502.05173)|null|[Kimi](https://papers.cool/arxiv/2502.05173)|
-| 3|**2025-02-07**|**Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient**|Jan Ludziejewski et.al.|[2502.05172](http://arxiv.org/pdf/2502.05172)|null|[Kimi](https://papers.cool/arxiv/2502.05172)|
-| 4|**2025-02-07**|**NoLiMa: Long-Context Evaluation Beyond Literal Matching**|Ali Modarressi et.al.|[2502.05167](http://arxiv.org/pdf/2502.05167)|null|[Kimi](https://papers.cool/arxiv/2502.05167)|
-| 5|**2025-02-07**|**Data-Parallel Neural Network Training via Nonlinearly Preconditioned Trust-Region Method**|Samuel A. Cruz Alegría et.al.|[2502.05133](http://arxiv.org/pdf/2502.05133)|null|[Kimi](https://papers.cool/arxiv/2502.05133)|
-| 6|**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078](http://arxiv.org/pdf/2502.05078)|null|[Kimi](https://papers.cool/arxiv/2502.05078)|
-| 7|**2025-02-07**|**S $^2$ -MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency**|Yuting Zeng et.al.|[2502.04790](http://arxiv.org/pdf/2502.04790)|null|[Kimi](https://papers.cool/arxiv/2502.04790)|
-| 8|**2025-02-07**|**Early Stopping for Regression Trees**|Ratmir Miftachov et.al.|[2502.04709](http://arxiv.org/pdf/2502.04709)|null|[Kimi](https://papers.cool/arxiv/2502.04709)|
-| 9|**2025-02-07**|**ARR: Question Answering with Large Language Models via Analyzing, Retrieving, and Reasoning**|Yuwei Yin et.al.|[2502.04689](http://arxiv.org/pdf/2502.04689)|**[link](https://github.com/YuweiYin/ARR)**|[Kimi](https://papers.cool/arxiv/2502.04689)|
-|10|**2025-02-07**|**Unveiling the Mechanisms of Explicit CoT Training: How Chain-of-Thought Enhances Reasoning Generalization**|Xinhao Yao et.al.|[2502.04667](http://arxiv.org/pdf/2502.04667)|null|[Kimi](https://papers.cool/arxiv/2502.04667)|
+| 1|**2025-02-10**|**On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**|Guanghao Ye et.al.|[2502.06773](http://arxiv.org/pdf/2502.06773)|null|[Kimi](https://papers.cool/arxiv/2502.06773)|
+| 2|**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772](http://arxiv.org/pdf/2502.06772)|null|[Kimi](https://papers.cool/arxiv/2502.06772)|
+| 3|**2025-02-10**|**Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs**|Ryan Synk et.al.|[2502.06766](http://arxiv.org/pdf/2502.06766)|null|[Kimi](https://papers.cool/arxiv/2502.06766)|
+| 4|**2025-02-10**|**History-Guided Video Diffusion**|Kiwhan Song et.al.|[2502.06764](http://arxiv.org/pdf/2502.06764)|null|[Kimi](https://papers.cool/arxiv/2502.06764)|
+| 5|**2025-02-10**|**Rationalization Models for Text-to-SQL**|Gaetano Rossiello et.al.|[2502.06759](http://arxiv.org/pdf/2502.06759)|null|[Kimi](https://papers.cool/arxiv/2502.06759)|
+| 6|**2025-02-10**|**MoETuner: Optimized Mixture of Expert Serving with Balanced Expert Placement and Token Routing**|Seokjin Go et.al.|[2502.06643](http://arxiv.org/pdf/2502.06643)|null|[Kimi](https://papers.cool/arxiv/2502.06643)|
+| 7|**2025-02-10**|**Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches**|Adithya Pratapa et.al.|[2502.06617](http://arxiv.org/pdf/2502.06617)|null|[Kimi](https://papers.cool/arxiv/2502.06617)|
+| 8|**2025-02-10**|**Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation**|Chengwen Qi et.al.|[2502.06563](http://arxiv.org/pdf/2502.06563)|null|[Kimi](https://papers.cool/arxiv/2502.06563)|
+| 9|**2025-02-10**|**CoS: Chain-of-Shot Prompting for Long Video Understanding**|Jian Hu et.al.|[2502.06428](http://arxiv.org/pdf/2502.06428)|null|[Kimi](https://papers.cool/arxiv/2502.06428)|
+|10|**2025-02-10**|**Expect the Unexpected: FailSafe Long Context QA for Finance**|Kiran Kamble et.al.|[2502.06329](http://arxiv.org/pdf/2502.06329)|null|[Kimi](https://papers.cool/arxiv/2502.06329)|
 
 <p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
