@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-10**|**On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**|Guanghao Ye et.al.|[2502.06773](http://arxiv.org/pdf/2502.06773)|null|[Kimi](https://papers.cool/arxiv/2502.06773)|
-| 2|**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772](http://arxiv.org/pdf/2502.06772)|null|[Kimi](https://papers.cool/arxiv/2502.06772)|
-| 3|**2025-02-10**|**Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs**|Ryan Synk et.al.|[2502.06766](http://arxiv.org/pdf/2502.06766)|null|[Kimi](https://papers.cool/arxiv/2502.06766)|
-| 4|**2025-02-10**|**History-Guided Video Diffusion**|Kiwhan Song et.al.|[2502.06764](http://arxiv.org/pdf/2502.06764)|null|[Kimi](https://papers.cool/arxiv/2502.06764)|
-| 5|**2025-02-10**|**Rationalization Models for Text-to-SQL**|Gaetano Rossiello et.al.|[2502.06759](http://arxiv.org/pdf/2502.06759)|null|[Kimi](https://papers.cool/arxiv/2502.06759)|
-| 6|**2025-02-10**|**MoETuner: Optimized Mixture of Expert Serving with Balanced Expert Placement and Token Routing**|Seokjin Go et.al.|[2502.06643](http://arxiv.org/pdf/2502.06643)|null|[Kimi](https://papers.cool/arxiv/2502.06643)|
-| 7|**2025-02-10**|**Scaling Multi-Document Event Summarization: Evaluating Compression vs. Full-Text Approaches**|Adithya Pratapa et.al.|[2502.06617](http://arxiv.org/pdf/2502.06617)|null|[Kimi](https://papers.cool/arxiv/2502.06617)|
-| 8|**2025-02-10**|**Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation**|Chengwen Qi et.al.|[2502.06563](http://arxiv.org/pdf/2502.06563)|null|[Kimi](https://papers.cool/arxiv/2502.06563)|
-| 9|**2025-02-10**|**CoS: Chain-of-Shot Prompting for Long Video Understanding**|Jian Hu et.al.|[2502.06428](http://arxiv.org/pdf/2502.06428)|null|[Kimi](https://papers.cool/arxiv/2502.06428)|
-|10|**2025-02-10**|**Expect the Unexpected: FailSafe Long Context QA for Finance**|Kiran Kamble et.al.|[2502.06329](http://arxiv.org/pdf/2502.06329)|null|[Kimi](https://papers.cool/arxiv/2502.06329)|
+| 1|**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/pdf/2502.07701)|null|[Kimi](https://papers.cool/arxiv/2502.07701)|
+| 2|**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/pdf/2502.07563)|null|[Kimi](https://papers.cool/arxiv/2502.07563)|
+| 3|**2025-02-11**|**Early Stopping Against Label Noise Without Validation Data**|Suqin Yuan et.al.|[2502.07551](http://arxiv.org/pdf/2502.07551)|null|[Kimi](https://papers.cool/arxiv/2502.07551)|
+| 4|**2025-02-11**|**Instance-dependent Early Stopping**|Suqin Yuan et.al.|[2502.07547](http://arxiv.org/pdf/2502.07547)|null|[Kimi](https://papers.cool/arxiv/2502.07547)|
+| 5|**2025-02-11**|**Mask-Enhanced Autoregressive Prediction: Pay Less Attention to Learn More**|Xialie Zhuang et.al.|[2502.07490](http://arxiv.org/pdf/2502.07490)|**[link](https://github.com/scitix/MEAP)**|[Kimi](https://papers.cool/arxiv/2502.07490)|
+| 6|**2025-02-11**|**LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!**|Dacheng Li et.al.|[2502.07374](http://arxiv.org/pdf/2502.07374)|null|[Kimi](https://papers.cool/arxiv/2502.07374)|
+| 7|**2025-02-11**|**LongReD: Mitigating Short-Text Degradation of Long-Context Large Language Models via Restoration Distillation**|Zican Dong et.al.|[2502.07365](http://arxiv.org/pdf/2502.07365)|null|[Kimi](https://papers.cool/arxiv/2502.07365)|
+| 8|**2025-02-11**|**BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models**|Xu Huang et.al.|[2502.07346](http://arxiv.org/pdf/2502.07346)|null|[Kimi](https://papers.cool/arxiv/2502.07346)|
+| 9|**2025-02-11**|**CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**|Junlong Li et.al.|[2502.07316](http://arxiv.org/pdf/2502.07316)|null|[Kimi](https://papers.cool/arxiv/2502.07316)|
+|10|**2025-02-11**|**OpenGrok: Enhancing SNS Data Processing with Distilled Knowledge and Mask-like Mechanisms**|Lumen AI et.al.|[2502.07312](http://arxiv.org/pdf/2502.07312)|**[link](https://github.com/Lumen-Laboratory/OpenGrok)**|[Kimi](https://papers.cool/arxiv/2502.07312)|
 
 <p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
 
