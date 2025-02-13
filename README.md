@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/pdf/2502.07701)|null|[Kimi](https://papers.cool/arxiv/2502.07701)|
-| 2|**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/pdf/2502.07563)|null|[Kimi](https://papers.cool/arxiv/2502.07563)|
-| 3|**2025-02-11**|**Early Stopping Against Label Noise Without Validation Data**|Suqin Yuan et.al.|[2502.07551](http://arxiv.org/pdf/2502.07551)|**[link](https://github.com/tmllab/2024_ICLR_LabelWave)**|[Kimi](https://papers.cool/arxiv/2502.07551)|
-| 4|**2025-02-11**|**Instance-dependent Early Stopping**|Suqin Yuan et.al.|[2502.07547](http://arxiv.org/pdf/2502.07547)|**[link](https://github.com/tmllab/2025_ICLR_IES)**|[Kimi](https://papers.cool/arxiv/2502.07547)|
-| 5|**2025-02-11**|**Mask-Enhanced Autoregressive Prediction: Pay Less Attention to Learn More**|Xialie Zhuang et.al.|[2502.07490](http://arxiv.org/pdf/2502.07490)|**[link](https://github.com/scitix/MEAP)**|[Kimi](https://papers.cool/arxiv/2502.07490)|
-| 6|**2025-02-11**|**LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!**|Dacheng Li et.al.|[2502.07374](http://arxiv.org/pdf/2502.07374)|null|[Kimi](https://papers.cool/arxiv/2502.07374)|
-| 7|**2025-02-11**|**LongReD: Mitigating Short-Text Degradation of Long-Context Large Language Models via Restoration Distillation**|Zican Dong et.al.|[2502.07365](http://arxiv.org/pdf/2502.07365)|null|[Kimi](https://papers.cool/arxiv/2502.07365)|
-| 8|**2025-02-11**|**BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models**|Xu Huang et.al.|[2502.07346](http://arxiv.org/pdf/2502.07346)|null|[Kimi](https://papers.cool/arxiv/2502.07346)|
-| 9|**2025-02-11**|**CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**|Junlong Li et.al.|[2502.07316](http://arxiv.org/pdf/2502.07316)|null|[Kimi](https://papers.cool/arxiv/2502.07316)|
-|10|**2025-02-11**|**OpenGrok: Enhancing SNS Data Processing with Distilled Knowledge and Mask-like Mechanisms**|Lumen AI et.al.|[2502.07312](http://arxiv.org/pdf/2502.07312)|**[link](https://github.com/Lumen-Laboratory/OpenGrok)**|[Kimi](https://papers.cool/arxiv/2502.07312)|
+| 1|**2025-02-12**|**Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning**|Qifan Yu et.al.|[2502.08482](http://arxiv.org/pdf/2502.08482)|null|[Kimi](https://papers.cool/arxiv/2502.08482)|
+| 2|**2025-02-12**|**The MoE-Empowered Edge LLMs Deployment: Architecture, Challenges, and Opportunities**|Ning Li et.al.|[2502.08381](http://arxiv.org/pdf/2502.08381)|null|[Kimi](https://papers.cool/arxiv/2502.08381)|
+| 3|**2025-02-12**|**Inference-time sparse attention with asymmetric indexing**|Pierre-Emmanuel Mazaré et.al.|[2502.08246](http://arxiv.org/pdf/2502.08246)|null|[Kimi](https://papers.cool/arxiv/2502.08246)|
+| 4|**2025-02-12**|**Learning Human Skill Generators at Key-Step Levels**|Yilu Wu et.al.|[2502.08234](http://arxiv.org/pdf/2502.08234)|null|[Kimi](https://papers.cool/arxiv/2502.08234)|
+| 5|**2025-02-12**|**Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance**|Lingfei Qian et.al.|[2502.08127](http://arxiv.org/pdf/2502.08127)|null|[Kimi](https://papers.cool/arxiv/2502.08127)|
+| 6|**2025-02-12**|**GCoT: Chain-of-Thought Prompt Learning for Graphs**|Xingtong Yu et.al.|[2502.08092](http://arxiv.org/pdf/2502.08092)|null|[Kimi](https://papers.cool/arxiv/2502.08092)|
+| 7|**2025-02-12**|**Mixture of Decoupled Message Passing Experts with Entropy Constraint for General Node Classification**|Xuanze Chen et.al.|[2502.08083](http://arxiv.org/pdf/2502.08083)|null|[Kimi](https://papers.cool/arxiv/2502.08083)|
+| 8|**2025-02-11**|**Training Sparse Mixture Of Experts Text Embedding Models**|Zach Nussbaum et.al.|[2502.07972](http://arxiv.org/pdf/2502.07972)|null|[Kimi](https://papers.cool/arxiv/2502.07972)|
+| 9|**2025-02-11**|**HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment**|Youhe Jiang et.al.|[2502.07903](http://arxiv.org/pdf/2502.07903)|null|[Kimi](https://papers.cool/arxiv/2502.07903)|
+|10|**2025-02-11**|**TransMLA: Multi-head Latent Attention Is All You Need**|Fanxu Meng et.al.|[2502.07864](http://arxiv.org/pdf/2502.07864)|null|[Kimi](https://papers.cool/arxiv/2502.07864)|
 
 <p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
