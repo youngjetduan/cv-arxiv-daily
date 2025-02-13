@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -21,8 +21,8 @@
 |---|---|---|---|---|---|---|
 | 1|**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/pdf/2502.07701)|null|[Kimi](https://papers.cool/arxiv/2502.07701)|
 | 2|**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/pdf/2502.07563)|null|[Kimi](https://papers.cool/arxiv/2502.07563)|
-| 3|**2025-02-11**|**Early Stopping Against Label Noise Without Validation Data**|Suqin Yuan et.al.|[2502.07551](http://arxiv.org/pdf/2502.07551)|null|[Kimi](https://papers.cool/arxiv/2502.07551)|
-| 4|**2025-02-11**|**Instance-dependent Early Stopping**|Suqin Yuan et.al.|[2502.07547](http://arxiv.org/pdf/2502.07547)|null|[Kimi](https://papers.cool/arxiv/2502.07547)|
+| 3|**2025-02-11**|**Early Stopping Against Label Noise Without Validation Data**|Suqin Yuan et.al.|[2502.07551](http://arxiv.org/pdf/2502.07551)|**[link](https://github.com/tmllab/2024_ICLR_LabelWave)**|[Kimi](https://papers.cool/arxiv/2502.07551)|
+| 4|**2025-02-11**|**Instance-dependent Early Stopping**|Suqin Yuan et.al.|[2502.07547](http://arxiv.org/pdf/2502.07547)|**[link](https://github.com/tmllab/2025_ICLR_IES)**|[Kimi](https://papers.cool/arxiv/2502.07547)|
 | 5|**2025-02-11**|**Mask-Enhanced Autoregressive Prediction: Pay Less Attention to Learn More**|Xialie Zhuang et.al.|[2502.07490](http://arxiv.org/pdf/2502.07490)|**[link](https://github.com/scitix/MEAP)**|[Kimi](https://papers.cool/arxiv/2502.07490)|
 | 6|**2025-02-11**|**LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!**|Dacheng Li et.al.|[2502.07374](http://arxiv.org/pdf/2502.07374)|null|[Kimi](https://papers.cool/arxiv/2502.07374)|
 | 7|**2025-02-11**|**LongReD: Mitigating Short-Text Degradation of Long-Context Large Language Models via Restoration Distillation**|Zican Dong et.al.|[2502.07365](http://arxiv.org/pdf/2502.07365)|null|[Kimi](https://papers.cool/arxiv/2502.07365)|
@@ -30,7 +30,7 @@
 | 9|**2025-02-11**|**CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**|Junlong Li et.al.|[2502.07316](http://arxiv.org/pdf/2502.07316)|null|[Kimi](https://papers.cool/arxiv/2502.07316)|
 |10|**2025-02-11**|**OpenGrok: Enhancing SNS Data Processing with Distilled Knowledge and Mask-like Mechanisms**|Lumen AI et.al.|[2502.07312](http://arxiv.org/pdf/2502.07312)|**[link](https://github.com/Lumen-Laboratory/OpenGrok)**|[Kimi](https://papers.cool/arxiv/2502.07312)|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors

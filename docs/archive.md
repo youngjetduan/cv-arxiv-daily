@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -17,8 +17,8 @@ layout: default
 |:---|:-------------|:------|:--------|:----|:-----|:-----|
 | 1|**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/pdf/2502.07701)|null|[Kimi](https://papers.cool/arxiv/2502.07701)|
 | 2|**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/pdf/2502.07563)|null|[Kimi](https://papers.cool/arxiv/2502.07563)|
-| 3|**2025-02-11**|**Early Stopping Against Label Noise Without Validation Data**|Suqin Yuan et.al.|[2502.07551](http://arxiv.org/pdf/2502.07551)|null|[Kimi](https://papers.cool/arxiv/2502.07551)|
-| 4|**2025-02-11**|**Instance-dependent Early Stopping**|Suqin Yuan et.al.|[2502.07547](http://arxiv.org/pdf/2502.07547)|null|[Kimi](https://papers.cool/arxiv/2502.07547)|
+| 3|**2025-02-11**|**Early Stopping Against Label Noise Without Validation Data**|Suqin Yuan et.al.|[2502.07551](http://arxiv.org/pdf/2502.07551)|**[link](https://github.com/tmllab/2024_ICLR_LabelWave)**|[Kimi](https://papers.cool/arxiv/2502.07551)|
+| 4|**2025-02-11**|**Instance-dependent Early Stopping**|Suqin Yuan et.al.|[2502.07547](http://arxiv.org/pdf/2502.07547)|**[link](https://github.com/tmllab/2025_ICLR_IES)**|[Kimi](https://papers.cool/arxiv/2502.07547)|
 | 5|**2025-02-11**|**Mask-Enhanced Autoregressive Prediction: Pay Less Attention to Learn More**|Xialie Zhuang et.al.|[2502.07490](http://arxiv.org/pdf/2502.07490)|**[link](https://github.com/scitix/MEAP)**|[Kimi](https://papers.cool/arxiv/2502.07490)|
 | 6|**2025-02-11**|**LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!**|Dacheng Li et.al.|[2502.07374](http://arxiv.org/pdf/2502.07374)|null|[Kimi](https://papers.cool/arxiv/2502.07374)|
 | 7|**2025-02-11**|**LongReD: Mitigating Short-Text Degradation of Long-Context Large Language Models via Restoration Distillation**|Zican Dong et.al.|[2502.07365](http://arxiv.org/pdf/2502.07365)|null|[Kimi](https://papers.cool/arxiv/2502.07365)|
