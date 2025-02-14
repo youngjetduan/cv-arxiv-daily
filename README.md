@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-12**|**Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning**|Qifan Yu et.al.|[2502.08482](http://arxiv.org/pdf/2502.08482)|null|[Kimi](https://papers.cool/arxiv/2502.08482)|
-| 2|**2025-02-12**|**The MoE-Empowered Edge LLMs Deployment: Architecture, Challenges, and Opportunities**|Ning Li et.al.|[2502.08381](http://arxiv.org/pdf/2502.08381)|null|[Kimi](https://papers.cool/arxiv/2502.08381)|
-| 3|**2025-02-12**|**Inference-time sparse attention with asymmetric indexing**|Pierre-Emmanuel Mazaré et.al.|[2502.08246](http://arxiv.org/pdf/2502.08246)|null|[Kimi](https://papers.cool/arxiv/2502.08246)|
-| 4|**2025-02-12**|**Learning Human Skill Generators at Key-Step Levels**|Yilu Wu et.al.|[2502.08234](http://arxiv.org/pdf/2502.08234)|null|[Kimi](https://papers.cool/arxiv/2502.08234)|
-| 5|**2025-02-12**|**Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance**|Lingfei Qian et.al.|[2502.08127](http://arxiv.org/pdf/2502.08127)|null|[Kimi](https://papers.cool/arxiv/2502.08127)|
-| 6|**2025-02-12**|**GCoT: Chain-of-Thought Prompt Learning for Graphs**|Xingtong Yu et.al.|[2502.08092](http://arxiv.org/pdf/2502.08092)|null|[Kimi](https://papers.cool/arxiv/2502.08092)|
-| 7|**2025-02-12**|**Mixture of Decoupled Message Passing Experts with Entropy Constraint for General Node Classification**|Xuanze Chen et.al.|[2502.08083](http://arxiv.org/pdf/2502.08083)|null|[Kimi](https://papers.cool/arxiv/2502.08083)|
-| 8|**2025-02-11**|**Training Sparse Mixture Of Experts Text Embedding Models**|Zach Nussbaum et.al.|[2502.07972](http://arxiv.org/pdf/2502.07972)|null|[Kimi](https://papers.cool/arxiv/2502.07972)|
-| 9|**2025-02-11**|**HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment**|Youhe Jiang et.al.|[2502.07903](http://arxiv.org/pdf/2502.07903)|null|[Kimi](https://papers.cool/arxiv/2502.07903)|
-|10|**2025-02-11**|**TransMLA: Multi-head Latent Attention Is All You Need**|Fanxu Meng et.al.|[2502.07864](http://arxiv.org/pdf/2502.07864)|null|[Kimi](https://papers.cool/arxiv/2502.07864)|
+| 1|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/pdf/2502.09621)|null|[Kimi](https://papers.cool/arxiv/2502.09621)|
+| 2|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/pdf/2502.09601)|null|[Kimi](https://papers.cool/arxiv/2502.09601)|
+| 3|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/pdf/2502.09597)|null|[Kimi](https://papers.cool/arxiv/2502.09597)|
+| 4|**2025-02-13**|**SQuARE: Sequential Question Answering Reasoning Engine for Enhanced Chain-of-Thought in Large Language Models**|Daniel Fleischer et.al.|[2502.09390](http://arxiv.org/pdf/2502.09390)|null|[Kimi](https://papers.cool/arxiv/2502.09390)|
+| 5|**2025-02-13**|**Generalizability through Explainability: Countering Overfitting with Counterfactual Examples**|Flavio Giorgi et.al.|[2502.09193](http://arxiv.org/pdf/2502.09193)|null|[Kimi](https://papers.cool/arxiv/2502.09193)|
+| 6|**2025-02-13**|**Bridging the Gap Between LLMs and Human Intentions: Progresses and Challenges in Instruction Understanding, Intention Reasoning, and Reliable Generation**|Zongyu Chang et.al.|[2502.09101](http://arxiv.org/pdf/2502.09101)|null|[Kimi](https://papers.cool/arxiv/2502.09101)|
+| 7|**2025-02-13**|**Unleashing the Power of Large Language Model for Denoising Recommendation**|Shuyao Wang et.al.|[2502.09058](http://arxiv.org/pdf/2502.09058)|null|[Kimi](https://papers.cool/arxiv/2502.09058)|
+| 8|**2025-02-13**|**Diversity Enhances an LLM's Performance in RAG and Long-context Task**|Zhchao Wang et.al.|[2502.09017](http://arxiv.org/pdf/2502.09017)|null|[Kimi](https://papers.cool/arxiv/2502.09017)|
+| 9|**2025-02-13**|**RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models**|Quan Wei et.al.|[2502.09003](http://arxiv.org/pdf/2502.09003)|null|[Kimi](https://papers.cool/arxiv/2502.09003)|
+|10|**2025-02-13**|**Task Generalization With AutoRegressive Compositional Structure: Can Learning From $\d$ Tasks Generalize to $\d^{T}$ Tasks?**|Amirhesam Abedsoltan et.al.|[2502.08991](http://arxiv.org/pdf/2502.08991)|null|[Kimi](https://papers.cool/arxiv/2502.08991)|
 
 <p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
