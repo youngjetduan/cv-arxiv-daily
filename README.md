@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/pdf/2502.09621)|null|[Kimi](https://papers.cool/arxiv/2502.09621)|
-| 2|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/pdf/2502.09601)|null|[Kimi](https://papers.cool/arxiv/2502.09601)|
-| 3|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/pdf/2502.09597)|null|[Kimi](https://papers.cool/arxiv/2502.09597)|
-| 4|**2025-02-13**|**SQuARE: Sequential Question Answering Reasoning Engine for Enhanced Chain-of-Thought in Large Language Models**|Daniel Fleischer et.al.|[2502.09390](http://arxiv.org/pdf/2502.09390)|null|[Kimi](https://papers.cool/arxiv/2502.09390)|
-| 5|**2025-02-13**|**Generalizability through Explainability: Countering Overfitting with Counterfactual Examples**|Flavio Giorgi et.al.|[2502.09193](http://arxiv.org/pdf/2502.09193)|null|[Kimi](https://papers.cool/arxiv/2502.09193)|
-| 6|**2025-02-13**|**Bridging the Gap Between LLMs and Human Intentions: Progresses and Challenges in Instruction Understanding, Intention Reasoning, and Reliable Generation**|Zongyu Chang et.al.|[2502.09101](http://arxiv.org/pdf/2502.09101)|null|[Kimi](https://papers.cool/arxiv/2502.09101)|
-| 7|**2025-02-13**|**Unleashing the Power of Large Language Model for Denoising Recommendation**|Shuyao Wang et.al.|[2502.09058](http://arxiv.org/pdf/2502.09058)|null|[Kimi](https://papers.cool/arxiv/2502.09058)|
-| 8|**2025-02-13**|**Diversity Enhances an LLM's Performance in RAG and Long-context Task**|Zhchao Wang et.al.|[2502.09017](http://arxiv.org/pdf/2502.09017)|null|[Kimi](https://papers.cool/arxiv/2502.09017)|
-| 9|**2025-02-13**|**RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models**|Quan Wei et.al.|[2502.09003](http://arxiv.org/pdf/2502.09003)|null|[Kimi](https://papers.cool/arxiv/2502.09003)|
-|10|**2025-02-13**|**Task Generalization With AutoRegressive Compositional Structure: Can Learning From $\d$ Tasks Generalize to $\d^{T}$ Tasks?**|Amirhesam Abedsoltan et.al.|[2502.08991](http://arxiv.org/pdf/2502.08991)|null|[Kimi](https://papers.cool/arxiv/2502.08991)|
+| 1|**2025-02-14**|**Are Large Language Models the future crowd workers of Linguistics?**|Iris Ferrazzo et.al.|[2502.10266](http://arxiv.org/pdf/2502.10266)|null|[Kimi](https://papers.cool/arxiv/2502.10266)|
+| 2|**2025-02-14**|**LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing**|Kuan Li et.al.|[2502.09977](http://arxiv.org/pdf/2502.09977)|null|[Kimi](https://papers.cool/arxiv/2502.09977)|
+| 3|**2025-02-14**|**MIR-Bench: Benchmarking LLM's Long-Context Intelligence via Many-Shot In-Context Inductive Reasoning**|Kai Yan et.al.|[2502.09933](http://arxiv.org/pdf/2502.09933)|null|[Kimi](https://papers.cool/arxiv/2502.09933)|
+| 4|**2025-02-14**|**INF^2: High-Throughput Generative Inference of Large Language Models using Near-Storage Processing**|Hongsun Jang et.al.|[2502.09921](http://arxiv.org/pdf/2502.09921)|null|[Kimi](https://papers.cool/arxiv/2502.09921)|
+| 5|**2025-02-13**|**ATM-Net: Adaptive Termination and Multi-Precision Neural Networks for Energy-Harvested Edge Intelligence**|Neeraj Solanki et.al.|[2502.09822](http://arxiv.org/pdf/2502.09822)|null|[Kimi](https://papers.cool/arxiv/2502.09822)|
+| 6|**2025-02-13**|**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs**|Semyon Savkin et.al.|[2502.09720](http://arxiv.org/pdf/2502.09720)|null|[Kimi](https://papers.cool/arxiv/2502.09720)|
+| 7|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/pdf/2502.09621)|null|[Kimi](https://papers.cool/arxiv/2502.09621)|
+| 8|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/pdf/2502.09601)|**[link](https://github.com/horseee/cot-valve)**|[Kimi](https://papers.cool/arxiv/2502.09601)|
+| 9|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/pdf/2502.09597)|null|[Kimi](https://papers.cool/arxiv/2502.09597)|
+|10|**2025-02-13**|**SQuARE: Sequential Question Answering Reasoning Engine for Enhanced Chain-of-Thought in Large Language Models**|Daniel Fleischer et.al.|[2502.09390](http://arxiv.org/pdf/2502.09390)|**[link](https://github.com/intellabs/rag-fit)**|[Kimi](https://papers.cool/arxiv/2502.09390)|
 
 <p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
 
