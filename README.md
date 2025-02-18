@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-14**|**Are Large Language Models the future crowd workers of Linguistics?**|Iris Ferrazzo et.al.|[2502.10266](http://arxiv.org/pdf/2502.10266)|null|[Kimi](https://papers.cool/arxiv/2502.10266)|
-| 2|**2025-02-14**|**LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing**|Kuan Li et.al.|[2502.09977](http://arxiv.org/pdf/2502.09977)|null|[Kimi](https://papers.cool/arxiv/2502.09977)|
-| 3|**2025-02-14**|**MIR-Bench: Benchmarking LLM's Long-Context Intelligence via Many-Shot In-Context Inductive Reasoning**|Kai Yan et.al.|[2502.09933](http://arxiv.org/pdf/2502.09933)|null|[Kimi](https://papers.cool/arxiv/2502.09933)|
-| 4|**2025-02-14**|**INF^2: High-Throughput Generative Inference of Large Language Models using Near-Storage Processing**|Hongsun Jang et.al.|[2502.09921](http://arxiv.org/pdf/2502.09921)|null|[Kimi](https://papers.cool/arxiv/2502.09921)|
-| 5|**2025-02-13**|**ATM-Net: Adaptive Termination and Multi-Precision Neural Networks for Energy-Harvested Edge Intelligence**|Neeraj Solanki et.al.|[2502.09822](http://arxiv.org/pdf/2502.09822)|null|[Kimi](https://papers.cool/arxiv/2502.09822)|
-| 6|**2025-02-13**|**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs**|Semyon Savkin et.al.|[2502.09720](http://arxiv.org/pdf/2502.09720)|null|[Kimi](https://papers.cool/arxiv/2502.09720)|
-| 7|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/pdf/2502.09621)|null|[Kimi](https://papers.cool/arxiv/2502.09621)|
-| 8|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/pdf/2502.09601)|**[link](https://github.com/horseee/cot-valve)**|[Kimi](https://papers.cool/arxiv/2502.09601)|
-| 9|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/pdf/2502.09597)|null|[Kimi](https://papers.cool/arxiv/2502.09597)|
-|10|**2025-02-13**|**SQuARE: Sequential Question Answering Reasoning Engine for Enhanced Chain-of-Thought in Large Language Models**|Daniel Fleischer et.al.|[2502.09390](http://arxiv.org/pdf/2502.09390)|**[link](https://github.com/intellabs/rag-fit)**|[Kimi](https://papers.cool/arxiv/2502.09390)|
+| 1|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143](http://arxiv.org/pdf/2502.12143)|null|[Kimi](https://papers.cool/arxiv/2502.12143)|
+| 2|**2025-02-17**|**SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**|Yige Xu et.al.|[2502.12134](http://arxiv.org/pdf/2502.12134)|null|[Kimi](https://papers.cool/arxiv/2502.12134)|
+| 3|**2025-02-17**|**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085](http://arxiv.org/pdf/2502.12085)|null|[Kimi](https://papers.cool/arxiv/2502.12085)|
+| 4|**2025-02-17**|**AdaSplash: Adaptive Sparse Flash Attention**|Nuno Gonçalves et.al.|[2502.12082](http://arxiv.org/pdf/2502.12082)|null|[Kimi](https://papers.cool/arxiv/2502.12082)|
+| 5|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/pdf/2502.12067)|null|[Kimi](https://papers.cool/arxiv/2502.12067)|
+| 6|**2025-02-17**|**SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities**|Fengqing Jiang et.al.|[2502.12025](http://arxiv.org/pdf/2502.12025)|null|[Kimi](https://papers.cool/arxiv/2502.12025)|
+| 7|**2025-02-17**|**Teaching LLMs According to Their Aptitude: Adaptive Reasoning for Mathematical Problem Solving**|Xin Xu et.al.|[2502.12022](http://arxiv.org/pdf/2502.12022)|null|[Kimi](https://papers.cool/arxiv/2502.12022)|
+| 8|**2025-02-17**|**Uncovering the Impact of Chain-of-Thought Reasoning for Direct Preference Optimization: Lessons from Text-to-SQL**|Hanbing Liu et.al.|[2502.11656](http://arxiv.org/pdf/2502.11656)|null|[Kimi](https://papers.cool/arxiv/2502.11656)|
+| 9|**2025-02-17**|**SurgPose: a Dataset for Articulated Robotic Surgical Tool Pose Estimation and Tracking**|Zijian Wu et.al.|[2502.11534](http://arxiv.org/pdf/2502.11534)|null|[Kimi](https://papers.cool/arxiv/2502.11534)|
+|10|**2025-02-17**|**AURORA:Automated Training Framework of Universal Process Reward Models via Ensemble Prompting and Reverse Verification**|Xiaoyu Tan et.al.|[2502.11520](http://arxiv.org/pdf/2502.11520)|null|[Kimi](https://papers.cool/arxiv/2502.11520)|
 
 <p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
