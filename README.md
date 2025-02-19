@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143](http://arxiv.org/pdf/2502.12143)|null|[Kimi](https://papers.cool/arxiv/2502.12143)|
-| 2|**2025-02-17**|**SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**|Yige Xu et.al.|[2502.12134](http://arxiv.org/pdf/2502.12134)|null|[Kimi](https://papers.cool/arxiv/2502.12134)|
-| 3|**2025-02-17**|**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085](http://arxiv.org/pdf/2502.12085)|null|[Kimi](https://papers.cool/arxiv/2502.12085)|
-| 4|**2025-02-17**|**AdaSplash: Adaptive Sparse Flash Attention**|Nuno Gonçalves et.al.|[2502.12082](http://arxiv.org/pdf/2502.12082)|null|[Kimi](https://papers.cool/arxiv/2502.12082)|
-| 5|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/pdf/2502.12067)|null|[Kimi](https://papers.cool/arxiv/2502.12067)|
-| 6|**2025-02-17**|**SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities**|Fengqing Jiang et.al.|[2502.12025](http://arxiv.org/pdf/2502.12025)|null|[Kimi](https://papers.cool/arxiv/2502.12025)|
-| 7|**2025-02-17**|**Teaching LLMs According to Their Aptitude: Adaptive Reasoning for Mathematical Problem Solving**|Xin Xu et.al.|[2502.12022](http://arxiv.org/pdf/2502.12022)|null|[Kimi](https://papers.cool/arxiv/2502.12022)|
-| 8|**2025-02-17**|**Uncovering the Impact of Chain-of-Thought Reasoning for Direct Preference Optimization: Lessons from Text-to-SQL**|Hanbing Liu et.al.|[2502.11656](http://arxiv.org/pdf/2502.11656)|null|[Kimi](https://papers.cool/arxiv/2502.11656)|
-| 9|**2025-02-17**|**SurgPose: a Dataset for Articulated Robotic Surgical Tool Pose Estimation and Tracking**|Zijian Wu et.al.|[2502.11534](http://arxiv.org/pdf/2502.11534)|null|[Kimi](https://papers.cool/arxiv/2502.11534)|
-|10|**2025-02-17**|**AURORA:Automated Training Framework of Universal Process Reward Models via Ensemble Prompting and Reverse Verification**|Xiaoyu Tan et.al.|[2502.11520](http://arxiv.org/pdf/2502.11520)|null|[Kimi](https://papers.cool/arxiv/2502.11520)|
+| 1|**2025-02-18**|**Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning**|Jingyang Lin et.al.|[2502.13127](http://arxiv.org/pdf/2502.13127)|null|[Kimi](https://papers.cool/arxiv/2502.13127)|
+| 2|**2025-02-18**|**Eager Updates For Overlapped Communication and Computation in DiLoCo**|Satyen Kale et.al.|[2502.12996](http://arxiv.org/pdf/2502.12996)|null|[Kimi](https://papers.cool/arxiv/2502.12996)|
+| 3|**2025-02-18**|**Infinite Retrieval: Attention Enhanced LLMs in Long-Context Processing**|Xiaoju Ye et.al.|[2502.12962](http://arxiv.org/pdf/2502.12962)|null|[Kimi](https://papers.cool/arxiv/2502.12962)|
+| 4|**2025-02-18**|**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models**|Gyeongman Kim et.al.|[2502.12947](http://arxiv.org/pdf/2502.12947)|null|[Kimi](https://papers.cool/arxiv/2502.12947)|
+| 5|**2025-02-18**|**S $^2$ R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning**|Ruotian Ma et.al.|[2502.12853](http://arxiv.org/pdf/2502.12853)|null|[Kimi](https://papers.cool/arxiv/2502.12853)|
+| 6|**2025-02-18**|**A $^2$ ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665](http://arxiv.org/pdf/2502.12665)|null|[Kimi](https://papers.cool/arxiv/2502.12665)|
+| 7|**2025-02-18**|**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation**|Sihyun Yu et.al.|[2502.12632](http://arxiv.org/pdf/2502.12632)|null|[Kimi](https://papers.cool/arxiv/2502.12632)|
+| 8|**2025-02-18**|**Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions**|Leonardo Ranaldi et.al.|[2502.12616](http://arxiv.org/pdf/2502.12616)|null|[Kimi](https://papers.cool/arxiv/2502.12616)|
+| 9|**2025-02-18**|**LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data**|Cehao Yang et.al.|[2502.12583](http://arxiv.org/pdf/2502.12583)|null|[Kimi](https://papers.cool/arxiv/2502.12583)|
+|10|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/pdf/2502.12574)|null|[Kimi](https://papers.cool/arxiv/2502.12574)|
 
 <p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
