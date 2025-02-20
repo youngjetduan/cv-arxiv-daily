@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-18**|**Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning**|Jingyang Lin et.al.|[2502.13127](http://arxiv.org/pdf/2502.13127)|null|[Kimi](https://papers.cool/arxiv/2502.13127)|
-| 2|**2025-02-18**|**Eager Updates For Overlapped Communication and Computation in DiLoCo**|Satyen Kale et.al.|[2502.12996](http://arxiv.org/pdf/2502.12996)|null|[Kimi](https://papers.cool/arxiv/2502.12996)|
-| 3|**2025-02-18**|**Infinite Retrieval: Attention Enhanced LLMs in Long-Context Processing**|Xiaoju Ye et.al.|[2502.12962](http://arxiv.org/pdf/2502.12962)|null|[Kimi](https://papers.cool/arxiv/2502.12962)|
-| 4|**2025-02-18**|**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models**|Gyeongman Kim et.al.|[2502.12947](http://arxiv.org/pdf/2502.12947)|null|[Kimi](https://papers.cool/arxiv/2502.12947)|
-| 5|**2025-02-18**|**S $^2$ R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning**|Ruotian Ma et.al.|[2502.12853](http://arxiv.org/pdf/2502.12853)|null|[Kimi](https://papers.cool/arxiv/2502.12853)|
-| 6|**2025-02-18**|**A $^2$ ATS: Retrieval-Based KV Cache Reduction via Windowed Rotary Position Embedding and Query-Aware Vector Quantization**|Junhui He et.al.|[2502.12665](http://arxiv.org/pdf/2502.12665)|null|[Kimi](https://papers.cool/arxiv/2502.12665)|
-| 7|**2025-02-18**|**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation**|Sihyun Yu et.al.|[2502.12632](http://arxiv.org/pdf/2502.12632)|null|[Kimi](https://papers.cool/arxiv/2502.12632)|
-| 8|**2025-02-18**|**Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions**|Leonardo Ranaldi et.al.|[2502.12616](http://arxiv.org/pdf/2502.12616)|null|[Kimi](https://papers.cool/arxiv/2502.12616)|
-| 9|**2025-02-18**|**LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data**|Cehao Yang et.al.|[2502.12583](http://arxiv.org/pdf/2502.12583)|null|[Kimi](https://papers.cool/arxiv/2502.12583)|
-|10|**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/pdf/2502.12574)|null|[Kimi](https://papers.cool/arxiv/2502.12574)|
+| 1|**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963](http://arxiv.org/pdf/2502.13963)|null|[Kimi](https://papers.cool/arxiv/2502.13963)|
+| 2|**2025-02-19**|**A Chain-of-Thought Subspace Meta-Learning for Few-shot Image Captioning with Large Vision and Language Models**|Hao Huang et.al.|[2502.13942](http://arxiv.org/pdf/2502.13942)|null|[Kimi](https://papers.cool/arxiv/2502.13942)|
+| 3|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/pdf/2502.13923)|null|[Kimi](https://papers.cool/arxiv/2502.13923)|
+| 4|**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/pdf/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|[Kimi](https://papers.cool/arxiv/2502.13922)|
+| 5|**2025-02-19**|**A measurement-based approach to analyze the power consumption of the softwarized 5G core**|Arturo Bellin et.al.|[2502.13879](http://arxiv.org/pdf/2502.13879)|null|[Kimi](https://papers.cool/arxiv/2502.13879)|
+| 6|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/pdf/2502.13870)|null|[Kimi](https://papers.cool/arxiv/2502.13870)|
+| 7|**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/pdf/2502.13845)|null|[Kimi](https://papers.cool/arxiv/2502.13845)|
+| 8|**2025-02-19**|**SCALAR: Scientific Citation-based Live Assessment of Long-context Academic Reasoning**|Renxi Wang et.al.|[2502.13753](http://arxiv.org/pdf/2502.13753)|null|[Kimi](https://papers.cool/arxiv/2502.13753)|
+| 9|**2025-02-19**|**MoM: Linear Sequence Modeling with Mixture-of-Memories**|Jusen Du et.al.|[2502.13685](http://arxiv.org/pdf/2502.13685)|null|[Kimi](https://papers.cool/arxiv/2502.13685)|
+|10|**2025-02-19**|**PeerQA: A Scientific Question Answering Dataset from Peer Reviews**|Tim Baumgärtner et.al.|[2502.13668](http://arxiv.org/pdf/2502.13668)|null|[Kimi](https://papers.cool/arxiv/2502.13668)|
 
 <p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
 
