@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.20
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -20,7 +20,7 @@ layout: default
 | 3|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/pdf/2502.13923)|null|[Kimi](https://papers.cool/arxiv/2502.13923)|
 | 4|**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/pdf/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|[Kimi](https://papers.cool/arxiv/2502.13922)|
 | 5|**2025-02-19**|**A measurement-based approach to analyze the power consumption of the softwarized 5G core**|Arturo Bellin et.al.|[2502.13879](http://arxiv.org/pdf/2502.13879)|null|[Kimi](https://papers.cool/arxiv/2502.13879)|
-| 6|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/pdf/2502.13870)|null|[Kimi](https://papers.cool/arxiv/2502.13870)|
+| 6|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/pdf/2502.13870)|**[link](https://github.com/basics-lab/spectral-explain)**|[Kimi](https://papers.cool/arxiv/2502.13870)|
 | 7|**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/pdf/2502.13845)|null|[Kimi](https://papers.cool/arxiv/2502.13845)|
 | 8|**2025-02-19**|**SCALAR: Scientific Citation-based Live Assessment of Long-context Academic Reasoning**|Renxi Wang et.al.|[2502.13753](http://arxiv.org/pdf/2502.13753)|null|[Kimi](https://papers.cool/arxiv/2502.13753)|
 | 9|**2025-02-19**|**MoM: Linear Sequence Modeling with Mixture-of-Memories**|Jusen Du et.al.|[2502.13685](http://arxiv.org/pdf/2502.13685)|null|[Kimi](https://papers.cool/arxiv/2502.13685)|
