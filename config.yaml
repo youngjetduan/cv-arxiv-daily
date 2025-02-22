@@ -24,8 +24,10 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLM":
-        filters: [  "long-term memory", "long context",
-                    "long video", "cot", "MoE",
+        filters: [  "long-term memory", "long context", "long video",
+                    "cot", "latent",
+                    "MoE", "attention", "MLA", "CoE",
                     "KV Cache", "inference acceleration", "heterogeneous inference", 
-                    "pipeline parallelism", "data parallelism", "tensor parallelism", "operator parallelism", "distributed deep learning",
-                    "Early Stopping", "Early Exit", "Dynamic Inference", "Instance Aware", "Many-In-One" ]
+                    "pipeline parallel", "data parallel", "tensor parallel", "expert parallel", "operator parallel",
+                    "early stopping", "early exit", "dynamic inference", "token skip",
+                    "instance aware", "many-in-one" ]
