@@ -21,14 +21,14 @@
 |---|---|---|---|---|---|---|
 | 1|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/pdf/2502.14866)|null|[Kimi](https://papers.cool/arxiv/2502.14866)|
 | 2|**2025-02-20**|**CLIPPER: Compression enables long-context synthetic data generation**|Chau Minh Pham et.al.|[2502.14854](http://arxiv.org/pdf/2502.14854)|null|[Kimi](https://papers.cool/arxiv/2502.14854)|
-| 3|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/pdf/2502.14837)|null|[Kimi](https://papers.cool/arxiv/2502.14837)|
-| 4|**2025-02-20**|**Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps**|Martin Tutek et.al.|[2502.14829](http://arxiv.org/pdf/2502.14829)|null|[Kimi](https://papers.cool/arxiv/2502.14829)|
-| 5|**2025-02-20**|**Ray-Tracing for Conditionally Activated Neural Networks**|Claudio Gallicchio et.al.|[2502.14788](http://arxiv.org/pdf/2502.14788)|null|[Kimi](https://papers.cool/arxiv/2502.14788)|
-| 6|**2025-02-20**|**LIFT: Improving Long Context Understanding of Large Language Models through Long Input Fine-Tuning**|Yansheng Mao et.al.|[2502.14644](http://arxiv.org/pdf/2502.14644)|null|[Kimi](https://papers.cool/arxiv/2502.14644)|
-| 7|**2025-02-20**|**PEARL: Towards Permutation-Resilient LLMs**|Liang Chen et.al.|[2502.14628](http://arxiv.org/pdf/2502.14628)|null|[Kimi](https://papers.cool/arxiv/2502.14628)|
-| 8|**2025-02-20**|**PLPHP: Per-Layer Per-Head Vision Token Pruning for Efficient Large Vision-Language Models**|Yu Meng et.al.|[2502.14504](http://arxiv.org/pdf/2502.14504)|null|[Kimi](https://papers.cool/arxiv/2502.14504)|
-| 9|**2025-02-20**|**Unshackling Context Length: An Efficient Selective Attention Approach through Query-Key Compression**|Haoyu Wang et.al.|[2502.14477](http://arxiv.org/pdf/2502.14477)|null|[Kimi](https://papers.cool/arxiv/2502.14477)|
-|10|**2025-02-20**|**Early-Exit and Instant Confidence Translation Quality Estimation**|Vilém Zouhar et.al.|[2502.14429](http://arxiv.org/pdf/2502.14429)|null|[Kimi](https://papers.cool/arxiv/2502.14429)|
+| 3|**2025-02-20**|**Revealing and Mitigating Over-Attention in Knowledge Editing**|Pinzheng Wang et.al.|[2502.14838](http://arxiv.org/pdf/2502.14838)|null|[Kimi](https://papers.cool/arxiv/2502.14838)|
+| 4|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/pdf/2502.14837)|null|[Kimi](https://papers.cool/arxiv/2502.14837)|
+| 5|**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/pdf/2502.14831)|null|[Kimi](https://papers.cool/arxiv/2502.14831)|
+| 6|**2025-02-20**|**Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps**|Martin Tutek et.al.|[2502.14829](http://arxiv.org/pdf/2502.14829)|null|[Kimi](https://papers.cool/arxiv/2502.14829)|
+| 7|**2025-02-20**|**Turning on the Light: Polymorphism-Induced Photoluminescence in Cysteine Crystals**|Debarshi Banerjee et.al.|[2502.14826](http://arxiv.org/pdf/2502.14826)|null|[Kimi](https://papers.cool/arxiv/2502.14826)|
+| 8|**2025-02-20**|**Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models**|Vlad Sobal et.al.|[2502.14819](http://arxiv.org/pdf/2502.14819)|null|[Kimi](https://papers.cool/arxiv/2502.14819)|
+| 9|**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792](http://arxiv.org/pdf/2502.14792)|null|[Kimi](https://papers.cool/arxiv/2502.14792)|
+|10|**2025-02-20**|**Ray-Tracing for Conditionally Activated Neural Networks**|Claudio Gallicchio et.al.|[2502.14788](http://arxiv.org/pdf/2502.14788)|null|[Kimi](https://papers.cool/arxiv/2502.14788)|
 
 <p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
 
