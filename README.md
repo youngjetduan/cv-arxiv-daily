@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/pdf/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|[Kimi](https://papers.cool/arxiv/2502.14866)|
-| 2|**2025-02-20**|**CLIPPER: Compression enables long-context synthetic data generation**|Chau Minh Pham et.al.|[2502.14854](http://arxiv.org/pdf/2502.14854)|**[link](https://github.com/chtmp223/clipper)**|[Kimi](https://papers.cool/arxiv/2502.14854)|
-| 3|**2025-02-20**|**Revealing and Mitigating Over-Attention in Knowledge Editing**|Pinzheng Wang et.al.|[2502.14838](http://arxiv.org/pdf/2502.14838)|**[link](https://github.com/PinzhengWang322/Reveal_Attention_Drift)**|[Kimi](https://papers.cool/arxiv/2502.14838)|
-| 4|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/pdf/2502.14837)|**[link](https://github.com/JT-Ushio/MHA2MLA)**|[Kimi](https://papers.cool/arxiv/2502.14837)|
-| 5|**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/pdf/2502.14831)|null|[Kimi](https://papers.cool/arxiv/2502.14831)|
-| 6|**2025-02-20**|**Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps**|Martin Tutek et.al.|[2502.14829](http://arxiv.org/pdf/2502.14829)|**[link](https://github.com/technion-cs-nlp/parametric-faithfulness)**|[Kimi](https://papers.cool/arxiv/2502.14829)|
-| 7|**2025-02-20**|**Turning on the Light: Polymorphism-Induced Photoluminescence in Cysteine Crystals**|Debarshi Banerjee et.al.|[2502.14826](http://arxiv.org/pdf/2502.14826)|null|[Kimi](https://papers.cool/arxiv/2502.14826)|
-| 8|**2025-02-20**|**Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models**|Vlad Sobal et.al.|[2502.14819](http://arxiv.org/pdf/2502.14819)|null|[Kimi](https://papers.cool/arxiv/2502.14819)|
-| 9|**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792](http://arxiv.org/pdf/2502.14792)|null|[Kimi](https://papers.cool/arxiv/2502.14792)|
-|10|**2025-02-20**|**Ray-Tracing for Conditionally Activated Neural Networks**|Claudio Gallicchio et.al.|[2502.14788](http://arxiv.org/pdf/2502.14788)|null|[Kimi](https://papers.cool/arxiv/2502.14788)|
+| 1|**2025-02-21**|**Sparks of cognitive flexibility: self-guided context inference for flexible stimulus-response mapping by attentional routing**|Rowan Sommers et.al.|[2502.15634](http://arxiv.org/pdf/2502.15634)|null|[Kimi](https://papers.cool/arxiv/2502.15634)|
+| 2|**2025-02-21**|**LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models**|Hugo Pitorro et.al.|[2502.15612](http://arxiv.org/pdf/2502.15612)|null|[Kimi](https://papers.cool/arxiv/2502.15612)|
+| 3|**2025-02-21**|**Generalizing From Short to Long: Effective Data Synthesis for Long-Context Instruction Tuning**|Wenhao Zhu et.al.|[2502.15592](http://arxiv.org/pdf/2502.15592)|null|[Kimi](https://papers.cool/arxiv/2502.15592)|
+| 4|**2025-02-21**|**LightThinker: Thinking Step-by-Step Compression**|Jintian Zhang et.al.|[2502.15589](http://arxiv.org/pdf/2502.15589)|null|[Kimi](https://papers.cool/arxiv/2502.15589)|
+| 5|**2025-02-21**|**Adaptive Expansion for Hypergraph Learning**|Tianyi Ma et.al.|[2502.15564](http://arxiv.org/pdf/2502.15564)|null|[Kimi](https://papers.cool/arxiv/2502.15564)|
+| 6|**2025-02-21**|**Estimating Vehicle Speed on Roadways Using RNNs and Transformers: A Video-based Approach**|Sai Krishna Reddy Mareddy et.al.|[2502.15545](http://arxiv.org/pdf/2502.15545)|null|[Kimi](https://papers.cool/arxiv/2502.15545)|
+| 7|**2025-02-21**|**Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors**|Milad Sefidgaran et.al.|[2502.15540](http://arxiv.org/pdf/2502.15540)|null|[Kimi](https://papers.cool/arxiv/2502.15540)|
+| 8|**2025-02-21**|**Towards Swift Serverless LLM Cold Starts with ParaServe**|Chiheng Lou et.al.|[2502.15524](http://arxiv.org/pdf/2502.15524)|null|[Kimi](https://papers.cool/arxiv/2502.15524)|
+| 9|**2025-02-21**|**Solving Inverse Problems with Deep Linear Neural Networks: Global Convergence Guarantees for Gradient Descent with Weight Decay**|Hannah Laus et.al.|[2502.15522](http://arxiv.org/pdf/2502.15522)|null|[Kimi](https://papers.cool/arxiv/2502.15522)|
+|10|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/pdf/2502.15516)|null|[Kimi](https://papers.cool/arxiv/2502.15516)|
 
 <p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
 
