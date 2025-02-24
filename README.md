@@ -19,12 +19,12 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/pdf/2502.14866)|null|[Kimi](https://papers.cool/arxiv/2502.14866)|
-| 2|**2025-02-20**|**CLIPPER: Compression enables long-context synthetic data generation**|Chau Minh Pham et.al.|[2502.14854](http://arxiv.org/pdf/2502.14854)|null|[Kimi](https://papers.cool/arxiv/2502.14854)|
-| 3|**2025-02-20**|**Revealing and Mitigating Over-Attention in Knowledge Editing**|Pinzheng Wang et.al.|[2502.14838](http://arxiv.org/pdf/2502.14838)|null|[Kimi](https://papers.cool/arxiv/2502.14838)|
-| 4|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/pdf/2502.14837)|null|[Kimi](https://papers.cool/arxiv/2502.14837)|
+| 1|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/pdf/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|[Kimi](https://papers.cool/arxiv/2502.14866)|
+| 2|**2025-02-20**|**CLIPPER: Compression enables long-context synthetic data generation**|Chau Minh Pham et.al.|[2502.14854](http://arxiv.org/pdf/2502.14854)|**[link](https://github.com/chtmp223/clipper)**|[Kimi](https://papers.cool/arxiv/2502.14854)|
+| 3|**2025-02-20**|**Revealing and Mitigating Over-Attention in Knowledge Editing**|Pinzheng Wang et.al.|[2502.14838](http://arxiv.org/pdf/2502.14838)|**[link](https://github.com/PinzhengWang322/Reveal_Attention_Drift)**|[Kimi](https://papers.cool/arxiv/2502.14838)|
+| 4|**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/pdf/2502.14837)|**[link](https://github.com/JT-Ushio/MHA2MLA)**|[Kimi](https://papers.cool/arxiv/2502.14837)|
 | 5|**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/pdf/2502.14831)|null|[Kimi](https://papers.cool/arxiv/2502.14831)|
-| 6|**2025-02-20**|**Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps**|Martin Tutek et.al.|[2502.14829](http://arxiv.org/pdf/2502.14829)|null|[Kimi](https://papers.cool/arxiv/2502.14829)|
+| 6|**2025-02-20**|**Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps**|Martin Tutek et.al.|[2502.14829](http://arxiv.org/pdf/2502.14829)|**[link](https://github.com/technion-cs-nlp/parametric-faithfulness)**|[Kimi](https://papers.cool/arxiv/2502.14829)|
 | 7|**2025-02-20**|**Turning on the Light: Polymorphism-Induced Photoluminescence in Cysteine Crystals**|Debarshi Banerjee et.al.|[2502.14826](http://arxiv.org/pdf/2502.14826)|null|[Kimi](https://papers.cool/arxiv/2502.14826)|
 | 8|**2025-02-20**|**Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models**|Vlad Sobal et.al.|[2502.14819](http://arxiv.org/pdf/2502.14819)|null|[Kimi](https://papers.cool/arxiv/2502.14819)|
 | 9|**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792](http://arxiv.org/pdf/2502.14792)|null|[Kimi](https://papers.cool/arxiv/2502.14792)|
