@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-21**|**Sparks of cognitive flexibility: self-guided context inference for flexible stimulus-response mapping by attentional routing**|Rowan Sommers et.al.|[2502.15634](http://arxiv.org/pdf/2502.15634)|null|[Kimi](https://papers.cool/arxiv/2502.15634)|
-| 2|**2025-02-21**|**LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models**|Hugo Pitorro et.al.|[2502.15612](http://arxiv.org/pdf/2502.15612)|null|[Kimi](https://papers.cool/arxiv/2502.15612)|
-| 3|**2025-02-21**|**Generalizing From Short to Long: Effective Data Synthesis for Long-Context Instruction Tuning**|Wenhao Zhu et.al.|[2502.15592](http://arxiv.org/pdf/2502.15592)|null|[Kimi](https://papers.cool/arxiv/2502.15592)|
-| 4|**2025-02-21**|**LightThinker: Thinking Step-by-Step Compression**|Jintian Zhang et.al.|[2502.15589](http://arxiv.org/pdf/2502.15589)|null|[Kimi](https://papers.cool/arxiv/2502.15589)|
-| 5|**2025-02-21**|**Adaptive Expansion for Hypergraph Learning**|Tianyi Ma et.al.|[2502.15564](http://arxiv.org/pdf/2502.15564)|null|[Kimi](https://papers.cool/arxiv/2502.15564)|
-| 6|**2025-02-21**|**Estimating Vehicle Speed on Roadways Using RNNs and Transformers: A Video-based Approach**|Sai Krishna Reddy Mareddy et.al.|[2502.15545](http://arxiv.org/pdf/2502.15545)|null|[Kimi](https://papers.cool/arxiv/2502.15545)|
-| 7|**2025-02-21**|**Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors**|Milad Sefidgaran et.al.|[2502.15540](http://arxiv.org/pdf/2502.15540)|null|[Kimi](https://papers.cool/arxiv/2502.15540)|
-| 8|**2025-02-21**|**Towards Swift Serverless LLM Cold Starts with ParaServe**|Chiheng Lou et.al.|[2502.15524](http://arxiv.org/pdf/2502.15524)|null|[Kimi](https://papers.cool/arxiv/2502.15524)|
-| 9|**2025-02-21**|**Solving Inverse Problems with Deep Linear Neural Networks: Global Convergence Guarantees for Gradient Descent with Weight Decay**|Hannah Laus et.al.|[2502.15522](http://arxiv.org/pdf/2502.15522)|null|[Kimi](https://papers.cool/arxiv/2502.15522)|
-|10|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/pdf/2502.15516)|null|[Kimi](https://papers.cool/arxiv/2502.15516)|
+| 1|**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/pdf/2502.17423)|null|[Kimi](https://papers.cool/arxiv/2502.17423)|
+| 2|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/pdf/2502.17422)|null|[Kimi](https://papers.cool/arxiv/2502.17422)|
+| 3|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/pdf/2502.17421)|null|[Kimi](https://papers.cool/arxiv/2502.17421)|
+| 4|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/pdf/2502.17416)|null|[Kimi](https://papers.cool/arxiv/2502.17416)|
+| 5|**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/pdf/2502.17414)|null|[Kimi](https://papers.cool/arxiv/2502.17414)|
+| 6|**2025-02-24**|**Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**|Guijin Son et.al.|[2502.17407](http://arxiv.org/pdf/2502.17407)|null|[Kimi](https://papers.cool/arxiv/2502.17407)|
+| 7|**2025-02-24**|**Advances in multiparameter quantum sensing and metrology**|Luca Pezzè et.al.|[2502.17396](http://arxiv.org/pdf/2502.17396)|null|[Kimi](https://papers.cool/arxiv/2502.17396)|
+| 8|**2025-02-24**|**The Empirical Impact of Reducing Symmetries on the Performance of Deep Ensembles and MoE**|Andrei Chernov et.al.|[2502.17391](http://arxiv.org/pdf/2502.17391)|null|[Kimi](https://papers.cool/arxiv/2502.17391)|
+| 9|**2025-02-24**|**A Concise Lyapunov Analysis of Nesterov's Accelerated Gradient Method**|Jun Liu et.al.|[2502.17373](http://arxiv.org/pdf/2502.17373)|null|[Kimi](https://papers.cool/arxiv/2502.17373)|
+|10|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/pdf/2502.17363)|null|[Kimi](https://papers.cool/arxiv/2502.17363)|
 
 <p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
