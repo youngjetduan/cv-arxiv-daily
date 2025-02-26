@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/pdf/2502.17423)|null|[Kimi](https://papers.cool/arxiv/2502.17423)|
-| 2|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/pdf/2502.17422)|**[link](https://github.com/saccharomycetes/mllms_know)**|[Kimi](https://papers.cool/arxiv/2502.17422)|
-| 3|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/pdf/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|[Kimi](https://papers.cool/arxiv/2502.17421)|
-| 4|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/pdf/2502.17416)|null|[Kimi](https://papers.cool/arxiv/2502.17416)|
-| 5|**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/pdf/2502.17414)|null|[Kimi](https://papers.cool/arxiv/2502.17414)|
-| 6|**2025-02-24**|**Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**|Guijin Son et.al.|[2502.17407](http://arxiv.org/pdf/2502.17407)|**[link](https://github.com/gauss5930/mclm)**|[Kimi](https://papers.cool/arxiv/2502.17407)|
-| 7|**2025-02-24**|**Advances in multiparameter quantum sensing and metrology**|Luca Pezzè et.al.|[2502.17396](http://arxiv.org/pdf/2502.17396)|null|[Kimi](https://papers.cool/arxiv/2502.17396)|
-| 8|**2025-02-24**|**The Empirical Impact of Reducing Symmetries on the Performance of Deep Ensembles and MoE**|Andrei Chernov et.al.|[2502.17391](http://arxiv.org/pdf/2502.17391)|null|[Kimi](https://papers.cool/arxiv/2502.17391)|
-| 9|**2025-02-24**|**A Concise Lyapunov Analysis of Nesterov's Accelerated Gradient Method**|Jun Liu et.al.|[2502.17373](http://arxiv.org/pdf/2502.17373)|null|[Kimi](https://papers.cool/arxiv/2502.17373)|
-|10|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/pdf/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|[Kimi](https://papers.cool/arxiv/2502.17363)|
+| 1|**2025-02-25**|**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**|Ziheng Ouyang et.al.|[2502.18461](http://arxiv.org/pdf/2502.18461)|null|[Kimi](https://papers.cool/arxiv/2502.18461)|
+| 2|**2025-02-25**|**DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers**|Xueguang Ma et.al.|[2502.18460](http://arxiv.org/pdf/2502.18460)|null|[Kimi](https://papers.cool/arxiv/2502.18460)|
+| 3|**2025-02-25**|**GHOST 2.0: generative high-fidelity one shot transfer of heads**|Alexander Groshev et.al.|[2502.18417](http://arxiv.org/pdf/2502.18417)|null|[Kimi](https://papers.cool/arxiv/2502.18417)|
+| 4|**2025-02-25**|**Comparative Analysis of MDL-VAE vs. Standard VAE on 202 Years of Gynecological Data**|Paula Santos et.al.|[2502.18412](http://arxiv.org/pdf/2502.18412)|null|[Kimi](https://papers.cool/arxiv/2502.18412)|
+| 5|**2025-02-25**|**The FFT Strikes Back: An Efficient Alternative to Self-Attention**|Jacob Fein-Ashley et.al.|[2502.18394](http://arxiv.org/pdf/2502.18394)|null|[Kimi](https://papers.cool/arxiv/2502.18394)|
+| 6|**2025-02-25**|**ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation**|Yifan Pu et.al.|[2502.18364](http://arxiv.org/pdf/2502.18364)|null|[Kimi](https://papers.cool/arxiv/2502.18364)|
+| 7|**2025-02-25**|**Graph Inference with Effective Resistance Queries**|Huck Bennett et.al.|[2502.18350](http://arxiv.org/pdf/2502.18350)|null|[Kimi](https://papers.cool/arxiv/2502.18350)|
+| 8|**2025-02-25**|**Mapping of Subjective Accounts into Interpreted Clusters (MOSAIC): Topic Modelling and LLM applied to Stroboscopic Phenomenology**|Romy Beauté et.al.|[2502.18318](http://arxiv.org/pdf/2502.18318)|null|[Kimi](https://papers.cool/arxiv/2502.18318)|
+| 9|**2025-02-25**|**RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction**|Jianhao Yan et.al.|[2502.18308](http://arxiv.org/pdf/2502.18308)|null|[Kimi](https://papers.cool/arxiv/2502.18308)|
+|10|**2025-02-25**|**DeepCircuitX: A Comprehensive Repository-Level Dataset for RTL Code Understanding, Generation, and PPA Analysis**|Zeju Li et.al.|[2502.18297](http://arxiv.org/pdf/2502.18297)|null|[Kimi](https://papers.cool/arxiv/2502.18297)|
 
 <p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
