@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -20,17 +20,17 @@
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
 | 1|**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/pdf/2502.17423)|null|[Kimi](https://papers.cool/arxiv/2502.17423)|
-| 2|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/pdf/2502.17422)|null|[Kimi](https://papers.cool/arxiv/2502.17422)|
-| 3|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/pdf/2502.17421)|null|[Kimi](https://papers.cool/arxiv/2502.17421)|
+| 2|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/pdf/2502.17422)|**[link](https://github.com/saccharomycetes/mllms_know)**|[Kimi](https://papers.cool/arxiv/2502.17422)|
+| 3|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/pdf/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|[Kimi](https://papers.cool/arxiv/2502.17421)|
 | 4|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/pdf/2502.17416)|null|[Kimi](https://papers.cool/arxiv/2502.17416)|
 | 5|**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/pdf/2502.17414)|null|[Kimi](https://papers.cool/arxiv/2502.17414)|
-| 6|**2025-02-24**|**Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**|Guijin Son et.al.|[2502.17407](http://arxiv.org/pdf/2502.17407)|null|[Kimi](https://papers.cool/arxiv/2502.17407)|
+| 6|**2025-02-24**|**Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**|Guijin Son et.al.|[2502.17407](http://arxiv.org/pdf/2502.17407)|**[link](https://github.com/gauss5930/mclm)**|[Kimi](https://papers.cool/arxiv/2502.17407)|
 | 7|**2025-02-24**|**Advances in multiparameter quantum sensing and metrology**|Luca Pezzè et.al.|[2502.17396](http://arxiv.org/pdf/2502.17396)|null|[Kimi](https://papers.cool/arxiv/2502.17396)|
 | 8|**2025-02-24**|**The Empirical Impact of Reducing Symmetries on the Performance of Deep Ensembles and MoE**|Andrei Chernov et.al.|[2502.17391](http://arxiv.org/pdf/2502.17391)|null|[Kimi](https://papers.cool/arxiv/2502.17391)|
 | 9|**2025-02-24**|**A Concise Lyapunov Analysis of Nesterov's Accelerated Gradient Method**|Jun Liu et.al.|[2502.17373](http://arxiv.org/pdf/2502.17373)|null|[Kimi](https://papers.cool/arxiv/2502.17373)|
-|10|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/pdf/2502.17363)|null|[Kimi](https://papers.cool/arxiv/2502.17363)|
+|10|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/pdf/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|[Kimi](https://papers.cool/arxiv/2502.17363)|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors

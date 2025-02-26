@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -18,15 +18,15 @@ layout: default
 | ID | Publish Date | Title | Authors | PDF | Code | Kimi |
 |:---|:-------------|:------|:--------|:----|:-----|:-----|
 | 1|**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/pdf/2502.17423)|null|[Kimi](https://papers.cool/arxiv/2502.17423)|
-| 2|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/pdf/2502.17422)|null|[Kimi](https://papers.cool/arxiv/2502.17422)|
-| 3|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/pdf/2502.17421)|null|[Kimi](https://papers.cool/arxiv/2502.17421)|
+| 2|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/pdf/2502.17422)|**[link](https://github.com/saccharomycetes/mllms_know)**|[Kimi](https://papers.cool/arxiv/2502.17422)|
+| 3|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/pdf/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|[Kimi](https://papers.cool/arxiv/2502.17421)|
 | 4|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/pdf/2502.17416)|null|[Kimi](https://papers.cool/arxiv/2502.17416)|
 | 5|**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/pdf/2502.17414)|null|[Kimi](https://papers.cool/arxiv/2502.17414)|
-| 6|**2025-02-24**|**Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**|Guijin Son et.al.|[2502.17407](http://arxiv.org/pdf/2502.17407)|null|[Kimi](https://papers.cool/arxiv/2502.17407)|
+| 6|**2025-02-24**|**Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**|Guijin Son et.al.|[2502.17407](http://arxiv.org/pdf/2502.17407)|**[link](https://github.com/gauss5930/mclm)**|[Kimi](https://papers.cool/arxiv/2502.17407)|
 | 7|**2025-02-24**|**Advances in multiparameter quantum sensing and metrology**|Luca Pezzè et.al.|[2502.17396](http://arxiv.org/pdf/2502.17396)|null|[Kimi](https://papers.cool/arxiv/2502.17396)|
 | 8|**2025-02-24**|**The Empirical Impact of Reducing Symmetries on the Performance of Deep Ensembles and MoE**|Andrei Chernov et.al.|[2502.17391](http://arxiv.org/pdf/2502.17391)|null|[Kimi](https://papers.cool/arxiv/2502.17391)|
 | 9|**2025-02-24**|**A Concise Lyapunov Analysis of Nesterov's Accelerated Gradient Method**|Jun Liu et.al.|[2502.17373](http://arxiv.org/pdf/2502.17373)|null|[Kimi](https://papers.cool/arxiv/2502.17373)|
-|10|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/pdf/2502.17363)|null|[Kimi](https://papers.cool/arxiv/2502.17363)|
+|10|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/pdf/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|[Kimi](https://papers.cool/arxiv/2502.17363)|
 |11|**2025-02-21**|**Sparks of cognitive flexibility: self-guided context inference for flexible stimulus-response mapping by attentional routing**|Rowan Sommers et.al.|[2502.15634](http://arxiv.org/pdf/2502.15634)|null|[Kimi](https://papers.cool/arxiv/2502.15634)|
 |12|**2025-02-21**|**LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models**|Hugo Pitorro et.al.|[2502.15612](http://arxiv.org/pdf/2502.15612)|null|[Kimi](https://papers.cool/arxiv/2502.15612)|
 |13|**2025-02-21**|**Generalizing From Short to Long: Effective Data Synthesis for Long-Context Instruction Tuning**|Wenhao Zhu et.al.|[2502.15592](http://arxiv.org/pdf/2502.15592)|null|[Kimi](https://papers.cool/arxiv/2502.15592)|
