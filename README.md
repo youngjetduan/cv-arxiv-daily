@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-25**|**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**|Ziheng Ouyang et.al.|[2502.18461](http://arxiv.org/pdf/2502.18461)|null|[Kimi](https://papers.cool/arxiv/2502.18461)|
-| 2|**2025-02-25**|**DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers**|Xueguang Ma et.al.|[2502.18460](http://arxiv.org/pdf/2502.18460)|null|[Kimi](https://papers.cool/arxiv/2502.18460)|
-| 3|**2025-02-25**|**GHOST 2.0: generative high-fidelity one shot transfer of heads**|Alexander Groshev et.al.|[2502.18417](http://arxiv.org/pdf/2502.18417)|null|[Kimi](https://papers.cool/arxiv/2502.18417)|
-| 4|**2025-02-25**|**Comparative Analysis of MDL-VAE vs. Standard VAE on 202 Years of Gynecological Data**|Paula Santos et.al.|[2502.18412](http://arxiv.org/pdf/2502.18412)|null|[Kimi](https://papers.cool/arxiv/2502.18412)|
-| 5|**2025-02-25**|**The FFT Strikes Back: An Efficient Alternative to Self-Attention**|Jacob Fein-Ashley et.al.|[2502.18394](http://arxiv.org/pdf/2502.18394)|null|[Kimi](https://papers.cool/arxiv/2502.18394)|
-| 6|**2025-02-25**|**ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation**|Yifan Pu et.al.|[2502.18364](http://arxiv.org/pdf/2502.18364)|null|[Kimi](https://papers.cool/arxiv/2502.18364)|
-| 7|**2025-02-25**|**Graph Inference with Effective Resistance Queries**|Huck Bennett et.al.|[2502.18350](http://arxiv.org/pdf/2502.18350)|null|[Kimi](https://papers.cool/arxiv/2502.18350)|
-| 8|**2025-02-25**|**Mapping of Subjective Accounts into Interpreted Clusters (MOSAIC): Topic Modelling and LLM applied to Stroboscopic Phenomenology**|Romy Beauté et.al.|[2502.18318](http://arxiv.org/pdf/2502.18318)|null|[Kimi](https://papers.cool/arxiv/2502.18318)|
-| 9|**2025-02-25**|**RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction**|Jianhao Yan et.al.|[2502.18308](http://arxiv.org/pdf/2502.18308)|null|[Kimi](https://papers.cool/arxiv/2502.18308)|
-|10|**2025-02-25**|**DeepCircuitX: A Comprehensive Repository-Level Dataset for RTL Code Understanding, Generation, and PPA Analysis**|Zeju Li et.al.|[2502.18297](http://arxiv.org/pdf/2502.18297)|null|[Kimi](https://papers.cool/arxiv/2502.18297)|
+| 1|**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/pdf/2502.19417)|null|[Kimi](https://papers.cool/arxiv/2502.19417)|
+| 2|**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414](http://arxiv.org/pdf/2502.19414)|null|[Kimi](https://papers.cool/arxiv/2502.19414)|
+| 3|**2025-02-26**|**The Mighty ToRR: A Benchmark for Table Reasoning and Robustness**|Shir Ashury-Tahan et.al.|[2502.19412](http://arxiv.org/pdf/2502.19412)|null|[Kimi](https://papers.cool/arxiv/2502.19412)|
+| 4|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411](http://arxiv.org/pdf/2502.19411)|null|[Kimi](https://papers.cool/arxiv/2502.19411)|
+| 5|**2025-02-26**|**ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models**|Danae Sánchez Villegas et.al.|[2502.19409](http://arxiv.org/pdf/2502.19409)|null|[Kimi](https://papers.cool/arxiv/2502.19409)|
+| 6|**2025-02-26**|**Learning Code-Edit Embedding to Model Student Debugging Behavior**|Hasnain Heickal et.al.|[2502.19407](http://arxiv.org/pdf/2502.19407)|null|[Kimi](https://papers.cool/arxiv/2502.19407)|
+| 7|**2025-02-26**|**Single-shot and two-shot decoding with generalized bicycle codes**|Hsiang-Ku Lin et.al.|[2502.19406](http://arxiv.org/pdf/2502.19406)|null|[Kimi](https://papers.cool/arxiv/2502.19406)|
+| 8|**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402](http://arxiv.org/pdf/2502.19402)|null|[Kimi](https://papers.cool/arxiv/2502.19402)|
+| 9|**2025-02-26**|**TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding**|Max Ku et.al.|[2502.19400](http://arxiv.org/pdf/2502.19400)|null|[Kimi](https://papers.cool/arxiv/2502.19400)|
+|10|**2025-02-26**|**The End of Easy Phenomenology for CMB Experiments: A Case Study in the Dark Sector**|Cynthia Trendafilova et.al.|[2502.19383](http://arxiv.org/pdf/2502.19383)|null|[Kimi](https://papers.cool/arxiv/2502.19383)|
 
 <p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
