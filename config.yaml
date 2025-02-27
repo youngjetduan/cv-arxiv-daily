@@ -25,7 +25,8 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "LLM":
         filters: [  "long-term memory", "long context", "long video",
-                    "cot", "latent",
+                    "prefill", "decode",
+                    "cot", "latent", "reasoning",
                     "MoE", "attention", "MLA", "CoE",
                     "KV Cache", "inference acceleration", "heterogeneous inference", 
                     "pipeline parallel", "data parallel", "tensor parallel", "expert parallel", "operator parallel",
