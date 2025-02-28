@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/pdf/2502.19417)|null|[Kimi](https://papers.cool/arxiv/2502.19417)|
-| 2|**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414](http://arxiv.org/pdf/2502.19414)|null|[Kimi](https://papers.cool/arxiv/2502.19414)|
-| 3|**2025-02-26**|**The Mighty ToRR: A Benchmark for Table Reasoning and Robustness**|Shir Ashury-Tahan et.al.|[2502.19412](http://arxiv.org/pdf/2502.19412)|null|[Kimi](https://papers.cool/arxiv/2502.19412)|
-| 4|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411](http://arxiv.org/pdf/2502.19411)|null|[Kimi](https://papers.cool/arxiv/2502.19411)|
-| 5|**2025-02-26**|**ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models**|Danae Sánchez Villegas et.al.|[2502.19409](http://arxiv.org/pdf/2502.19409)|null|[Kimi](https://papers.cool/arxiv/2502.19409)|
-| 6|**2025-02-26**|**Learning Code-Edit Embedding to Model Student Debugging Behavior**|Hasnain Heickal et.al.|[2502.19407](http://arxiv.org/pdf/2502.19407)|null|[Kimi](https://papers.cool/arxiv/2502.19407)|
-| 7|**2025-02-26**|**Single-shot and two-shot decoding with generalized bicycle codes**|Hsiang-Ku Lin et.al.|[2502.19406](http://arxiv.org/pdf/2502.19406)|null|[Kimi](https://papers.cool/arxiv/2502.19406)|
-| 8|**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402](http://arxiv.org/pdf/2502.19402)|null|[Kimi](https://papers.cool/arxiv/2502.19402)|
-| 9|**2025-02-26**|**TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding**|Max Ku et.al.|[2502.19400](http://arxiv.org/pdf/2502.19400)|null|[Kimi](https://papers.cool/arxiv/2502.19400)|
-|10|**2025-02-26**|**The End of Easy Phenomenology for CMB Experiments: A Case Study in the Dark Sector**|Cynthia Trendafilova et.al.|[2502.19383](http://arxiv.org/pdf/2502.19383)|null|[Kimi](https://papers.cool/arxiv/2502.19383)|
+| 1|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/pdf/2502.20395)|null|[Kimi](https://papers.cool/arxiv/2502.20395)|
+| 2|**2025-02-27**|**LIFT-GS: Cross-Scene Render-Supervised Distillation for 3D Language Grounding**|Ang Cao et.al.|[2502.20389](http://arxiv.org/pdf/2502.20389)|null|[Kimi](https://papers.cool/arxiv/2502.20389)|
+| 3|**2025-02-27**|**InsTaG: Learning Personalized 3D Talking Head from Few-Second Video**|Jiahe Li et.al.|[2502.20387](http://arxiv.org/pdf/2502.20387)|null|[Kimi](https://papers.cool/arxiv/2502.20387)|
+| 4|**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386](http://arxiv.org/pdf/2502.20386)|null|[Kimi](https://papers.cool/arxiv/2502.20386)|
+| 5|**2025-02-27**|**rSPDE: tools for statistical modeling using fractional SPDEs**|David Bolin et.al.|[2502.20385](http://arxiv.org/pdf/2502.20385)|null|[Kimi](https://papers.cool/arxiv/2502.20385)|
+| 6|**2025-02-27**|**PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation**|Albert Gong et.al.|[2502.20377](http://arxiv.org/pdf/2502.20377)|null|[Kimi](https://papers.cool/arxiv/2502.20377)|
+| 7|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/pdf/2502.20364)|null|[Kimi](https://papers.cool/arxiv/2502.20364)|
+| 8|**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356](http://arxiv.org/pdf/2502.20356)|null|[Kimi](https://papers.cool/arxiv/2502.20356)|
+| 9|**2025-02-27**|**Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**|Daniele Paliotta et.al.|[2502.20339](http://arxiv.org/pdf/2502.20339)|null|[Kimi](https://papers.cool/arxiv/2502.20339)|
+|10|**2025-02-27**|**KeBaB: $k$ -mer based breaking for finding super-maximal exact matches**|Nathaniel K. Brown et.al.|[2502.20338](http://arxiv.org/pdf/2502.20338)|null|[Kimi](https://papers.cool/arxiv/2502.20338)|
 
 <p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
