@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/pdf/2502.20395)|null|[Kimi](https://papers.cool/arxiv/2502.20395)|
-| 2|**2025-02-27**|**LIFT-GS: Cross-Scene Render-Supervised Distillation for 3D Language Grounding**|Ang Cao et.al.|[2502.20389](http://arxiv.org/pdf/2502.20389)|null|[Kimi](https://papers.cool/arxiv/2502.20389)|
-| 3|**2025-02-27**|**InsTaG: Learning Personalized 3D Talking Head from Few-Second Video**|Jiahe Li et.al.|[2502.20387](http://arxiv.org/pdf/2502.20387)|null|[Kimi](https://papers.cool/arxiv/2502.20387)|
-| 4|**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386](http://arxiv.org/pdf/2502.20386)|null|[Kimi](https://papers.cool/arxiv/2502.20386)|
-| 5|**2025-02-27**|**rSPDE: tools for statistical modeling using fractional SPDEs**|David Bolin et.al.|[2502.20385](http://arxiv.org/pdf/2502.20385)|null|[Kimi](https://papers.cool/arxiv/2502.20385)|
-| 6|**2025-02-27**|**PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation**|Albert Gong et.al.|[2502.20377](http://arxiv.org/pdf/2502.20377)|null|[Kimi](https://papers.cool/arxiv/2502.20377)|
-| 7|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/pdf/2502.20364)|null|[Kimi](https://papers.cool/arxiv/2502.20364)|
-| 8|**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356](http://arxiv.org/pdf/2502.20356)|null|[Kimi](https://papers.cool/arxiv/2502.20356)|
-| 9|**2025-02-27**|**Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**|Daniele Paliotta et.al.|[2502.20339](http://arxiv.org/pdf/2502.20339)|null|[Kimi](https://papers.cool/arxiv/2502.20339)|
-|10|**2025-02-27**|**KeBaB: $k$ -mer based breaking for finding super-maximal exact matches**|Nathaniel K. Brown et.al.|[2502.20338](http://arxiv.org/pdf/2502.20338)|null|[Kimi](https://papers.cool/arxiv/2502.20338)|
+| 1|**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/pdf/2502.21321)|null|[Kimi](https://papers.cool/arxiv/2502.21321)|
+| 2|**2025-02-28**|**Doping dependence of 2-spinon excitations in the doped 1D cuprate Ba $_2$CuO$_{3+δ}$**|Jiarui Li et.al.|[2502.21316](http://arxiv.org/pdf/2502.21316)|null|[Kimi](https://papers.cool/arxiv/2502.21316)|
+| 3|**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/pdf/2502.21314)|null|[Kimi](https://papers.cool/arxiv/2502.21314)|
+| 4|**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/pdf/2502.21309)|null|[Kimi](https://papers.cool/arxiv/2502.21309)|
+| 5|**2025-02-28**|**Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind**|Dingyi Zhang et.al.|[2502.21297](http://arxiv.org/pdf/2502.21297)|null|[Kimi](https://papers.cool/arxiv/2502.21297)|
+| 6|**2025-02-28**|**Bilevel Optimized Implicit Neural Representation for Scan-Specific Accelerated MRI Reconstruction**|Hongze Yu et.al.|[2502.21292](http://arxiv.org/pdf/2502.21292)|null|[Kimi](https://papers.cool/arxiv/2502.21292)|
+| 7|**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/pdf/2502.21290)|null|[Kimi](https://papers.cool/arxiv/2502.21290)|
+| 8|**2025-02-28**|**Boosting Prediction with Data Missing Not at Random**|Yuan Bian et.al.|[2502.21276](http://arxiv.org/pdf/2502.21276)|null|[Kimi](https://papers.cool/arxiv/2502.21276)|
+| 9|**2025-02-28**|**Adaptive Keyframe Sampling for Long Video Understanding**|Xi Tang et.al.|[2502.21271](http://arxiv.org/pdf/2502.21271)|null|[Kimi](https://papers.cool/arxiv/2502.21271)|
+|10|**2025-02-28**|**Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks**|Andrea Montanari et.al.|[2502.21269](http://arxiv.org/pdf/2502.21269)|null|[Kimi](https://papers.cool/arxiv/2502.21269)|
 
 <p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
