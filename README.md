@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/pdf/2502.21321)|null|[Kimi](https://papers.cool/arxiv/2502.21321)|
-| 2|**2025-02-28**|**Doping dependence of 2-spinon excitations in the doped 1D cuprate Ba $_2$CuO$_{3+δ}$**|Jiarui Li et.al.|[2502.21316](http://arxiv.org/pdf/2502.21316)|null|[Kimi](https://papers.cool/arxiv/2502.21316)|
-| 3|**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/pdf/2502.21314)|null|[Kimi](https://papers.cool/arxiv/2502.21314)|
-| 4|**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/pdf/2502.21309)|null|[Kimi](https://papers.cool/arxiv/2502.21309)|
-| 5|**2025-02-28**|**Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind**|Dingyi Zhang et.al.|[2502.21297](http://arxiv.org/pdf/2502.21297)|null|[Kimi](https://papers.cool/arxiv/2502.21297)|
-| 6|**2025-02-28**|**Bilevel Optimized Implicit Neural Representation for Scan-Specific Accelerated MRI Reconstruction**|Hongze Yu et.al.|[2502.21292](http://arxiv.org/pdf/2502.21292)|null|[Kimi](https://papers.cool/arxiv/2502.21292)|
-| 7|**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/pdf/2502.21290)|null|[Kimi](https://papers.cool/arxiv/2502.21290)|
-| 8|**2025-02-28**|**Boosting Prediction with Data Missing Not at Random**|Yuan Bian et.al.|[2502.21276](http://arxiv.org/pdf/2502.21276)|null|[Kimi](https://papers.cool/arxiv/2502.21276)|
-| 9|**2025-02-28**|**Adaptive Keyframe Sampling for Long Video Understanding**|Xi Tang et.al.|[2502.21271](http://arxiv.org/pdf/2502.21271)|null|[Kimi](https://papers.cool/arxiv/2502.21271)|
-|10|**2025-02-28**|**Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks**|Andrea Montanari et.al.|[2502.21269](http://arxiv.org/pdf/2502.21269)|null|[Kimi](https://papers.cool/arxiv/2502.21269)|
+| 1|**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881](http://arxiv.org/pdf/2503.02881)|null|[Kimi](https://papers.cool/arxiv/2503.02881)|
+| 2|**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878](http://arxiv.org/pdf/2503.02878)|null|[Kimi](https://papers.cool/arxiv/2503.02878)|
+| 3|**2025-03-04**|**Weak-to-Strong Generalization Even in Random Feature Networks, Provably**|Marko Medvedev et.al.|[2503.02877](http://arxiv.org/pdf/2503.02877)|null|[Kimi](https://papers.cool/arxiv/2503.02877)|
+| 4|**2025-03-04**|**SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models**|Dmitry Nechaev et.al.|[2503.02876](http://arxiv.org/pdf/2503.02876)|null|[Kimi](https://papers.cool/arxiv/2503.02876)|
+| 5|**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/pdf/2503.02875)|null|[Kimi](https://papers.cool/arxiv/2503.02875)|
+| 6|**2025-03-04**|**Calibrating LLM Confidence with Semantic Steering: A Multi-Prompt Aggregation Framework**|Ziang Zhou et.al.|[2503.02863](http://arxiv.org/pdf/2503.02863)|null|[Kimi](https://papers.cool/arxiv/2503.02863)|
+| 7|**2025-03-04**|**PileUp Mitigation at the HL-LHC Using Attention for Event-Wide Context**|Luke Vaughan et.al.|[2503.02860](http://arxiv.org/pdf/2503.02860)|null|[Kimi](https://papers.cool/arxiv/2503.02860)|
+| 8|**2025-03-04**|**Unsupervised Attributed Dynamic Network Embedding with Stability Guarantees**|Emma Ceccherini et.al.|[2503.02859](http://arxiv.org/pdf/2503.02859)|null|[Kimi](https://papers.cool/arxiv/2503.02859)|
+| 9|**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/pdf/2503.02851)|null|[Kimi](https://papers.cool/arxiv/2503.02851)|
+|10|**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849](http://arxiv.org/pdf/2503.02849)|null|[Kimi](https://papers.cool/arxiv/2503.02849)|
 
 <p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
