@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881](http://arxiv.org/pdf/2503.02881)|null|[Kimi](https://papers.cool/arxiv/2503.02881)|
-| 2|**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878](http://arxiv.org/pdf/2503.02878)|null|[Kimi](https://papers.cool/arxiv/2503.02878)|
-| 3|**2025-03-04**|**Weak-to-Strong Generalization Even in Random Feature Networks, Provably**|Marko Medvedev et.al.|[2503.02877](http://arxiv.org/pdf/2503.02877)|null|[Kimi](https://papers.cool/arxiv/2503.02877)|
-| 4|**2025-03-04**|**SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models**|Dmitry Nechaev et.al.|[2503.02876](http://arxiv.org/pdf/2503.02876)|null|[Kimi](https://papers.cool/arxiv/2503.02876)|
-| 5|**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/pdf/2503.02875)|null|[Kimi](https://papers.cool/arxiv/2503.02875)|
-| 6|**2025-03-04**|**Calibrating LLM Confidence with Semantic Steering: A Multi-Prompt Aggregation Framework**|Ziang Zhou et.al.|[2503.02863](http://arxiv.org/pdf/2503.02863)|null|[Kimi](https://papers.cool/arxiv/2503.02863)|
-| 7|**2025-03-04**|**PileUp Mitigation at the HL-LHC Using Attention for Event-Wide Context**|Luke Vaughan et.al.|[2503.02860](http://arxiv.org/pdf/2503.02860)|null|[Kimi](https://papers.cool/arxiv/2503.02860)|
-| 8|**2025-03-04**|**Unsupervised Attributed Dynamic Network Embedding with Stability Guarantees**|Emma Ceccherini et.al.|[2503.02859](http://arxiv.org/pdf/2503.02859)|null|[Kimi](https://papers.cool/arxiv/2503.02859)|
-| 9|**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/pdf/2503.02851)|null|[Kimi](https://papers.cool/arxiv/2503.02851)|
-|10|**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849](http://arxiv.org/pdf/2503.02849)|null|[Kimi](https://papers.cool/arxiv/2503.02849)|
+| 1|**2025-03-05**|**PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**|Ryozo Masukawa et.al.|[2503.03747](http://arxiv.org/pdf/2503.03747)|null|[Kimi](https://papers.cool/arxiv/2503.03747)|
+| 2|**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/pdf/2503.03746)|null|[Kimi](https://papers.cool/arxiv/2503.03746)|
+| 3|**2025-03-05**|**Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need**|Amal Shaheena et.al.|[2503.03733](http://arxiv.org/pdf/2503.03733)|null|[Kimi](https://papers.cool/arxiv/2503.03733)|
+| 4|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/pdf/2503.03730)|null|[Kimi](https://papers.cool/arxiv/2503.03730)|
+| 5|**2025-03-05**|**When Radiation Meets Linux: Analyzing Soft Errors in Linux on COTS SoCs under Proton Irradiation**|Saad Memon et.al.|[2503.03722](http://arxiv.org/pdf/2503.03722)|null|[Kimi](https://papers.cool/arxiv/2503.03722)|
+| 6|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/pdf/2503.03710)|null|[Kimi](https://papers.cool/arxiv/2503.03710)|
+| 7|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/pdf/2503.03708)|null|[Kimi](https://papers.cool/arxiv/2503.03708)|
+| 8|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/pdf/2503.03704)|null|[Kimi](https://papers.cool/arxiv/2503.03704)|
+| 9|**2025-03-05**|**ILLC: Iterative Layer-by-Layer Compression for Enhancing Structural Faithfulness in SpArX**|Ungsik Kim et.al.|[2503.03693](http://arxiv.org/pdf/2503.03693)|null|[Kimi](https://papers.cool/arxiv/2503.03693)|
+|10|**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/pdf/2503.03689)|null|[Kimi](https://papers.cool/arxiv/2503.03689)|
 
 <p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
