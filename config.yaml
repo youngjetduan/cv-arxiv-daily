@@ -30,5 +30,5 @@ keywords:
                     "MoE", "attention", "MLA", "CoE",
                     "KV Cache", "inference acceleration", "heterogeneous inference", 
                     "pipeline parallel", "data parallel", "tensor parallel", "expert parallel", "operator parallel",
-                    "early stopping", "early exit", "dynamic inference", "token skip",
+                    "speculative", "early stopping", "early exit", "dynamic inference", "token skip",
                     "instance aware", "many-in-one" ]
