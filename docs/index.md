@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -18,13 +18,13 @@ layout: default
 | ID | Publish Date | Title | Authors | PDF | Code | Kimi |
 |:---|:-------------|:------|:--------|:----|:-----|:-----|
 | 1|**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/pdf/2503.04725)|null|[Kimi](https://papers.cool/arxiv/2503.04725)|
-| 2|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/pdf/2503.04723)|null|[Kimi](https://papers.cool/arxiv/2503.04723)|
+| 2|**2025-03-07**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/pdf/2503.04723)|null|[Kimi](https://papers.cool/arxiv/2503.04723)|
 | 3|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/pdf/2503.04722)|null|[Kimi](https://papers.cool/arxiv/2503.04722)|
 | 4|**2025-03-06**|**L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**|Pranjal Aggarwal et.al.|[2503.04697](http://arxiv.org/pdf/2503.04697)|null|[Kimi](https://papers.cool/arxiv/2503.04697)|
 | 5|**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693](http://arxiv.org/pdf/2503.04693)|null|[Kimi](https://papers.cool/arxiv/2503.04693)|
 | 6|**2025-03-06**|**The Influence of Prior Discourse on Conversational Agent-Driven Decision-Making**|Stephen Pilli et.al.|[2503.04692](http://arxiv.org/pdf/2503.04692)|null|[Kimi](https://papers.cool/arxiv/2503.04692)|
 | 7|**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/pdf/2503.04691)|null|[Kimi](https://papers.cool/arxiv/2503.04691)|
-| 8|**2025-03-06**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/pdf/2503.04685)|null|[Kimi](https://papers.cool/arxiv/2503.04685)|
+| 8|**2025-03-07**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/pdf/2503.04685)|null|[Kimi](https://papers.cool/arxiv/2503.04685)|
 | 9|**2025-03-06**|**Matrix Factorization for Inferring Associations and Missing Links**|Ryan Barron et.al.|[2503.04680](http://arxiv.org/pdf/2503.04680)|null|[Kimi](https://papers.cool/arxiv/2503.04680)|
 |10|**2025-03-06**|**LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue**|Sangyeop Kim et.al.|[2503.04675](http://arxiv.org/pdf/2503.04675)|null|[Kimi](https://papers.cool/arxiv/2503.04675)|
 |11|**2025-03-05**|**PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**|Ryozo Masukawa et.al.|[2503.03747](http://arxiv.org/pdf/2503.03747)|null|[Kimi](https://papers.cool/arxiv/2503.03747)|
