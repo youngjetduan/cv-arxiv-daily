@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/pdf/2503.04725)|null|[Kimi](https://papers.cool/arxiv/2503.04725)|
-| 2|**2025-03-07**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/pdf/2503.04723)|null|[Kimi](https://papers.cool/arxiv/2503.04723)|
-| 3|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/pdf/2503.04722)|null|[Kimi](https://papers.cool/arxiv/2503.04722)|
-| 4|**2025-03-06**|**L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**|Pranjal Aggarwal et.al.|[2503.04697](http://arxiv.org/pdf/2503.04697)|null|[Kimi](https://papers.cool/arxiv/2503.04697)|
-| 5|**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693](http://arxiv.org/pdf/2503.04693)|null|[Kimi](https://papers.cool/arxiv/2503.04693)|
-| 6|**2025-03-06**|**The Influence of Prior Discourse on Conversational Agent-Driven Decision-Making**|Stephen Pilli et.al.|[2503.04692](http://arxiv.org/pdf/2503.04692)|null|[Kimi](https://papers.cool/arxiv/2503.04692)|
-| 7|**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/pdf/2503.04691)|null|[Kimi](https://papers.cool/arxiv/2503.04691)|
-| 8|**2025-03-07**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/pdf/2503.04685)|null|[Kimi](https://papers.cool/arxiv/2503.04685)|
-| 9|**2025-03-06**|**Matrix Factorization for Inferring Associations and Missing Links**|Ryan Barron et.al.|[2503.04680](http://arxiv.org/pdf/2503.04680)|null|[Kimi](https://papers.cool/arxiv/2503.04680)|
-|10|**2025-03-06**|**LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue**|Sangyeop Kim et.al.|[2503.04675](http://arxiv.org/pdf/2503.04675)|null|[Kimi](https://papers.cool/arxiv/2503.04675)|
+| 1|**2025-03-07**|**Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation**|Zhenxuan Zhang et.al.|[2503.05682](http://arxiv.org/pdf/2503.05682)|null|[Kimi](https://papers.cool/arxiv/2503.05682)|
+| 2|**2025-03-07**|**The latent variable proximal point algorithm for variational problems with inequality constraints**|Jørgen S. Dokken et.al.|[2503.05672](http://arxiv.org/pdf/2503.05672)|null|[Kimi](https://papers.cool/arxiv/2503.05672)|
+| 3|**2025-03-07**|**Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity**|Yulun Zhuang et.al.|[2503.05666](http://arxiv.org/pdf/2503.05666)|null|[Kimi](https://papers.cool/arxiv/2503.05666)|
+| 4|**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/pdf/2503.05659)|null|[Kimi](https://papers.cool/arxiv/2503.05659)|
+| 5|**2025-03-07**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641](http://arxiv.org/pdf/2503.05641)|null|[Kimi](https://papers.cool/arxiv/2503.05641)|
+| 6|**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629](http://arxiv.org/pdf/2503.05629)|null|[Kimi](https://papers.cool/arxiv/2503.05629)|
+| 7|**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626](http://arxiv.org/pdf/2503.05626)|null|[Kimi](https://papers.cool/arxiv/2503.05626)|
+| 8|**2025-03-07**|**A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models**|Dong Shu et.al.|[2503.05613](http://arxiv.org/pdf/2503.05613)|null|[Kimi](https://papers.cool/arxiv/2503.05613)|
+| 9|**2025-03-07**|**D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS**|Mufan Liu et.al.|[2503.05600](http://arxiv.org/pdf/2503.05600)|null|[Kimi](https://papers.cool/arxiv/2503.05600)|
+|10|**2025-03-07**|**R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**|Huatong Song et.al.|[2503.05592](http://arxiv.org/pdf/2503.05592)|null|[Kimi](https://papers.cool/arxiv/2503.05592)|
 
 <p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
 
