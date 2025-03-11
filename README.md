@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-07**|**Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation**|Zhenxuan Zhang et.al.|[2503.05682](http://arxiv.org/pdf/2503.05682)|null|[Kimi](https://papers.cool/arxiv/2503.05682)|
-| 2|**2025-03-07**|**The latent variable proximal point algorithm for variational problems with inequality constraints**|Jørgen S. Dokken et.al.|[2503.05672](http://arxiv.org/pdf/2503.05672)|null|[Kimi](https://papers.cool/arxiv/2503.05672)|
-| 3|**2025-03-07**|**Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity**|Yulun Zhuang et.al.|[2503.05666](http://arxiv.org/pdf/2503.05666)|null|[Kimi](https://papers.cool/arxiv/2503.05666)|
-| 4|**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/pdf/2503.05659)|null|[Kimi](https://papers.cool/arxiv/2503.05659)|
-| 5|**2025-03-07**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641](http://arxiv.org/pdf/2503.05641)|null|[Kimi](https://papers.cool/arxiv/2503.05641)|
-| 6|**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629](http://arxiv.org/pdf/2503.05629)|null|[Kimi](https://papers.cool/arxiv/2503.05629)|
-| 7|**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626](http://arxiv.org/pdf/2503.05626)|null|[Kimi](https://papers.cool/arxiv/2503.05626)|
-| 8|**2025-03-07**|**A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models**|Dong Shu et.al.|[2503.05613](http://arxiv.org/pdf/2503.05613)|null|[Kimi](https://papers.cool/arxiv/2503.05613)|
-| 9|**2025-03-07**|**D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS**|Mufan Liu et.al.|[2503.05600](http://arxiv.org/pdf/2503.05600)|null|[Kimi](https://papers.cool/arxiv/2503.05600)|
-|10|**2025-03-07**|**R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**|Huatong Song et.al.|[2503.05592](http://arxiv.org/pdf/2503.05592)|null|[Kimi](https://papers.cool/arxiv/2503.05592)|
+| 1|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/pdf/2503.07487)|null|[Kimi](https://papers.cool/arxiv/2503.07487)|
+| 2|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/pdf/2503.07485)|null|[Kimi](https://papers.cool/arxiv/2503.07485)|
+| 3|**2025-03-10**|**VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models**|Jiacheng Ruan et.al.|[2503.07478](http://arxiv.org/pdf/2503.07478)|null|[Kimi](https://papers.cool/arxiv/2503.07478)|
+| 4|**2025-03-10**|**Petri Net Modeling of Root Hair Response to Phosphate Starvation in Arabidopsis Thaliana**|Amber H. B. Fijn et.al.|[2503.07477](http://arxiv.org/pdf/2503.07477)|null|[Kimi](https://papers.cool/arxiv/2503.07477)|
+| 5|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/pdf/2503.07459)|null|[Kimi](https://papers.cool/arxiv/2503.07459)|
+| 6|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/pdf/2503.07435)|null|[Kimi](https://papers.cool/arxiv/2503.07435)|
+| 7|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/pdf/2503.07433)|null|[Kimi](https://papers.cool/arxiv/2503.07433)|
+| 8|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/pdf/2503.07425)|null|[Kimi](https://papers.cool/arxiv/2503.07425)|
+| 9|**2025-03-10**|**Inorganic Catalyst Efficiency Prediction Based on EAPCR Model: A Deep Learning Solution for Multi-Source Heterogeneous Data**|Zhangdi Liu et.al.|[2503.07424](http://arxiv.org/pdf/2503.07424)|null|[Kimi](https://papers.cool/arxiv/2503.07424)|
+|10|**2025-03-10**|**AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**|Mingzhen Sun et.al.|[2503.07418](http://arxiv.org/pdf/2503.07418)|null|[Kimi](https://papers.cool/arxiv/2503.07418)|
 
 <p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
