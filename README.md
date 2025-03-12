@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-10**|**Securing External Deeper-than-black-box GPAI Evaluations**|Alejandro Tlaie et.al.|[2503.07496](http://arxiv.org/pdf/2503.07496)|null|[Kimi](https://papers.cool/arxiv/2503.07496)|
-| 2|**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493](http://arxiv.org/pdf/2503.07493)|null|[Kimi](https://papers.cool/arxiv/2503.07493)|
-| 3|**2025-03-10**|**Destination Calculus: A Linear λ-Calculus for Purely Functional Memory Writes**|Thomas Bagrel et.al.|[2503.07489](http://arxiv.org/pdf/2503.07489)|**[link](https://github.com/tweag/destination-calculus)**|[Kimi](https://papers.cool/arxiv/2503.07489)|
-| 4|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/pdf/2503.07487)|null|[Kimi](https://papers.cool/arxiv/2503.07487)|
-| 5|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/pdf/2503.07485)|null|[Kimi](https://papers.cool/arxiv/2503.07485)|
-| 6|**2025-03-10**|**VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models**|Jiacheng Ruan et.al.|[2503.07478](http://arxiv.org/pdf/2503.07478)|null|[Kimi](https://papers.cool/arxiv/2503.07478)|
-| 7|**2025-03-10**|**Petri Net Modeling of Root Hair Response to Phosphate Starvation in Arabidopsis Thaliana**|Amber H. B. Fijn et.al.|[2503.07477](http://arxiv.org/pdf/2503.07477)|null|[Kimi](https://papers.cool/arxiv/2503.07477)|
-| 8|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/pdf/2503.07459)|null|[Kimi](https://papers.cool/arxiv/2503.07459)|
-| 9|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/pdf/2503.07435)|null|[Kimi](https://papers.cool/arxiv/2503.07435)|
-|10|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/pdf/2503.07433)|null|[Kimi](https://papers.cool/arxiv/2503.07433)|
+| 1|**2025-03-11**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**|Yongdong Luo et.al.|[2503.08689](http://arxiv.org/pdf/2503.08689)|null|[Kimi](https://papers.cool/arxiv/2503.08689)|
+| 2|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/pdf/2503.08683)|null|[Kimi](https://papers.cool/arxiv/2503.08683)|
+| 3|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/pdf/2503.08679)|null|[Kimi](https://papers.cool/arxiv/2503.08679)|
+| 4|**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/pdf/2503.08665)|null|[Kimi](https://papers.cool/arxiv/2503.08665)|
+| 5|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/pdf/2503.08664)|null|[Kimi](https://papers.cool/arxiv/2503.08664)|
+| 6|**2025-03-11**|**Exploring the Word Sense Disambiguation Capabilities of Large Language Models**|Pierpaolo Basile et.al.|[2503.08662](http://arxiv.org/pdf/2503.08662)|null|[Kimi](https://papers.cool/arxiv/2503.08662)|
+| 7|**2025-03-11**|**Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention**|Emily Xiao et.al.|[2503.08640](http://arxiv.org/pdf/2503.08640)|null|[Kimi](https://papers.cool/arxiv/2503.08640)|
+| 8|**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/pdf/2503.08612)|null|[Kimi](https://papers.cool/arxiv/2503.08612)|
+| 9|**2025-03-11**|**Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion**|Mehdi Hosseini Chagahi et.al.|[2503.08609](http://arxiv.org/pdf/2503.08609)|null|[Kimi](https://papers.cool/arxiv/2503.08609)|
+|10|**2025-03-11**|**Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling**|Subin Kim et.al.|[2503.08605](http://arxiv.org/pdf/2503.08605)|null|[Kimi](https://papers.cool/arxiv/2503.08605)|
 
 <p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
