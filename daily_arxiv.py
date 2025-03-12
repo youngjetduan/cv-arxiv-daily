@@ -110,7 +110,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     search_engine = arxiv.Search(
         query = f"{topic_filter} AND ti:({query}) AND {date_filter}",
         max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
+        sort_by = arxiv.SortCriterion.relevance
     )
     
     # output
