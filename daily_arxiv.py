@@ -97,22 +97,32 @@ def get_daily_papers(topic,query="slam", max_results=2):
     @param query: str
     @return paper_with_code: dict
     """
-    # output
-    content = dict()
-    content_to_web = dict()
+    # 格式化日期为 YYYYMMDDHHMM
+    yesterday = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=1)
+    today = datetime.date.today()
+    start_date = yesterday.strftime("%Y%m%d%H%M")
+    end_date = today.strftime("%Y%m%d%H%M")
+
+    topic_filter = "(cs.AI OR cs.CL OR cs.CV OR cs.DC OR cs.MM)"
+    date_filter = f"submittedDate:[{start_date} TO {end_date}]"
+
+    client = arxiv.Client()
     search_engine = arxiv.Search(
-        query = query,
+        query = f"{topic_filter} AND ti:({query}) AND {date_filter}",
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
-
-    for result in search_engine.results():
+    
+    # output
+    content = dict()
+    content_to_web = dict()
+    for result in client.results(search_engine):
         paper_id            = result.get_short_id()
         paper_title         = result.title
-        code_url            = base_url + paper_id #TODO
+        code_url            = base_url + paper_id
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors, first_author = True)
+        paper_first_author  = get_authors(result.authors, first_author=True)
         primary_category    = result.primary_category
         publish_time        = result.published.date()
         update_time         = result.updated.date()
@@ -154,7 +164,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     data = {topic:content}
     data_web = {topic:content_to_web}
-    return data,data_web
+    return data, data_web
 
 
 def update_paper_links(filename):
@@ -172,7 +182,7 @@ def update_paper_links(filename):
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         if len(kimi) == 0 or 'Kimi' not in kimi:
             kimi = "[Kimi](" + cool_url + 'arxiv/' + paper_id + ")"
-        return date,title,authors,arxiv_id,code,kimi
+        return date, title, authors, arxiv_id, code, kimi
 
     with open(filename,"r") as f:
         content = f.read()
