@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/pdf/2503.07487)|null|[Kimi](https://papers.cool/arxiv/2503.07487)|
-| 2|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/pdf/2503.07485)|null|[Kimi](https://papers.cool/arxiv/2503.07485)|
-| 3|**2025-03-10**|**VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models**|Jiacheng Ruan et.al.|[2503.07478](http://arxiv.org/pdf/2503.07478)|null|[Kimi](https://papers.cool/arxiv/2503.07478)|
-| 4|**2025-03-10**|**Petri Net Modeling of Root Hair Response to Phosphate Starvation in Arabidopsis Thaliana**|Amber H. B. Fijn et.al.|[2503.07477](http://arxiv.org/pdf/2503.07477)|null|[Kimi](https://papers.cool/arxiv/2503.07477)|
-| 5|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/pdf/2503.07459)|null|[Kimi](https://papers.cool/arxiv/2503.07459)|
-| 6|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/pdf/2503.07435)|null|[Kimi](https://papers.cool/arxiv/2503.07435)|
-| 7|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/pdf/2503.07433)|null|[Kimi](https://papers.cool/arxiv/2503.07433)|
-| 8|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/pdf/2503.07425)|null|[Kimi](https://papers.cool/arxiv/2503.07425)|
-| 9|**2025-03-10**|**Inorganic Catalyst Efficiency Prediction Based on EAPCR Model: A Deep Learning Solution for Multi-Source Heterogeneous Data**|Zhangdi Liu et.al.|[2503.07424](http://arxiv.org/pdf/2503.07424)|null|[Kimi](https://papers.cool/arxiv/2503.07424)|
-|10|**2025-03-10**|**AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**|Mingzhen Sun et.al.|[2503.07418](http://arxiv.org/pdf/2503.07418)|null|[Kimi](https://papers.cool/arxiv/2503.07418)|
+| 1|**2025-03-10**|**Securing External Deeper-than-black-box GPAI Evaluations**|Alejandro Tlaie et.al.|[2503.07496](http://arxiv.org/pdf/2503.07496)|null|[Kimi](https://papers.cool/arxiv/2503.07496)|
+| 2|**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493](http://arxiv.org/pdf/2503.07493)|null|[Kimi](https://papers.cool/arxiv/2503.07493)|
+| 3|**2025-03-10**|**Destination Calculus: A Linear λ-Calculus for Purely Functional Memory Writes**|Thomas Bagrel et.al.|[2503.07489](http://arxiv.org/pdf/2503.07489)|**[link](https://github.com/tweag/destination-calculus)**|[Kimi](https://papers.cool/arxiv/2503.07489)|
+| 4|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/pdf/2503.07487)|null|[Kimi](https://papers.cool/arxiv/2503.07487)|
+| 5|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/pdf/2503.07485)|null|[Kimi](https://papers.cool/arxiv/2503.07485)|
+| 6|**2025-03-10**|**VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models**|Jiacheng Ruan et.al.|[2503.07478](http://arxiv.org/pdf/2503.07478)|null|[Kimi](https://papers.cool/arxiv/2503.07478)|
+| 7|**2025-03-10**|**Petri Net Modeling of Root Hair Response to Phosphate Starvation in Arabidopsis Thaliana**|Amber H. B. Fijn et.al.|[2503.07477](http://arxiv.org/pdf/2503.07477)|null|[Kimi](https://papers.cool/arxiv/2503.07477)|
+| 8|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/pdf/2503.07459)|null|[Kimi](https://papers.cool/arxiv/2503.07459)|
+| 9|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/pdf/2503.07435)|null|[Kimi](https://papers.cool/arxiv/2503.07435)|
+|10|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/pdf/2503.07433)|null|[Kimi](https://papers.cool/arxiv/2503.07433)|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
