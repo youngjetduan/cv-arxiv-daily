@@ -24,9 +24,10 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLM":
-        filters: [  "deepseek", "qwen", "llama", "kimi",
+        filters: [  "transformers", "LLM", "large language models",
+                    "deepseek", "qwen", "llama", "kimi",
                     "long-term memory", "long context", "long video",
-                    "prefill", "decode", "token",
+                    "prefill", "decode", "decoding", "token",
                     "cot", "latent", "reasoning",
                     "moe", "attention", "mla", "coe", "experts",
                     "KV Cache", "importance", "heterogeneous inference",
