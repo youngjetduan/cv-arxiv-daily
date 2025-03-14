@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-11**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**|Yongdong Luo et.al.|[2503.08689](http://arxiv.org/pdf/2503.08689)|null|[Kimi](https://papers.cool/arxiv/2503.08689)|
-| 2|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/pdf/2503.08683)|null|[Kimi](https://papers.cool/arxiv/2503.08683)|
-| 3|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/pdf/2503.08679)|null|[Kimi](https://papers.cool/arxiv/2503.08679)|
-| 4|**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/pdf/2503.08665)|null|[Kimi](https://papers.cool/arxiv/2503.08665)|
-| 5|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/pdf/2503.08664)|null|[Kimi](https://papers.cool/arxiv/2503.08664)|
-| 6|**2025-03-11**|**Exploring the Word Sense Disambiguation Capabilities of Large Language Models**|Pierpaolo Basile et.al.|[2503.08662](http://arxiv.org/pdf/2503.08662)|null|[Kimi](https://papers.cool/arxiv/2503.08662)|
-| 7|**2025-03-11**|**Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention**|Emily Xiao et.al.|[2503.08640](http://arxiv.org/pdf/2503.08640)|null|[Kimi](https://papers.cool/arxiv/2503.08640)|
-| 8|**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/pdf/2503.08612)|null|[Kimi](https://papers.cool/arxiv/2503.08612)|
-| 9|**2025-03-11**|**Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion**|Mehdi Hosseini Chagahi et.al.|[2503.08609](http://arxiv.org/pdf/2503.08609)|null|[Kimi](https://papers.cool/arxiv/2503.08609)|
-|10|**2025-03-11**|**Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling**|Subin Kim et.al.|[2503.08605](http://arxiv.org/pdf/2503.08605)|null|[Kimi](https://papers.cool/arxiv/2503.08605)|
+| 1|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/pdf/2503.10639)|null|[Kimi](https://papers.cool/arxiv/2503.10639)|
+| 2|**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632](http://arxiv.org/pdf/2503.10632)|null|[Kimi](https://papers.cool/arxiv/2503.10632)|
+| 3|**2025-03-13**|**SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**|Ziyu Guo et.al.|[2503.10627](http://arxiv.org/pdf/2503.10627)|null|[Kimi](https://papers.cool/arxiv/2503.10627)|
+| 4|**2025-03-13**|**Transformers without Normalization**|Jiachen Zhu et.al.|[2503.10622](http://arxiv.org/pdf/2503.10622)|null|[Kimi](https://papers.cool/arxiv/2503.10622)|
+| 5|**2025-03-13**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619](http://arxiv.org/pdf/2503.10619)|null|[Kimi](https://papers.cool/arxiv/2503.10619)|
+| 6|**2025-03-13**|**Compositional Subspace Representation Fine-tuning for Adaptive Large Language Models**|Andy Zhou et.al.|[2503.10617](http://arxiv.org/pdf/2503.10617)|null|[Kimi](https://papers.cool/arxiv/2503.10617)|
+| 7|**2025-03-13**|**TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention**|Jinhao Duan et.al.|[2503.10602](http://arxiv.org/pdf/2503.10602)|null|[Kimi](https://papers.cool/arxiv/2503.10602)|
+| 8|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/pdf/2503.10589)|null|[Kimi](https://papers.cool/arxiv/2503.10589)|
+| 9|**2025-03-13**|**Autoregressive Image Generation with Randomized Parallel Decoding**|Haopeng Li et.al.|[2503.10568](http://arxiv.org/pdf/2503.10568)|null|[Kimi](https://papers.cool/arxiv/2503.10568)|
+|10|**2025-03-13**|**AudioX: Diffusion Transformer for Anything-to-Audio Generation**|Zeyue Tian et.al.|[2503.10522](http://arxiv.org/pdf/2503.10522)|null|[Kimi](https://papers.cool/arxiv/2503.10522)|
 
 <p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
