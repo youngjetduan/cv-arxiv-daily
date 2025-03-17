@@ -91,14 +91,14 @@ def get_code_link(qword:str) -> str:
     return code_link
 
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic, query="slam", max_results=2, search_duration: int=1):
     """
     @param topic: str
     @param query: str
     @return paper_with_code: dict
     """
     # 格式化日期为 YYYYMMDDHHMM
-    yesterday = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=1)
+    yesterday = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=search_duration)
     today = datetime.date.today()
     start_date = yesterday.strftime("%Y%m%d%H%M")
     end_date = today.strftime("%Y%m%d%H%M")
@@ -406,6 +406,7 @@ def demo(**config):
 
     keywords = config['kv']
     max_results = config['max_results']
+    search_duration=config['search_duration']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_archive = config['publish_archive']
@@ -420,7 +421,7 @@ def demo(**config):
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+                                            max_results = max_results, search_duration=search_duration)
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
