@@ -6,7 +6,7 @@ show_authors: True
 show_links: True
 show_badge: True
 max_results: 30
-search_duration: 3
+search_duration: 1
 max_show_results: 100
 
 publish_readme: True
