@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/pdf/2503.10639)|null|[Kimi](https://papers.cool/arxiv/2503.10639)|
-| 2|**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632](http://arxiv.org/pdf/2503.10632)|null|[Kimi](https://papers.cool/arxiv/2503.10632)|
-| 3|**2025-03-13**|**SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**|Ziyu Guo et.al.|[2503.10627](http://arxiv.org/pdf/2503.10627)|null|[Kimi](https://papers.cool/arxiv/2503.10627)|
-| 4|**2025-03-13**|**Transformers without Normalization**|Jiachen Zhu et.al.|[2503.10622](http://arxiv.org/pdf/2503.10622)|null|[Kimi](https://papers.cool/arxiv/2503.10622)|
-| 5|**2025-03-13**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619](http://arxiv.org/pdf/2503.10619)|null|[Kimi](https://papers.cool/arxiv/2503.10619)|
-| 6|**2025-03-13**|**Compositional Subspace Representation Fine-tuning for Adaptive Large Language Models**|Andy Zhou et.al.|[2503.10617](http://arxiv.org/pdf/2503.10617)|null|[Kimi](https://papers.cool/arxiv/2503.10617)|
-| 7|**2025-03-13**|**TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention**|Jinhao Duan et.al.|[2503.10602](http://arxiv.org/pdf/2503.10602)|null|[Kimi](https://papers.cool/arxiv/2503.10602)|
-| 8|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/pdf/2503.10589)|null|[Kimi](https://papers.cool/arxiv/2503.10589)|
-| 9|**2025-03-13**|**Autoregressive Image Generation with Randomized Parallel Decoding**|Haopeng Li et.al.|[2503.10568](http://arxiv.org/pdf/2503.10568)|null|[Kimi](https://papers.cool/arxiv/2503.10568)|
-|10|**2025-03-13**|**AudioX: Diffusion Transformer for Anything-to-Audio Generation**|Zeyue Tian et.al.|[2503.10522](http://arxiv.org/pdf/2503.10522)|null|[Kimi](https://papers.cool/arxiv/2503.10522)|
+| 1|**2025-03-14**|**TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing**|Stefan Lionar et.al.|[2503.11629](http://arxiv.org/pdf/2503.11629)|null|[Kimi](https://papers.cool/arxiv/2503.11629)|
+| 2|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/pdf/2503.11617)|null|[Kimi](https://papers.cool/arxiv/2503.11617)|
+| 3|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586](http://arxiv.org/pdf/2503.11586)|null|[Kimi](https://papers.cool/arxiv/2503.11586)|
+| 4|**2025-03-14**|**Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**|Weiming Ren et.al.|[2503.11579](http://arxiv.org/pdf/2503.11579)|null|[Kimi](https://papers.cool/arxiv/2503.11579)|
+| 5|**2025-03-14**|**Implicit Bias-Like Patterns in Reasoning Models**|Messi H. J. Lee et.al.|[2503.11572](http://arxiv.org/pdf/2503.11572)|null|[Kimi](https://papers.cool/arxiv/2503.11572)|
+| 6|**2025-03-14**|**Similarity-Aware Token Pruning: Your VLM but Faster**|Ahmadreza Jeddi et.al.|[2503.11549](http://arxiv.org/pdf/2503.11549)|null|[Kimi](https://papers.cool/arxiv/2503.11549)|
+| 7|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/pdf/2503.11513)|null|[Kimi](https://papers.cool/arxiv/2503.11513)|
+| 8|**2025-03-14**|**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning**|Zixu Cheng et.al.|[2503.11495](http://arxiv.org/pdf/2503.11495)|null|[Kimi](https://papers.cool/arxiv/2503.11495)|
+| 9|**2025-03-14**|**Integrating LLMs in Gamified Systems**|Carlos J. Costa et.al.|[2503.11458](http://arxiv.org/pdf/2503.11458)|null|[Kimi](https://papers.cool/arxiv/2503.11458)|
+|10|**2025-03-14**|**Cerebrum (AIOS SDK): A Platform for Agent Development, Deployment, Distribution, and Discovery**|Balaji Rama et.al.|[2503.11444](http://arxiv.org/pdf/2503.11444)|null|[Kimi](https://papers.cool/arxiv/2503.11444)|
 
 <p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
