@@ -98,8 +98,8 @@ def get_daily_papers(topic, query="slam", max_results=2, search_duration: int=1)
     @return paper_with_code: dict
     """
     # 格式化日期为 YYYYMMDDHHMM
-    yesterday = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=search_duration)
-    today = datetime.date.today()
+    today = datetime.datetime.now(datetime.timezone.utc)
+    yesterday = today - datetime.timedelta(days=search_duration)
     start_date = yesterday.strftime("%Y%m%d%H%M")
     end_date = today.strftime("%Y%m%d%H%M")
 
