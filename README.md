@@ -19,16 +19,16 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-14**|**TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing**|Stefan Lionar et.al.|[2503.11629](http://arxiv.org/pdf/2503.11629)|null|[Kimi](https://papers.cool/arxiv/2503.11629)|
-| 2|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/pdf/2503.11617)|null|[Kimi](https://papers.cool/arxiv/2503.11617)|
-| 3|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586](http://arxiv.org/pdf/2503.11586)|null|[Kimi](https://papers.cool/arxiv/2503.11586)|
-| 4|**2025-03-14**|**Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**|Weiming Ren et.al.|[2503.11579](http://arxiv.org/pdf/2503.11579)|null|[Kimi](https://papers.cool/arxiv/2503.11579)|
-| 5|**2025-03-14**|**Implicit Bias-Like Patterns in Reasoning Models**|Messi H. J. Lee et.al.|[2503.11572](http://arxiv.org/pdf/2503.11572)|null|[Kimi](https://papers.cool/arxiv/2503.11572)|
-| 6|**2025-03-14**|**Similarity-Aware Token Pruning: Your VLM but Faster**|Ahmadreza Jeddi et.al.|[2503.11549](http://arxiv.org/pdf/2503.11549)|null|[Kimi](https://papers.cool/arxiv/2503.11549)|
-| 7|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/pdf/2503.11513)|null|[Kimi](https://papers.cool/arxiv/2503.11513)|
-| 8|**2025-03-14**|**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning**|Zixu Cheng et.al.|[2503.11495](http://arxiv.org/pdf/2503.11495)|null|[Kimi](https://papers.cool/arxiv/2503.11495)|
-| 9|**2025-03-14**|**Integrating LLMs in Gamified Systems**|Carlos J. Costa et.al.|[2503.11458](http://arxiv.org/pdf/2503.11458)|null|[Kimi](https://papers.cool/arxiv/2503.11458)|
-|10|**2025-03-14**|**Cerebrum (AIOS SDK): A Platform for Agent Development, Deployment, Distribution, and Discovery**|Balaji Rama et.al.|[2503.11444](http://arxiv.org/pdf/2503.11444)|null|[Kimi](https://papers.cool/arxiv/2503.11444)|
+| 1|**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/pdf/2503.13447)|null|[Kimi](https://papers.cool/arxiv/2503.13447)|
+| 2|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/pdf/2503.13444)|null|[Kimi](https://papers.cool/arxiv/2503.13444)|
+| 3|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/pdf/2503.13399)|null|[Kimi](https://papers.cool/arxiv/2503.13399)|
+| 4|**2025-03-17**|**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**|Ye Wang et.al.|[2503.13377](http://arxiv.org/pdf/2503.13377)|null|[Kimi](https://papers.cool/arxiv/2503.13377)|
+| 5|**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360](http://arxiv.org/pdf/2503.13360)|null|[Kimi](https://papers.cool/arxiv/2503.13360)|
+| 6|**2025-03-17**|**Computation Mechanism Behind LLM Position Generalization**|Chi Han et.al.|[2503.13305](http://arxiv.org/pdf/2503.13305)|null|[Kimi](https://papers.cool/arxiv/2503.13305)|
+| 7|**2025-03-17**|**A Survey on Transformer Context Extension: Approaches and Evaluation**|Yijun Liu et.al.|[2503.13299](http://arxiv.org/pdf/2503.13299)|null|[Kimi](https://papers.cool/arxiv/2503.13299)|
+| 8|**2025-03-17**|**$φ$ -Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation**|Fangzhi Xu et.al.|[2503.13288](http://arxiv.org/pdf/2503.13288)|null|[Kimi](https://papers.cool/arxiv/2503.13288)|
+| 9|**2025-03-17**|**Can Language Models Follow Multiple Turns of Entangled Instructions?**|Chi Han et.al.|[2503.13222](http://arxiv.org/pdf/2503.13222)|null|[Kimi](https://papers.cool/arxiv/2503.13222)|
+|10|**2025-03-17**|**Improving Complex Reasoning with Dynamic Prompt Corruption: A soft prompt Optimization Approach**|Sinan Fan et.al.|[2503.13208](http://arxiv.org/pdf/2503.13208)|null|[Kimi](https://papers.cool/arxiv/2503.13208)|
 
 <p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
