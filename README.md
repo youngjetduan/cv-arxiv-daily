@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-18**|**State Space Model Meets Transformer: A New Paradigm for 3D Object Detection**|Chuxin Wang et.al.|[2503.14493](http://arxiv.org/pdf/2503.14493)|null|[Kimi](https://papers.cool/arxiv/2503.14493)|
-| 2|**2025-03-18**|**DiffMoE: Dynamic Token Selection for Scalable Diffusion Transformers**|Minglei Shi et.al.|[2503.14487](http://arxiv.org/pdf/2503.14487)|null|[Kimi](https://papers.cool/arxiv/2503.14487)|
-| 3|**2025-03-18**|**Gricean Norms as a Basis for Effective Collaboration**|Fardin Saad et.al.|[2503.14484](http://arxiv.org/pdf/2503.14484)|null|[Kimi](https://papers.cool/arxiv/2503.14484)|
-| 4|**2025-03-18**|**LLM-FE: Automated Feature Engineering for Tabular Data with LLMs as Evolutionary Optimizers**|Nikhil Abhyankar et.al.|[2503.14434](http://arxiv.org/pdf/2503.14434)|null|[Kimi](https://papers.cool/arxiv/2503.14434)|
-| 5|**2025-03-18**|**PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play**|Wei Fang et.al.|[2503.14432](http://arxiv.org/pdf/2503.14432)|null|[Kimi](https://papers.cool/arxiv/2503.14432)|
-| 6|**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/pdf/2503.14350)|null|[Kimi](https://papers.cool/arxiv/2503.14350)|
-| 7|**2025-03-18**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/pdf/2503.14324)|null|[Kimi](https://papers.cool/arxiv/2503.14324)|
-| 8|**2025-03-18**|**DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal**|Vaibhav Aggarwal et.al.|[2503.14269](http://arxiv.org/pdf/2503.14269)|null|[Kimi](https://papers.cool/arxiv/2503.14269)|
-| 9|**2025-03-18**|**Speculative Decoding for Verilog: Speed and Quality, All in One**|Changran Xu et.al.|[2503.14153](http://arxiv.org/pdf/2503.14153)|null|[Kimi](https://papers.cool/arxiv/2503.14153)|
-|10|**2025-03-18**|**Inference-Time Intervention in Large Language Models for Reliable Requirement Verification**|Paul Darm et.al.|[2503.14130](http://arxiv.org/pdf/2503.14130)|null|[Kimi](https://papers.cool/arxiv/2503.14130)|
+| 1|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/pdf/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|[Kimi](https://papers.cool/arxiv/2503.15469)|
+| 2|**2025-03-19**|**SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation**|Thomas Pickard et.al.|[2503.15358](http://arxiv.org/pdf/2503.15358)|null|[Kimi](https://papers.cool/arxiv/2503.15358)|
+| 3|**2025-03-19**|**MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**|David Wan et.al.|[2503.15272](http://arxiv.org/pdf/2503.15272)|null|[Kimi](https://papers.cool/arxiv/2503.15272)|
+| 4|**2025-03-19**|**Do Chains-of-Thoughts of Large Language Models Suffer from Hallucinations, Cognitive Biases, or Phobias in Bayesian Reasoning?**|Roberto Araya et.al.|[2503.15268](http://arxiv.org/pdf/2503.15268)|null|[Kimi](https://papers.cool/arxiv/2503.15268)|
+| 5|**2025-03-19**|**Efficient allocation of image recognition and LLM tasks on multi-GPU system**|Marcin Lawenda et.al.|[2503.15252](http://arxiv.org/pdf/2503.15252)|null|[Kimi](https://papers.cool/arxiv/2503.15252)|
+| 6|**2025-03-19**|**Automated Non-Functional Requirements Generation in Software Engineering with Large Language Models: A Comparative Study**|Jomar Thomas Almonte et.al.|[2503.15248](http://arxiv.org/pdf/2503.15248)|null|[Kimi](https://papers.cool/arxiv/2503.15248)|
+| 7|**2025-03-19**|**BigO(Bench) -- Can LLMs Generate Code with Controlled Time and Space Complexity?**|Pierre Chambon et.al.|[2503.15242](http://arxiv.org/pdf/2503.15242)|null|[Kimi](https://papers.cool/arxiv/2503.15242)|
+| 8|**2025-03-19**|**Exploring Large Language Models for Word Games:Who is the Spy?**|Chentian Wei et.al.|[2503.15235](http://arxiv.org/pdf/2503.15235)|null|[Kimi](https://papers.cool/arxiv/2503.15235)|
+| 9|**2025-03-19**|**CoE: Chain-of-Explanation via Automatic Visual Concept Circuit Description and Polysemanticity Quantification**|Wenlong Yu et.al.|[2503.15234](http://arxiv.org/pdf/2503.15234)|null|[Kimi](https://papers.cool/arxiv/2503.15234)|
+|10|**2025-03-19**|**A Review on Large Language Models for Visual Analytics**|Navya Sonal Agarwal et.al.|[2503.15176](http://arxiv.org/pdf/2503.15176)|null|[Kimi](https://papers.cool/arxiv/2503.15176)|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
