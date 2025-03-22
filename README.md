@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.21
+## Updated on 2025.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/pdf/2503.16428)|null|[Kimi](https://papers.cool/arxiv/2503.16428)|
-| 2|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/pdf/2503.16419)|null|[Kimi](https://papers.cool/arxiv/2503.16419)|
-| 3|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](http://arxiv.org/pdf/2503.16394)|null|[Kimi](https://papers.cool/arxiv/2503.16394)|
-| 4|**2025-03-20**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385](http://arxiv.org/pdf/2503.16385)|null|[Kimi](https://papers.cool/arxiv/2503.16385)|
-| 5|**2025-03-20**|**CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**|Yunzhi Yao et.al.|[2503.16356](http://arxiv.org/pdf/2503.16356)|null|[Kimi](https://papers.cool/arxiv/2503.16356)|
-| 6|**2025-03-20**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304](http://arxiv.org/pdf/2503.16304)|null|[Kimi](https://papers.cool/arxiv/2503.16304)|
-| 7|**2025-03-20**|**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models**|Keda Tao et.al.|[2503.16257](http://arxiv.org/pdf/2503.16257)|null|[Kimi](https://papers.cool/arxiv/2503.16257)|
-| 8|**2025-03-20**|**Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning**|Zhaowei Liu et.al.|[2503.16252](http://arxiv.org/pdf/2503.16252)|null|[Kimi](https://papers.cool/arxiv/2503.16252)|
-| 9|**2025-03-20**|**Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't**|Quy-Anh Dang et.al.|[2503.16219](http://arxiv.org/pdf/2503.16219)|null|[Kimi](https://papers.cool/arxiv/2503.16219)|
-|10|**2025-03-20**|**Accurate Scene Text Recognition with Efficient Model Scaling and Cloze Self-Distillation**|Andrea Maracani et.al.|[2503.16184](http://arxiv.org/pdf/2503.16184)|null|[Kimi](https://papers.cool/arxiv/2503.16184)|
+| 1|**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/pdf/2503.16430)|null|[Kimi](https://papers.cool/arxiv/2503.16430)|
+| 2|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/pdf/2503.16428)|null|[Kimi](https://papers.cool/arxiv/2503.16428)|
+| 3|**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426](http://arxiv.org/pdf/2503.16426)|**[link](https://github.com/KyanChen/DynamicVis)**|[Kimi](https://papers.cool/arxiv/2503.16426)|
+| 4|**2025-03-20**|**Tokenize Image as a Set**|Zigang Geng et.al.|[2503.16425](http://arxiv.org/pdf/2503.16425)|**[link](https://github.com/Gengzigang/TokenSet)**|[Kimi](https://papers.cool/arxiv/2503.16425)|
+| 5|**2025-03-20**|**1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering**|Yuheng Yuan et.al.|[2503.16422](http://arxiv.org/pdf/2503.16422)|null|[Kimi](https://papers.cool/arxiv/2503.16422)|
+| 6|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/pdf/2503.16419)|null|[Kimi](https://papers.cool/arxiv/2503.16419)|
+| 7|**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/pdf/2503.16416)|null|[Kimi](https://papers.cool/arxiv/2503.16416)|
+| 8|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/pdf/2503.16413)|null|[Kimi](https://papers.cool/arxiv/2503.16413)|
+| 9|**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/pdf/2503.16408)|null|[Kimi](https://papers.cool/arxiv/2503.16408)|
+|10|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/pdf/2503.16402)|null|[Kimi](https://papers.cool/arxiv/2503.16402)|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
