@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.22
+## Updated on 2025.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -67,7 +67,7 @@ layout: default
 |48|**2025-03-20**|**Entropy-based Exploration Conduction for Multi-step Reasoning**|Jinghan Zhang et.al.|[2503.15848](http://arxiv.org/pdf/2503.15848)|null|[Kimi](https://papers.cool/arxiv/2503.15848)|
 |49|**2025-03-20**|**Grammar and Gameplay-aligned RL for Game Description Generation with LLMs**|Tsunehiko Tanaka et.al.|[2503.15783](http://arxiv.org/pdf/2503.15783)|null|[Kimi](https://papers.cool/arxiv/2503.15783)|
 |50|**2025-03-19**|**UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction**|Shravan Nayak et.al.|[2503.15661](http://arxiv.org/pdf/2503.15661)|null|[Kimi](https://papers.cool/arxiv/2503.15661)|
-|51|**2025-03-19**|**LLaVA-MORE: A Comparative Study of LLMs and Visual Backbones for Enhanced Visual Instruction Tuning**|Federico Cocchi et.al.|[2503.15621](http://arxiv.org/pdf/2503.15621)|null|[Kimi](https://papers.cool/arxiv/2503.15621)|
+|51|**2025-03-19**|**LLaVA-MORE: A Comparative Study of LLMs and Visual Backbones for Enhanced Visual Instruction Tuning**|Federico Cocchi et.al.|[2503.15621](http://arxiv.org/pdf/2503.15621)|**[link](https://github.com/aimagelab/LLaVA-MORE)**|[Kimi](https://papers.cool/arxiv/2503.15621)|
 |52|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/pdf/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|[Kimi](https://papers.cool/arxiv/2503.15469)|
 |53|**2025-03-19**|**SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation**|Thomas Pickard et.al.|[2503.15358](http://arxiv.org/pdf/2503.15358)|null|[Kimi](https://papers.cool/arxiv/2503.15358)|
 |54|**2025-03-19**|**MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**|David Wan et.al.|[2503.15272](http://arxiv.org/pdf/2503.15272)|null|[Kimi](https://papers.cool/arxiv/2503.15272)|
@@ -98,13 +98,13 @@ layout: default
 |79|**2025-03-18**|**LLM-FE: Automated Feature Engineering for Tabular Data with LLMs as Evolutionary Optimizers**|Nikhil Abhyankar et.al.|[2503.14434](http://arxiv.org/pdf/2503.14434)|**[link](https://github.com/nikhilsab/llmfe)**|[Kimi](https://papers.cool/arxiv/2503.14434)|
 |80|**2025-03-18**|**PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play**|Wei Fang et.al.|[2503.14432](http://arxiv.org/pdf/2503.14432)|null|[Kimi](https://papers.cool/arxiv/2503.14432)|
 |81|**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/pdf/2503.14350)|null|[Kimi](https://papers.cool/arxiv/2503.14350)|
-|82|**2025-03-18**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/pdf/2503.14324)|null|[Kimi](https://papers.cool/arxiv/2503.14324)|
-|83|**2025-03-18**|**DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal**|Vaibhav Aggarwal et.al.|[2503.14269](http://arxiv.org/pdf/2503.14269)|null|[Kimi](https://papers.cool/arxiv/2503.14269)|
+|82|**2025-03-18**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/pdf/2503.14324)|**[link](https://github.com/songweii/dualtoken)**|[Kimi](https://papers.cool/arxiv/2503.14324)|
+|83|**2025-03-18**|**DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal**|Vaibhav Aggarwal et.al.|[2503.14269](http://arxiv.org/pdf/2503.14269)|**[link](https://github.com/darsagent/dars-agent)**|[Kimi](https://papers.cool/arxiv/2503.14269)|
 |84|**2025-03-18**|**Speculative Decoding for Verilog: Speed and Quality, All in One**|Changran Xu et.al.|[2503.14153](http://arxiv.org/pdf/2503.14153)|null|[Kimi](https://papers.cool/arxiv/2503.14153)|
 |85|**2025-03-18**|**Inference-Time Intervention in Large Language Models for Reliable Requirement Verification**|Paul Darm et.al.|[2503.14130](http://arxiv.org/pdf/2503.14130)|null|[Kimi](https://papers.cool/arxiv/2503.14130)|
 |86|**2025-03-18**|**Growing a Twig to Accelerate Large Vision-Language Models**|Zhenwei Shao et.al.|[2503.14075](http://arxiv.org/pdf/2503.14075)|null|[Kimi](https://papers.cool/arxiv/2503.14075)|
 |87|**2025-03-18**|**Fast Autoregressive Video Generation with Diagonal Decoding**|Yang Ye et.al.|[2503.14070](http://arxiv.org/pdf/2503.14070)|null|[Kimi](https://papers.cool/arxiv/2503.14070)|
-|88|**2025-03-18**|**Empowering Smaller Models: Tuning LLaMA and Gemma with Chain-of-Thought for Ukrainian Exam Tasks**|Mykyta Syromiatnikov et.al.|[2503.13988](http://arxiv.org/pdf/2503.13988)|null|[Kimi](https://papers.cool/arxiv/2503.13988)|
+|88|**2025-03-18**|**Empowering Smaller Models: Tuning LLaMA and Gemma with Chain-of-Thought for Ukrainian Exam Tasks**|Mykyta Syromiatnikov et.al.|[2503.13988](http://arxiv.org/pdf/2503.13988)|**[link](https://github.com/nlpforua/zno)**|[Kimi](https://papers.cool/arxiv/2503.13988)|
 |89|**2025-03-18**|**Improving LLM Video Understanding with 16 Frames Per Second**|Yixuan Li et.al.|[2503.13956](http://arxiv.org/pdf/2503.13956)|null|[Kimi](https://papers.cool/arxiv/2503.13956)|
 |90|**2025-03-18**|**ConSCompF: Consistency-focused Similarity Comparison Framework for Generative Large Language Models**|Alexey Karev et.al.|[2503.13923](http://arxiv.org/pdf/2503.13923)|null|[Kimi](https://papers.cool/arxiv/2503.13923)|
 |91|**2025-03-18**|**Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models**|Mingming Peng et.al.|[2503.13813](http://arxiv.org/pdf/2503.13813)|null|[Kimi](https://papers.cool/arxiv/2503.13813)|
@@ -113,10 +113,10 @@ layout: default
 |94|**2025-03-17**|**Do Large Language Models Understand Performance Optimization?**|Bowen Cui et.al.|[2503.13772](http://arxiv.org/pdf/2503.13772)|null|[Kimi](https://papers.cool/arxiv/2503.13772)|
 |95|**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/pdf/2503.13447)|null|[Kimi](https://papers.cool/arxiv/2503.13447)|
 |96|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/pdf/2503.13444)|null|[Kimi](https://papers.cool/arxiv/2503.13444)|
-|97|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/pdf/2503.13427)|null|[Kimi](https://papers.cool/arxiv/2503.13427)|
-|98|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/pdf/2503.13399)|null|[Kimi](https://papers.cool/arxiv/2503.13399)|
+|97|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/pdf/2503.13427)|**[link](https://github.com/nx-ai/xlstm-jax)**|[Kimi](https://papers.cool/arxiv/2503.13427)|
+|98|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/pdf/2503.13399)|**[link](https://github.com/jmhb0/microvqa)**|[Kimi](https://papers.cool/arxiv/2503.13399)|
 |99|**2025-03-17**|**Cream of the Crop: Harvesting Rich, Scalable and Transferable Multi-Modal Data for Instruction Fine-Tuning**|Mengyao Lyu et.al.|[2503.13383](http://arxiv.org/pdf/2503.13383)|null|[Kimi](https://papers.cool/arxiv/2503.13383)|
-|100|**2025-03-17**|**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**|Ye Wang et.al.|[2503.13377](http://arxiv.org/pdf/2503.13377)|null|[Kimi](https://papers.cool/arxiv/2503.13377)|
+|100|**2025-03-17**|**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**|Ye Wang et.al.|[2503.13377](http://arxiv.org/pdf/2503.13377)|**[link](https://github.com/www-ye/timezero)**|[Kimi](https://papers.cool/arxiv/2503.13377)|
 
 ## Early Stopping
 
