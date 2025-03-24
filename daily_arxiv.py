@@ -103,7 +103,7 @@ def get_daily_papers(topic, query="slam", max_results=2, search_duration: int=1)
     start_date = yesterday.strftime("%Y%m%d%H%M")
     end_date = today.strftime("%Y%m%d%H%M")
 
-    topic_filter = "(cs.AI OR cs.CL OR cs.CV OR cs.DC OR cs.MM)"
+    topic_filter = "(cs.AI OR cs.CL OR cs.CV OR cs.DC)"
     date_filter = f"submittedDate:[{start_date} TO {end_date}]"
 
     client = arxiv.Client()
