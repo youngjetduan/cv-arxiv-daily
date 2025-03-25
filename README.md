@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/pdf/2503.16430)|null|[Kimi](https://papers.cool/arxiv/2503.16430)|
-| 2|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/pdf/2503.16428)|null|[Kimi](https://papers.cool/arxiv/2503.16428)|
-| 3|**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426](http://arxiv.org/pdf/2503.16426)|**[link](https://github.com/KyanChen/DynamicVis)**|[Kimi](https://papers.cool/arxiv/2503.16426)|
-| 4|**2025-03-20**|**Tokenize Image as a Set**|Zigang Geng et.al.|[2503.16425](http://arxiv.org/pdf/2503.16425)|**[link](https://github.com/Gengzigang/TokenSet)**|[Kimi](https://papers.cool/arxiv/2503.16425)|
-| 5|**2025-03-20**|**1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering**|Yuheng Yuan et.al.|[2503.16422](http://arxiv.org/pdf/2503.16422)|null|[Kimi](https://papers.cool/arxiv/2503.16422)|
-| 6|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/pdf/2503.16419)|null|[Kimi](https://papers.cool/arxiv/2503.16419)|
-| 7|**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/pdf/2503.16416)|null|[Kimi](https://papers.cool/arxiv/2503.16416)|
-| 8|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/pdf/2503.16413)|null|[Kimi](https://papers.cool/arxiv/2503.16413)|
-| 9|**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/pdf/2503.16408)|null|[Kimi](https://papers.cool/arxiv/2503.16408)|
-|10|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/pdf/2503.16402)|null|[Kimi](https://papers.cool/arxiv/2503.16402)|
+| 1|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/pdf/2503.18941)|null|[Kimi](https://papers.cool/arxiv/2503.18941)|
+| 2|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/pdf/2503.18893)|null|[Kimi](https://papers.cool/arxiv/2503.18893)|
+| 3|**2025-03-24**|**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**|Weihao Zeng et.al.|[2503.18892](http://arxiv.org/pdf/2503.18892)|null|[Kimi](https://papers.cool/arxiv/2503.18892)|
+| 4|**2025-03-24**|**AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**|Zhexuan Wang et.al.|[2503.18891](http://arxiv.org/pdf/2503.18891)|null|[Kimi](https://papers.cool/arxiv/2503.18891)|
+| 5|**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878](http://arxiv.org/pdf/2503.18878)|null|[Kimi](https://papers.cool/arxiv/2503.18878)|
+| 6|**2025-03-24**|**EconEvals: Benchmarks and Litmus Tests for LLM Agents in Unknown Environments**|Sara Fish et.al.|[2503.18825](http://arxiv.org/pdf/2503.18825)|null|[Kimi](https://papers.cool/arxiv/2503.18825)|
+| 7|**2025-03-24**|**REALM: A Dataset of Real-World LLM Use Cases**|Jingwen Cheng et.al.|[2503.18792](http://arxiv.org/pdf/2503.18792)|null|[Kimi](https://papers.cool/arxiv/2503.18792)|
+| 8|**2025-03-24**|**BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache**|Dayou Du et.al.|[2503.18773](http://arxiv.org/pdf/2503.18773)|null|[Kimi](https://papers.cool/arxiv/2503.18773)|
+| 9|**2025-03-24**|**AlphaSpace: Enabling Robotic Actions through Semantic Tokenization and Symbolic Reasoning**|Alan Dao et.al.|[2503.18769](http://arxiv.org/pdf/2503.18769)|null|[Kimi](https://papers.cool/arxiv/2503.18769)|
+|10|**2025-03-24**|**Commander-GPT: Fully Unleashing the Sarcasm Detection Capability of Multi-Modal Large Language Models**|Yazhou Zhang et.al.|[2503.18681](http://arxiv.org/pdf/2503.18681)|null|[Kimi](https://papers.cool/arxiv/2503.18681)|
 
-<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
