@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783](http://arxiv.org/pdf/2503.20783)|null|[Kimi](https://papers.cool/arxiv/2503.20783)|
-| 2|**2025-03-26**|**Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework**|Soham Sane et.al.|[2503.20750](http://arxiv.org/pdf/2503.20750)|null|[Kimi](https://papers.cool/arxiv/2503.20750)|
-| 3|**2025-03-26**|**Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs**|Yuxuan Lu et.al.|[2503.20749](http://arxiv.org/pdf/2503.20749)|null|[Kimi](https://papers.cool/arxiv/2503.20749)|
-| 4|**2025-03-26**|**Vision as LoRA**|Han Wang et.al.|[2503.20680](http://arxiv.org/pdf/2503.20680)|null|[Kimi](https://papers.cool/arxiv/2503.20680)|
-| 5|**2025-03-26**|**TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews**|Huimin Xu et.al.|[2503.20666](http://arxiv.org/pdf/2503.20666)|null|[Kimi](https://papers.cool/arxiv/2503.20666)|
-| 6|**2025-03-26**|**Collaborative Storytelling and LLM: A Linguistic Analysis of Automatically-Generated Role-Playing Game Sessions**|Alessandro Maisto et.al.|[2503.20623](http://arxiv.org/pdf/2503.20623)|null|[Kimi](https://papers.cool/arxiv/2503.20623)|
-| 7|**2025-03-26**|**Injecting Adrenaline into LLM Serving: Boosting Resource Utilization and Throughput via Attention Disaggregation**|Yunkai Liang et.al.|[2503.20552](http://arxiv.org/pdf/2503.20552)|null|[Kimi](https://papers.cool/arxiv/2503.20552)|
-| 8|**2025-03-26**|**Accelerate Parallelizable Reasoning via Parallel Decoding within One Sequence**|Yijiong Yu et.al.|[2503.20533](http://arxiv.org/pdf/2503.20533)|null|[Kimi](https://papers.cool/arxiv/2503.20533)|
-| 9|**2025-03-26**|**StableToolBench-MirrorAPI: Modeling Tool Environments as Mirrors of 7,000+ Real-World APIs**|Zhicheng Guo et.al.|[2503.20527](http://arxiv.org/pdf/2503.20527)|null|[Kimi](https://papers.cool/arxiv/2503.20527)|
-|10|**2025-03-26**|**From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment**|Yucheng Suo et.al.|[2503.20472](http://arxiv.org/pdf/2503.20472)|null|[Kimi](https://papers.cool/arxiv/2503.20472)|
+| 1|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/pdf/2503.21776)|null|[Kimi](https://papers.cool/arxiv/2503.21776)|
+| 2|**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775](http://arxiv.org/pdf/2503.21775)|null|[Kimi](https://papers.cool/arxiv/2503.21775)|
+| 3|**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735](http://arxiv.org/pdf/2503.21735)|null|[Kimi](https://papers.cool/arxiv/2503.21735)|
+| 4|**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720](http://arxiv.org/pdf/2503.21720)|null|[Kimi](https://papers.cool/arxiv/2503.21720)|
+| 5|**2025-03-27**|**Outlier dimensions favor frequent tokens in language model**|Iuri Macocco et.al.|[2503.21718](http://arxiv.org/pdf/2503.21718)|null|[Kimi](https://papers.cool/arxiv/2503.21718)|
+| 6|**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683](http://arxiv.org/pdf/2503.21683)|null|[Kimi](https://papers.cool/arxiv/2503.21683)|
+| 7|**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/pdf/2503.21620)|null|[Kimi](https://papers.cool/arxiv/2503.21620)|
+| 8|**2025-03-27**|**A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond**|Xiaoye Qu et.al.|[2503.21614](http://arxiv.org/pdf/2503.21614)|null|[Kimi](https://papers.cool/arxiv/2503.21614)|
+| 9|**2025-03-27**|**debug-gym: A Text-Based Environment for Interactive Debugging**|Xingdi Yuan et.al.|[2503.21557](http://arxiv.org/pdf/2503.21557)|null|[Kimi](https://papers.cool/arxiv/2503.21557)|
+|10|**2025-03-27**|**SWI: Speaking with Intent in Large Language Models**|Yuwei Yin et.al.|[2503.21544](http://arxiv.org/pdf/2503.21544)|**[link](https://github.com/YuweiYin/SWI)**|[Kimi](https://papers.cool/arxiv/2503.21544)|
 
-<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
