@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -31,7 +31,7 @@ layout: default
 |12|**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720](http://arxiv.org/pdf/2503.21720)|null|[Kimi](https://papers.cool/arxiv/2503.21720)|
 |13|**2025-03-27**|**Outlier dimensions favor frequent tokens in language model**|Iuri Macocco et.al.|[2503.21718](http://arxiv.org/pdf/2503.21718)|null|[Kimi](https://papers.cool/arxiv/2503.21718)|
 |14|**2025-03-27**|**CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?**|Jiefu Ou et.al.|[2503.21717](http://arxiv.org/pdf/2503.21717)|null|[Kimi](https://papers.cool/arxiv/2503.21717)|
-|15|**2025-03-27**|**Elementwise Layer Normalization**|Felix Stollenwerk et.al.|[2503.21708](http://arxiv.org/pdf/2503.21708)|null|[Kimi](https://papers.cool/arxiv/2503.21708)|
+|15|**2025-03-27**|**Elementwise Layer Normalization**|Felix Stollenwerk et.al.|[2503.21708](http://arxiv.org/pdf/2503.21708)|**[link](https://github.com/flxst/ELN)**|[Kimi](https://papers.cool/arxiv/2503.21708)|
 |16|**2025-03-27**|**MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**|Liuyue Xie et.al.|[2503.21699](http://arxiv.org/pdf/2503.21699)|null|[Kimi](https://papers.cool/arxiv/2503.21699)|
 |17|**2025-03-27**|**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**|Wenqi Zhang et.al.|[2503.21696](http://arxiv.org/pdf/2503.21696)|**[link](https://github.com/zwq2018/embodied_reasoner)**|[Kimi](https://papers.cool/arxiv/2503.21696)|
 |18|**2025-03-27**|**AMA-SAM: Adversarial Multi-Domain Alignment of Segment Anything Model for High-Fidelity Histology Nuclei Segmentation**|Jiahe Qian et.al.|[2503.21695](http://arxiv.org/pdf/2503.21695)|null|[Kimi](https://papers.cool/arxiv/2503.21695)|
@@ -49,19 +49,19 @@ layout: default
 |30|**2025-03-27**|**Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing**|Johan Wahréus et.al.|[2503.21598](http://arxiv.org/pdf/2503.21598)|null|[Kimi](https://papers.cool/arxiv/2503.21598)|
 |31|**2025-03-27**|**debug-gym: A Text-Based Environment for Interactive Debugging**|Xingdi Yuan et.al.|[2503.21557](http://arxiv.org/pdf/2503.21557)|null|[Kimi](https://papers.cool/arxiv/2503.21557)|
 |32|**2025-03-27**|**SWI: Speaking with Intent in Large Language Models**|Yuwei Yin et.al.|[2503.21544](http://arxiv.org/pdf/2503.21544)|**[link](https://github.com/YuweiYin/SWI)**|[Kimi](https://papers.cool/arxiv/2503.21544)|
-|33|**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504](http://arxiv.org/pdf/2503.21504)|null|[Kimi](https://papers.cool/arxiv/2503.21504)|
-|34|**2025-03-27**|**Harnessing Chain-of-Thought Metadata for Task Routing and Adversarial Prompt Detection**|Ryan Marinelli et.al.|[2503.21464](http://arxiv.org/pdf/2503.21464)|null|[Kimi](https://papers.cool/arxiv/2503.21464)|
+|33|**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504](http://arxiv.org/pdf/2503.21504)|**[link](https://github.com/DHZ68/KOM-EI)**|[Kimi](https://papers.cool/arxiv/2503.21504)|
+|34|**2025-03-27**|**Harnessing Chain-of-Thought Metadata for Task Routing and Adversarial Prompt Detection**|Ryan Marinelli et.al.|[2503.21464](http://arxiv.org/pdf/2503.21464)|**[link](https://github.com/rymarinelli/number_of_thoughts)**|[Kimi](https://papers.cool/arxiv/2503.21464)|
 |35|**2025-03-27**|**An evaluation of LLMs and Google Translate for translation of selected Indian languages via sentiment and semantic analyses**|Rohitash Chandra et.al.|[2503.21393](http://arxiv.org/pdf/2503.21393)|null|[Kimi](https://papers.cool/arxiv/2503.21393)|
 |36|**2025-03-27**|**Controlling Large Language Model with Latent Actions**|Chengxing Jia et.al.|[2503.21383](http://arxiv.org/pdf/2503.21383)|null|[Kimi](https://papers.cool/arxiv/2503.21383)|
-|37|**2025-03-27**|**Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models**|Haoxiang Sun et.al.|[2503.21380](http://arxiv.org/pdf/2503.21380)|null|[Kimi](https://papers.cool/arxiv/2503.21380)|
+|37|**2025-03-27**|**Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models**|Haoxiang Sun et.al.|[2503.21380](http://arxiv.org/pdf/2503.21380)|**[link](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)**|[Kimi](https://papers.cool/arxiv/2503.21380)|
 |38|**2025-03-27**|**ReFeed: Multi-dimensional Summarization Refinement with Reflective Reasoning on Feedback**|Taewon Yun et.al.|[2503.21332](http://arxiv.org/pdf/2503.21332)|null|[Kimi](https://papers.cool/arxiv/2503.21332)|
 |39|**2025-03-27**|**InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression**|Dongchen Lu et.al.|[2503.21307](http://arxiv.org/pdf/2503.21307)|null|[Kimi](https://papers.cool/arxiv/2503.21307)|
 |40|**2025-03-27**|**ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition**|Yujie Liu et.al.|[2503.21248](http://arxiv.org/pdf/2503.21248)|null|[Kimi](https://papers.cool/arxiv/2503.21248)|
 |41|**2025-03-27**|**Bias-Aware Agent: Enhancing Fairness in AI-Driven Knowledge Retrieval**|Karanbir Singh et.al.|[2503.21237](http://arxiv.org/pdf/2503.21237)|null|[Kimi](https://papers.cool/arxiv/2503.21237)|
 |42|**2025-03-27**|**LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models**|Hengyuan Zhao et.al.|[2503.21227](http://arxiv.org/pdf/2503.21227)|null|[Kimi](https://papers.cool/arxiv/2503.21227)|
-|43|**2025-03-27**|**ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging**|Haoming Xu et.al.|[2503.21088](http://arxiv.org/pdf/2503.21088)|null|[Kimi](https://papers.cool/arxiv/2503.21088)|
+|43|**2025-03-27**|**ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging**|Haoming Xu et.al.|[2503.21088](http://arxiv.org/pdf/2503.21088)|**[link](https://github.com/zjunlp/unlearn)**|[Kimi](https://papers.cool/arxiv/2503.21088)|
 |44|**2025-03-27**|**EQ-Negotiator: An Emotion-Reasoning LLM Agent in Credit Dialogues**|Yuhan Liu et.al.|[2503.21080](http://arxiv.org/pdf/2503.21080)|null|[Kimi](https://papers.cool/arxiv/2503.21080)|
-|45|**2025-03-27**|**Rerouting Connection: Hybrid Computer Vision Analysis Reveals Visual Similarity Between Indus and Tibetan-Yi Corridor Writing Systems**|Ooha Lakkadi Reddy et.al.|[2503.21074](http://arxiv.org/pdf/2503.21074)|null|[Kimi](https://papers.cool/arxiv/2503.21074)|
+|45|**2025-03-27**|**Rerouting Connection: Hybrid Computer Vision Analysis Reveals Visual Similarity Between Indus and Tibetan-Yi Corridor Writing Systems**|Ooha Lakkadi Reddy et.al.|[2503.21074](http://arxiv.org/pdf/2503.21074)|**[link](https://github.com/oohalakkadi/ivc2tyc)**|[Kimi](https://papers.cool/arxiv/2503.21074)|
 |46|**2025-03-26**|**Can Large Language Models Predict Associations Among Human Attitudes?**|Ana Ma et.al.|[2503.21011](http://arxiv.org/pdf/2503.21011)|null|[Kimi](https://papers.cool/arxiv/2503.21011)|
 |47|**2025-03-26**|**VinaBench: Benchmark for Faithful and Consistent Visual Narratives**|Silin Gao et.al.|[2503.20871](http://arxiv.org/pdf/2503.20871)|null|[Kimi](https://papers.cool/arxiv/2503.20871)|
 |48|**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783](http://arxiv.org/pdf/2503.20783)|**[link](https://github.com/sail-sg/understand-r1-zero)**|[Kimi](https://papers.cool/arxiv/2503.20783)|
@@ -72,7 +72,7 @@ layout: default
 |53|**2025-03-26**|**TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews**|Huimin Xu et.al.|[2503.20666](http://arxiv.org/pdf/2503.20666)|null|[Kimi](https://papers.cool/arxiv/2503.20666)|
 |54|**2025-03-26**|**Collaborative Storytelling and LLM: A Linguistic Analysis of Automatically-Generated Role-Playing Game Sessions**|Alessandro Maisto et.al.|[2503.20623](http://arxiv.org/pdf/2503.20623)|null|[Kimi](https://papers.cool/arxiv/2503.20623)|
 |55|**2025-03-26**|**Injecting Adrenaline into LLM Serving: Boosting Resource Utilization and Throughput via Attention Disaggregation**|Yunkai Liang et.al.|[2503.20552](http://arxiv.org/pdf/2503.20552)|null|[Kimi](https://papers.cool/arxiv/2503.20552)|
-|56|**2025-03-26**|**Accelerate Parallelizable Reasoning via Parallel Decoding within One Sequence**|Yijiong Yu et.al.|[2503.20533](http://arxiv.org/pdf/2503.20533)|null|[Kimi](https://papers.cool/arxiv/2503.20533)|
+|56|**2025-03-26**|**Accelerate Parallelizable Reasoning via Parallel Decoding within One Sequence**|Yijiong Yu et.al.|[2503.20533](http://arxiv.org/pdf/2503.20533)|**[link](https://github.com/yuyijiong/parallel-decoding-in-one-sequence)**|[Kimi](https://papers.cool/arxiv/2503.20533)|
 |57|**2025-03-26**|**StableToolBench-MirrorAPI: Modeling Tool Environments as Mirrors of 7,000+ Real-World APIs**|Zhicheng Guo et.al.|[2503.20527](http://arxiv.org/pdf/2503.20527)|null|[Kimi](https://papers.cool/arxiv/2503.20527)|
 |58|**2025-03-26**|**From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment**|Yucheng Suo et.al.|[2503.20472](http://arxiv.org/pdf/2503.20472)|null|[Kimi](https://papers.cool/arxiv/2503.20472)|
 |59|**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/pdf/2503.20384)|null|[Kimi](https://papers.cool/arxiv/2503.20384)|
@@ -83,17 +83,17 @@ layout: default
 |64|**2025-03-26**|**ViLBench: A Suite for Vision-Language Process Reward Modeling**|Haoqin Tu et.al.|[2503.20271](http://arxiv.org/pdf/2503.20271)|null|[Kimi](https://papers.cool/arxiv/2503.20271)|
 |65|**2025-03-26**|**Qwen2.5-Omni Technical Report**|Jin Xu et.al.|[2503.20215](http://arxiv.org/pdf/2503.20215)|null|[Kimi](https://papers.cool/arxiv/2503.20215)|
 |66|**2025-03-26**|**SARGes: Semantically Aligned Reliable Gesture Generation via Intent Chain**|Nan Gao et.al.|[2503.20202](http://arxiv.org/pdf/2503.20202)|null|[Kimi](https://papers.cool/arxiv/2503.20202)|
-|67|**2025-03-26**|**Open Deep Search: Democratizing Search with Open-source Reasoning Agents**|Salaheddin Alzubi et.al.|[2503.20201](http://arxiv.org/pdf/2503.20201)|null|[Kimi](https://papers.cool/arxiv/2503.20201)|
+|67|**2025-03-26**|**Open Deep Search: Democratizing Search with Open-source Reasoning Agents**|Salaheddin Alzubi et.al.|[2503.20201](http://arxiv.org/pdf/2503.20201)|**[link](https://github.com/sentient-agi/opendeepsearch)**|[Kimi](https://papers.cool/arxiv/2503.20201)|
 |68|**2025-03-25**|**Can Multi-modal (reasoning) LLMs work as deepfake detectors?**|Simiao Ren et.al.|[2503.20084](http://arxiv.org/pdf/2503.20084)|null|[Kimi](https://papers.cool/arxiv/2503.20084)|
 |69|**2025-03-25**|**Cross-Tokenizer Distillation via Approximate Likelihood Matching**|Benjamin Minixhofer et.al.|[2503.20083](http://arxiv.org/pdf/2503.20083)|null|[Kimi](https://papers.cool/arxiv/2503.20083)|
 |70|**2025-03-25**|**OmniNova:A General Multimodal Agent Framework**|Pengfei Du et.al.|[2503.20028](http://arxiv.org/pdf/2503.20028)|null|[Kimi](https://papers.cool/arxiv/2503.20028)|
 |71|**2025-03-25**|**ExCoT: Optimizing Reasoning for Text-to-SQL with Execution Feedback**|Bohan Zhai et.al.|[2503.19988](http://arxiv.org/pdf/2503.19988)|null|[Kimi](https://papers.cool/arxiv/2503.19988)|
-|72|**2025-03-25**|**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation**|Han Chen et.al.|[2503.19950](http://arxiv.org/pdf/2503.19950)|null|[Kimi](https://papers.cool/arxiv/2503.19950)|
+|72|**2025-03-25**|**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation**|Han Chen et.al.|[2503.19950](http://arxiv.org/pdf/2503.19950)|**[link](https://github.com/concyclics/logquantkv)**|[Kimi](https://papers.cool/arxiv/2503.19950)|
 |73|**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/pdf/2503.19900)|null|[Kimi](https://papers.cool/arxiv/2503.19900)|
 |74|**2025-03-25**|**Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time Thinking**|Xiaoyu Tian et.al.|[2503.19855](http://arxiv.org/pdf/2503.19855)|null|[Kimi](https://papers.cool/arxiv/2503.19855)|
 |75|**2025-03-25**|**FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs**|Carlos Plou et.al.|[2503.19850](http://arxiv.org/pdf/2503.19850)|null|[Kimi](https://papers.cool/arxiv/2503.19850)|
 |76|**2025-03-25**|**A Comparative Analysis of Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition for Historical Chinese Sources, 1900-1950**|Zhao Fang et.al.|[2503.19844](http://arxiv.org/pdf/2503.19844)|null|[Kimi](https://papers.cool/arxiv/2503.19844)|
-|77|**2025-03-25**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794](http://arxiv.org/pdf/2503.19794)|null|[Kimi](https://papers.cool/arxiv/2503.19794)|
+|77|**2025-03-25**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794](http://arxiv.org/pdf/2503.19794)|**[link](https://github.com/dragonlzm/pave)**|[Kimi](https://papers.cool/arxiv/2503.19794)|
 |78|**2025-03-25**|**Gemma 3 Technical Report**|Gemma Team et.al.|[2503.19786](http://arxiv.org/pdf/2503.19786)|null|[Kimi](https://papers.cool/arxiv/2503.19786)|
 |79|**2025-03-25**|**AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation**|Itay Nakash et.al.|[2503.19693](http://arxiv.org/pdf/2503.19693)|null|[Kimi](https://papers.cool/arxiv/2503.19693)|
 |80|**2025-03-25**|**1.4 Million Open-Source Distilled Reasoning Dataset to Empower Large Language Model Training**|Han Zhao et.al.|[2503.19633](http://arxiv.org/pdf/2503.19633)|null|[Kimi](https://papers.cool/arxiv/2503.19633)|
@@ -113,9 +113,9 @@ layout: default
 |94|**2025-03-24**|**Language Model Uncertainty Quantification with Attention Chain**|Yinghao Li et.al.|[2503.19168](http://arxiv.org/pdf/2503.19168)|null|[Kimi](https://papers.cool/arxiv/2503.19168)|
 |95|**2025-03-24**|**LLM-Based Insight Extraction for Contact Center Analytics and Cost-Efficient Deployment**|Varsha Embar et.al.|[2503.19090](http://arxiv.org/pdf/2503.19090)|null|[Kimi](https://papers.cool/arxiv/2503.19090)|
 |96|**2025-03-24**|**Mist: Efficient Distributed Training of Large Language Models via Memory-Parallelism Co-Optimization**|Zhanda Zhu et.al.|[2503.19050](http://arxiv.org/pdf/2503.19050)|null|[Kimi](https://papers.cool/arxiv/2503.19050)|
-|97|**2025-03-24**|**LookAhead Tuning: Safer Language Models via Partial Answer Previews**|Kangwei Liu et.al.|[2503.19041](http://arxiv.org/pdf/2503.19041)|null|[Kimi](https://papers.cool/arxiv/2503.19041)|
-|98|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/pdf/2503.18941)|null|[Kimi](https://papers.cool/arxiv/2503.18941)|
-|99|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/pdf/2503.18893)|null|[Kimi](https://papers.cool/arxiv/2503.18893)|
+|97|**2025-03-24**|**LookAhead Tuning: Safer Language Models via Partial Answer Previews**|Kangwei Liu et.al.|[2503.19041](http://arxiv.org/pdf/2503.19041)|**[link](https://github.com/zjunlp/lookaheadtuning)**|[Kimi](https://papers.cool/arxiv/2503.19041)|
+|98|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/pdf/2503.18941)|**[link](https://github.com/HongruCai/SLGR)**|[Kimi](https://papers.cool/arxiv/2503.18941)|
+|99|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/pdf/2503.18893)|**[link](https://github.com/abdelfattah-lab/xkv)**|[Kimi](https://papers.cool/arxiv/2503.18893)|
 |100|**2025-03-24**|**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**|Weihao Zeng et.al.|[2503.18892](http://arxiv.org/pdf/2503.18892)|null|[Kimi](https://papers.cool/arxiv/2503.18892)|
 
 ## Early Stopping
