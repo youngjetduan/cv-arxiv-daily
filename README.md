@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-03-31**|**Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**|Rui Wang et.al.|[2503.24377](http://arxiv.org/pdf/2503.24377)|**[link](https://github.com/devoallen/awesome-reasoning-economy-papers)**|[Kimi](https://papers.cool/arxiv/2503.24377)|
-| 2|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/pdf/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|[Kimi](https://papers.cool/arxiv/2503.24376)|
-| 3|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/pdf/2503.24370)|null|[Kimi](https://papers.cool/arxiv/2503.24370)|
-| 4|**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/pdf/2503.24358)|null|[Kimi](https://papers.cool/arxiv/2503.24358)|
-| 5|**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/pdf/2503.24354)|null|[Kimi](https://papers.cool/arxiv/2503.24354)|
-| 6|**2025-03-31**|**BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models**|Alok Abhishek et.al.|[2503.24310](http://arxiv.org/pdf/2503.24310)|null|[Kimi](https://papers.cool/arxiv/2503.24310)|
-| 7|**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/pdf/2503.24307)|null|[Kimi](https://papers.cool/arxiv/2503.24307)|
-| 8|**2025-03-31**|**Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model**|Jingcheng Hu et.al.|[2503.24290](http://arxiv.org/pdf/2503.24290)|null|[Kimi](https://papers.cool/arxiv/2503.24290)|
-| 9|**2025-03-31**|**What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**|Qiyuan Zhang et.al.|[2503.24235](http://arxiv.org/pdf/2503.24235)|null|[Kimi](https://papers.cool/arxiv/2503.24235)|
-|10|**2025-03-31**|**PAARS: Persona Aligned Agentic Retail Shoppers**|Saab Mansour et.al.|[2503.24228](http://arxiv.org/pdf/2503.24228)|null|[Kimi](https://papers.cool/arxiv/2503.24228)|
+| 1|**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/pdf/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|[Kimi](https://papers.cool/arxiv/2503.24391)|
+| 2|**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/pdf/2503.24388)|null|[Kimi](https://papers.cool/arxiv/2503.24388)|
+| 3|**2025-03-31**|**Consistent Subject Generation via Contrastive Instantiated Concepts**|Lee Hsin-Ying et.al.|[2503.24387](http://arxiv.org/pdf/2503.24387)|null|[Kimi](https://papers.cool/arxiv/2503.24387)|
+| 4|**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/pdf/2503.24379)|null|[Kimi](https://papers.cool/arxiv/2503.24379)|
+| 5|**2025-03-31**|**ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning**|Harsha Kokel et.al.|[2503.24378](http://arxiv.org/pdf/2503.24378)|null|[Kimi](https://papers.cool/arxiv/2503.24378)|
+| 6|**2025-03-31**|**Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**|Rui Wang et.al.|[2503.24377](http://arxiv.org/pdf/2503.24377)|**[link](https://github.com/devoallen/awesome-reasoning-economy-papers)**|[Kimi](https://papers.cool/arxiv/2503.24377)|
+| 7|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/pdf/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|[Kimi](https://papers.cool/arxiv/2503.24376)|
+| 8|**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374](http://arxiv.org/pdf/2503.24374)|null|[Kimi](https://papers.cool/arxiv/2503.24374)|
+| 9|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/pdf/2503.24370)|null|[Kimi](https://papers.cool/arxiv/2503.24370)|
+|10|**2025-03-31**|**Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation**|Xiaoran Zhang et.al.|[2503.24368](http://arxiv.org/pdf/2503.24368)|null|[Kimi](https://papers.cool/arxiv/2503.24368)|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
