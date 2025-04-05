@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.04
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -20,17 +20,17 @@
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
 | 1|**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828](http://arxiv.org/pdf/2504.02828)|null|[Kimi](https://papers.cool/arxiv/2504.02828)|
-| 2|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/pdf/2504.02821)|null|[Kimi](https://papers.cool/arxiv/2504.02821)|
-| 3|**2025-04-03**|**Generative Evaluation of Complex Reasoning in Large Language Models**|Haowei Lin et.al.|[2504.02810](http://arxiv.org/pdf/2504.02810)|null|[Kimi](https://papers.cool/arxiv/2504.02810)|
-| 4|**2025-04-03**|**MegaMath: Pushing the Limits of Open Math Corpora**|Fan Zhou et.al.|[2504.02807](http://arxiv.org/pdf/2504.02807)|null|[Kimi](https://papers.cool/arxiv/2504.02807)|
-| 5|**2025-04-03**|**Why do LLMs attend to the first token?**|Federico Barbero et.al.|[2504.02732](http://arxiv.org/pdf/2504.02732)|null|[Kimi](https://papers.cool/arxiv/2504.02732)|
-| 6|**2025-04-03**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670](http://arxiv.org/pdf/2504.02670)|null|[Kimi](https://papers.cool/arxiv/2504.02670)|
-| 7|**2025-04-03**|**Inference-Time Scaling for Generalist Reward Modeling**|Zijun Liu et.al.|[2504.02495](http://arxiv.org/pdf/2504.02495)|null|[Kimi](https://papers.cool/arxiv/2504.02495)|
-| 8|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/pdf/2504.02441)|null|[Kimi](https://papers.cool/arxiv/2504.02441)|
-| 9|**2025-04-03**|**Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation**|Chuanqi Cheng et.al.|[2504.02438](http://arxiv.org/pdf/2504.02438)|null|[Kimi](https://papers.cool/arxiv/2504.02438)|
-|10|**2025-04-03**|**AnesBench: Multi-Dimensional Evaluation of LLM Reasoning in Anesthesiology**|Xiang Feng et.al.|[2504.02404](http://arxiv.org/pdf/2504.02404)|null|[Kimi](https://papers.cool/arxiv/2504.02404)|
+| 2|**2025-04-03**|**On Vanishing Variance in Transformer Length Generalization**|Ruining Li et.al.|[2504.02827](http://arxiv.org/pdf/2504.02827)|null|[Kimi](https://papers.cool/arxiv/2504.02827)|
+| 3|**2025-04-03**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826](http://arxiv.org/pdf/2504.02826)|null|[Kimi](https://papers.cool/arxiv/2504.02826)|
+| 4|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/pdf/2504.02821)|null|[Kimi](https://papers.cool/arxiv/2504.02821)|
+| 5|**2025-04-03**|**GMR-Conv: An Efficient Rotation and Reflection Equivariant Convolution Kernel Using Gaussian Mixture Rings**|Yuexi Du et.al.|[2504.02819](http://arxiv.org/pdf/2504.02819)|null|[Kimi](https://papers.cool/arxiv/2504.02819)|
+| 6|**2025-04-03**|**Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization**|Kangle Deng et.al.|[2504.02817](http://arxiv.org/pdf/2504.02817)|null|[Kimi](https://papers.cool/arxiv/2504.02817)|
+| 7|**2025-04-03**|**Generative Evaluation of Complex Reasoning in Large Language Models**|Haowei Lin et.al.|[2504.02810](http://arxiv.org/pdf/2504.02810)|null|[Kimi](https://papers.cool/arxiv/2504.02810)|
+| 8|**2025-04-03**|**MegaMath: Pushing the Limits of Open Math Corpora**|Fan Zhou et.al.|[2504.02807](http://arxiv.org/pdf/2504.02807)|null|[Kimi](https://papers.cool/arxiv/2504.02807)|
+| 9|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800](http://arxiv.org/pdf/2504.02800)|null|[Kimi](https://papers.cool/arxiv/2504.02800)|
+|10|**2025-04-03**|**Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**|Anita Rau et.al.|[2504.02799](http://arxiv.org/pdf/2504.02799)|null|[Kimi](https://papers.cool/arxiv/2504.02799)|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
