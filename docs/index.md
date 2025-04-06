@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.05
+## Updated on 2025.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -76,8 +76,8 @@ layout: default
 |57|**2025-04-02**|**ToM-RL: Reinforcement Learning Unlocks Theory of Mind in Small LLMs**|Yi-Long Lu et.al.|[2504.01698](http://arxiv.org/pdf/2504.01698)|null|[Kimi](https://papers.cool/arxiv/2504.01698)|
 |58|**2025-04-02**|**Testing Low-Resource Language Support in LLMs Using Language Proficiency Exams: the Case of Luxembourgish**|Cedric Lothritz et.al.|[2504.01667](http://arxiv.org/pdf/2504.01667)|null|[Kimi](https://papers.cool/arxiv/2504.01667)|
 |59|**2025-04-02**|**Enabling Systematic Generalization in Abstract Spatial Reasoning through Meta-Learning for Compositionality**|Philipp Mondorf et.al.|[2504.01445](http://arxiv.org/pdf/2504.01445)|null|[Kimi](https://papers.cool/arxiv/2504.01445)|
-|60|**2025-04-02**|**FAIRE: Assessing Racial and Gender Bias in AI-Driven Resume Evaluations**|Athena Wen et.al.|[2504.01420](http://arxiv.org/pdf/2504.01420)|null|[Kimi](https://papers.cool/arxiv/2504.01420)|
-|61|**2025-04-02**|**An Illusion of Progress? Assessing the Current State of Web Agents**|Tianci Xue et.al.|[2504.01382](http://arxiv.org/pdf/2504.01382)|null|[Kimi](https://papers.cool/arxiv/2504.01382)|
+|60|**2025-04-02**|**FAIRE: Assessing Racial and Gender Bias in AI-Driven Resume Evaluations**|Athena Wen et.al.|[2504.01420](http://arxiv.org/pdf/2504.01420)|**[link](https://github.com/athenawen/faire-fairness-assessment-in-resume-evaluation)**|[Kimi](https://papers.cool/arxiv/2504.01420)|
+|61|**2025-04-02**|**An Illusion of Progress? Assessing the Current State of Web Agents**|Tianci Xue et.al.|[2504.01382](http://arxiv.org/pdf/2504.01382)|**[link](https://github.com/osu-nlp-group/online-mind2web)**|[Kimi](https://papers.cool/arxiv/2504.01382)|
 |62|**2025-04-02**|**Advancing MoE Efficiency: A Collaboration-Constrained Routing (C2R) Strategy for Better Expert Parallelism Design**|Mohan Zhang et.al.|[2504.01337](http://arxiv.org/pdf/2504.01337)|null|[Kimi](https://papers.cool/arxiv/2504.01337)|
 |63|**2025-04-02**|**Slow-Fast Architecture for Video Multi-Modal Large Language Models**|Min Shi et.al.|[2504.01328](http://arxiv.org/pdf/2504.01328)|null|[Kimi](https://papers.cool/arxiv/2504.01328)|
 |64|**2025-04-02**|**On Data Synthesis and Post-training for Visual Abstract Reasoning**|Ke Zhu et.al.|[2504.01324](http://arxiv.org/pdf/2504.01324)|null|[Kimi](https://papers.cool/arxiv/2504.01324)|
@@ -93,7 +93,7 @@ layout: default
 |74|**2025-04-01**|**MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs**|Juncheng Wu et.al.|[2504.00993](http://arxiv.org/pdf/2504.00993)|**[link](https://github.com/UCSC-VLAA/MedReason)**|[Kimi](https://papers.cool/arxiv/2504.00993)|
 |75|**2025-04-01**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/pdf/2504.00970)|null|[Kimi](https://papers.cool/arxiv/2504.00970)|
 |76|**2025-04-01**|**Multi-Token Attention**|Olga Golovneva et.al.|[2504.00927](http://arxiv.org/pdf/2504.00927)|null|[Kimi](https://papers.cool/arxiv/2504.00927)|
-|77|**2025-04-01**|**Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents**|Saaket Agashe et.al.|[2504.00906](http://arxiv.org/pdf/2504.00906)|null|[Kimi](https://papers.cool/arxiv/2504.00906)|
+|77|**2025-04-01**|**Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents**|Saaket Agashe et.al.|[2504.00906](http://arxiv.org/pdf/2504.00906)|**[link](https://github.com/simular-ai/agent-s)**|[Kimi](https://papers.cool/arxiv/2504.00906)|
 |78|**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/pdf/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|[Kimi](https://papers.cool/arxiv/2503.24391)|
 |79|**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/pdf/2503.24388)|null|[Kimi](https://papers.cool/arxiv/2503.24388)|
 |80|**2025-03-31**|**Consistent Subject Generation via Contrastive Instantiated Concepts**|Lee Hsin-Ying et.al.|[2503.24387](http://arxiv.org/pdf/2503.24387)|null|[Kimi](https://papers.cool/arxiv/2503.24387)|
