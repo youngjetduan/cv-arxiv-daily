@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/pdf/2504.07097)|null|[Kimi](https://papers.cool/arxiv/2504.07097)|
-| 2|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/pdf/2504.07089)|null|[Kimi](https://papers.cool/arxiv/2504.07089)|
-| 3|**2025-04-09**|**KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs**|Elan Markowitz et.al.|[2504.07087](http://arxiv.org/pdf/2504.07087)|null|[Kimi](https://papers.cool/arxiv/2504.07087)|
-| 4|**2025-04-09**|**DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning**|Atharva Pandey et.al.|[2504.07080](http://arxiv.org/pdf/2504.07080)|null|[Kimi](https://papers.cool/arxiv/2504.07080)|
-| 5|**2025-04-09**|**SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills**|Boyuan Zheng et.al.|[2504.07079](http://arxiv.org/pdf/2504.07079)|null|[Kimi](https://papers.cool/arxiv/2504.07079)|
-| 6|**2025-04-09**|**HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification**|Bibek Paudel et.al.|[2504.07069](http://arxiv.org/pdf/2504.07069)|null|[Kimi](https://papers.cool/arxiv/2504.07069)|
-| 7|**2025-04-09**|**Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration**|Kostas Hatalis et.al.|[2504.06943](http://arxiv.org/pdf/2504.06943)|null|[Kimi](https://papers.cool/arxiv/2504.06943)|
-| 8|**2025-04-09**|**Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition**|Sergio Romero-Tapiador et.al.|[2504.06925](http://arxiv.org/pdf/2504.06925)|null|[Kimi](https://papers.cool/arxiv/2504.06925)|
-| 9|**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843](http://arxiv.org/pdf/2504.06843)|null|[Kimi](https://papers.cool/arxiv/2504.06843)|
-|10|**2025-04-09**|**LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding**|Ziyi Wang et.al.|[2504.06835](http://arxiv.org/pdf/2504.06835)|null|[Kimi](https://papers.cool/arxiv/2504.06835)|
+| 1|**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/pdf/2504.07956)|null|[Kimi](https://papers.cool/arxiv/2504.07956)|
+| 2|**2025-04-10**|**SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning**|Rui Pan et.al.|[2504.07891](http://arxiv.org/pdf/2504.07891)|null|[Kimi](https://papers.cool/arxiv/2504.07891)|
+| 3|**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/pdf/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|[Kimi](https://papers.cool/arxiv/2504.07887)|
+| 4|**2025-04-10**|**Token Level Routing Inference System for Edge Devices**|Jianshu She et.al.|[2504.07878](http://arxiv.org/pdf/2504.07878)|null|[Kimi](https://papers.cool/arxiv/2504.07878)|
+| 5|**2025-04-10**|**Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**|Yichun Yin et.al.|[2504.07866](http://arxiv.org/pdf/2504.07866)|null|[Kimi](https://papers.cool/arxiv/2504.07866)|
+| 6|**2025-04-10**|**Deceptive Automated Interpretability: Language Models Coordinating to Fool Oversight Systems**|Simon Lermen et.al.|[2504.07831](http://arxiv.org/pdf/2504.07831)|null|[Kimi](https://papers.cool/arxiv/2504.07831)|
+| 7|**2025-04-10**|**MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations**|Genglin Liu et.al.|[2504.07830](http://arxiv.org/pdf/2504.07830)|null|[Kimi](https://papers.cool/arxiv/2504.07830)|
+| 8|**2025-04-10**|**Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models**|Hongcheng Guo et.al.|[2504.07807](http://arxiv.org/pdf/2504.07807)|null|[Kimi](https://papers.cool/arxiv/2504.07807)|
+| 9|**2025-04-10**|**On the Temporal Question-Answering Capabilities of Large Language Models Over Anonymized Data**|Alfredo Garrachón Ruiz et.al.|[2504.07646](http://arxiv.org/pdf/2504.07646)|null|[Kimi](https://papers.cool/arxiv/2504.07646)|
+|10|**2025-04-10**|**ConceptFormer: Towards Efficient Use of Knowledge-Graph Embeddings in Large Language Models**|Joel Barmettler et.al.|[2504.07624](http://arxiv.org/pdf/2504.07624)|null|[Kimi](https://papers.cool/arxiv/2504.07624)|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
