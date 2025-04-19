@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.18
+## Updated on 2025.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/pdf/2504.13171)|null|[Kimi](https://papers.cool/arxiv/2504.13171)|
-| 2|**2025-04-17**|**Antidistillation Sampling**|Yash Savani et.al.|[2504.13146](http://arxiv.org/pdf/2504.13146)|null|[Kimi](https://papers.cool/arxiv/2504.13146)|
-| 3|**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/pdf/2504.13145)|null|[Kimi](https://papers.cool/arxiv/2504.13145)|
-| 4|**2025-04-17**|**LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard**|Varun Rao et.al.|[2504.13125](http://arxiv.org/pdf/2504.13125)|null|[Kimi](https://papers.cool/arxiv/2504.13125)|
-| 5|**2025-04-17**|**Probing and Inducing Combinational Creativity in Vision-Language Models**|Yongqian Peng et.al.|[2504.13120](http://arxiv.org/pdf/2504.13120)|null|[Kimi](https://papers.cool/arxiv/2504.13120)|
-| 6|**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068](http://arxiv.org/pdf/2504.13068)|null|[Kimi](https://papers.cool/arxiv/2504.13068)|
-| 7|**2025-04-17**|**ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images**|Sangwook Kim et.al.|[2504.13023](http://arxiv.org/pdf/2504.13023)|null|[Kimi](https://papers.cool/arxiv/2504.13023)|
-| 8|**2025-04-17**|**SHA256 at SemEval-2025 Task 4: Selective Amnesia -- Constrained Unlearning for Large Language Models via Knowledge Isolation**|Saransh Agrawal et.al.|[2504.12996](http://arxiv.org/pdf/2504.12996)|null|[Kimi](https://papers.cool/arxiv/2504.12996)|
-| 9|**2025-04-17**|**Are Retrials All You Need? Enhancing Large Language Model Reasoning Without Verbalized Feedback**|Nearchos Potamitis et.al.|[2504.12951](http://arxiv.org/pdf/2504.12951)|null|[Kimi](https://papers.cool/arxiv/2504.12951)|
-|10|**2025-04-17**|**Information Gain-Guided Causal Intervention for Autonomous Debiasing Large Language Models**|Zhouhao Sun et.al.|[2504.12898](http://arxiv.org/pdf/2504.12898)|null|[Kimi](https://papers.cool/arxiv/2504.12898)|
+| 1|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/pdf/2504.13180)|null|[Kimi](https://papers.cool/arxiv/2504.13180)|
+| 2|**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177](http://arxiv.org/pdf/2504.13177)|null|[Kimi](https://papers.cool/arxiv/2504.13177)|
+| 3|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/pdf/2504.13173)|null|[Kimi](https://papers.cool/arxiv/2504.13173)|
+| 4|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/pdf/2504.13171)|null|[Kimi](https://papers.cool/arxiv/2504.13171)|
+| 5|**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169](http://arxiv.org/pdf/2504.13169)|null|[Kimi](https://papers.cool/arxiv/2504.13169)|
+| 6|**2025-04-17**|**CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for Language Model Pre-training**|Shizhe Diao et.al.|[2504.13161](http://arxiv.org/pdf/2504.13161)|null|[Kimi](https://papers.cool/arxiv/2504.13161)|
+| 7|**2025-04-17**|**MIB: A Mechanistic Interpretability Benchmark**|Aaron Mueller et.al.|[2504.13151](http://arxiv.org/pdf/2504.13151)|null|[Kimi](https://papers.cool/arxiv/2504.13151)|
+| 8|**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150](http://arxiv.org/pdf/2504.13150)|null|[Kimi](https://papers.cool/arxiv/2504.13150)|
+| 9|**2025-04-17**|**Antidistillation Sampling**|Yash Savani et.al.|[2504.13146](http://arxiv.org/pdf/2504.13146)|null|[Kimi](https://papers.cool/arxiv/2504.13146)|
+|10|**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/pdf/2504.13145)|null|[Kimi](https://papers.cool/arxiv/2504.13145)|
 
-<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
