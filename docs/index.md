@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -20,8 +20,8 @@ layout: default
 | 1|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/pdf/2504.13180)|null|[Kimi](https://papers.cool/arxiv/2504.13180)|
 | 2|**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177](http://arxiv.org/pdf/2504.13177)|null|[Kimi](https://papers.cool/arxiv/2504.13177)|
 | 3|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/pdf/2504.13173)|null|[Kimi](https://papers.cool/arxiv/2504.13173)|
-| 4|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/pdf/2504.13171)|null|[Kimi](https://papers.cool/arxiv/2504.13171)|
-| 5|**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169](http://arxiv.org/pdf/2504.13169)|null|[Kimi](https://papers.cool/arxiv/2504.13169)|
+| 4|**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/pdf/2504.13171)|**[link](https://github.com/letta-ai/sleep-time-compute)**|[Kimi](https://papers.cool/arxiv/2504.13171)|
+| 5|**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169](http://arxiv.org/pdf/2504.13169)|**[link](https://github.com/tsunghan-wu/reverse_vlm)**|[Kimi](https://papers.cool/arxiv/2504.13169)|
 | 6|**2025-04-17**|**CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for Language Model Pre-training**|Shizhe Diao et.al.|[2504.13161](http://arxiv.org/pdf/2504.13161)|null|[Kimi](https://papers.cool/arxiv/2504.13161)|
 | 7|**2025-04-17**|**MIB: A Mechanistic Interpretability Benchmark**|Aaron Mueller et.al.|[2504.13151](http://arxiv.org/pdf/2504.13151)|null|[Kimi](https://papers.cool/arxiv/2504.13151)|
 | 8|**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150](http://arxiv.org/pdf/2504.13150)|null|[Kimi](https://papers.cool/arxiv/2504.13150)|
@@ -33,10 +33,10 @@ layout: default
 |14|**2025-04-17**|**Science-T2I: Addressing Scientific Illusions in Image Synthesis**|Jialuo Li et.al.|[2504.13129](http://arxiv.org/pdf/2504.13129)|null|[Kimi](https://papers.cool/arxiv/2504.13129)|
 |15|**2025-04-17**|**LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard**|Varun Rao et.al.|[2504.13125](http://arxiv.org/pdf/2504.13125)|null|[Kimi](https://papers.cool/arxiv/2504.13125)|
 |16|**2025-04-17**|**Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training**|Xinsong Zhang et.al.|[2504.13123](http://arxiv.org/pdf/2504.13123)|null|[Kimi](https://papers.cool/arxiv/2504.13123)|
-|17|**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122](http://arxiv.org/pdf/2504.13122)|null|[Kimi](https://papers.cool/arxiv/2504.13122)|
+|17|**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122](http://arxiv.org/pdf/2504.13122)|**[link](https://github.com/haroldchen19/vistadpo)**|[Kimi](https://papers.cool/arxiv/2504.13122)|
 |18|**2025-04-17**|**Probing and Inducing Combinational Creativity in Vision-Language Models**|Yongqian Peng et.al.|[2504.13120](http://arxiv.org/pdf/2504.13120)|null|[Kimi](https://papers.cool/arxiv/2504.13120)|
 |19|**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092](http://arxiv.org/pdf/2504.13092)|null|[Kimi](https://papers.cool/arxiv/2504.13092)|
-|20|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/pdf/2504.13079)|null|[Kimi](https://papers.cool/arxiv/2504.13079)|
+|20|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/pdf/2504.13079)|**[link](https://github.com/hannight/ramdocs)**|[Kimi](https://papers.cool/arxiv/2504.13079)|
 |21|**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu et.al.|[2504.13078](http://arxiv.org/pdf/2504.13078)|**[link](https://github.com/rizavelioglu/tryoffdiff)**|[Kimi](https://papers.cool/arxiv/2504.13078)|
 |22|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/pdf/2504.13074)|null|[Kimi](https://papers.cool/arxiv/2504.13074)|
 |23|**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068](http://arxiv.org/pdf/2504.13068)|null|[Kimi](https://papers.cool/arxiv/2504.13068)|
@@ -52,20 +52,20 @@ layout: default
 |33|**2025-04-17**|**Information Gain-Guided Causal Intervention for Autonomous Debiasing Large Language Models**|Zhouhao Sun et.al.|[2504.12898](http://arxiv.org/pdf/2504.12898)|null|[Kimi](https://papers.cool/arxiv/2504.12898)|
 |34|**2025-04-17**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/pdf/2504.12867)|null|[Kimi](https://papers.cool/arxiv/2504.12867)|
 |35|**2025-04-17**|**Can LLMs reason over extended multilingual contexts? Towards long-context evaluation beyond retrieval and haystacks**|Amey Hengle et.al.|[2504.12845](http://arxiv.org/pdf/2504.12845)|null|[Kimi](https://papers.cool/arxiv/2504.12845)|
-|36|**2025-04-17**|**Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**|Yicheng Pan et.al.|[2504.12773](http://arxiv.org/pdf/2504.12773)|null|[Kimi](https://papers.cool/arxiv/2504.12773)|
+|36|**2025-04-17**|**Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**|Yicheng Pan et.al.|[2504.12773](http://arxiv.org/pdf/2504.12773)|**[link](https://github.com/ycpnotfound/geogen)**|[Kimi](https://papers.cool/arxiv/2504.12773)|
 |37|**2025-04-17**|**Pandora: A Code-Driven Large Language Model Agent for Unified Reasoning Across Diverse Structured Knowledge**|Yongrui Chen et.al.|[2504.12734](http://arxiv.org/pdf/2504.12734)|null|[Kimi](https://papers.cool/arxiv/2504.12734)|
 |38|**2025-04-17**|**Why and How LLMs Hallucinate: Connecting the Dots with Subsequence Associations**|Yiyou Sun et.al.|[2504.12691](http://arxiv.org/pdf/2504.12691)|null|[Kimi](https://papers.cool/arxiv/2504.12691)|
-|39|**2025-04-17**|**Data-efficient LLM Fine-tuning for Code Generation**|Weijie Lv et.al.|[2504.12687](http://arxiv.org/pdf/2504.12687)|null|[Kimi](https://papers.cool/arxiv/2504.12687)|
+|39|**2025-04-17**|**Data-efficient LLM Fine-tuning for Code Generation**|Weijie Lv et.al.|[2504.12687](http://arxiv.org/pdf/2504.12687)|**[link](https://github.com/kyle-lyu/data-efficient-finetuning)**|[Kimi](https://papers.cool/arxiv/2504.12687)|
 |40|**2025-04-17**|**Scaling Instruction-Tuned LLMs to Million-Token Contexts via Hierarchical Synthetic Data Generation**|Linda He et.al.|[2504.12637](http://arxiv.org/pdf/2504.12637)|null|[Kimi](https://papers.cool/arxiv/2504.12637)|
 |41|**2025-04-17**|**Identifying and Mitigating the Influence of the Prior Distribution in Large Language Models**|Liyi Zhang et.al.|[2504.12585](http://arxiv.org/pdf/2504.12585)|null|[Kimi](https://papers.cool/arxiv/2504.12585)|
 |42|**2025-04-17**|**MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation**|Haris Riaz et.al.|[2504.12563](http://arxiv.org/pdf/2504.12563)|null|[Kimi](https://papers.cool/arxiv/2504.12563)|
-|43|**2025-04-17**|**ZeroSumEval: Scaling LLM Evaluation with Inter-Model Competition**|Haidar Khan et.al.|[2504.12562](http://arxiv.org/pdf/2504.12562)|null|[Kimi](https://papers.cool/arxiv/2504.12562)|
+|43|**2025-04-17**|**ZeroSumEval: Scaling LLM Evaluation with Inter-Model Competition**|Haidar Khan et.al.|[2504.12562](http://arxiv.org/pdf/2504.12562)|**[link](https://github.com/facebookresearch/zerosumeval)**|[Kimi](https://papers.cool/arxiv/2504.12562)|
 |44|**2025-04-17**|**Memorization: A Close Look at Books**|Iris Ma et.al.|[2504.12549](http://arxiv.org/pdf/2504.12549)|null|[Kimi](https://papers.cool/arxiv/2504.12549)|
 |45|**2025-04-16**|**MOM: Memory-Efficient Offloaded Mini-Sequence Inference for Long Context Language Models**|Junyang Zhang et.al.|[2504.12526](http://arxiv.org/pdf/2504.12526)|null|[Kimi](https://papers.cool/arxiv/2504.12526)|
 |46|**2025-04-16**|**Memorization vs. Reasoning: Updating LLMs with New Knowledge**|Aochong Oliver Li et.al.|[2504.12523](http://arxiv.org/pdf/2504.12523)|null|[Kimi](https://papers.cool/arxiv/2504.12523)|
 |47|**2025-04-16**|**Towards Conversational AI for Human-Machine Collaborative MLOps**|George Fatouros et.al.|[2504.12477](http://arxiv.org/pdf/2504.12477)|null|[Kimi](https://papers.cool/arxiv/2504.12477)|
 |48|**2025-04-16**|**Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex**|Azadeh Beiranvand et.al.|[2504.12474](http://arxiv.org/pdf/2504.12474)|null|[Kimi](https://papers.cool/arxiv/2504.12474)|
-|49|**2025-04-16**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463](http://arxiv.org/pdf/2504.12463)|null|[Kimi](https://papers.cool/arxiv/2504.12463)|
+|49|**2025-04-16**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463](http://arxiv.org/pdf/2504.12463)|**[link](https://github.com/vatsal0/default-moe)**|[Kimi](https://papers.cool/arxiv/2504.12463)|
 |50|**2025-04-16**|**Activated LoRA: Fine-tuned LLMs for Intrinsics**|Kristjan Greenewald et.al.|[2504.12397](http://arxiv.org/pdf/2504.12397)|null|[Kimi](https://papers.cool/arxiv/2504.12397)|
 |51|**2025-04-16**|**BitNet b1.58 2B4T Technical Report**|Shuming Ma et.al.|[2504.12285](http://arxiv.org/pdf/2504.12285)|null|[Kimi](https://papers.cool/arxiv/2504.12285)|
 |52|**2025-04-16**|**How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions**|Aditya Prakash et.al.|[2504.12284](http://arxiv.org/pdf/2504.12284)|null|[Kimi](https://papers.cool/arxiv/2504.12284)|
@@ -92,31 +92,31 @@ layout: default
 |73|**2025-04-15**|**GraphicBench: A Planning Benchmark for Graphic Design with Language Agents**|Dayeon Ki et.al.|[2504.11571](http://arxiv.org/pdf/2504.11571)|null|[Kimi](https://papers.cool/arxiv/2504.11571)|
 |74|**2025-04-15**|**ReTool: Reinforcement Learning for Strategic Tool Use in LLMs**|Jiazhan Feng et.al.|[2504.11536](http://arxiv.org/pdf/2504.11536)|null|[Kimi](https://papers.cool/arxiv/2504.11536)|
 |75|**2025-04-15**|**HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation**|Haokun Liu et.al.|[2504.11524](http://arxiv.org/pdf/2504.11524)|null|[Kimi](https://papers.cool/arxiv/2504.11524)|
-|76|**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/pdf/2504.11442)|null|[Kimi](https://papers.cool/arxiv/2504.11442)|
+|76|**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/pdf/2504.11442)|**[link](https://github.com/leonguertler/textarena)**|[Kimi](https://papers.cool/arxiv/2504.11442)|
 |77|**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/pdf/2504.11426)|null|[Kimi](https://papers.cool/arxiv/2504.11426)|
-|78|**2025-04-15**|**A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce**|Wei Xiong et.al.|[2504.11343](http://arxiv.org/pdf/2504.11343)|null|[Kimi](https://papers.cool/arxiv/2504.11343)|
+|78|**2025-04-15**|**A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce**|Wei Xiong et.al.|[2504.11343](http://arxiv.org/pdf/2504.11343)|**[link](https://github.com/rlhflow/minimal-rl)**|[Kimi](https://papers.cool/arxiv/2504.11343)|
 |79|**2025-04-15**|**Transformer-Based Model for Cold Start Mitigation in FaaS Architecture**|Alexandre Savi Fayam Mbala Mouen et.al.|[2504.11338](http://arxiv.org/pdf/2504.11338)|null|[Kimi](https://papers.cool/arxiv/2504.11338)|
-|80|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/pdf/2504.11320)|null|[Kimi](https://papers.cool/arxiv/2504.11320)|
-|81|**2025-04-15**|**Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs**|Chang Yang et.al.|[2504.11239](http://arxiv.org/pdf/2504.11239)|null|[Kimi](https://papers.cool/arxiv/2504.11239)|
+|80|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/pdf/2504.11320)|**[link](https://github.com/microsoft/vidur)**|[Kimi](https://papers.cool/arxiv/2504.11320)|
+|81|**2025-04-15**|**Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs**|Chang Yang et.al.|[2504.11239](http://arxiv.org/pdf/2504.11239)|**[link](https://github.com/smu-diga/nppc)**|[Kimi](https://papers.cool/arxiv/2504.11239)|
 |82|**2025-04-15**|**Video Summarization with Large Language Models**|Min Jung Lee et.al.|[2504.11199](http://arxiv.org/pdf/2504.11199)|null|[Kimi](https://papers.cool/arxiv/2504.11199)|
 |83|**2025-04-15**|**Benchmarking Next-Generation Reasoning-Focused Large Language Models in Ophthalmology: A Head-to-Head Evaluation on 5,888 Items**|Minjie Zou et.al.|[2504.11186](http://arxiv.org/pdf/2504.11186)|null|[Kimi](https://papers.cool/arxiv/2504.11186)|
 |84|**2025-04-15**|**DeepMLF: Multimodal language model with learnable tokens for deep fusion in sentiment analysis**|Efthymios Georgiou et.al.|[2504.11082](http://arxiv.org/pdf/2504.11082)|null|[Kimi](https://papers.cool/arxiv/2504.11082)|
 |85|**2025-04-15**|**Dynamic Compressing Prompts for Efficient Inference of Large Language Models**|Jinwu Hu et.al.|[2504.11004](http://arxiv.org/pdf/2504.11004)|null|[Kimi](https://papers.cool/arxiv/2504.11004)|
-|86|**2025-04-15**|**Efficient Reasoning Models: A Survey**|Sicheng Feng et.al.|[2504.10903](http://arxiv.org/pdf/2504.10903)|null|[Kimi](https://papers.cool/arxiv/2504.10903)|
+|86|**2025-04-15**|**Efficient Reasoning Models: A Survey**|Sicheng Feng et.al.|[2504.10903](http://arxiv.org/pdf/2504.10903)|**[link](https://github.com/fscdc/awesome-efficient-reasoning-models)**|[Kimi](https://papers.cool/arxiv/2504.10903)|
 |87|**2025-04-15**|**ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search**|Yize Zhang et.al.|[2504.10893](http://arxiv.org/pdf/2504.10893)|null|[Kimi](https://papers.cool/arxiv/2504.10893)|
 |88|**2025-04-15**|**Large Language Model-Informed Feature Discovery Improves Prediction and Interpretation of Credibility Perceptions of Visual Content**|Yilang Peng et.al.|[2504.10878](http://arxiv.org/pdf/2504.10878)|null|[Kimi](https://papers.cool/arxiv/2504.10878)|
 |89|**2025-04-15**|**Moving Beyond Next-Token Prediction: Transformers are Context-Sensitive Language Generators**|Phill Kyu Rhee et.al.|[2504.10845](http://arxiv.org/pdf/2504.10845)|null|[Kimi](https://papers.cool/arxiv/2504.10845)|
 |90|**2025-04-15**|**LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation**|Hengyu Shi et.al.|[2504.10829](http://arxiv.org/pdf/2504.10829)|null|[Kimi](https://papers.cool/arxiv/2504.10829)|
 |91|**2025-04-15**|**CLASH: Evaluating Language Models on Judging High-Stakes Dilemmas from Multiple Perspectives**|Ayoung Lee et.al.|[2504.10823](http://arxiv.org/pdf/2504.10823)|null|[Kimi](https://papers.cool/arxiv/2504.10823)|
-|92|**2025-04-14**|**How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients**|Ming Li et.al.|[2504.10766](http://arxiv.org/pdf/2504.10766)|null|[Kimi](https://papers.cool/arxiv/2504.10766)|
-|93|**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[2504.10757](http://arxiv.org/pdf/2504.10757)|null|[Kimi](https://papers.cool/arxiv/2504.10757)|
+|92|**2025-04-14**|**How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients**|Ming Li et.al.|[2504.10766](http://arxiv.org/pdf/2504.10766)|**[link](https://github.com/mingliiii/gradient_unified)**|[Kimi](https://papers.cool/arxiv/2504.10766)|
+|93|**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[2504.10757](http://arxiv.org/pdf/2504.10757)|**[link](https://github.com/zhourobotics/reasondrive)**|[Kimi](https://papers.cool/arxiv/2504.10757)|
 |94|**2025-04-14**|**CleanMAP: Distilling Multimodal LLMs for Confidence-Driven Crowdsourced HD Map Updates**|Ankit Kumar Shaw et.al.|[2504.10738](http://arxiv.org/pdf/2504.10738)|null|[Kimi](https://papers.cool/arxiv/2504.10738)|
 |95|**2025-04-14**|**HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving**|Avinash Kumar et.al.|[2504.10724](http://arxiv.org/pdf/2504.10724)|null|[Kimi](https://papers.cool/arxiv/2504.10724)|
 |96|**2025-04-14**|**Weight-of-Thought Reasoning: Exploring Neural Network Weights for Enhanced LLM Reasoning**|Saif Punjwani et.al.|[2504.10646](http://arxiv.org/pdf/2504.10646)|null|[Kimi](https://papers.cool/arxiv/2504.10646)|
 |97|**2025-04-14**|**Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models**|Thilo Hagendorff et.al.|[2504.10615](http://arxiv.org/pdf/2504.10615)|null|[Kimi](https://papers.cool/arxiv/2504.10615)|
 |98|**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/pdf/2504.10458)|null|[Kimi](https://papers.cool/arxiv/2504.10458)|
-|99|**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445](http://arxiv.org/pdf/2504.10445)|null|[Kimi](https://papers.cool/arxiv/2504.10445)|
-|100|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/pdf/2504.10443)|null|[Kimi](https://papers.cool/arxiv/2504.10443)|
+|99|**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445](http://arxiv.org/pdf/2504.10445)|**[link](https://github.com/scai-jhu/realwebassist)**|[Kimi](https://papers.cool/arxiv/2504.10445)|
+|100|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/pdf/2504.10443)|**[link](https://github.com/hoar012/tdc-video)**|[Kimi](https://papers.cool/arxiv/2504.10443)|
 
 ## Early Stopping
 
