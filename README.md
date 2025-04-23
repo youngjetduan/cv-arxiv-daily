@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/pdf/2504.15280)|null|[Kimi](https://papers.cool/arxiv/2504.15280)|
-| 2|**2025-04-21**|**FlowReasoner: Reinforcing Query-Level Meta-Agents**|Hongcheng Gao et.al.|[2504.15257](http://arxiv.org/pdf/2504.15257)|**[link](https://github.com/sail-sg/flowreasoner)**|[Kimi](https://papers.cool/arxiv/2504.15257)|
-| 3|**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205](http://arxiv.org/pdf/2504.15205)|null|[Kimi](https://papers.cool/arxiv/2504.15205)|
-| 4|**2025-04-21**|**The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks**|Joan C. Timoneda et.al.|[2504.15160](http://arxiv.org/pdf/2504.15160)|null|[Kimi](https://papers.cool/arxiv/2504.15160)|
-| 5|**2025-04-21**|**EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models**|Ziwen Xu et.al.|[2504.15133](http://arxiv.org/pdf/2504.15133)|**[link](https://github.com/zjunlp/easyedit)**|[Kimi](https://papers.cool/arxiv/2504.15133)|
-| 6|**2025-04-21**|**Kuwain 1.5B: An Arabic SLM via Language Injection**|Khalil Hennara et.al.|[2504.15120](http://arxiv.org/pdf/2504.15120)|null|[Kimi](https://papers.cool/arxiv/2504.15120)|
-| 7|**2025-04-21**|**A triple-branch network for latent fingerprint enhancement guided by orientation fields and minutiae**|Yurun Wang et.al.|[2504.15105](http://arxiv.org/pdf/2504.15105)|null|[Kimi](https://papers.cool/arxiv/2504.15105)|
-| 8|**2025-04-21**|**Rethinking the Potential of Multimodality in Collaborative Problem Solving Diagnosis with Large Language Models**|K. Wong et.al.|[2504.15093](http://arxiv.org/pdf/2504.15093)|null|[Kimi](https://papers.cool/arxiv/2504.15093)|
-| 9|**2025-04-21**|**DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation**|Weijie He et.al.|[2504.15032](http://arxiv.org/pdf/2504.15032)|null|[Kimi](https://papers.cool/arxiv/2504.15032)|
-|10|**2025-04-21**|**Efficient Pretraining Length Scaling**|Bohong Wu et.al.|[2504.14992](http://arxiv.org/pdf/2504.14992)|null|[Kimi](https://papers.cool/arxiv/2504.14992)|
+| 1|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/pdf/2504.16083)|null|[Kimi](https://papers.cool/arxiv/2504.16083)|
+| 2|**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/pdf/2504.16082)|null|[Kimi](https://papers.cool/arxiv/2504.16082)|
+| 3|**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/pdf/2504.16078)|null|[Kimi](https://papers.cool/arxiv/2504.16078)|
+| 4|**2025-04-22**|**LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement**|Zhifan Ye et.al.|[2504.16053](http://arxiv.org/pdf/2504.16053)|null|[Kimi](https://papers.cool/arxiv/2504.16053)|
+| 5|**2025-04-22**|**Benchmarking LLM for Code Smells Detection: OpenAI GPT-4.0 vs DeepSeek-V3**|Ahmed R. Sadik et.al.|[2504.16027](http://arxiv.org/pdf/2504.16027)|null|[Kimi](https://papers.cool/arxiv/2504.16027)|
+| 6|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005](http://arxiv.org/pdf/2504.16005)|**[link](https://github.com/finitearth/capo)**|[Kimi](https://papers.cool/arxiv/2504.16005)|
+| 7|**2025-04-22**|**FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity**|Fanny Jourdan et.al.|[2504.15941](http://arxiv.org/pdf/2504.15941)|**[link](https://github.com/fanny-jourdan/FairTranslate)**|[Kimi](https://papers.cool/arxiv/2504.15941)|
+| 8|**2025-04-22**|**Impact of Noise on LLM-Models Performance in Abstraction and Reasoning Corpus (ARC) Tasks with Model Temperature Considerations**|Nikhil Khandalkar et.al.|[2504.15903](http://arxiv.org/pdf/2504.15903)|null|[Kimi](https://papers.cool/arxiv/2504.15903)|
+| 9|**2025-04-22**|**SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning**|Cheng Wen et.al.|[2504.15900](http://arxiv.org/pdf/2504.15900)|null|[Kimi](https://papers.cool/arxiv/2504.15900)|
+|10|**2025-04-22**|**Dynamic Early Exit in Reasoning Models**|Chenxu Yang et.al.|[2504.15895](http://arxiv.org/pdf/2504.15895)|null|[Kimi](https://papers.cool/arxiv/2504.15895)|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
