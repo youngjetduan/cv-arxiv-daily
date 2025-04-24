@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/pdf/2504.16083)|null|[Kimi](https://papers.cool/arxiv/2504.16083)|
-| 2|**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/pdf/2504.16082)|null|[Kimi](https://papers.cool/arxiv/2504.16082)|
-| 3|**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/pdf/2504.16078)|null|[Kimi](https://papers.cool/arxiv/2504.16078)|
-| 4|**2025-04-22**|**LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement**|Zhifan Ye et.al.|[2504.16053](http://arxiv.org/pdf/2504.16053)|null|[Kimi](https://papers.cool/arxiv/2504.16053)|
-| 5|**2025-04-22**|**Benchmarking LLM for Code Smells Detection: OpenAI GPT-4.0 vs DeepSeek-V3**|Ahmed R. Sadik et.al.|[2504.16027](http://arxiv.org/pdf/2504.16027)|null|[Kimi](https://papers.cool/arxiv/2504.16027)|
-| 6|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005](http://arxiv.org/pdf/2504.16005)|**[link](https://github.com/finitearth/capo)**|[Kimi](https://papers.cool/arxiv/2504.16005)|
-| 7|**2025-04-22**|**FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity**|Fanny Jourdan et.al.|[2504.15941](http://arxiv.org/pdf/2504.15941)|**[link](https://github.com/fanny-jourdan/FairTranslate)**|[Kimi](https://papers.cool/arxiv/2504.15941)|
-| 8|**2025-04-22**|**Impact of Noise on LLM-Models Performance in Abstraction and Reasoning Corpus (ARC) Tasks with Model Temperature Considerations**|Nikhil Khandalkar et.al.|[2504.15903](http://arxiv.org/pdf/2504.15903)|null|[Kimi](https://papers.cool/arxiv/2504.15903)|
-| 9|**2025-04-22**|**SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning**|Cheng Wen et.al.|[2504.15900](http://arxiv.org/pdf/2504.15900)|null|[Kimi](https://papers.cool/arxiv/2504.15900)|
-|10|**2025-04-22**|**Dynamic Early Exit in Reasoning Models**|Chenxu Yang et.al.|[2504.15895](http://arxiv.org/pdf/2504.15895)|null|[Kimi](https://papers.cool/arxiv/2504.15895)|
+| 1|**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913](http://arxiv.org/pdf/2504.16913)|null|[Kimi](https://papers.cool/arxiv/2504.16913)|
+| 2|**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/pdf/2504.16884)|null|[Kimi](https://papers.cool/arxiv/2504.16884)|
+| 3|**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/pdf/2504.16855)|null|[Kimi](https://papers.cool/arxiv/2504.16855)|
+| 4|**2025-04-23**|**GreenMind: A Next-Generation Vietnamese Large Language Model for Structured and Logical Reasoning**|Luu Quy Tung et.al.|[2504.16832](http://arxiv.org/pdf/2504.16832)|null|[Kimi](https://papers.cool/arxiv/2504.16832)|
+| 5|**2025-04-23**|**Process Reward Models That Think**|Muhammad Khalifa et.al.|[2504.16828](http://arxiv.org/pdf/2504.16828)|null|[Kimi](https://papers.cool/arxiv/2504.16828)|
+| 6|**2025-04-23**|**Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention**|Xiang Hu et.al.|[2504.16795](http://arxiv.org/pdf/2504.16795)|null|[Kimi](https://papers.cool/arxiv/2504.16795)|
+| 7|**2025-04-23**|**Towards Explainable AI: Multi-Modal Transformer for Video-based Image Description Generation**|Lakshita Agarwal et.al.|[2504.16788](http://arxiv.org/pdf/2504.16788)|null|[Kimi](https://papers.cool/arxiv/2504.16788)|
+| 8|**2025-04-23**|**MOOSComp: Improving Lightweight Long-Context Compressor via Mitigating Over-Smoothing and Incorporating Outlier Scores**|Fengwei Zhou et.al.|[2504.16786](http://arxiv.org/pdf/2504.16786)|null|[Kimi](https://papers.cool/arxiv/2504.16786)|
+| 9|**2025-04-23**|**How Effective are Generative Large Language Models in Performing Requirements Classification?**|Waad Alhoshan et.al.|[2504.16768](http://arxiv.org/pdf/2504.16768)|null|[Kimi](https://papers.cool/arxiv/2504.16768)|
+|10|**2025-04-23**|**Lightweight Latent Verifiers for Efficient Meta-Generation Strategies**|Bartosz Piotrowski et.al.|[2504.16760](http://arxiv.org/pdf/2504.16760)|null|[Kimi](https://papers.cool/arxiv/2504.16760)|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
