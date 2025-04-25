@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913](http://arxiv.org/pdf/2504.16913)|null|[Kimi](https://papers.cool/arxiv/2504.16913)|
-| 2|**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/pdf/2504.16884)|null|[Kimi](https://papers.cool/arxiv/2504.16884)|
-| 3|**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/pdf/2504.16855)|null|[Kimi](https://papers.cool/arxiv/2504.16855)|
-| 4|**2025-04-23**|**GreenMind: A Next-Generation Vietnamese Large Language Model for Structured and Logical Reasoning**|Luu Quy Tung et.al.|[2504.16832](http://arxiv.org/pdf/2504.16832)|null|[Kimi](https://papers.cool/arxiv/2504.16832)|
-| 5|**2025-04-23**|**Process Reward Models That Think**|Muhammad Khalifa et.al.|[2504.16828](http://arxiv.org/pdf/2504.16828)|null|[Kimi](https://papers.cool/arxiv/2504.16828)|
-| 6|**2025-04-23**|**Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention**|Xiang Hu et.al.|[2504.16795](http://arxiv.org/pdf/2504.16795)|null|[Kimi](https://papers.cool/arxiv/2504.16795)|
-| 7|**2025-04-23**|**Towards Explainable AI: Multi-Modal Transformer for Video-based Image Description Generation**|Lakshita Agarwal et.al.|[2504.16788](http://arxiv.org/pdf/2504.16788)|null|[Kimi](https://papers.cool/arxiv/2504.16788)|
-| 8|**2025-04-23**|**MOOSComp: Improving Lightweight Long-Context Compressor via Mitigating Over-Smoothing and Incorporating Outlier Scores**|Fengwei Zhou et.al.|[2504.16786](http://arxiv.org/pdf/2504.16786)|null|[Kimi](https://papers.cool/arxiv/2504.16786)|
-| 9|**2025-04-23**|**How Effective are Generative Large Language Models in Performing Requirements Classification?**|Waad Alhoshan et.al.|[2504.16768](http://arxiv.org/pdf/2504.16768)|null|[Kimi](https://papers.cool/arxiv/2504.16768)|
-|10|**2025-04-23**|**Lightweight Latent Verifiers for Efficient Meta-Generation Strategies**|Bartosz Piotrowski et.al.|[2504.16760](http://arxiv.org/pdf/2504.16760)|null|[Kimi](https://papers.cool/arxiv/2504.16760)|
+| 1|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/pdf/2504.17768)|null|[Kimi](https://papers.cool/arxiv/2504.17768)|
+| 2|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720](http://arxiv.org/pdf/2504.17720)|null|[Kimi](https://papers.cool/arxiv/2504.17720)|
+| 3|**2025-04-24**|**Ensemble Bayesian Inference: Leveraging Small Language Models to Achieve LLM-level Accuracy in Profile Matching Tasks**|Haru-Tada Sato et.al.|[2504.17685](http://arxiv.org/pdf/2504.17685)|null|[Kimi](https://papers.cool/arxiv/2504.17685)|
+| 4|**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/pdf/2504.17674)|null|[Kimi](https://papers.cool/arxiv/2504.17674)|
+| 5|**2025-04-24**|**Towards a HIPAA Compliant Agentic AI System in Healthcare**|Subash Neupane et.al.|[2504.17669](http://arxiv.org/pdf/2504.17669)|null|[Kimi](https://papers.cool/arxiv/2504.17669)|
+| 6|**2025-04-24**|**DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training**|Xiaoyu Tian et.al.|[2504.17565](http://arxiv.org/pdf/2504.17565)|null|[Kimi](https://papers.cool/arxiv/2504.17565)|
+| 7|**2025-04-24**|**HalluLens: LLM Hallucination Benchmark**|Yejin Bang et.al.|[2504.17550](http://arxiv.org/pdf/2504.17550)|null|[Kimi](https://papers.cool/arxiv/2504.17550)|
+| 8|**2025-04-24**|**A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task**|Jiaqi Deng et.al.|[2504.17547](http://arxiv.org/pdf/2504.17547)|null|[Kimi](https://papers.cool/arxiv/2504.17547)|
+| 9|**2025-04-24**|**Auditing the Ethical Logic of Generative AI Models**|W. Russell Neuman et.al.|[2504.17544](http://arxiv.org/pdf/2504.17544)|null|[Kimi](https://papers.cool/arxiv/2504.17544)|
+|10|**2025-04-24**|**Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation**|Xin Yi et.al.|[2504.17480](http://arxiv.org/pdf/2504.17480)|null|[Kimi](https://papers.cool/arxiv/2504.17480)|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
