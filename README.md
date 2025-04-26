@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.25
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/pdf/2504.17768)|null|[Kimi](https://papers.cool/arxiv/2504.17768)|
-| 2|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720](http://arxiv.org/pdf/2504.17720)|null|[Kimi](https://papers.cool/arxiv/2504.17720)|
-| 3|**2025-04-24**|**Ensemble Bayesian Inference: Leveraging Small Language Models to Achieve LLM-level Accuracy in Profile Matching Tasks**|Haru-Tada Sato et.al.|[2504.17685](http://arxiv.org/pdf/2504.17685)|null|[Kimi](https://papers.cool/arxiv/2504.17685)|
-| 4|**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/pdf/2504.17674)|null|[Kimi](https://papers.cool/arxiv/2504.17674)|
-| 5|**2025-04-24**|**Towards a HIPAA Compliant Agentic AI System in Healthcare**|Subash Neupane et.al.|[2504.17669](http://arxiv.org/pdf/2504.17669)|null|[Kimi](https://papers.cool/arxiv/2504.17669)|
-| 6|**2025-04-24**|**DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training**|Xiaoyu Tian et.al.|[2504.17565](http://arxiv.org/pdf/2504.17565)|null|[Kimi](https://papers.cool/arxiv/2504.17565)|
-| 7|**2025-04-24**|**HalluLens: LLM Hallucination Benchmark**|Yejin Bang et.al.|[2504.17550](http://arxiv.org/pdf/2504.17550)|null|[Kimi](https://papers.cool/arxiv/2504.17550)|
-| 8|**2025-04-24**|**A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task**|Jiaqi Deng et.al.|[2504.17547](http://arxiv.org/pdf/2504.17547)|null|[Kimi](https://papers.cool/arxiv/2504.17547)|
-| 9|**2025-04-24**|**Auditing the Ethical Logic of Generative AI Models**|W. Russell Neuman et.al.|[2504.17544](http://arxiv.org/pdf/2504.17544)|null|[Kimi](https://papers.cool/arxiv/2504.17544)|
-|10|**2025-04-24**|**Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation**|Xin Yi et.al.|[2504.17480](http://arxiv.org/pdf/2504.17480)|null|[Kimi](https://papers.cool/arxiv/2504.17480)|
+| 1|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/pdf/2504.17789)|null|[Kimi](https://papers.cool/arxiv/2504.17789)|
+| 2|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/pdf/2504.17768)|null|[Kimi](https://papers.cool/arxiv/2504.17768)|
+| 3|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/pdf/2504.17761)|null|[Kimi](https://papers.cool/arxiv/2504.17761)|
+| 4|**2025-04-24**|**Conversational Assistants to support Heart Failure Patients: comparing a Neurosymbolic Architecture with ChatGPT**|Anuja Tayal et.al.|[2504.17753](http://arxiv.org/pdf/2504.17753)|null|[Kimi](https://papers.cool/arxiv/2504.17753)|
+| 5|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/pdf/2504.17728)|null|[Kimi](https://papers.cool/arxiv/2504.17728)|
+| 6|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720](http://arxiv.org/pdf/2504.17720)|null|[Kimi](https://papers.cool/arxiv/2504.17720)|
+| 7|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717](http://arxiv.org/pdf/2504.17717)|null|[Kimi](https://papers.cool/arxiv/2504.17717)|
+| 8|**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/pdf/2504.17712)|null|[Kimi](https://papers.cool/arxiv/2504.17712)|
+| 9|**2025-04-24**|**Plasma State Monitoring and Disruption Characterization using Multimodal VAEs**|Yoeri Poels et.al.|[2504.17710](http://arxiv.org/pdf/2504.17710)|null|[Kimi](https://papers.cool/arxiv/2504.17710)|
+|10|**2025-04-24**|**Safety in Large Reasoning Models: A Survey**|Cheng Wang et.al.|[2504.17704](http://arxiv.org/pdf/2504.17704)|null|[Kimi](https://papers.cool/arxiv/2504.17704)|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
