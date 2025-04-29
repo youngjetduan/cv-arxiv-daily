@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/pdf/2504.17789)|null|[Kimi](https://papers.cool/arxiv/2504.17789)|
-| 2|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/pdf/2504.17768)|null|[Kimi](https://papers.cool/arxiv/2504.17768)|
-| 3|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/pdf/2504.17761)|null|[Kimi](https://papers.cool/arxiv/2504.17761)|
-| 4|**2025-04-24**|**Conversational Assistants to support Heart Failure Patients: comparing a Neurosymbolic Architecture with ChatGPT**|Anuja Tayal et.al.|[2504.17753](http://arxiv.org/pdf/2504.17753)|null|[Kimi](https://papers.cool/arxiv/2504.17753)|
-| 5|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/pdf/2504.17728)|null|[Kimi](https://papers.cool/arxiv/2504.17728)|
-| 6|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720](http://arxiv.org/pdf/2504.17720)|null|[Kimi](https://papers.cool/arxiv/2504.17720)|
-| 7|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717](http://arxiv.org/pdf/2504.17717)|null|[Kimi](https://papers.cool/arxiv/2504.17717)|
-| 8|**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/pdf/2504.17712)|null|[Kimi](https://papers.cool/arxiv/2504.17712)|
-| 9|**2025-04-24**|**Plasma State Monitoring and Disruption Characterization using Multimodal VAEs**|Yoeri Poels et.al.|[2504.17710](http://arxiv.org/pdf/2504.17710)|null|[Kimi](https://papers.cool/arxiv/2504.17710)|
-|10|**2025-04-24**|**Safety in Large Reasoning Models: A Survey**|Cheng Wang et.al.|[2504.17704](http://arxiv.org/pdf/2504.17704)|null|[Kimi](https://papers.cool/arxiv/2504.17704)|
+| 1|**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/pdf/2504.20039)|null|[Kimi](https://papers.cool/arxiv/2504.20039)|
+| 2|**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010](http://arxiv.org/pdf/2504.20010)|null|[Kimi](https://papers.cool/arxiv/2504.20010)|
+| 3|**2025-04-28**|**TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons**|Emre Can Acikgoz et.al.|[2504.19982](http://arxiv.org/pdf/2504.19982)|null|[Kimi](https://papers.cool/arxiv/2504.19982)|
+| 4|**2025-04-28**|**Accelerating Mixture-of-Experts Training with Adaptive Expert Replication**|Athinagoras Skiadopoulos et.al.|[2504.19925](http://arxiv.org/pdf/2504.19925)|null|[Kimi](https://papers.cool/arxiv/2504.19925)|
+| 5|**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918](http://arxiv.org/pdf/2504.19918)|null|[Kimi](https://papers.cool/arxiv/2504.19918)|
+| 6|**2025-04-28**|**Can AI Agents Design and Implement Drug Discovery Pipelines?**|Khachik Smbatyan et.al.|[2504.19912](http://arxiv.org/pdf/2504.19912)|null|[Kimi](https://papers.cool/arxiv/2504.19912)|
+| 7|**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/pdf/2504.19898)|null|[Kimi](https://papers.cool/arxiv/2504.19898)|
+| 8|**2025-04-28**|**semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage**|Ke Hong et.al.|[2504.19867](http://arxiv.org/pdf/2504.19867)|null|[Kimi](https://papers.cool/arxiv/2504.19867)|
+| 9|**2025-04-28**|**Can a Crow Hatch a Falcon? Lineage Matters in Predicting Large Language Model Performance**|Takuya Tamura et.al.|[2504.19811](http://arxiv.org/pdf/2504.19811)|null|[Kimi](https://papers.cool/arxiv/2504.19811)|
+|10|**2025-04-28**|**Moral Reasoning Across Languages: The Critical Role of Low-Resource Languages in LLMs**|Huichi Zhou et.al.|[2504.19759](http://arxiv.org/pdf/2504.19759)|null|[Kimi](https://papers.cool/arxiv/2504.19759)|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
