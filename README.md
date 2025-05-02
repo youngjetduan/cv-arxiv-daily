@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/pdf/2504.21851)|null|[Kimi](https://papers.cool/arxiv/2504.21851)|
-| 2|**2025-04-30**|**DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**|Z. Z. Ren et.al.|[2504.21801](http://arxiv.org/pdf/2504.21801)|null|[Kimi](https://papers.cool/arxiv/2504.21801)|
-| 3|**2025-04-30**|**WebThinker: Empowering Large Reasoning Models with Deep Research Capability**|Xiaoxi Li et.al.|[2504.21776](http://arxiv.org/pdf/2504.21776)|null|[Kimi](https://papers.cool/arxiv/2504.21776)|
-| 4|**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/pdf/2504.21773)|null|[Kimi](https://papers.cool/arxiv/2504.21773)|
-| 5|**2025-04-30**|**AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization**|Haotian Luo et.al.|[2504.21659](http://arxiv.org/pdf/2504.21659)|null|[Kimi](https://papers.cool/arxiv/2504.21659)|
-| 6|**2025-04-30**|**Sadeed: Advancing Arabic Diacritization Through Small Language Model**|Zeina Aldallal et.al.|[2504.21635](http://arxiv.org/pdf/2504.21635)|null|[Kimi](https://papers.cool/arxiv/2504.21635)|
-| 7|**2025-04-30**|**Meeseeks: An Iterative Benchmark Evaluating LLMs Multi-Turn Instruction-Following Ability**|Jiaming Wang et.al.|[2504.21625](http://arxiv.org/pdf/2504.21625)|null|[Kimi](https://papers.cool/arxiv/2504.21625)|
-| 8|**2025-04-30**|**RDF-Based Structured Quality Assessment Representation of Multilingual LLM Evaluations**|Jonas Gwozdz et.al.|[2504.21605](http://arxiv.org/pdf/2504.21605)|null|[Kimi](https://papers.cool/arxiv/2504.21605)|
-| 9|**2025-04-30**|**DNB-AI-Project at SemEval-2025 Task 5: An LLM-Ensemble Approach for Automated Subject Indexing**|Lisa Kluge et.al.|[2504.21589](http://arxiv.org/pdf/2504.21589)|null|[Kimi](https://papers.cool/arxiv/2504.21589)|
-|10|**2025-04-30**|**Precision Where It Matters: A Novel Spike Aware Mixed-Precision Quantization Strategy for LLaMA-based Language Models**|Lucas Maisonnave et.al.|[2504.21553](http://arxiv.org/pdf/2504.21553)|null|[Kimi](https://papers.cool/arxiv/2504.21553)|
+| 1|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/pdf/2505.00703)|null|[Kimi](https://papers.cool/arxiv/2505.00703)|
+| 2|**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/pdf/2505.00675)|null|[Kimi](https://papers.cool/arxiv/2505.00675)|
+| 3|**2025-05-01**|**DeepCritic: Deliberate Critique with Large Language Models**|Wenkai Yang et.al.|[2505.00662](http://arxiv.org/pdf/2505.00662)|null|[Kimi](https://papers.cool/arxiv/2505.00662)|
+| 4|**2025-05-01**|**Large Language Models Understanding: an Inherent Ambiguity Barrier**|Daniel N. Nissani et.al.|[2505.00654](http://arxiv.org/pdf/2505.00654)|null|[Kimi](https://papers.cool/arxiv/2505.00654)|
+| 5|**2025-05-01**|**The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**|Zihao Wang et.al.|[2505.00626](http://arxiv.org/pdf/2505.00626)|null|[Kimi](https://papers.cool/arxiv/2505.00626)|
+| 6|**2025-05-01**|**FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation**|Chaitali Bhattacharyya et.al.|[2505.00624](http://arxiv.org/pdf/2505.00624)|null|[Kimi](https://papers.cool/arxiv/2505.00624)|
+| 7|**2025-05-01**|**Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction**|Simon Giebenhain et.al.|[2505.00615](http://arxiv.org/pdf/2505.00615)|null|[Kimi](https://papers.cool/arxiv/2505.00615)|
+| 8|**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/pdf/2505.00570)|null|[Kimi](https://papers.cool/arxiv/2505.00570)|
+| 9|**2025-05-01**|**Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**|Makoto Sato et.al.|[2505.00557](http://arxiv.org/pdf/2505.00557)|null|[Kimi](https://papers.cool/arxiv/2505.00557)|
+|10|**2025-05-01**|**100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models**|Chong Zhang et.al.|[2505.00551](http://arxiv.org/pdf/2505.00551)|null|[Kimi](https://papers.cool/arxiv/2505.00551)|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
