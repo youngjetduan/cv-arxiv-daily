@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-05**|**AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation**|Qingqiu Li et.al.|[2505.02830](http://arxiv.org/pdf/2505.02830)|null|[Kimi](https://papers.cool/arxiv/2505.02830)|
-| 2|**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820](http://arxiv.org/pdf/2505.02820)|null|[Kimi](https://papers.cool/arxiv/2505.02820)|
-| 3|**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/pdf/2505.02795)|null|[Kimi](https://papers.cool/arxiv/2505.02795)|
-| 4|**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/pdf/2505.02763)|null|[Kimi](https://papers.cool/arxiv/2505.02763)|
-| 5|**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735](http://arxiv.org/pdf/2505.02735)|null|[Kimi](https://papers.cool/arxiv/2505.02735)|
-| 6|**2025-05-05**|**Enhancing LLMs' Clinical Reasoning with Real-World Data from a Nationwide Sepsis Registry**|Junu Kim et.al.|[2505.02722](http://arxiv.org/pdf/2505.02722)|null|[Kimi](https://papers.cool/arxiv/2505.02722)|
-| 7|**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/pdf/2505.02707)|null|[Kimi](https://papers.cool/arxiv/2505.02707)|
-| 8|**2025-05-05**|**Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models**|Xiaobao Wu et.al.|[2505.02686](http://arxiv.org/pdf/2505.02686)|null|[Kimi](https://papers.cool/arxiv/2505.02686)|
-| 9|**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/pdf/2505.02665)|null|[Kimi](https://papers.cool/arxiv/2505.02665)|
-|10|**2025-05-05**|**Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning**|Xuan Lin et.al.|[2505.02639](http://arxiv.org/pdf/2505.02639)|null|[Kimi](https://papers.cool/arxiv/2505.02639)|
+| 1|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/pdf/2505.03739)|null|[Kimi](https://papers.cool/arxiv/2505.03739)|
+| 2|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/pdf/2505.03733)|null|[Kimi](https://papers.cool/arxiv/2505.03733)|
+| 3|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667](http://arxiv.org/pdf/2505.03667)|null|[Kimi](https://papers.cool/arxiv/2505.03667)|
+| 4|**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/pdf/2505.03553)|null|[Kimi](https://papers.cool/arxiv/2505.03553)|
+| 5|**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/pdf/2505.03531)|null|[Kimi](https://papers.cool/arxiv/2505.03531)|
+| 6|**2025-05-06**|**Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models**|Bin Yu et.al.|[2505.03469](http://arxiv.org/pdf/2505.03469)|null|[Kimi](https://papers.cool/arxiv/2505.03469)|
+| 7|**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439](http://arxiv.org/pdf/2505.03439)|null|[Kimi](https://papers.cool/arxiv/2505.03439)|
+| 8|**2025-05-06**|**Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents**|Schaun Wheeler et.al.|[2505.03434](http://arxiv.org/pdf/2505.03434)|null|[Kimi](https://papers.cool/arxiv/2505.03434)|
+| 9|**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427](http://arxiv.org/pdf/2505.03427)|null|[Kimi](https://papers.cool/arxiv/2505.03427)|
+|10|**2025-05-06**|**Lightweight Clinical Decision Support System using QLoRA-Fine-Tuned LLMs and Retrieval-Augmented Generation**|Mohammad Shoaib Ansari et.al.|[2505.03406](http://arxiv.org/pdf/2505.03406)|null|[Kimi](https://papers.cool/arxiv/2505.03406)|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
