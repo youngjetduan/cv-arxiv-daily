@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/pdf/2505.03739)|null|[Kimi](https://papers.cool/arxiv/2505.03739)|
-| 2|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/pdf/2505.03733)|null|[Kimi](https://papers.cool/arxiv/2505.03733)|
-| 3|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667](http://arxiv.org/pdf/2505.03667)|null|[Kimi](https://papers.cool/arxiv/2505.03667)|
-| 4|**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/pdf/2505.03553)|null|[Kimi](https://papers.cool/arxiv/2505.03553)|
-| 5|**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/pdf/2505.03531)|null|[Kimi](https://papers.cool/arxiv/2505.03531)|
-| 6|**2025-05-06**|**Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models**|Bin Yu et.al.|[2505.03469](http://arxiv.org/pdf/2505.03469)|null|[Kimi](https://papers.cool/arxiv/2505.03469)|
-| 7|**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439](http://arxiv.org/pdf/2505.03439)|null|[Kimi](https://papers.cool/arxiv/2505.03439)|
-| 8|**2025-05-06**|**Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents**|Schaun Wheeler et.al.|[2505.03434](http://arxiv.org/pdf/2505.03434)|null|[Kimi](https://papers.cool/arxiv/2505.03434)|
-| 9|**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427](http://arxiv.org/pdf/2505.03427)|null|[Kimi](https://papers.cool/arxiv/2505.03427)|
-|10|**2025-05-06**|**Lightweight Clinical Decision Support System using QLoRA-Fine-Tuned LLMs and Retrieval-Augmented Generation**|Mohammad Shoaib Ansari et.al.|[2505.03406](http://arxiv.org/pdf/2505.03406)|null|[Kimi](https://papers.cool/arxiv/2505.03406)|
+| 1|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/pdf/2505.04623)|null|[Kimi](https://papers.cool/arxiv/2505.04623)|
+| 2|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/pdf/2505.04588)|null|[Kimi](https://papers.cool/arxiv/2505.04588)|
+| 3|**2025-05-07**|**Overcoming Data Scarcity in Generative Language Modelling for Low-Resource Languages: A Systematic Review**|Josh McGiff et.al.|[2505.04531](http://arxiv.org/pdf/2505.04531)|null|[Kimi](https://papers.cool/arxiv/2505.04531)|
+| 4|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/pdf/2505.04519)|null|[Kimi](https://papers.cool/arxiv/2505.04519)|
+| 5|**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/pdf/2505.04481)|null|[Kimi](https://papers.cool/arxiv/2505.04481)|
+| 6|**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/pdf/2505.04416)|null|[Kimi](https://papers.cool/arxiv/2505.04416)|
+| 7|**2025-05-07**|**YABLoCo: Yet Another Benchmark for Long Context Code Generation**|Aidar Valeev et.al.|[2505.04406](http://arxiv.org/pdf/2505.04406)|null|[Kimi](https://papers.cool/arxiv/2505.04406)|
+| 8|**2025-05-07**|**The Aloe Family Recipe for Open and Specialized Healthcare LLMs**|Dario Garcia-Gasulla et.al.|[2505.04388](http://arxiv.org/pdf/2505.04388)|null|[Kimi](https://papers.cool/arxiv/2505.04388)|
+| 9|**2025-05-07**|**Benchmarking LLMs' Swarm intelligence**|Kai Ruan et.al.|[2505.04364](http://arxiv.org/pdf/2505.04364)|**[link](https://github.com/x66ccff/swarmbench)**|[Kimi](https://papers.cool/arxiv/2505.04364)|
+|10|**2025-05-07**|**GASCADE: Grouped Summarization of Adverse Drug Event for Enhanced Cancer Pharmacovigilance**|Sofia Jamil et.al.|[2505.04284](http://arxiv.org/pdf/2505.04284)|null|[Kimi](https://papers.cool/arxiv/2505.04284)|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
