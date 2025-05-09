@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/pdf/2505.04623)|null|[Kimi](https://papers.cool/arxiv/2505.04623)|
-| 2|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/pdf/2505.04588)|null|[Kimi](https://papers.cool/arxiv/2505.04588)|
-| 3|**2025-05-07**|**Overcoming Data Scarcity in Generative Language Modelling for Low-Resource Languages: A Systematic Review**|Josh McGiff et.al.|[2505.04531](http://arxiv.org/pdf/2505.04531)|null|[Kimi](https://papers.cool/arxiv/2505.04531)|
-| 4|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/pdf/2505.04519)|null|[Kimi](https://papers.cool/arxiv/2505.04519)|
-| 5|**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/pdf/2505.04481)|null|[Kimi](https://papers.cool/arxiv/2505.04481)|
-| 6|**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/pdf/2505.04416)|null|[Kimi](https://papers.cool/arxiv/2505.04416)|
-| 7|**2025-05-07**|**YABLoCo: Yet Another Benchmark for Long Context Code Generation**|Aidar Valeev et.al.|[2505.04406](http://arxiv.org/pdf/2505.04406)|null|[Kimi](https://papers.cool/arxiv/2505.04406)|
-| 8|**2025-05-07**|**The Aloe Family Recipe for Open and Specialized Healthcare LLMs**|Dario Garcia-Gasulla et.al.|[2505.04388](http://arxiv.org/pdf/2505.04388)|null|[Kimi](https://papers.cool/arxiv/2505.04388)|
-| 9|**2025-05-07**|**Benchmarking LLMs' Swarm intelligence**|Kai Ruan et.al.|[2505.04364](http://arxiv.org/pdf/2505.04364)|**[link](https://github.com/x66ccff/swarmbench)**|[Kimi](https://papers.cool/arxiv/2505.04364)|
-|10|**2025-05-07**|**GASCADE: Grouped Summarization of Adverse Drug Event for Enhanced Cancer Pharmacovigilance**|Sofia Jamil et.al.|[2505.04284](http://arxiv.org/pdf/2505.04284)|null|[Kimi](https://papers.cool/arxiv/2505.04284)|
+| 1|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/pdf/2505.05467)|null|[Kimi](https://papers.cool/arxiv/2505.05467)|
+| 2|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/pdf/2505.05465)|null|[Kimi](https://papers.cool/arxiv/2505.05465)|
+| 3|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/pdf/2505.05440)|null|[Kimi](https://papers.cool/arxiv/2505.05440)|
+| 4|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/pdf/2505.05423)|null|[Kimi](https://papers.cool/arxiv/2505.05423)|
+| 5|**2025-05-08**|**TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation**|Haokun Lin et.al.|[2505.05422](http://arxiv.org/pdf/2505.05422)|null|[Kimi](https://papers.cool/arxiv/2505.05422)|
+| 6|**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410](http://arxiv.org/pdf/2505.05410)|null|[Kimi](https://papers.cool/arxiv/2505.05410)|
+| 7|**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408](http://arxiv.org/pdf/2505.05408)|null|[Kimi](https://papers.cool/arxiv/2505.05408)|
+| 8|**2025-05-08**|**Scalable Chain of Thoughts via Elastic Reasoning**|Yuhui Xu et.al.|[2505.05315](http://arxiv.org/pdf/2505.05315)|null|[Kimi](https://papers.cool/arxiv/2505.05315)|
+| 9|**2025-05-08**|**T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction**|Kun Peng et.al.|[2505.05271](http://arxiv.org/pdf/2505.05271)|null|[Kimi](https://papers.cool/arxiv/2505.05271)|
+|10|**2025-05-08**|**Revealing Weaknesses in Text Watermarking Through Self-Information Rewrite Attacks**|Yixin Cheng et.al.|[2505.05190](http://arxiv.org/pdf/2505.05190)|null|[Kimi](https://papers.cool/arxiv/2505.05190)|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
