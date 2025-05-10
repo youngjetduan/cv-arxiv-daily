@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.09
+## Updated on 2025.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/pdf/2505.05467)|null|[Kimi](https://papers.cool/arxiv/2505.05467)|
-| 2|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/pdf/2505.05465)|null|[Kimi](https://papers.cool/arxiv/2505.05465)|
-| 3|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/pdf/2505.05440)|null|[Kimi](https://papers.cool/arxiv/2505.05440)|
-| 4|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/pdf/2505.05423)|null|[Kimi](https://papers.cool/arxiv/2505.05423)|
-| 5|**2025-05-08**|**TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation**|Haokun Lin et.al.|[2505.05422](http://arxiv.org/pdf/2505.05422)|null|[Kimi](https://papers.cool/arxiv/2505.05422)|
-| 6|**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410](http://arxiv.org/pdf/2505.05410)|null|[Kimi](https://papers.cool/arxiv/2505.05410)|
-| 7|**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408](http://arxiv.org/pdf/2505.05408)|null|[Kimi](https://papers.cool/arxiv/2505.05408)|
-| 8|**2025-05-08**|**Scalable Chain of Thoughts via Elastic Reasoning**|Yuhui Xu et.al.|[2505.05315](http://arxiv.org/pdf/2505.05315)|null|[Kimi](https://papers.cool/arxiv/2505.05315)|
-| 9|**2025-05-08**|**T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction**|Kun Peng et.al.|[2505.05271](http://arxiv.org/pdf/2505.05271)|null|[Kimi](https://papers.cool/arxiv/2505.05271)|
-|10|**2025-05-08**|**Revealing Weaknesses in Text Watermarking Through Self-Information Rewrite Attacks**|Yixin Cheng et.al.|[2505.05190](http://arxiv.org/pdf/2505.05190)|null|[Kimi](https://papers.cool/arxiv/2505.05190)|
+| 1|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/pdf/2505.05473)|null|[Kimi](https://papers.cool/arxiv/2505.05473)|
+| 2|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470](http://arxiv.org/pdf/2505.05470)|**[link](https://github.com/yifan123/flow_grpo)**|[Kimi](https://papers.cool/arxiv/2505.05470)|
+| 3|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/pdf/2505.05469)|null|[Kimi](https://papers.cool/arxiv/2505.05469)|
+| 4|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/pdf/2505.05467)|null|[Kimi](https://papers.cool/arxiv/2505.05467)|
+| 5|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/pdf/2505.05465)|null|[Kimi](https://papers.cool/arxiv/2505.05465)|
+| 6|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/pdf/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|[Kimi](https://papers.cool/arxiv/2505.05464)|
+| 7|**2025-05-08**|**UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections**|Fatima Haouari et.al.|[2505.05459](http://arxiv.org/pdf/2505.05459)|null|[Kimi](https://papers.cool/arxiv/2505.05459)|
+| 8|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456](http://arxiv.org/pdf/2505.05456)|null|[Kimi](https://papers.cool/arxiv/2505.05456)|
+| 9|**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453](http://arxiv.org/pdf/2505.05453)|null|[Kimi](https://papers.cool/arxiv/2505.05453)|
+|10|**2025-05-08**|**Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding**|Han Xiao et.al.|[2505.05446](http://arxiv.org/pdf/2505.05446)|null|[Kimi](https://papers.cool/arxiv/2505.05446)|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
