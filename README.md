@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.10
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -21,7 +21,7 @@
 |---|---|---|---|---|---|---|
 | 1|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/pdf/2505.05473)|null|[Kimi](https://papers.cool/arxiv/2505.05473)|
 | 2|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470](http://arxiv.org/pdf/2505.05470)|**[link](https://github.com/yifan123/flow_grpo)**|[Kimi](https://papers.cool/arxiv/2505.05470)|
-| 3|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/pdf/2505.05469)|null|[Kimi](https://papers.cool/arxiv/2505.05469)|
+| 3|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/pdf/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|[Kimi](https://papers.cool/arxiv/2505.05469)|
 | 4|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/pdf/2505.05467)|null|[Kimi](https://papers.cool/arxiv/2505.05467)|
 | 5|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/pdf/2505.05465)|null|[Kimi](https://papers.cool/arxiv/2505.05465)|
 | 6|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/pdf/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|[Kimi](https://papers.cool/arxiv/2505.05464)|
@@ -30,7 +30,7 @@
 | 9|**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453](http://arxiv.org/pdf/2505.05453)|null|[Kimi](https://papers.cool/arxiv/2505.05453)|
 |10|**2025-05-08**|**Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding**|Han Xiao et.al.|[2505.05446](http://arxiv.org/pdf/2505.05446)|null|[Kimi](https://papers.cool/arxiv/2505.05446)|
 
-<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors

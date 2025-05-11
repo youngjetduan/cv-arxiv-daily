@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.10
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,7 +19,7 @@ layout: default
 |:---|:-------------|:------|:--------|:----|:-----|:-----|
 | 1|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/pdf/2505.05473)|null|[Kimi](https://papers.cool/arxiv/2505.05473)|
 | 2|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470](http://arxiv.org/pdf/2505.05470)|**[link](https://github.com/yifan123/flow_grpo)**|[Kimi](https://papers.cool/arxiv/2505.05470)|
-| 3|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/pdf/2505.05469)|null|[Kimi](https://papers.cool/arxiv/2505.05469)|
+| 3|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/pdf/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|[Kimi](https://papers.cool/arxiv/2505.05469)|
 | 4|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/pdf/2505.05467)|null|[Kimi](https://papers.cool/arxiv/2505.05467)|
 | 5|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/pdf/2505.05465)|null|[Kimi](https://papers.cool/arxiv/2505.05465)|
 | 6|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/pdf/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|[Kimi](https://papers.cool/arxiv/2505.05464)|
@@ -91,15 +91,15 @@ layout: default
 |72|**2025-05-06**|**MARCO: A Multi-Agent System for Optimizing HPC Code Generation Using Large Language Models**|Asif Rahman et.al.|[2505.03906](http://arxiv.org/pdf/2505.03906)|null|[Kimi](https://papers.cool/arxiv/2505.03906)|
 |73|**2025-05-06**|**Novel Extraction of Discriminative Fine-Grained Feature to Improve Retinal Vessel Segmentation**|Shuang Zeng et.al.|[2505.03896](http://arxiv.org/pdf/2505.03896)|**[link](https://github.com/stevezs315/attukan)**|[Kimi](https://papers.cool/arxiv/2505.03896)|
 |74|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/pdf/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|[Kimi](https://papers.cool/arxiv/2505.03739)|
-|75|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/pdf/2505.03733)|null|[Kimi](https://papers.cool/arxiv/2505.03733)|
+|75|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/pdf/2505.03733)|**[link](https://github.com/mnluzimu/webgen-bench)**|[Kimi](https://papers.cool/arxiv/2505.03733)|
 |76|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667](http://arxiv.org/pdf/2505.03667)|null|[Kimi](https://papers.cool/arxiv/2505.03667)|
 |77|**2025-05-06**|**ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant**|Yifan Xiang et.al.|[2505.03654](http://arxiv.org/pdf/2505.03654)|null|[Kimi](https://papers.cool/arxiv/2505.03654)|
 |78|**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/pdf/2505.03553)|null|[Kimi](https://papers.cool/arxiv/2505.03553)|
 |79|**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/pdf/2505.03531)|null|[Kimi](https://papers.cool/arxiv/2505.03531)|
-|80|**2025-05-06**|**Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models**|Bin Yu et.al.|[2505.03469](http://arxiv.org/pdf/2505.03469)|null|[Kimi](https://papers.cool/arxiv/2505.03469)|
+|80|**2025-05-06**|**Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models**|Bin Yu et.al.|[2505.03469](http://arxiv.org/pdf/2505.03469)|**[link](https://github.com/zgca-ai4edu/ls-mixture)**|[Kimi](https://papers.cool/arxiv/2505.03469)|
 |81|**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439](http://arxiv.org/pdf/2505.03439)|null|[Kimi](https://papers.cool/arxiv/2505.03439)|
 |82|**2025-05-06**|**Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents**|Schaun Wheeler et.al.|[2505.03434](http://arxiv.org/pdf/2505.03434)|null|[Kimi](https://papers.cool/arxiv/2505.03434)|
-|83|**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427](http://arxiv.org/pdf/2505.03427)|null|[Kimi](https://papers.cool/arxiv/2505.03427)|
+|83|**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427](http://arxiv.org/pdf/2505.03427)|**[link](https://github.com/nyuad-cai/medarabiq)**|[Kimi](https://papers.cool/arxiv/2505.03427)|
 |84|**2025-05-06**|**Lightweight Clinical Decision Support System using QLoRA-Fine-Tuned LLMs and Retrieval-Augmented Generation**|Mohammad Shoaib Ansari et.al.|[2505.03406](http://arxiv.org/pdf/2505.03406)|null|[Kimi](https://papers.cool/arxiv/2505.03406)|
 |85|**2025-05-06**|**Absolute Zero: Reinforced Self-play Reasoning with Zero Data**|Andrew Zhao et.al.|[2505.03335](http://arxiv.org/pdf/2505.03335)|**[link](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)**|[Kimi](https://papers.cool/arxiv/2505.03335)|
 |86|**2025-05-06**|**AI-Driven Scholarly Peer Review via Persistent Workflow Prompting, Meta-Prompting, and Meta-Reasoning**|Evgeny Markhasin et.al.|[2505.03332](http://arxiv.org/pdf/2505.03332)|null|[Kimi](https://papers.cool/arxiv/2505.03332)|
@@ -110,12 +110,12 @@ layout: default
 |91|**2025-05-05**|**Developing A Framework to Support Human Evaluation of Bias in Generated Free Response Text**|Jennifer Healey et.al.|[2505.03053](http://arxiv.org/pdf/2505.03053)|null|[Kimi](https://papers.cool/arxiv/2505.03053)|
 |92|**2025-05-05**|**A Typology of Synthetic Datasets for Dialogue Processing in Clinical Contexts**|Steven Bedrick et.al.|[2505.03025](http://arxiv.org/pdf/2505.03025)|null|[Kimi](https://papers.cool/arxiv/2505.03025)|
 |93|**2025-05-05**|**Memorization or Interpolation ? Detecting LLM Memorization through Input Perturbation Analysis**|Albérick Euraste Djiré et.al.|[2505.03019](http://arxiv.org/pdf/2505.03019)|null|[Kimi](https://papers.cool/arxiv/2505.03019)|
-|94|**2025-05-05**|**RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale**|Daniel Goldstein et.al.|[2505.03005](http://arxiv.org/pdf/2505.03005)|null|[Kimi](https://papers.cool/arxiv/2505.03005)|
+|94|**2025-05-05**|**RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale**|Daniel Goldstein et.al.|[2505.03005](http://arxiv.org/pdf/2505.03005)|**[link](https://github.com/recursal/radlads-paper)**|[Kimi](https://papers.cool/arxiv/2505.03005)|
 |95|**2025-05-05**|**Generating Narrated Lecture Videos from Slides with Synchronized Highlights**|Alexander Holmberg et.al.|[2505.02966](http://arxiv.org/pdf/2505.02966)|null|[Kimi](https://papers.cool/arxiv/2505.02966)|
-|96|**2025-05-05**|**When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger**|Rintaro Ando et.al.|[2505.02888](http://arxiv.org/pdf/2505.02888)|null|[Kimi](https://papers.cool/arxiv/2505.02888)|
+|96|**2025-05-05**|**When Your Own Output Becomes Your Training Data: Noise-to-Meaning Loops and a Formal RSI Trigger**|Rintaro Ando et.al.|[2505.02888](http://arxiv.org/pdf/2505.02888)|**[link](https://github.com/rintaro-ando-tech/n2m-rsi-demo)**|[Kimi](https://papers.cool/arxiv/2505.02888)|
 |97|**2025-05-05**|**AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation**|Qingqiu Li et.al.|[2505.02830](http://arxiv.org/pdf/2505.02830)|null|[Kimi](https://papers.cool/arxiv/2505.02830)|
-|98|**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820](http://arxiv.org/pdf/2505.02820)|null|[Kimi](https://papers.cool/arxiv/2505.02820)|
-|99|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/pdf/2505.02811)|null|[Kimi](https://papers.cool/arxiv/2505.02811)|
+|98|**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820](http://arxiv.org/pdf/2505.02820)|**[link](https://github.com/open-social-world/autolibra)**|[Kimi](https://papers.cool/arxiv/2505.02820)|
+|99|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/pdf/2505.02811)|**[link](https://github.com/ucscirkm/sim-rag)**|[Kimi](https://papers.cool/arxiv/2505.02811)|
 |100|**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/pdf/2505.02795)|null|[Kimi](https://papers.cool/arxiv/2505.02795)|
 
 ## Early Stopping
