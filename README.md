@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/pdf/2505.05473)|null|[Kimi](https://papers.cool/arxiv/2505.05473)|
-| 2|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470](http://arxiv.org/pdf/2505.05470)|**[link](https://github.com/yifan123/flow_grpo)**|[Kimi](https://papers.cool/arxiv/2505.05470)|
-| 3|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/pdf/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|[Kimi](https://papers.cool/arxiv/2505.05469)|
-| 4|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/pdf/2505.05467)|null|[Kimi](https://papers.cool/arxiv/2505.05467)|
-| 5|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/pdf/2505.05465)|null|[Kimi](https://papers.cool/arxiv/2505.05465)|
-| 6|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/pdf/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|[Kimi](https://papers.cool/arxiv/2505.05464)|
-| 7|**2025-05-08**|**UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections**|Fatima Haouari et.al.|[2505.05459](http://arxiv.org/pdf/2505.05459)|null|[Kimi](https://papers.cool/arxiv/2505.05459)|
-| 8|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456](http://arxiv.org/pdf/2505.05456)|null|[Kimi](https://papers.cool/arxiv/2505.05456)|
-| 9|**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453](http://arxiv.org/pdf/2505.05453)|null|[Kimi](https://papers.cool/arxiv/2505.05453)|
-|10|**2025-05-08**|**Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding**|Han Xiao et.al.|[2505.05446](http://arxiv.org/pdf/2505.05446)|null|[Kimi](https://papers.cool/arxiv/2505.05446)|
+| 1|**2025-05-12**|**Learning from Peers in Reasoning Models**|Tongxu Luo et.al.|[2505.07787](http://arxiv.org/pdf/2505.07787)|null|[Kimi](https://papers.cool/arxiv/2505.07787)|
+| 2|**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/pdf/2505.07686)|null|[Kimi](https://papers.cool/arxiv/2505.07686)|
+| 3|**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/pdf/2505.07680)|null|[Kimi](https://papers.cool/arxiv/2505.07680)|
+| 4|**2025-05-12**|**OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**|Arun S. Maiya et.al.|[2505.07672](http://arxiv.org/pdf/2505.07672)|null|[Kimi](https://papers.cool/arxiv/2505.07672)|
+| 5|**2025-05-12**|**Benchmarking Retrieval-Augmented Generation for Chemistry**|Xianrui Zhong et.al.|[2505.07671](http://arxiv.org/pdf/2505.07671)|null|[Kimi](https://papers.cool/arxiv/2505.07671)|
+| 6|**2025-05-12**|**Concept-Level Explainability for Auditing & Steering LLM Responses**|Kenza Amara et.al.|[2505.07610](http://arxiv.org/pdf/2505.07610)|null|[Kimi](https://papers.cool/arxiv/2505.07610)|
+| 7|**2025-05-12**|**MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining**|Xiaomi LLM-Core Team et.al.|[2505.07608](http://arxiv.org/pdf/2505.07608)|**[link](https://github.com/xiaomimimo/mimo)**|[Kimi](https://papers.cool/arxiv/2505.07608)|
+| 8|**2025-05-12**|**Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent**|Ziyang Huang et.al.|[2505.07596](http://arxiv.org/pdf/2505.07596)|null|[Kimi](https://papers.cool/arxiv/2505.07596)|
+| 9|**2025-05-12**|**A Multi-Dimensional Constraint Framework for Evaluating and Improving Instruction Following in Large Language Models**|Junjie Ye et.al.|[2505.07591](http://arxiv.org/pdf/2505.07591)|null|[Kimi](https://papers.cool/arxiv/2505.07591)|
+|10|**2025-05-12**|**ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution**|Xu Huang et.al.|[2505.07512](http://arxiv.org/pdf/2505.07512)|null|[Kimi](https://papers.cool/arxiv/2505.07512)|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
