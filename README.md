@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-12**|**Learning from Peers in Reasoning Models**|Tongxu Luo et.al.|[2505.07787](http://arxiv.org/pdf/2505.07787)|null|[Kimi](https://papers.cool/arxiv/2505.07787)|
-| 2|**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/pdf/2505.07686)|null|[Kimi](https://papers.cool/arxiv/2505.07686)|
-| 3|**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/pdf/2505.07680)|null|[Kimi](https://papers.cool/arxiv/2505.07680)|
-| 4|**2025-05-12**|**OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**|Arun S. Maiya et.al.|[2505.07672](http://arxiv.org/pdf/2505.07672)|null|[Kimi](https://papers.cool/arxiv/2505.07672)|
-| 5|**2025-05-12**|**Benchmarking Retrieval-Augmented Generation for Chemistry**|Xianrui Zhong et.al.|[2505.07671](http://arxiv.org/pdf/2505.07671)|null|[Kimi](https://papers.cool/arxiv/2505.07671)|
-| 6|**2025-05-12**|**Concept-Level Explainability for Auditing & Steering LLM Responses**|Kenza Amara et.al.|[2505.07610](http://arxiv.org/pdf/2505.07610)|null|[Kimi](https://papers.cool/arxiv/2505.07610)|
-| 7|**2025-05-12**|**MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining**|Xiaomi LLM-Core Team et.al.|[2505.07608](http://arxiv.org/pdf/2505.07608)|**[link](https://github.com/xiaomimimo/mimo)**|[Kimi](https://papers.cool/arxiv/2505.07608)|
-| 8|**2025-05-12**|**Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent**|Ziyang Huang et.al.|[2505.07596](http://arxiv.org/pdf/2505.07596)|null|[Kimi](https://papers.cool/arxiv/2505.07596)|
-| 9|**2025-05-12**|**A Multi-Dimensional Constraint Framework for Evaluating and Improving Instruction Following in Large Language Models**|Junjie Ye et.al.|[2505.07591](http://arxiv.org/pdf/2505.07591)|null|[Kimi](https://papers.cool/arxiv/2505.07591)|
-|10|**2025-05-12**|**ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution**|Xu Huang et.al.|[2505.07512](http://arxiv.org/pdf/2505.07512)|null|[Kimi](https://papers.cool/arxiv/2505.07512)|
+| 1|**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783](http://arxiv.org/pdf/2505.08783)|null|[Kimi](https://papers.cool/arxiv/2505.08783)|
+| 2|**2025-05-13**|**Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies**|Xiaoliang Luo et.al.|[2505.08739](http://arxiv.org/pdf/2505.08739)|null|[Kimi](https://papers.cool/arxiv/2505.08739)|
+| 3|**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719](http://arxiv.org/pdf/2505.08719)|null|[Kimi](https://papers.cool/arxiv/2505.08719)|
+| 4|**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704](http://arxiv.org/pdf/2505.08704)|null|[Kimi](https://papers.cool/arxiv/2505.08704)|
+| 5|**2025-05-13**|**TRAIL: Trace Reasoning and Agentic Issue Localization**|Darshan Deshpande et.al.|[2505.08638](http://arxiv.org/pdf/2505.08638)|null|[Kimi](https://papers.cool/arxiv/2505.08638)|
+| 6|**2025-05-13**|**Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**|Donghoon Kim et.al.|[2505.08622](http://arxiv.org/pdf/2505.08622)|null|[Kimi](https://papers.cool/arxiv/2505.08622)|
+| 7|**2025-05-13**|**Automatic Task Detection and Heterogeneous LLM Speculative Decoding**|Danying Ge et.al.|[2505.08600](http://arxiv.org/pdf/2505.08600)|null|[Kimi](https://papers.cool/arxiv/2505.08600)|
+| 8|**2025-05-13**|**Small but Significant: On the Promise of Small Language Models for Accessible AIED**|Yumou Wei et.al.|[2505.08588](http://arxiv.org/pdf/2505.08588)|null|[Kimi](https://papers.cool/arxiv/2505.08588)|
+| 9|**2025-05-13**|**The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News**|Yuhan Liu et.al.|[2505.08532](http://arxiv.org/pdf/2505.08532)|null|[Kimi](https://papers.cool/arxiv/2505.08532)|
+|10|**2025-05-13**|**LCES: Zero-shot Automated Essay Scoring via Pairwise Comparisons Using Large Language Models**|Takumi Shibata et.al.|[2505.08498](http://arxiv.org/pdf/2505.08498)|null|[Kimi](https://papers.cool/arxiv/2505.08498)|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
