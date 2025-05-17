@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.16
+## Updated on 2025.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/pdf/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|[Kimi](https://papers.cool/arxiv/2505.10557)|
-| 2|**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543](http://arxiv.org/pdf/2505.10543)|null|[Kimi](https://papers.cool/arxiv/2505.10543)|
-| 3|**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/pdf/2505.10526)|null|[Kimi](https://papers.cool/arxiv/2505.10526)|
-| 4|**2025-05-15**|**Multi-Token Prediction Needs Registers**|Anastasios Gerontopoulos et.al.|[2505.10518](http://arxiv.org/pdf/2505.10518)|**[link](https://github.com/nasosger/mutor)**|[Kimi](https://papers.cool/arxiv/2505.10518)|
-| 5|**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/pdf/2505.10468)|null|[Kimi](https://papers.cool/arxiv/2505.10468)|
-| 6|**2025-05-15**|**Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?**|Pedro Orvalho et.al.|[2505.10443](http://arxiv.org/pdf/2505.10443)|null|[Kimi](https://papers.cool/arxiv/2505.10443)|
-| 7|**2025-05-15**|**Rethinking Repetition Problems of LLMs in Code Generation**|Yihong Dong et.al.|[2505.10402](http://arxiv.org/pdf/2505.10402)|**[link](https://github.com/lyc127/rpg)**|[Kimi](https://papers.cool/arxiv/2505.10402)|
-| 8|**2025-05-15**|**J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning**|Chenxi Whitehouse et.al.|[2505.10320](http://arxiv.org/pdf/2505.10320)|null|[Kimi](https://papers.cool/arxiv/2505.10320)|
-| 9|**2025-05-15**|**StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation**|Daniel A. P. Oliveira et.al.|[2505.10292](http://arxiv.org/pdf/2505.10292)|**[link](https://github.com/daniel3303/storyreasoning)**|[Kimi](https://papers.cool/arxiv/2505.10292)|
-|10|**2025-05-15**|**The Evolving Landscape of Generative Large Language Models and Traditional Natural Language Processing in Medicine**|Rui Yang et.al.|[2505.10261](http://arxiv.org/pdf/2505.10261)|null|[Kimi](https://papers.cool/arxiv/2505.10261)|
+| 1|**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566](http://arxiv.org/pdf/2505.10566)|null|[Kimi](https://papers.cool/arxiv/2505.10566)|
+| 2|**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/pdf/2505.10562)|null|[Kimi](https://papers.cool/arxiv/2505.10562)|
+| 3|**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559](http://arxiv.org/pdf/2505.10559)|null|[Kimi](https://papers.cool/arxiv/2505.10559)|
+| 4|**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/pdf/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|[Kimi](https://papers.cool/arxiv/2505.10557)|
+| 5|**2025-05-15**|**Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models**|Zhiyuan Hu et.al.|[2505.10554](http://arxiv.org/pdf/2505.10554)|null|[Kimi](https://papers.cool/arxiv/2505.10554)|
+| 6|**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/pdf/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|[Kimi](https://papers.cool/arxiv/2505.10551)|
+| 7|**2025-05-15**|**Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning**|Milan Ganai et.al.|[2505.10547](http://arxiv.org/pdf/2505.10547)|null|[Kimi](https://papers.cool/arxiv/2505.10547)|
+| 8|**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543](http://arxiv.org/pdf/2505.10543)|null|[Kimi](https://papers.cool/arxiv/2505.10543)|
+| 9|**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541](http://arxiv.org/pdf/2505.10541)|**[link](https://github.com/welldonepf/stme)**|[Kimi](https://papers.cool/arxiv/2505.10541)|
+|10|**2025-05-15**|**Enhancing Multi-Image Question Answering via Submodular Subset Selection**|Aaryan Sharma et.al.|[2505.10533](http://arxiv.org/pdf/2505.10533)|null|[Kimi](https://papers.cool/arxiv/2505.10533)|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
