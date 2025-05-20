@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566](http://arxiv.org/pdf/2505.10566)|null|[Kimi](https://papers.cool/arxiv/2505.10566)|
-| 2|**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/pdf/2505.10562)|null|[Kimi](https://papers.cool/arxiv/2505.10562)|
-| 3|**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559](http://arxiv.org/pdf/2505.10559)|null|[Kimi](https://papers.cool/arxiv/2505.10559)|
-| 4|**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/pdf/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|[Kimi](https://papers.cool/arxiv/2505.10557)|
-| 5|**2025-05-15**|**Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models**|Zhiyuan Hu et.al.|[2505.10554](http://arxiv.org/pdf/2505.10554)|**[link](https://github.com/zhiyuanhubj/meta-ability-alignment)**|[Kimi](https://papers.cool/arxiv/2505.10554)|
-| 6|**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/pdf/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|[Kimi](https://papers.cool/arxiv/2505.10551)|
-| 7|**2025-05-15**|**Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning**|Milan Ganai et.al.|[2505.10547](http://arxiv.org/pdf/2505.10547)|null|[Kimi](https://papers.cool/arxiv/2505.10547)|
-| 8|**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543](http://arxiv.org/pdf/2505.10543)|**[link](https://github.com/ann-w/towards-a-deeper-understanding-of-reasoning-capabilities-in-large-language-models)**|[Kimi](https://papers.cool/arxiv/2505.10543)|
-| 9|**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541](http://arxiv.org/pdf/2505.10541)|**[link](https://github.com/welldonepf/stme)**|[Kimi](https://papers.cool/arxiv/2505.10541)|
-|10|**2025-05-15**|**Enhancing Multi-Image Question Answering via Submodular Subset Selection**|Aaryan Sharma et.al.|[2505.10533](http://arxiv.org/pdf/2505.10533)|null|[Kimi](https://papers.cool/arxiv/2505.10533)|
+| 1|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/pdf/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|[Kimi](https://papers.cool/arxiv/2505.13438)|
+| 2|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408](http://arxiv.org/pdf/2505.13408)|null|[Kimi](https://papers.cool/arxiv/2505.13408)|
+| 3|**2025-05-19**|**Occult: Optimizing Collaborative Communication across Experts for Accelerated Parallel MoE Training and Inference**|Shuqing Luo et.al.|[2505.13345](http://arxiv.org/pdf/2505.13345)|**[link](https://github.com/unites-lab/occult)**|[Kimi](https://papers.cool/arxiv/2505.13345)|
+| 4|**2025-05-19**|**Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**|Hengli Li et.al.|[2505.13308](http://arxiv.org/pdf/2505.13308)|null|[Kimi](https://papers.cool/arxiv/2505.13308)|
+| 5|**2025-05-19**|**RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[2505.13307](http://arxiv.org/pdf/2505.13307)|**[link](https://github.com/lightchen233/reasoning-boundary)**|[Kimi](https://papers.cool/arxiv/2505.13307)|
+| 6|**2025-05-19**|**Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability**|Jingyi Ren et.al.|[2505.13258](http://arxiv.org/pdf/2505.13258)|null|[Kimi](https://papers.cool/arxiv/2505.13258)|
+| 7|**2025-05-19**|**HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding**|Siran Liu et.al.|[2505.13254](http://arxiv.org/pdf/2505.13254)|null|[Kimi](https://papers.cool/arxiv/2505.13254)|
+| 8|**2025-05-19**|**Alignment-Augmented Speculative Decoding with Alignment Sampling and Conditional Verification**|Jikai Wang et.al.|[2505.13204](http://arxiv.org/pdf/2505.13204)|null|[Kimi](https://papers.cool/arxiv/2505.13204)|
+| 9|**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/pdf/2505.13195)|null|[Kimi](https://papers.cool/arxiv/2505.13195)|
+|10|**2025-05-19**|**ModernGBERT: German-only 1B Encoder Model Trained from Scratch**|Anton Ehrmanntraut et.al.|[2505.13136](http://arxiv.org/pdf/2505.13136)|null|[Kimi](https://papers.cool/arxiv/2505.13136)|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
