@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/pdf/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|[Kimi](https://papers.cool/arxiv/2505.13438)|
-| 2|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408](http://arxiv.org/pdf/2505.13408)|null|[Kimi](https://papers.cool/arxiv/2505.13408)|
-| 3|**2025-05-19**|**Occult: Optimizing Collaborative Communication across Experts for Accelerated Parallel MoE Training and Inference**|Shuqing Luo et.al.|[2505.13345](http://arxiv.org/pdf/2505.13345)|**[link](https://github.com/unites-lab/occult)**|[Kimi](https://papers.cool/arxiv/2505.13345)|
-| 4|**2025-05-19**|**Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**|Hengli Li et.al.|[2505.13308](http://arxiv.org/pdf/2505.13308)|null|[Kimi](https://papers.cool/arxiv/2505.13308)|
-| 5|**2025-05-19**|**RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[2505.13307](http://arxiv.org/pdf/2505.13307)|**[link](https://github.com/lightchen233/reasoning-boundary)**|[Kimi](https://papers.cool/arxiv/2505.13307)|
-| 6|**2025-05-19**|**Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability**|Jingyi Ren et.al.|[2505.13258](http://arxiv.org/pdf/2505.13258)|null|[Kimi](https://papers.cool/arxiv/2505.13258)|
-| 7|**2025-05-19**|**HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding**|Siran Liu et.al.|[2505.13254](http://arxiv.org/pdf/2505.13254)|null|[Kimi](https://papers.cool/arxiv/2505.13254)|
-| 8|**2025-05-19**|**Alignment-Augmented Speculative Decoding with Alignment Sampling and Conditional Verification**|Jikai Wang et.al.|[2505.13204](http://arxiv.org/pdf/2505.13204)|null|[Kimi](https://papers.cool/arxiv/2505.13204)|
-| 9|**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/pdf/2505.13195)|null|[Kimi](https://papers.cool/arxiv/2505.13195)|
-|10|**2025-05-19**|**ModernGBERT: German-only 1B Encoder Model Trained from Scratch**|Anton Ehrmanntraut et.al.|[2505.13136](http://arxiv.org/pdf/2505.13136)|null|[Kimi](https://papers.cool/arxiv/2505.13136)|
+| 1|**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/pdf/2505.14684)|null|[Kimi](https://papers.cool/arxiv/2505.14684)|
+| 2|**2025-05-20**|**Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training**|Mengru Wang et.al.|[2505.14681](http://arxiv.org/pdf/2505.14681)|null|[Kimi](https://papers.cool/arxiv/2505.14681)|
+| 3|**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677](http://arxiv.org/pdf/2505.14677)|null|[Kimi](https://papers.cool/arxiv/2505.14677)|
+| 4|**2025-05-20**|**SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment**|Wonje Jeung et.al.|[2505.14667](http://arxiv.org/pdf/2505.14667)|null|[Kimi](https://papers.cool/arxiv/2505.14667)|
+| 5|**2025-05-20**|**Beyond Words: Multimodal LLM Knows When to Speak**|Zikai Liao et.al.|[2505.14654](http://arxiv.org/pdf/2505.14654)|null|[Kimi](https://papers.cool/arxiv/2505.14654)|
+| 6|**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629](http://arxiv.org/pdf/2505.14629)|**[link](https://github.com/mohbattharani/kerl)**|[Kimi](https://papers.cool/arxiv/2505.14629)|
+| 7|**2025-05-20**|**Enhancing Learned Knowledge in LoRA Adapters Through Efficient Contrastive Decoding on Ascend NPUs**|Morgan Lindsay Heisler et.al.|[2505.14620](http://arxiv.org/pdf/2505.14620)|null|[Kimi](https://papers.cool/arxiv/2505.14620)|
+| 8|**2025-05-20**|**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**|Shangziqi Zhao et.al.|[2505.14582](http://arxiv.org/pdf/2505.14582)|null|[Kimi](https://papers.cool/arxiv/2505.14582)|
+| 9|**2025-05-20**|**Reasoning Models Better Express Their Confidence**|Dongkeun Yoon et.al.|[2505.14489](http://arxiv.org/pdf/2505.14489)|**[link](https://github.com/mattyoon/reasoning-models-confidence)**|[Kimi](https://papers.cool/arxiv/2505.14489)|
+|10|**2025-05-20**|**Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation**|Peter Baile Chen et.al.|[2505.14398](http://arxiv.org/pdf/2505.14398)|null|[Kimi](https://papers.cool/arxiv/2505.14398)|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
