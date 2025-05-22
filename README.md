@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/pdf/2505.14684)|null|[Kimi](https://papers.cool/arxiv/2505.14684)|
-| 2|**2025-05-20**|**Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training**|Mengru Wang et.al.|[2505.14681](http://arxiv.org/pdf/2505.14681)|null|[Kimi](https://papers.cool/arxiv/2505.14681)|
-| 3|**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677](http://arxiv.org/pdf/2505.14677)|null|[Kimi](https://papers.cool/arxiv/2505.14677)|
-| 4|**2025-05-20**|**SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment**|Wonje Jeung et.al.|[2505.14667](http://arxiv.org/pdf/2505.14667)|null|[Kimi](https://papers.cool/arxiv/2505.14667)|
-| 5|**2025-05-20**|**Beyond Words: Multimodal LLM Knows When to Speak**|Zikai Liao et.al.|[2505.14654](http://arxiv.org/pdf/2505.14654)|null|[Kimi](https://papers.cool/arxiv/2505.14654)|
-| 6|**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629](http://arxiv.org/pdf/2505.14629)|**[link](https://github.com/mohbattharani/kerl)**|[Kimi](https://papers.cool/arxiv/2505.14629)|
-| 7|**2025-05-20**|**Enhancing Learned Knowledge in LoRA Adapters Through Efficient Contrastive Decoding on Ascend NPUs**|Morgan Lindsay Heisler et.al.|[2505.14620](http://arxiv.org/pdf/2505.14620)|null|[Kimi](https://papers.cool/arxiv/2505.14620)|
-| 8|**2025-05-20**|**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**|Shangziqi Zhao et.al.|[2505.14582](http://arxiv.org/pdf/2505.14582)|null|[Kimi](https://papers.cool/arxiv/2505.14582)|
-| 9|**2025-05-20**|**Reasoning Models Better Express Their Confidence**|Dongkeun Yoon et.al.|[2505.14489](http://arxiv.org/pdf/2505.14489)|**[link](https://github.com/mattyoon/reasoning-models-confidence)**|[Kimi](https://papers.cool/arxiv/2505.14489)|
-|10|**2025-05-20**|**Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation**|Peter Baile Chen et.al.|[2505.14398](http://arxiv.org/pdf/2505.14398)|null|[Kimi](https://papers.cool/arxiv/2505.14398)|
+| 1|**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781](http://arxiv.org/pdf/2505.15781)|**[link](https://github.com/horseee/dkv-cache)**|[Kimi](https://papers.cool/arxiv/2505.15781)|
+| 2|**2025-05-21**|**ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**|Gengyang Li et.al.|[2505.15684](http://arxiv.org/pdf/2505.15684)|null|[Kimi](https://papers.cool/arxiv/2505.15684)|
+| 3|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/pdf/2505.15683)|null|[Kimi](https://papers.cool/arxiv/2505.15683)|
+| 4|**2025-05-21**|**Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning in Language Models**|Zihao Li et.al.|[2505.15634](http://arxiv.org/pdf/2505.15634)|null|[Kimi](https://papers.cool/arxiv/2505.15634)|
+| 5|**2025-05-21**|**Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**|Wei Liu et.al.|[2505.15612](http://arxiv.org/pdf/2505.15612)|**[link](https://github.com/hkust-nlp/laser)**|[Kimi](https://papers.cool/arxiv/2505.15612)|
+| 6|**2025-05-21**|**Multilingual Test-Time Scaling via Initial Thought Transfer**|Prasoon Bajpai et.al.|[2505.15508](http://arxiv.org/pdf/2505.15508)|null|[Kimi](https://papers.cool/arxiv/2505.15508)|
+| 7|**2025-05-21**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Ao Liu et.al.|[2505.15431](http://arxiv.org/pdf/2505.15431)|null|[Kimi](https://papers.cool/arxiv/2505.15431)|
+| 8|**2025-05-21**|**FlowKV: Enhancing Multi-Turn Conversational Coherence in LLMs via Isolated Key-Value Cache Management**|Xiang Liu et.al.|[2505.15347](http://arxiv.org/pdf/2505.15347)|null|[Kimi](https://papers.cool/arxiv/2505.15347)|
+| 9|**2025-05-21**|**Improving LLM First-Token Predictions in Multiple-Choice Question Answering via Prefilling Attack**|Silvia Cappelletti et.al.|[2505.15323](http://arxiv.org/pdf/2505.15323)|null|[Kimi](https://papers.cool/arxiv/2505.15323)|
+|10|**2025-05-21**|**Hallucinate at the Last in Long Response Generation: A Case Study on Long Document Summarization**|Joonho Yang et.al.|[2505.15291](http://arxiv.org/pdf/2505.15291)|null|[Kimi](https://papers.cool/arxiv/2505.15291)|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
