@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781](http://arxiv.org/pdf/2505.15781)|**[link](https://github.com/horseee/dkv-cache)**|[Kimi](https://papers.cool/arxiv/2505.15781)|
-| 2|**2025-05-21**|**ThinkLess: A Training-Free Inference-Efficient Method for Reducing Reasoning Redundancy**|Gengyang Li et.al.|[2505.15684](http://arxiv.org/pdf/2505.15684)|null|[Kimi](https://papers.cool/arxiv/2505.15684)|
-| 3|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683](http://arxiv.org/pdf/2505.15683)|null|[Kimi](https://papers.cool/arxiv/2505.15683)|
-| 4|**2025-05-21**|**Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning in Language Models**|Zihao Li et.al.|[2505.15634](http://arxiv.org/pdf/2505.15634)|null|[Kimi](https://papers.cool/arxiv/2505.15634)|
-| 5|**2025-05-21**|**Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**|Wei Liu et.al.|[2505.15612](http://arxiv.org/pdf/2505.15612)|**[link](https://github.com/hkust-nlp/laser)**|[Kimi](https://papers.cool/arxiv/2505.15612)|
-| 6|**2025-05-21**|**Multilingual Test-Time Scaling via Initial Thought Transfer**|Prasoon Bajpai et.al.|[2505.15508](http://arxiv.org/pdf/2505.15508)|null|[Kimi](https://papers.cool/arxiv/2505.15508)|
-| 7|**2025-05-21**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Ao Liu et.al.|[2505.15431](http://arxiv.org/pdf/2505.15431)|null|[Kimi](https://papers.cool/arxiv/2505.15431)|
-| 8|**2025-05-21**|**FlowKV: Enhancing Multi-Turn Conversational Coherence in LLMs via Isolated Key-Value Cache Management**|Xiang Liu et.al.|[2505.15347](http://arxiv.org/pdf/2505.15347)|null|[Kimi](https://papers.cool/arxiv/2505.15347)|
-| 9|**2025-05-21**|**Improving LLM First-Token Predictions in Multiple-Choice Question Answering via Prefilling Attack**|Silvia Cappelletti et.al.|[2505.15323](http://arxiv.org/pdf/2505.15323)|null|[Kimi](https://papers.cool/arxiv/2505.15323)|
-|10|**2025-05-21**|**Hallucinate at the Last in Long Response Generation: A Case Study on Long Document Summarization**|Joonho Yang et.al.|[2505.15291](http://arxiv.org/pdf/2505.15291)|null|[Kimi](https://papers.cool/arxiv/2505.15291)|
+| 1|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/pdf/2505.17020)|null|[Kimi](https://papers.cool/arxiv/2505.17020)|
+| 2|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/pdf/2505.17017)|null|[Kimi](https://papers.cool/arxiv/2505.17017)|
+| 3|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990](http://arxiv.org/pdf/2505.16990)|null|[Kimi](https://papers.cool/arxiv/2505.16990)|
+| 4|**2025-05-22**|**Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/pdf/2505.16950)|null|[Kimi](https://papers.cool/arxiv/2505.16950)|
+| 5|**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881](http://arxiv.org/pdf/2505.16881)|null|[Kimi](https://papers.cool/arxiv/2505.16881)|
+| 6|**2025-05-22**|**R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**|Yibo Wang et.al.|[2505.16838](http://arxiv.org/pdf/2505.16838)|null|[Kimi](https://papers.cool/arxiv/2505.16838)|
+| 7|**2025-05-22**|**KTAE: A Model-Free Algorithm to Key-Tokens Advantage Estimation in Mathematical Reasoning**|Wei Sun et.al.|[2505.16826](http://arxiv.org/pdf/2505.16826)|null|[Kimi](https://papers.cool/arxiv/2505.16826)|
+| 8|**2025-05-22**|**Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**|Xinghao Chen et.al.|[2505.16782](http://arxiv.org/pdf/2505.16782)|null|[Kimi](https://papers.cool/arxiv/2505.16782)|
+| 9|**2025-05-22**|**R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO**|Huanjin Yao et.al.|[2505.16673](http://arxiv.org/pdf/2505.16673)|null|[Kimi](https://papers.cool/arxiv/2505.16673)|
+|10|**2025-05-22**|**Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding**|Feilong Tang et.al.|[2505.16652](http://arxiv.org/pdf/2505.16652)|null|[Kimi](https://papers.cool/arxiv/2505.16652)|
 
-<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
