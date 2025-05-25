@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.24
+## Updated on 2025.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -80,13 +80,13 @@ layout: default
 |61|**2025-05-21**|**Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework**|Zihao Jiang et.al.|[2505.15245](http://arxiv.org/pdf/2505.15245)|**[link](https://github.com/carrytatum/geter)**|[Kimi](https://papers.cool/arxiv/2505.15245)|
 |62|**2025-05-21**|**Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**|Jinghui Lu et.al.|[2505.15154](http://arxiv.org/pdf/2505.15154)|null|[Kimi](https://papers.cool/arxiv/2505.15154)|
 |63|**2025-05-21**|**BanditSpec: Adaptive Speculative Decoding via Bandit Algorithms**|Yunlong Hou et.al.|[2505.15141](http://arxiv.org/pdf/2505.15141)|null|[Kimi](https://papers.cool/arxiv/2505.15141)|
-|64|**2025-05-21**|**The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning**|Shivam Agarwal et.al.|[2505.15134](http://arxiv.org/pdf/2505.15134)|null|[Kimi](https://papers.cool/arxiv/2505.15134)|
+|64|**2025-05-21**|**The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning**|Shivam Agarwal et.al.|[2505.15134](http://arxiv.org/pdf/2505.15134)|**[link](https://github.com/shivamag125/EM_PT)**|[Kimi](https://papers.cool/arxiv/2505.15134)|
 |65|**2025-05-21**|**An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents**|Bowen Jin et.al.|[2505.15117](http://arxiv.org/pdf/2505.15117)|**[link](https://github.com/petergriffinjin/search-r1)**|[Kimi](https://papers.cool/arxiv/2505.15117)|
 |66|**2025-05-21**|**RoT: Enhancing Table Reasoning with Iterative Row-Wise Traversals**|Xuanliang Zhang et.al.|[2505.15110](http://arxiv.org/pdf/2505.15110)|null|[Kimi](https://papers.cool/arxiv/2505.15110)|
 |67|**2025-05-21**|**Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs**|Hao Wang et.al.|[2505.15075](http://arxiv.org/pdf/2505.15075)|**[link](https://github.com/nlp-waseda/traveling-across-languages)**|[Kimi](https://papers.cool/arxiv/2505.15075)|
 |68|**2025-05-21**|**Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision**|Eric Hanchen Jiang et.al.|[2505.14999](http://arxiv.org/pdf/2505.14999)|null|[Kimi](https://papers.cool/arxiv/2505.14999)|
 |69|**2025-05-20**|**STree: Speculative Tree Decoding for Hybrid State-Space Models**|Yangchao Wu et.al.|[2505.14969](http://arxiv.org/pdf/2505.14969)|null|[Kimi](https://papers.cool/arxiv/2505.14969)|
-|70|**2025-05-20**|**Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels**|Sil Hamilton et.al.|[2505.14925](http://arxiv.org/pdf/2505.14925)|null|[Kimi](https://papers.cool/arxiv/2505.14925)|
+|70|**2025-05-20**|**Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels**|Sil Hamilton et.al.|[2505.14925](http://arxiv.org/pdf/2505.14925)|**[link](https://github.com/srhm-ca/tldm-benchmark)**|[Kimi](https://papers.cool/arxiv/2505.14925)|
 |71|**2025-05-20**|**Scaling Laws for State Dynamics in Large Language Models**|Jacob X Li et.al.|[2505.14892](http://arxiv.org/pdf/2505.14892)|null|[Kimi](https://papers.cool/arxiv/2505.14892)|
 |72|**2025-05-20**|**Balanced and Elastic End-to-end Training of Dynamic LLMs**|Mohamed Wahib et.al.|[2505.14864](http://arxiv.org/pdf/2505.14864)|null|[Kimi](https://papers.cool/arxiv/2505.14864)|
 |73|**2025-05-20**|**Text Generation Beyond Discrete Token Sampling**|Yufan Zhuang et.al.|[2505.14827](http://arxiv.org/pdf/2505.14827)|null|[Kimi](https://papers.cool/arxiv/2505.14827)|
@@ -101,7 +101,7 @@ layout: default
 |82|**2025-05-20**|**Reasoning Models Better Express Their Confidence**|Dongkeun Yoon et.al.|[2505.14489](http://arxiv.org/pdf/2505.14489)|**[link](https://github.com/mattyoon/reasoning-models-confidence)**|[Kimi](https://papers.cool/arxiv/2505.14489)|
 |83|**2025-05-20**|**Log-Augmented Generation: Scaling Test-Time Reasoning with Reusable Computation**|Peter Baile Chen et.al.|[2505.14398](http://arxiv.org/pdf/2505.14398)|null|[Kimi](https://papers.cool/arxiv/2505.14398)|
 |84|**2025-05-20**|**Scaling and Enhancing LLM-based AVSR: A Sparse Mixture of Projectors Approach**|Umberto Cappellazzo et.al.|[2505.14336](http://arxiv.org/pdf/2505.14336)|null|[Kimi](https://papers.cool/arxiv/2505.14336)|
-|85|**2025-05-20**|**Speculative Decoding Reimagined for Multimodal Large Language Models**|Luxi Lin et.al.|[2505.14260](http://arxiv.org/pdf/2505.14260)|null|[Kimi](https://papers.cool/arxiv/2505.14260)|
+|85|**2025-05-20**|**Speculative Decoding Reimagined for Multimodal Large Language Models**|Luxi Lin et.al.|[2505.14260](http://arxiv.org/pdf/2505.14260)|**[link](https://github.com/lyn-lucy/msd)**|[Kimi](https://papers.cool/arxiv/2505.14260)|
 |86|**2025-05-20**|**FuxiMT: Sparsifying Large Language Models for Chinese-Centric Multilingual Machine Translation**|Shaolin Zhu et.al.|[2505.14256](http://arxiv.org/pdf/2505.14256)|null|[Kimi](https://papers.cool/arxiv/2505.14256)|
 |87|**2025-05-20**|**Tokenization Constraints in LLMs: A Study of Symbolic and Arithmetic Reasoning Limits**|Xiang Zhang et.al.|[2505.14178](http://arxiv.org/pdf/2505.14178)|null|[Kimi](https://papers.cool/arxiv/2505.14178)|
 |88|**2025-05-20**|**RL of Thoughts: Navigating LLM Reasoning with Inference-time Reinforcement Learning**|Qianyue Hao et.al.|[2505.14140](http://arxiv.org/pdf/2505.14140)|null|[Kimi](https://papers.cool/arxiv/2505.14140)|
@@ -109,7 +109,7 @@ layout: default
 |90|**2025-05-20**|**Toward Effective Reinforcement Learning Fine-Tuning for Medical VQA in Vision-Language Models**|Wenhui Zhu et.al.|[2505.13973](http://arxiv.org/pdf/2505.13973)|null|[Kimi](https://papers.cool/arxiv/2505.13973)|
 |91|**2025-05-20**|**FlashThink: An Early Exit Method For Efficient Reasoning**|Guochao Jiang et.al.|[2505.13949](http://arxiv.org/pdf/2505.13949)|null|[Kimi](https://papers.cool/arxiv/2505.13949)|
 |92|**2025-05-20**|**EEG-to-Text Translation: A Model for Deciphering Human Brain Activity**|Saydul Akbar Murad et.al.|[2505.13936](http://arxiv.org/pdf/2505.13936)|**[link](https://github.com/mmurrad/eeg-to-text)**|[Kimi](https://papers.cool/arxiv/2505.13936)|
-|93|**2025-05-20**|**Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning**|Jiwon Song et.al.|[2505.13866](http://arxiv.org/pdf/2505.13866)|null|[Kimi](https://papers.cool/arxiv/2505.13866)|
+|93|**2025-05-20**|**Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning**|Jiwon Song et.al.|[2505.13866](http://arxiv.org/pdf/2505.13866)|**[link](https://github.com/jiwonsong-dev/reasoningpathcompression)**|[Kimi](https://papers.cool/arxiv/2505.13866)|
 |94|**2025-05-20**|**EfficientLLM: Efficiency in Large Language Models**|Zhengqing Yuan et.al.|[2505.13840](http://arxiv.org/pdf/2505.13840)|null|[Kimi](https://papers.cool/arxiv/2505.13840)|
 |95|**2025-05-20**|**Structured Agent Distillation for Large Language Model**|Jun Liu et.al.|[2505.13820](http://arxiv.org/pdf/2505.13820)|null|[Kimi](https://papers.cool/arxiv/2505.13820)|
 |96|**2025-05-19**|**Ice Cream Doesn't Cause Drowning: Benchmarking LLMs Against Statistical Pitfalls in Causal Inference**|Jin Du et.al.|[2505.13770](http://arxiv.org/pdf/2505.13770)|null|[Kimi](https://papers.cool/arxiv/2505.13770)|
