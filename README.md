@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-26**|**Adaptive Deep Reasoning: Triggering Deep Thinking When Needed**|Yunhao Wang et.al.|[2505.20101](http://arxiv.org/pdf/2505.20101)|null|[Kimi](https://papers.cool/arxiv/2505.20101)|
-| 2|**2025-05-26**|**AdaTP: Attention-Debiased Token Pruning for Video Large Language Models**|Fengyuan Sun et.al.|[2505.20100](http://arxiv.org/pdf/2505.20100)|null|[Kimi](https://papers.cool/arxiv/2505.20100)|
-| 3|**2025-05-26**|**Incentivizing Reasoning from Weak Supervision**|Yige Yuan et.al.|[2505.20072](http://arxiv.org/pdf/2505.20072)|null|[Kimi](https://papers.cool/arxiv/2505.20072)|
-| 4|**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/pdf/2505.20053)|null|[Kimi](https://papers.cool/arxiv/2505.20053)|
-| 5|**2025-05-26**|**Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks**|Debargha Ganguly et.al.|[2505.20047](http://arxiv.org/pdf/2505.20047)|null|[Kimi](https://papers.cool/arxiv/2505.20047)|
-| 6|**2025-05-26**|**Uncertainty-Aware Attention Heads: Efficient Unsupervised Uncertainty Quantification for LLMs**|Artem Vazhentsev et.al.|[2505.20045](http://arxiv.org/pdf/2505.20045)|null|[Kimi](https://papers.cool/arxiv/2505.20045)|
-| 7|**2025-05-26**|**Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles**|Jiangjie Chen et.al.|[2505.19914](http://arxiv.org/pdf/2505.19914)|null|[Kimi](https://papers.cool/arxiv/2505.19914)|
-| 8|**2025-05-26**|**ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows**|Qiushi Sun et.al.|[2505.19897](http://arxiv.org/pdf/2505.19897)|null|[Kimi](https://papers.cool/arxiv/2505.19897)|
-| 9|**2025-05-26**|**HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation**|Feng Xiong et.al.|[2505.19866](http://arxiv.org/pdf/2505.19866)|null|[Kimi](https://papers.cool/arxiv/2505.19866)|
-|10|**2025-05-26**|**Done Is Better than Perfect: Unlocking Efficient Reasoning by Structured Multi-Turn Decomposition**|Zihao Zeng et.al.|[2505.19788](http://arxiv.org/pdf/2505.19788)|null|[Kimi](https://papers.cool/arxiv/2505.19788)|
+| 1|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/pdf/2505.21503)|null|[Kimi](https://papers.cool/arxiv/2505.21503)|
+| 2|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/pdf/2505.21497)|null|[Kimi](https://papers.cool/arxiv/2505.21497)|
+| 3|**2025-05-27**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487](http://arxiv.org/pdf/2505.21487)|null|[Kimi](https://papers.cool/arxiv/2505.21487)|
+| 4|**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467](http://arxiv.org/pdf/2505.21467)|null|[Kimi](https://papers.cool/arxiv/2505.21467)|
+| 5|**2025-05-27**|**Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**|Yehui Tang et.al.|[2505.21411](http://arxiv.org/pdf/2505.21411)|null|[Kimi](https://papers.cool/arxiv/2505.21411)|
+| 6|**2025-05-27**|**Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History**|Qishuai Zhong et.al.|[2505.21362](http://arxiv.org/pdf/2505.21362)|null|[Kimi](https://papers.cool/arxiv/2505.21362)|
+| 7|**2025-05-27**|**Leveraging Large Language Models for Bengali Math Word Problem Solving with Chain of Thought Reasoning**|Bidyarthi Paul et.al.|[2505.21354](http://arxiv.org/pdf/2505.21354)|null|[Kimi](https://papers.cool/arxiv/2505.21354)|
+| 8|**2025-05-27**|**PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims**|Valentin Knappich et.al.|[2505.21342](http://arxiv.org/pdf/2505.21342)|null|[Kimi](https://papers.cool/arxiv/2505.21342)|
+| 9|**2025-05-27**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/pdf/2505.21334)|null|[Kimi](https://papers.cool/arxiv/2505.21334)|
+|10|**2025-05-27**|**Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations**|Hao Li et.al.|[2505.21318](http://arxiv.org/pdf/2505.21318)|null|[Kimi](https://papers.cool/arxiv/2505.21318)|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
