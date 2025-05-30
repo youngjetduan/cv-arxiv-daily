@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Kaiyu Yue et.al.|[2505.22664](http://arxiv.org/pdf/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|[Kimi](https://papers.cool/arxiv/2505.22664)|
-| 2|**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/pdf/2505.22662)|null|[Kimi](https://papers.cool/arxiv/2505.22662)|
-| 3|**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657](http://arxiv.org/pdf/2505.22657)|null|[Kimi](https://papers.cool/arxiv/2505.22657)|
-| 4|**2025-05-28**|**Learning Composable Chains-of-Thought**|Fangcong Yin et.al.|[2505.22635](http://arxiv.org/pdf/2505.22635)|null|[Kimi](https://papers.cool/arxiv/2505.22635)|
-| 5|**2025-05-28**|**Spatial Knowledge Graph-Guided Multimodal Synthesis**|Yida Xue et.al.|[2505.22633](http://arxiv.org/pdf/2505.22633)|null|[Kimi](https://papers.cool/arxiv/2505.22633)|
-| 6|**2025-05-28**|**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**|Chengyue Wu et.al.|[2505.22618](http://arxiv.org/pdf/2505.22618)|null|[Kimi](https://papers.cool/arxiv/2505.22618)|
-| 7|**2025-05-28**|**Less, but Better: Efficient Multilingual Expansion for LLMs via Layer-wise Mixture-of-Experts**|Xue Zhang et.al.|[2505.22582](http://arxiv.org/pdf/2505.22582)|null|[Kimi](https://papers.cool/arxiv/2505.22582)|
-| 8|**2025-05-28**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571](http://arxiv.org/pdf/2505.22571)|null|[Kimi](https://papers.cool/arxiv/2505.22571)|
-| 9|**2025-05-28**|**Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**|Lai Wei et.al.|[2505.22453](http://arxiv.org/pdf/2505.22453)|null|[Kimi](https://papers.cool/arxiv/2505.22453)|
-|10|**2025-05-28**|**Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start**|Lai Wei et.al.|[2505.22334](http://arxiv.org/pdf/2505.22334)|null|[Kimi](https://papers.cool/arxiv/2505.22334)|
+| 1|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/pdf/2505.23759)|null|[Kimi](https://papers.cool/arxiv/2505.23759)|
+| 2|**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/pdf/2505.23723)|null|[Kimi](https://papers.cool/arxiv/2505.23723)|
+| 3|**2025-05-29**|**VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos**|Tingyu Song et.al.|[2505.23693](http://arxiv.org/pdf/2505.23693)|null|[Kimi](https://papers.cool/arxiv/2505.23693)|
+| 4|**2025-05-29**|**LoLA: Low-Rank Linear Attention With Sparse Caching**|Luke McDermott et.al.|[2505.23666](http://arxiv.org/pdf/2505.23666)|null|[Kimi](https://papers.cool/arxiv/2505.23666)|
+| 5|**2025-05-29**|**D-AR: Diffusion via Autoregressive Models**|Ziteng Gao et.al.|[2505.23660](http://arxiv.org/pdf/2505.23660)|null|[Kimi](https://papers.cool/arxiv/2505.23660)|
+| 6|**2025-05-29**|**Active Layer-Contrastive Decoding Reduces Hallucination in Large Language Model Generation**|Hongxiang Zhang et.al.|[2505.23657](http://arxiv.org/pdf/2505.23657)|null|[Kimi](https://papers.cool/arxiv/2505.23657)|
+| 7|**2025-05-29**|**Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models**|Yiran Guo et.al.|[2505.23564](http://arxiv.org/pdf/2505.23564)|null|[Kimi](https://papers.cool/arxiv/2505.23564)|
+| 8|**2025-05-29**|**Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in Geo-Distributed Cloud Datacenters**|Hayden Moore et.al.|[2505.23554](http://arxiv.org/pdf/2505.23554)|null|[Kimi](https://papers.cool/arxiv/2505.23554)|
+| 9|**2025-05-29**|**Threading the Needle: Reweaving Chain-of-Thought Reasoning to Explain Human Label Variation**|Beiduo Chen et.al.|[2505.23368](http://arxiv.org/pdf/2505.23368)|null|[Kimi](https://papers.cool/arxiv/2505.23368)|
+|10|**2025-05-29**|**VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?**|Yuanxin Liu et.al.|[2505.23359](http://arxiv.org/pdf/2505.23359)|null|[Kimi](https://papers.cool/arxiv/2505.23359)|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
