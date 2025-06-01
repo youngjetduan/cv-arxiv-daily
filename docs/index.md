@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.31
+## Updated on 2025.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -113,7 +113,7 @@ layout: default
 |94|**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/pdf/2505.20438)|null|[Kimi](https://papers.cool/arxiv/2505.20438)|
 |95|**2025-05-26**|**What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models**|Lorenzo Baraldi et.al.|[2505.20405](http://arxiv.org/pdf/2505.20405)|null|[Kimi](https://papers.cool/arxiv/2505.20405)|
 |96|**2025-05-27**|**Does quantization affect models' performance on long-context tasks?**|Anmol Mekala et.al.|[2505.20276](http://arxiv.org/pdf/2505.20276)|**[link](https://github.com/molereddy/long-context-quantization)**|[Kimi](https://papers.cool/arxiv/2505.20276)|
-|97|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/pdf/2505.20225)|null|[Kimi](https://papers.cool/arxiv/2505.20225)|
+|97|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/pdf/2505.20225)|**[link](https://github.com/cmu-flame/flame-moe)**|[Kimi](https://papers.cool/arxiv/2505.20225)|
 |98|**2025-05-26**|**THiNK: Can Large Language Models Think-aloud?**|Yongan Yu et.al.|[2505.20184](http://arxiv.org/pdf/2505.20184)|null|[Kimi](https://papers.cool/arxiv/2505.20184)|
 |99|**2025-05-26**|**Adaptive Deep Reasoning: Triggering Deep Thinking When Needed**|Yunhao Wang et.al.|[2505.20101](http://arxiv.org/pdf/2505.20101)|null|[Kimi](https://papers.cool/arxiv/2505.20101)|
 |100|**2025-05-26**|**AdaTP: Attention-Debiased Token Pruning for Video Large Language Models**|Fengyuan Sun et.al.|[2505.20100](http://arxiv.org/pdf/2505.20100)|null|[Kimi](https://papers.cool/arxiv/2505.20100)|
