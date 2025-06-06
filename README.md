@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/pdf/2506.04207)|null|[Kimi](https://papers.cool/arxiv/2506.04207)|
-| 2|**2025-06-04**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203](http://arxiv.org/pdf/2506.04203)|null|[Kimi](https://papers.cool/arxiv/2506.04203)|
-| 3|**2025-06-04**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/pdf/2506.04108)|null|[Kimi](https://papers.cool/arxiv/2506.04108)|
-| 4|**2025-06-04**|**Multimodal Tabular Reasoning with Privileged Structured Information**|Jun-Peng Jiang et.al.|[2506.04088](http://arxiv.org/pdf/2506.04088)|null|[Kimi](https://papers.cool/arxiv/2506.04088)|
-| 5|**2025-06-04**|**LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation**|Ming Zhang et.al.|[2506.04078](http://arxiv.org/pdf/2506.04078)|null|[Kimi](https://papers.cool/arxiv/2506.04078)|
-| 6|**2025-06-04**|**Explainability-Based Token Replacement on LLM-Generated Text**|Hadi Mohammadi et.al.|[2506.04050](http://arxiv.org/pdf/2506.04050)|null|[Kimi](https://papers.cool/arxiv/2506.04050)|
-| 7|**2025-06-04**|**Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization**|Jiulong Wu et.al.|[2506.04039](http://arxiv.org/pdf/2506.04039)|null|[Kimi](https://papers.cool/arxiv/2506.04039)|
-| 8|**2025-06-04**|**AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents**|Akshat Naik et.al.|[2506.04018](http://arxiv.org/pdf/2506.04018)|null|[Kimi](https://papers.cool/arxiv/2506.04018)|
-| 9|**2025-06-04**|**Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning**|Junqi Gao et.al.|[2506.03939](http://arxiv.org/pdf/2506.03939)|null|[Kimi](https://papers.cool/arxiv/2506.03939)|
-|10|**2025-06-04**|**Vision Remember: Alleviating Visual Forgetting in Efficient MLLM with Vision Feature Resample**|Ze Feng et.al.|[2506.03928](http://arxiv.org/pdf/2506.03928)|null|[Kimi](https://papers.cool/arxiv/2506.03928)|
+| 1|**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/pdf/2506.05345)|null|[Kimi](https://papers.cool/arxiv/2506.05345)|
+| 2|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/pdf/2506.05344)|null|[Kimi](https://papers.cool/arxiv/2506.05344)|
+| 3|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/pdf/2506.05341)|null|[Kimi](https://papers.cool/arxiv/2506.05341)|
+| 4|**2025-06-05**|**MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**|Xinyan Chen et.al.|[2506.05331](http://arxiv.org/pdf/2506.05331)|null|[Kimi](https://papers.cool/arxiv/2506.05331)|
+| 5|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305](http://arxiv.org/pdf/2506.05305)|null|[Kimi](https://papers.cool/arxiv/2506.05305)|
+| 6|**2025-06-05**|**Diagonal Batching Unlocks Parallelism in Recurrent Memory Transformers for Long Contexts**|Danil Sivtsov et.al.|[2506.05229](http://arxiv.org/pdf/2506.05229)|null|[Kimi](https://papers.cool/arxiv/2506.05229)|
+| 7|**2025-06-05**|**ECoRAG: Evidentiality-guided Compression for Long Context RAG**|Yeonseok Jeong et.al.|[2506.05167](http://arxiv.org/pdf/2506.05167)|null|[Kimi](https://papers.cool/arxiv/2506.05167)|
+| 8|**2025-06-05**|**DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning**|Tanmay Parekh et.al.|[2506.05128](http://arxiv.org/pdf/2506.05128)|null|[Kimi](https://papers.cool/arxiv/2506.05128)|
+| 9|**2025-06-05**|**TALL -- A Trainable Architecture for Enhancing LLM Performance in Low-Resource Languages**|Moshe Ofer et.al.|[2506.05057](http://arxiv.org/pdf/2506.05057)|null|[Kimi](https://papers.cool/arxiv/2506.05057)|
+|10|**2025-06-05**|**Controlling Summarization Length Through EOS Token Weighting**|Zeno Belligoli et.al.|[2506.05017](http://arxiv.org/pdf/2506.05017)|null|[Kimi](https://papers.cool/arxiv/2506.05017)|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
