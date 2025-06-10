@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/pdf/2506.05346)|null|[Kimi](https://papers.cool/arxiv/2506.05346)|
-| 2|**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/pdf/2506.05345)|null|[Kimi](https://papers.cool/arxiv/2506.05345)|
-| 3|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/pdf/2506.05344)|null|[Kimi](https://papers.cool/arxiv/2506.05344)|
-| 4|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/pdf/2506.05341)|null|[Kimi](https://papers.cool/arxiv/2506.05341)|
-| 5|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/pdf/2506.05336)|null|[Kimi](https://papers.cool/arxiv/2506.05336)|
-| 6|**2025-06-05**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333](http://arxiv.org/pdf/2506.05333)|null|[Kimi](https://papers.cool/arxiv/2506.05333)|
-| 7|**2025-06-05**|**Unleashing Hour-Scale Video Training for Long Video-Language Understanding**|Jingyang Lin et.al.|[2506.05332](http://arxiv.org/pdf/2506.05332)|null|[Kimi](https://papers.cool/arxiv/2506.05332)|
-| 8|**2025-06-05**|**MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**|Xinyan Chen et.al.|[2506.05331](http://arxiv.org/pdf/2506.05331)|null|[Kimi](https://papers.cool/arxiv/2506.05331)|
-| 9|**2025-06-05**|**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**|Yifan Sun et.al.|[2506.05316](http://arxiv.org/pdf/2506.05316)|null|[Kimi](https://papers.cool/arxiv/2506.05316)|
-|10|**2025-06-05**|**Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models**|Taha Entesari et.al.|[2506.05314](http://arxiv.org/pdf/2506.05314)|null|[Kimi](https://papers.cool/arxiv/2506.05314)|
+| 1|**2025-06-09**|**HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization**|Hongzheng Chen et.al.|[2506.07972](http://arxiv.org/pdf/2506.07972)|null|[Kimi](https://papers.cool/arxiv/2506.07972)|
+| 2|**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/pdf/2506.07963)|null|[Kimi](https://papers.cool/arxiv/2506.07963)|
+| 3|**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943](http://arxiv.org/pdf/2506.07943)|null|[Kimi](https://papers.cool/arxiv/2506.07943)|
+| 4|**2025-06-09**|**Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models**|Chengyue Huang et.al.|[2506.07936](http://arxiv.org/pdf/2506.07936)|null|[Kimi](https://papers.cool/arxiv/2506.07936)|
+| 5|**2025-06-09**|**Solving Inequality Proofs with Large Language Models**|Jiayi Sheng et.al.|[2506.07927](http://arxiv.org/pdf/2506.07927)|null|[Kimi](https://papers.cool/arxiv/2506.07927)|
+| 6|**2025-06-09**|**LUCIFER: Language Understanding and Context-Infused Framework for Exploration and Behavior Refinement**|Dimitris Panagopoulos et.al.|[2506.07915](http://arxiv.org/pdf/2506.07915)|null|[Kimi](https://papers.cool/arxiv/2506.07915)|
+| 7|**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/pdf/2506.07900)|null|[Kimi](https://papers.cool/arxiv/2506.07900)|
+| 8|**2025-06-09**|**Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark**|Shoko Oka et.al.|[2506.07896](http://arxiv.org/pdf/2506.07896)|null|[Kimi](https://papers.cool/arxiv/2506.07896)|
+| 9|**2025-06-09**|**Learning to Focus: Causal Attention Distillation via Gradient-Guided Token Pruning**|Yiju Guo et.al.|[2506.07851](http://arxiv.org/pdf/2506.07851)|null|[Kimi](https://papers.cool/arxiv/2506.07851)|
+|10|**2025-06-09**|**Improving large language models with concept-aware fine-tuning**|Michael K. Chen et.al.|[2506.07833](http://arxiv.org/pdf/2506.07833)|null|[Kimi](https://papers.cool/arxiv/2506.07833)|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
