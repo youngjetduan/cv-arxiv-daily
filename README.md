@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-09**|**HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization**|Hongzheng Chen et.al.|[2506.07972](http://arxiv.org/pdf/2506.07972)|null|[Kimi](https://papers.cool/arxiv/2506.07972)|
-| 2|**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/pdf/2506.07963)|null|[Kimi](https://papers.cool/arxiv/2506.07963)|
-| 3|**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943](http://arxiv.org/pdf/2506.07943)|null|[Kimi](https://papers.cool/arxiv/2506.07943)|
-| 4|**2025-06-09**|**Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models**|Chengyue Huang et.al.|[2506.07936](http://arxiv.org/pdf/2506.07936)|null|[Kimi](https://papers.cool/arxiv/2506.07936)|
-| 5|**2025-06-09**|**Solving Inequality Proofs with Large Language Models**|Jiayi Sheng et.al.|[2506.07927](http://arxiv.org/pdf/2506.07927)|null|[Kimi](https://papers.cool/arxiv/2506.07927)|
-| 6|**2025-06-09**|**LUCIFER: Language Understanding and Context-Infused Framework for Exploration and Behavior Refinement**|Dimitris Panagopoulos et.al.|[2506.07915](http://arxiv.org/pdf/2506.07915)|null|[Kimi](https://papers.cool/arxiv/2506.07915)|
-| 7|**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/pdf/2506.07900)|null|[Kimi](https://papers.cool/arxiv/2506.07900)|
-| 8|**2025-06-09**|**Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark**|Shoko Oka et.al.|[2506.07896](http://arxiv.org/pdf/2506.07896)|null|[Kimi](https://papers.cool/arxiv/2506.07896)|
-| 9|**2025-06-09**|**Learning to Focus: Causal Attention Distillation via Gradient-Guided Token Pruning**|Yiju Guo et.al.|[2506.07851](http://arxiv.org/pdf/2506.07851)|null|[Kimi](https://papers.cool/arxiv/2506.07851)|
-|10|**2025-06-09**|**Improving large language models with concept-aware fine-tuning**|Michael K. Chen et.al.|[2506.07833](http://arxiv.org/pdf/2506.07833)|null|[Kimi](https://papers.cool/arxiv/2506.07833)|
+| 1|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/pdf/2506.09040)|null|[Kimi](https://papers.cool/arxiv/2506.09040)|
+| 2|**2025-06-10**|**Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions**|David Acuna et.al.|[2506.08927](http://arxiv.org/pdf/2506.08927)|null|[Kimi](https://papers.cool/arxiv/2506.08927)|
+| 3|**2025-06-10**|**PropMEND: Hypernetworks for Knowledge Propagation in LLMs**|Zeyu Leo Liu et.al.|[2506.08920](http://arxiv.org/pdf/2506.08920)|null|[Kimi](https://papers.cool/arxiv/2506.08920)|
+| 4|**2025-06-10**|**From Legal Texts to Defeasible Deontic Logic via LLMs: A Study in Automated Semantic Analysis**|Elias Horner et.al.|[2506.08899](http://arxiv.org/pdf/2506.08899)|null|[Kimi](https://papers.cool/arxiv/2506.08899)|
+| 5|**2025-06-10**|**The impact of fine tuning in LLaMA on hallucinations for named entity extraction in legal documentation**|Francisco Vargas et.al.|[2506.08827](http://arxiv.org/pdf/2506.08827)|null|[Kimi](https://papers.cool/arxiv/2506.08827)|
+| 6|**2025-06-10**|**Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents**|Irene Testini et.al.|[2506.08800](http://arxiv.org/pdf/2506.08800)|null|[Kimi](https://papers.cool/arxiv/2506.08800)|
+| 7|**2025-06-10**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768](http://arxiv.org/pdf/2506.08768)|null|[Kimi](https://papers.cool/arxiv/2506.08768)|
+| 8|**2025-06-10**|**Improved LLM Agents for Financial Document Question Answering**|Nelvin Tan et.al.|[2506.08726](http://arxiv.org/pdf/2506.08726)|null|[Kimi](https://papers.cool/arxiv/2506.08726)|
+| 9|**2025-06-10**|**ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Large Language Model Preference Optimization**|Hee Suk Yoon et.al.|[2506.08712](http://arxiv.org/pdf/2506.08712)|null|[Kimi](https://papers.cool/arxiv/2506.08712)|
+|10|**2025-06-10**|**Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**|Xinyuan Wang et.al.|[2506.08552](http://arxiv.org/pdf/2506.08552)|null|[Kimi](https://papers.cool/arxiv/2506.08552)|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
