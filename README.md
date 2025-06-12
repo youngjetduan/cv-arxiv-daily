@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/pdf/2506.09040)|null|[Kimi](https://papers.cool/arxiv/2506.09040)|
-| 2|**2025-06-10**|**Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions**|David Acuna et.al.|[2506.08927](http://arxiv.org/pdf/2506.08927)|null|[Kimi](https://papers.cool/arxiv/2506.08927)|
-| 3|**2025-06-10**|**PropMEND: Hypernetworks for Knowledge Propagation in LLMs**|Zeyu Leo Liu et.al.|[2506.08920](http://arxiv.org/pdf/2506.08920)|null|[Kimi](https://papers.cool/arxiv/2506.08920)|
-| 4|**2025-06-10**|**From Legal Texts to Defeasible Deontic Logic via LLMs: A Study in Automated Semantic Analysis**|Elias Horner et.al.|[2506.08899](http://arxiv.org/pdf/2506.08899)|null|[Kimi](https://papers.cool/arxiv/2506.08899)|
-| 5|**2025-06-10**|**The impact of fine tuning in LLaMA on hallucinations for named entity extraction in legal documentation**|Francisco Vargas et.al.|[2506.08827](http://arxiv.org/pdf/2506.08827)|null|[Kimi](https://papers.cool/arxiv/2506.08827)|
-| 6|**2025-06-10**|**Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents**|Irene Testini et.al.|[2506.08800](http://arxiv.org/pdf/2506.08800)|null|[Kimi](https://papers.cool/arxiv/2506.08800)|
-| 7|**2025-06-10**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768](http://arxiv.org/pdf/2506.08768)|null|[Kimi](https://papers.cool/arxiv/2506.08768)|
-| 8|**2025-06-10**|**Improved LLM Agents for Financial Document Question Answering**|Nelvin Tan et.al.|[2506.08726](http://arxiv.org/pdf/2506.08726)|null|[Kimi](https://papers.cool/arxiv/2506.08726)|
-| 9|**2025-06-10**|**ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Large Language Model Preference Optimization**|Hee Suk Yoon et.al.|[2506.08712](http://arxiv.org/pdf/2506.08712)|null|[Kimi](https://papers.cool/arxiv/2506.08712)|
-|10|**2025-06-10**|**Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**|Xinyuan Wang et.al.|[2506.08552](http://arxiv.org/pdf/2506.08552)|null|[Kimi](https://papers.cool/arxiv/2506.08552)|
+| 1|**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/pdf/2506.09996)|null|[Kimi](https://papers.cool/arxiv/2506.09996)|
+| 2|**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/pdf/2506.09902)|null|[Kimi](https://papers.cool/arxiv/2506.09902)|
+| 3|**2025-06-11**|**Attention Head Embeddings with Trainable Deep Kernels for Hallucination Detection in LLMs**|Rodion Oblovatny et.al.|[2506.09886](http://arxiv.org/pdf/2506.09886)|null|[Kimi](https://papers.cool/arxiv/2506.09886)|
+| 4|**2025-06-11**|**Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning**|Xiangning Yu et.al.|[2506.09853](http://arxiv.org/pdf/2506.09853)|null|[Kimi](https://papers.cool/arxiv/2506.09853)|
+| 5|**2025-06-11**|**Dataset of News Articles with Provenance Metadata for Media Relevance Assessment**|Tomas Peterka et.al.|[2506.09847](http://arxiv.org/pdf/2506.09847)|null|[Kimi](https://papers.cool/arxiv/2506.09847)|
+| 6|**2025-06-11**|**OctoNav: Towards Generalist Embodied Navigation**|Chen Gao et.al.|[2506.09839](http://arxiv.org/pdf/2506.09839)|null|[Kimi](https://papers.cool/arxiv/2506.09839)|
+| 7|**2025-06-11**|**CoRT: Code-integrated Reasoning within Thinking**|Chengpeng Li et.al.|[2506.09820](http://arxiv.org/pdf/2506.09820)|null|[Kimi](https://papers.cool/arxiv/2506.09820)|
+| 8|**2025-06-11**|**Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era**|Shuo Jiang et.al.|[2506.09755](http://arxiv.org/pdf/2506.09755)|null|[Kimi](https://papers.cool/arxiv/2506.09755)|
+| 9|**2025-06-11**|**Intent Factored Generation: Unleashing the Diversity in Your Language Model**|Eltayeb Ahmed et.al.|[2506.09659](http://arxiv.org/pdf/2506.09659)|null|[Kimi](https://papers.cool/arxiv/2506.09659)|
+|10|**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/pdf/2506.09644)|null|[Kimi](https://papers.cool/arxiv/2506.09644)|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
