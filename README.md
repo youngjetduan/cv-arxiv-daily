@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/pdf/2506.09996)|null|[Kimi](https://papers.cool/arxiv/2506.09996)|
-| 2|**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/pdf/2506.09902)|null|[Kimi](https://papers.cool/arxiv/2506.09902)|
-| 3|**2025-06-11**|**Attention Head Embeddings with Trainable Deep Kernels for Hallucination Detection in LLMs**|Rodion Oblovatny et.al.|[2506.09886](http://arxiv.org/pdf/2506.09886)|null|[Kimi](https://papers.cool/arxiv/2506.09886)|
-| 4|**2025-06-11**|**Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning**|Xiangning Yu et.al.|[2506.09853](http://arxiv.org/pdf/2506.09853)|null|[Kimi](https://papers.cool/arxiv/2506.09853)|
-| 5|**2025-06-11**|**Dataset of News Articles with Provenance Metadata for Media Relevance Assessment**|Tomas Peterka et.al.|[2506.09847](http://arxiv.org/pdf/2506.09847)|null|[Kimi](https://papers.cool/arxiv/2506.09847)|
-| 6|**2025-06-11**|**OctoNav: Towards Generalist Embodied Navigation**|Chen Gao et.al.|[2506.09839](http://arxiv.org/pdf/2506.09839)|null|[Kimi](https://papers.cool/arxiv/2506.09839)|
-| 7|**2025-06-11**|**CoRT: Code-integrated Reasoning within Thinking**|Chengpeng Li et.al.|[2506.09820](http://arxiv.org/pdf/2506.09820)|null|[Kimi](https://papers.cool/arxiv/2506.09820)|
-| 8|**2025-06-11**|**Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era**|Shuo Jiang et.al.|[2506.09755](http://arxiv.org/pdf/2506.09755)|null|[Kimi](https://papers.cool/arxiv/2506.09755)|
-| 9|**2025-06-11**|**Intent Factored Generation: Unleashing the Diversity in Your Language Model**|Eltayeb Ahmed et.al.|[2506.09659](http://arxiv.org/pdf/2506.09659)|null|[Kimi](https://papers.cool/arxiv/2506.09659)|
-|10|**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/pdf/2506.09644)|null|[Kimi](https://papers.cool/arxiv/2506.09644)|
+| 1|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/pdf/2506.10974)|null|[Kimi](https://papers.cool/arxiv/2506.10974)|
+| 2|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/pdf/2506.10960)|null|[Kimi](https://papers.cool/arxiv/2506.10960)|
+| 3|**2025-06-12**|**VINCIE: Unlocking In-context Image Editing from Video**|Leigang Qu et.al.|[2506.10941](http://arxiv.org/pdf/2506.10941)|null|[Kimi](https://papers.cool/arxiv/2506.10941)|
+| 4|**2025-06-12**|**BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP**|Thomas Sounack et.al.|[2506.10896](http://arxiv.org/pdf/2506.10896)|null|[Kimi](https://papers.cool/arxiv/2506.10896)|
+| 5|**2025-06-12**|**Slimming Down LLMs Without Losing Their Minds**|Qingda et.al.|[2506.10885](http://arxiv.org/pdf/2506.10885)|null|[Kimi](https://papers.cool/arxiv/2506.10885)|
+| 6|**2025-06-12**|**Accelerating Diffusion Large Language Models with SlowFast: The Three Golden Principles**|Qingyan Wei et.al.|[2506.10848](http://arxiv.org/pdf/2506.10848)|null|[Kimi](https://papers.cool/arxiv/2506.10848)|
+| 7|**2025-06-12**|**VideoDeepResearch: Long Video Understanding With Agentic Tool Using**|Huaying Yuan et.al.|[2506.10821](http://arxiv.org/pdf/2506.10821)|null|[Kimi](https://papers.cool/arxiv/2506.10821)|
+| 8|**2025-06-12**|**PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models**|Ye Yu et.al.|[2506.10716](http://arxiv.org/pdf/2506.10716)|null|[Kimi](https://papers.cool/arxiv/2506.10716)|
+| 9|**2025-06-12**|**Large Language Models for Detection of Life-Threatening Texts**|Thanh Thi Nguyen et.al.|[2506.10687](http://arxiv.org/pdf/2506.10687)|null|[Kimi](https://papers.cool/arxiv/2506.10687)|
+|10|**2025-06-12**|**TeleMath: A Benchmark for Large Language Models in Telecom Mathematical Problem Solving**|Vincenzo Colle et.al.|[2506.10674](http://arxiv.org/pdf/2506.10674)|null|[Kimi](https://papers.cool/arxiv/2506.10674)|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
