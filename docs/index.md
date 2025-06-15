@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.14
+## Updated on 2025.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -67,12 +67,12 @@ layout: default
 |48|**2025-06-11**|**Can LLMs Generate Good Stories? Insights and Challenges from a Narrative Planning Perspective**|Yi Wang et.al.|[2506.10161](http://arxiv.org/pdf/2506.10161)|null|[Kimi](https://papers.cool/arxiv/2506.10161)|
 |49|**2025-06-11**|**When Meaning Stays the Same, but Models Drift: Evaluating Quality of Service under Token-Level Behavioral Instability in LLMs**|Xiao Li et.al.|[2506.10095](http://arxiv.org/pdf/2506.10095)|**[link](https://github.com/Xiao-Vandy/LLM-Prompt-Variance-Diagnostic-Analysis)**|[Kimi](https://papers.cool/arxiv/2506.10095)|
 |50|**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/pdf/2506.09996)|null|[Kimi](https://papers.cool/arxiv/2506.09996)|
-|51|**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/pdf/2506.09902)|null|[Kimi](https://papers.cool/arxiv/2506.09902)|
+|51|**2025-06-11**|**PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants**|Zheng Zhao et.al.|[2506.09902](http://arxiv.org/pdf/2506.09902)|**[link](https://github.com/amazon-science/personalens)**|[Kimi](https://papers.cool/arxiv/2506.09902)|
 |52|**2025-06-11**|**Attention Head Embeddings with Trainable Deep Kernels for Hallucination Detection in LLMs**|Rodion Oblovatny et.al.|[2506.09886](http://arxiv.org/pdf/2506.09886)|null|[Kimi](https://papers.cool/arxiv/2506.09886)|
 |53|**2025-06-11**|**Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning**|Xiangning Yu et.al.|[2506.09853](http://arxiv.org/pdf/2506.09853)|null|[Kimi](https://papers.cool/arxiv/2506.09853)|
 |54|**2025-06-11**|**Dataset of News Articles with Provenance Metadata for Media Relevance Assessment**|Tomas Peterka et.al.|[2506.09847](http://arxiv.org/pdf/2506.09847)|null|[Kimi](https://papers.cool/arxiv/2506.09847)|
 |55|**2025-06-11**|**OctoNav: Towards Generalist Embodied Navigation**|Chen Gao et.al.|[2506.09839](http://arxiv.org/pdf/2506.09839)|null|[Kimi](https://papers.cool/arxiv/2506.09839)|
-|56|**2025-06-11**|**CoRT: Code-integrated Reasoning within Thinking**|Chengpeng Li et.al.|[2506.09820](http://arxiv.org/pdf/2506.09820)|null|[Kimi](https://papers.cool/arxiv/2506.09820)|
+|56|**2025-06-11**|**CoRT: Code-integrated Reasoning within Thinking**|Chengpeng Li et.al.|[2506.09820](http://arxiv.org/pdf/2506.09820)|**[link](https://github.com/chengpengli1003/cort)**|[Kimi](https://papers.cool/arxiv/2506.09820)|
 |57|**2025-06-11**|**Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era**|Shuo Jiang et.al.|[2506.09755](http://arxiv.org/pdf/2506.09755)|null|[Kimi](https://papers.cool/arxiv/2506.09755)|
 |58|**2025-06-11**|**Intent Factored Generation: Unleashing the Diversity in Your Language Model**|Eltayeb Ahmed et.al.|[2506.09659](http://arxiv.org/pdf/2506.09659)|null|[Kimi](https://papers.cool/arxiv/2506.09659)|
 |59|**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/pdf/2506.09644)|null|[Kimi](https://papers.cool/arxiv/2506.09644)|
@@ -86,7 +86,7 @@ layout: default
 |67|**2025-06-11**|**SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**|Xiangchen Li et.al.|[2506.09397](http://arxiv.org/pdf/2506.09397)|null|[Kimi](https://papers.cool/arxiv/2506.09397)|
 |68|**2025-06-11**|**DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts**|Yuchen Feng et.al.|[2506.09351](http://arxiv.org/pdf/2506.09351)|null|[Kimi](https://papers.cool/arxiv/2506.09351)|
 |69|**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/pdf/2506.09350)|null|[Kimi](https://papers.cool/arxiv/2506.09350)|
-|70|**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/pdf/2506.09344)|null|[Kimi](https://papers.cool/arxiv/2506.09344)|
+|70|**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/pdf/2506.09344)|**[link](https://github.com/inclusionai/ming)**|[Kimi](https://papers.cool/arxiv/2506.09344)|
 |71|**2025-06-11**|**Latent Multi-Head Attention for Small Language Models**|Sushant Mehta et.al.|[2506.09342](http://arxiv.org/pdf/2506.09342)|null|[Kimi](https://papers.cool/arxiv/2506.09342)|
 |72|**2025-06-11**|**Multi-Agent Language Models: Advancing Cooperation, Coordination, and Adaptation**|Arjun Vaithilingam Sudhakar et.al.|[2506.09331](http://arxiv.org/pdf/2506.09331)|null|[Kimi](https://papers.cool/arxiv/2506.09331)|
 |73|**2025-06-10**|**Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search**|Samuel Holt et.al.|[2506.09171](http://arxiv.org/pdf/2506.09171)|null|[Kimi](https://papers.cool/arxiv/2506.09171)|
@@ -116,7 +116,7 @@ layout: default
 |97|**2025-06-09**|**A Comprehensive Study of Decoder-Only LLMs for Text-to-Image Generation**|Andrew Z. Wang et.al.|[2506.08210](http://arxiv.org/pdf/2506.08210)|null|[Kimi](https://papers.cool/arxiv/2506.08210)|
 |98|**2025-06-09**|**LLM-BT: Back-Translation as a Framework for Terminology Standardization and Dynamic Semantic Embedding**|Li Weigang et.al.|[2506.08174](http://arxiv.org/pdf/2506.08174)|null|[Kimi](https://papers.cool/arxiv/2506.08174)|
 |99|**2025-06-09**|**Multilingual Hate Speech Detection in Social Media Using Translation-Based Approaches with Large Language Models**|Muhammad Usman et.al.|[2506.08147](http://arxiv.org/pdf/2506.08147)|null|[Kimi](https://papers.cool/arxiv/2506.08147)|
-|100|**2025-06-09**|**HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization**|Hongzheng Chen et.al.|[2506.07972](http://arxiv.org/pdf/2506.07972)|null|[Kimi](https://papers.cool/arxiv/2506.07972)|
+|100|**2025-06-09**|**HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization**|Hongzheng Chen et.al.|[2506.07972](http://arxiv.org/pdf/2506.07972)|**[link](https://github.com/cornell-zhang/heurigym)**|[Kimi](https://papers.cool/arxiv/2506.07972)|
 
 ## Early Stopping
 
