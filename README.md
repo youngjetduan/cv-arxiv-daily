@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978](http://arxiv.org/pdf/2506.10978)|null|[Kimi](https://papers.cool/arxiv/2506.10978)|
-| 2|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/pdf/2506.10974)|null|[Kimi](https://papers.cool/arxiv/2506.10974)|
-| 3|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/pdf/2506.10967)|null|[Kimi](https://papers.cool/arxiv/2506.10967)|
-| 4|**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963](http://arxiv.org/pdf/2506.10963)|null|[Kimi](https://papers.cool/arxiv/2506.10963)|
-| 5|**2025-06-12**|**SpectralAR: Spectral Autoregressive Visual Generation**|Yuanhui Huang et.al.|[2506.10962](http://arxiv.org/pdf/2506.10962)|null|[Kimi](https://papers.cool/arxiv/2506.10962)|
-| 6|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/pdf/2506.10960)|null|[Kimi](https://papers.cool/arxiv/2506.10960)|
-| 7|**2025-06-12**|**ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems**|Aayush Karan et.al.|[2506.10955](http://arxiv.org/pdf/2506.10955)|null|[Kimi](https://papers.cool/arxiv/2506.10955)|
-| 8|**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/pdf/2506.10953)|null|[Kimi](https://papers.cool/arxiv/2506.10953)|
-| 9|**2025-06-12**|**Spurious Rewards: Rethinking Training Signals in RLVR**|Rulin Shao et.al.|[2506.10947](http://arxiv.org/pdf/2506.10947)|null|[Kimi](https://papers.cool/arxiv/2506.10947)|
-|10|**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/pdf/2506.10946)|null|[Kimi](https://papers.cool/arxiv/2506.10946)|
+| 1|**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752](http://arxiv.org/pdf/2506.13752)|null|[Kimi](https://papers.cool/arxiv/2506.13752)|
+| 2|**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746](http://arxiv.org/pdf/2506.13746)|null|[Kimi](https://papers.cool/arxiv/2506.13746)|
+| 3|**2025-06-16**|**Instruction Following by Boosting Attention of Large Language Models**|Vitoria Guardieiro et.al.|[2506.13734](http://arxiv.org/pdf/2506.13734)|null|[Kimi](https://papers.cool/arxiv/2506.13734)|
+| 4|**2025-06-16**|**Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems**|Shang-Chi Tsai et.al.|[2506.13692](http://arxiv.org/pdf/2506.13692)|null|[Kimi](https://papers.cool/arxiv/2506.13692)|
+| 5|**2025-06-16**|**Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model**|Shaolei Zhang et.al.|[2506.13642](http://arxiv.org/pdf/2506.13642)|null|[Kimi](https://papers.cool/arxiv/2506.13642)|
+| 6|**2025-06-16**|**An Empirical Study of LLM-as-a-Judge: How Design Choices Impact Evaluation Reliability**|Yusuke Yamauchi et.al.|[2506.13639](http://arxiv.org/pdf/2506.13639)|null|[Kimi](https://papers.cool/arxiv/2506.13639)|
+| 7|**2025-06-16**|**CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation**|Yuwei Du et.al.|[2506.13599](http://arxiv.org/pdf/2506.13599)|null|[Kimi](https://papers.cool/arxiv/2506.13599)|
+| 8|**2025-06-16**|**Qwen vs. Gemma Integration with Whisper: A Comparative Study in Multilingual SpeechLLM Systems**|Tuan Nguyen et.al.|[2506.13596](http://arxiv.org/pdf/2506.13596)|null|[Kimi](https://papers.cool/arxiv/2506.13596)|
+| 9|**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585](http://arxiv.org/pdf/2506.13585)|null|[Kimi](https://papers.cool/arxiv/2506.13585)|
+|10|**2025-06-16**|**Flexible-length Text Infilling for Discrete Diffusion Models**|Andrew Zhang et.al.|[2506.13579](http://arxiv.org/pdf/2506.13579)|null|[Kimi](https://papers.cool/arxiv/2506.13579)|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
