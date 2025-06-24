@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-18**|**PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning**|Yuhui Shi et.al.|[2506.15683](http://arxiv.org/pdf/2506.15683)|null|[Kimi](https://papers.cool/arxiv/2506.15683)|
-| 2|**2025-06-18**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677](http://arxiv.org/pdf/2506.15677)|null|[Kimi](https://papers.cool/arxiv/2506.15677)|
-| 3|**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674](http://arxiv.org/pdf/2506.15674)|**[link](https://github.com/parameterlab/leaky_thoughts)**|[Kimi](https://papers.cool/arxiv/2506.15674)|
-| 4|**2025-06-18**|**Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability**|Yusuke Sakai et.al.|[2506.15629](http://arxiv.org/pdf/2506.15629)|null|[Kimi](https://papers.cool/arxiv/2506.15629)|
-| 5|**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594](http://arxiv.org/pdf/2506.15594)|**[link](https://github.com/negar-foroutan/wikimixqa)**|[Kimi](https://papers.cool/arxiv/2506.15594)|
-| 6|**2025-06-18**|**Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents**|Aline Dobrovsky et.al.|[2506.15567](http://arxiv.org/pdf/2506.15567)|null|[Kimi](https://papers.cool/arxiv/2506.15567)|
-| 7|**2025-06-18**|**PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction**|Shufan Li et.al.|[2506.15556](http://arxiv.org/pdf/2506.15556)|null|[Kimi](https://papers.cool/arxiv/2506.15556)|
-| 8|**2025-06-18**|**Optimizing Web-Based AI Query Retrieval with GPT Integration in LangChain A CoT-Enhanced Prompt Engineering Approach**|Wenqi Guan et.al.|[2506.15512](http://arxiv.org/pdf/2506.15512)|null|[Kimi](https://papers.cool/arxiv/2506.15512)|
-| 9|**2025-06-18**|**SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling**|Md Imbesat Hassan Rizvi et.al.|[2506.15498](http://arxiv.org/pdf/2506.15498)|**[link](https://github.com/ukplab/arxiv2025-spare-prm)**|[Kimi](https://papers.cool/arxiv/2506.15498)|
-|10|**2025-06-18**|**Context-Informed Grounding Supervision**|Hyunji Lee et.al.|[2506.15480](http://arxiv.org/pdf/2506.15480)|**[link](https://github.com/kaistai/cings)**|[Kimi](https://papers.cool/arxiv/2506.15480)|
+| 1|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/pdf/2506.18898)|null|[Kimi](https://papers.cool/arxiv/2506.18898)|
+| 2|**2025-06-23**|**OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization**|Yiyou Sun et.al.|[2506.18880](http://arxiv.org/pdf/2506.18880)|null|[Kimi](https://papers.cool/arxiv/2506.18880)|
+| 3|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/pdf/2506.18879)|null|[Kimi](https://papers.cool/arxiv/2506.18879)|
+| 4|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/pdf/2506.18871)|null|[Kimi](https://papers.cool/arxiv/2506.18871)|
+| 5|**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/pdf/2506.18841)|null|[Kimi](https://papers.cool/arxiv/2506.18841)|
+| 6|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/pdf/2506.18831)|null|[Kimi](https://papers.cool/arxiv/2506.18831)|
+| 7|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/pdf/2506.18824)|null|[Kimi](https://papers.cool/arxiv/2506.18824)|
+| 8|**2025-06-23**|**ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation**|Siao Tang et.al.|[2506.18810](http://arxiv.org/pdf/2506.18810)|**[link](https://github.com/tsa18/ConciseHint)**|[Kimi](https://papers.cool/arxiv/2506.18810)|
+| 9|**2025-06-23**|**Existing LLMs Are Not Self-Consistent For Simple Tasks**|Zhenru Lin et.al.|[2506.18781](http://arxiv.org/pdf/2506.18781)|null|[Kimi](https://papers.cool/arxiv/2506.18781)|
+|10|**2025-06-23**|**Is There a Case for Conversation Optimized Tokenizers in Large Language Models?**|Raquel Ferrando et.al.|[2506.18674](http://arxiv.org/pdf/2506.18674)|null|[Kimi](https://papers.cool/arxiv/2506.18674)|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
