@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/pdf/2506.18898)|null|[Kimi](https://papers.cool/arxiv/2506.18898)|
-| 2|**2025-06-23**|**OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization**|Yiyou Sun et.al.|[2506.18880](http://arxiv.org/pdf/2506.18880)|null|[Kimi](https://papers.cool/arxiv/2506.18880)|
-| 3|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/pdf/2506.18879)|null|[Kimi](https://papers.cool/arxiv/2506.18879)|
-| 4|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/pdf/2506.18871)|null|[Kimi](https://papers.cool/arxiv/2506.18871)|
-| 5|**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/pdf/2506.18841)|null|[Kimi](https://papers.cool/arxiv/2506.18841)|
-| 6|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/pdf/2506.18831)|null|[Kimi](https://papers.cool/arxiv/2506.18831)|
-| 7|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/pdf/2506.18824)|null|[Kimi](https://papers.cool/arxiv/2506.18824)|
-| 8|**2025-06-23**|**ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation**|Siao Tang et.al.|[2506.18810](http://arxiv.org/pdf/2506.18810)|**[link](https://github.com/tsa18/ConciseHint)**|[Kimi](https://papers.cool/arxiv/2506.18810)|
-| 9|**2025-06-23**|**Existing LLMs Are Not Self-Consistent For Simple Tasks**|Zhenru Lin et.al.|[2506.18781](http://arxiv.org/pdf/2506.18781)|null|[Kimi](https://papers.cool/arxiv/2506.18781)|
-|10|**2025-06-23**|**Is There a Case for Conversation Optimized Tokenizers in Large Language Models?**|Raquel Ferrando et.al.|[2506.18674](http://arxiv.org/pdf/2506.18674)|null|[Kimi](https://papers.cool/arxiv/2506.18674)|
+| 1|**2025-06-24**|**Orthogonal Finetuning Made Scalable**|Zeju Qiu et.al.|[2506.19847](http://arxiv.org/pdf/2506.19847)|null|[Kimi](https://papers.cool/arxiv/2506.19847)|
+| 2|**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/pdf/2506.19830)|null|[Kimi](https://papers.cool/arxiv/2506.19830)|
+| 3|**2025-06-24**|**KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality**|Baochang Ren et.al.|[2506.19807](http://arxiv.org/pdf/2506.19807)|null|[Kimi](https://papers.cool/arxiv/2506.19807)|
+| 4|**2025-06-24**|**SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**|Yuqian Fu et.al.|[2506.19767](http://arxiv.org/pdf/2506.19767)|null|[Kimi](https://papers.cool/arxiv/2506.19767)|
+| 5|**2025-06-24**|**Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation**|Yuanhe Tian et.al.|[2506.19665](http://arxiv.org/pdf/2506.19665)|null|[Kimi](https://papers.cool/arxiv/2506.19665)|
+| 6|**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[2506.19651](http://arxiv.org/pdf/2506.19651)|null|[Kimi](https://papers.cool/arxiv/2506.19651)|
+| 7|**2025-06-24**|**ECCoT: A Framework for Enhancing Effective Cognition via Chain of Thought in Large Language Model**|Zhenke Duan et.al.|[2506.19599](http://arxiv.org/pdf/2506.19599)|null|[Kimi](https://papers.cool/arxiv/2506.19599)|
+| 8|**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/pdf/2506.19579)|null|[Kimi](https://papers.cool/arxiv/2506.19579)|
+| 9|**2025-06-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al.|[2506.19505](http://arxiv.org/pdf/2506.19505)|null|[Kimi](https://papers.cool/arxiv/2506.19505)|
+|10|**2025-06-24**|**Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning**|Russell Beale et.al.|[2506.19484](http://arxiv.org/pdf/2506.19484)|null|[Kimi](https://papers.cool/arxiv/2506.19484)|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
