@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-24**|**Orthogonal Finetuning Made Scalable**|Zeju Qiu et.al.|[2506.19847](http://arxiv.org/pdf/2506.19847)|null|[Kimi](https://papers.cool/arxiv/2506.19847)|
-| 2|**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/pdf/2506.19830)|null|[Kimi](https://papers.cool/arxiv/2506.19830)|
-| 3|**2025-06-24**|**KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality**|Baochang Ren et.al.|[2506.19807](http://arxiv.org/pdf/2506.19807)|null|[Kimi](https://papers.cool/arxiv/2506.19807)|
-| 4|**2025-06-24**|**SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**|Yuqian Fu et.al.|[2506.19767](http://arxiv.org/pdf/2506.19767)|null|[Kimi](https://papers.cool/arxiv/2506.19767)|
-| 5|**2025-06-24**|**Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation**|Yuanhe Tian et.al.|[2506.19665](http://arxiv.org/pdf/2506.19665)|null|[Kimi](https://papers.cool/arxiv/2506.19665)|
-| 6|**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[2506.19651](http://arxiv.org/pdf/2506.19651)|null|[Kimi](https://papers.cool/arxiv/2506.19651)|
-| 7|**2025-06-24**|**ECCoT: A Framework for Enhancing Effective Cognition via Chain of Thought in Large Language Model**|Zhenke Duan et.al.|[2506.19599](http://arxiv.org/pdf/2506.19599)|null|[Kimi](https://papers.cool/arxiv/2506.19599)|
-| 8|**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/pdf/2506.19579)|null|[Kimi](https://papers.cool/arxiv/2506.19579)|
-| 9|**2025-06-24**|**AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models**|Zeyu Li et.al.|[2506.19505](http://arxiv.org/pdf/2506.19505)|null|[Kimi](https://papers.cool/arxiv/2506.19505)|
-|10|**2025-06-24**|**Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning**|Russell Beale et.al.|[2506.19484](http://arxiv.org/pdf/2506.19484)|null|[Kimi](https://papers.cool/arxiv/2506.19484)|
+| 1|**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/pdf/2506.20664)|null|[Kimi](https://papers.cool/arxiv/2506.20664)|
+| 2|**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/pdf/2506.20642)|null|[Kimi](https://papers.cool/arxiv/2506.20642)|
+| 3|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/pdf/2506.20639)|null|[Kimi](https://papers.cool/arxiv/2506.20639)|
+| 4|**2025-06-25**|**Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization**|Zhiwang Zhang et.al.|[2506.20567](http://arxiv.org/pdf/2506.20567)|null|[Kimi](https://papers.cool/arxiv/2506.20567)|
+| 5|**2025-06-25**|**When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs**|Ammar Khairi et.al.|[2506.20544](http://arxiv.org/pdf/2506.20544)|null|[Kimi](https://papers.cool/arxiv/2506.20544)|
+| 6|**2025-06-25**|**WattsOnAI: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads**|Hongzhen Huang et.al.|[2506.20535](http://arxiv.org/pdf/2506.20535)|null|[Kimi](https://papers.cool/arxiv/2506.20535)|
+| 7|**2025-06-25**|**OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling**|Zengzhi Wang et.al.|[2506.20512](http://arxiv.org/pdf/2506.20512)|null|[Kimi](https://papers.cool/arxiv/2506.20512)|
+| 8|**2025-06-25**|**Probing AI Safety with Source Code**|Ujwal Narayan et.al.|[2506.20471](http://arxiv.org/pdf/2506.20471)|null|[Kimi](https://papers.cool/arxiv/2506.20471)|
+| 9|**2025-06-25**|**An Agentic System for Rare Disease Diagnosis with Traceable Reasoning**|Weike Zhao et.al.|[2506.20430](http://arxiv.org/pdf/2506.20430)|null|[Kimi](https://papers.cool/arxiv/2506.20430)|
+|10|**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/pdf/2506.20415)|null|[Kimi](https://papers.cool/arxiv/2506.20415)|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
