@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.28
+## Updated on 2025.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -161,11 +161,11 @@ layout: default
 |144|**2025-06-18**|**Truncated Proximal Policy Optimization**|Tiantian Fan et.al.|[2506.15050](http://arxiv.org/pdf/2506.15050)|null|[Kimi](https://papers.cool/arxiv/2506.15050)|
 |145|**2025-06-17**|**SFT-GO: Supervised Fine-Tuning with Group Optimization for Large Language Models**|Gyuhak Kim et.al.|[2506.15021](http://arxiv.org/pdf/2506.15021)|null|[Kimi](https://papers.cool/arxiv/2506.15021)|
 |146|**2025-06-17**|**Scaling Intelligence: Designing Data Centers for Next-Gen Language Models**|Jesmin Jahan Tithi et.al.|[2506.15006](http://arxiv.org/pdf/2506.15006)|null|[Kimi](https://papers.cool/arxiv/2506.15006)|
-|147|**2025-06-17**|**Memory Tokens: Large Language Models Can Generate Reversible Sentence Embeddings**|Ignacio Sastre et.al.|[2506.15001](http://arxiv.org/pdf/2506.15001)|null|[Kimi](https://papers.cool/arxiv/2506.15001)|
+|147|**2025-06-17**|**Memory Tokens: Large Language Models Can Generate Reversible Sentence Embeddings**|Ignacio Sastre et.al.|[2506.15001](http://arxiv.org/pdf/2506.15001)|**[link](https://github.com/nsuruguay05/memory_token)**|[Kimi](https://papers.cool/arxiv/2506.15001)|
 |148|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767](http://arxiv.org/pdf/2506.14767)|**[link](https://github.com/b04901014/vae-gslm)**|[Kimi](https://papers.cool/arxiv/2506.14767)|
 |149|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766](http://arxiv.org/pdf/2506.14766)|null|[Kimi](https://papers.cool/arxiv/2506.14766)|
 |150|**2025-06-18**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731](http://arxiv.org/pdf/2506.14731)|null|[Kimi](https://papers.cool/arxiv/2506.14731)|
-|151|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/pdf/2506.14646)|null|[Kimi](https://papers.cool/arxiv/2506.14646)|
+|151|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/pdf/2506.14646)|**[link](https://github.com/liar406/gui-lomo)**|[Kimi](https://papers.cool/arxiv/2506.14646)|
 |152|**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641](http://arxiv.org/pdf/2506.14641)|null|[Kimi](https://papers.cool/arxiv/2506.14641)|
 |153|**2025-06-18**|**AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation**|Leah von der Heyde et.al.|[2506.14634](http://arxiv.org/pdf/2506.14634)|null|[Kimi](https://papers.cool/arxiv/2506.14634)|
 |154|**2025-06-18**|**Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models**|Chenchen Yuan et.al.|[2506.14625](http://arxiv.org/pdf/2506.14625)|**[link](https://github.com/yuanchencn/collective-moral-reasoning)**|[Kimi](https://papers.cool/arxiv/2506.14625)|
@@ -184,8 +184,8 @@ layout: default
 |167|**2025-06-16**|**Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study**|Zhengyu Hu et.al.|[2506.13464](http://arxiv.org/pdf/2506.13464)|null|[Kimi](https://papers.cool/arxiv/2506.13464)|
 |168|**2025-06-16**|**StoryBench: A Dynamic Benchmark for Evaluating Long-Term Memory with Multi Turns**|Luanbo Wan et.al.|[2506.13356](http://arxiv.org/pdf/2506.13356)|null|[Kimi](https://papers.cool/arxiv/2506.13356)|
 |169|**2025-06-16**|**Direct Reasoning Optimization: LLMs Can Reward And Refine Their Own Reasoning for Open-Ended Tasks**|Yifei Xu et.al.|[2506.13351](http://arxiv.org/pdf/2506.13351)|null|[Kimi](https://papers.cool/arxiv/2506.13351)|
-|170|**2025-06-16**|**SeqPE: Transformer with Sequential Position Encoding**|Huyang Li et.al.|[2506.13277](http://arxiv.org/pdf/2506.13277)|null|[Kimi](https://papers.cool/arxiv/2506.13277)|
-|171|**2025-06-16**|**IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**|Zijie Lin et.al.|[2506.13229](http://arxiv.org/pdf/2506.13229)|null|[Kimi](https://papers.cool/arxiv/2506.13229)|
+|170|**2025-06-16**|**SeqPE: Transformer with Sequential Position Encoding**|Huyang Li et.al.|[2506.13277](http://arxiv.org/pdf/2506.13277)|**[link](https://github.com/ghrua/seqpe)**|[Kimi](https://papers.cool/arxiv/2506.13277)|
+|171|**2025-06-16**|**IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**|Zijie Lin et.al.|[2506.13229](http://arxiv.org/pdf/2506.13229)|**[link](https://github.com/zjlin2oo1/igd)**|[Kimi](https://papers.cool/arxiv/2506.13229)|
 |172|**2025-06-16**|**Thought Crime: Backdoors and Emergent Misalignment in Reasoning Models**|James Chua et.al.|[2506.13206](http://arxiv.org/pdf/2506.13206)|null|[Kimi](https://papers.cool/arxiv/2506.13206)|
 |173|**2025-06-16**|**Breaking Thought Patterns: A Multi-Dimensional Reasoning Framework for LLMs**|Xintong Tang et.al.|[2506.13192](http://arxiv.org/pdf/2506.13192)|null|[Kimi](https://papers.cool/arxiv/2506.13192)|
 |174|**2025-06-16**|**Adapting LLMs for Minimal-edit Grammatical Error Correction**|Ryszard Staruch et.al.|[2506.13148](http://arxiv.org/pdf/2506.13148)|null|[Kimi](https://papers.cool/arxiv/2506.13148)|
