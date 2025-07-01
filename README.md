@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/pdf/2506.21552)|null|[Kimi](https://papers.cool/arxiv/2506.21552)|
-| 2|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/pdf/2506.21550)|null|[Kimi](https://papers.cool/arxiv/2506.21550)|
-| 3|**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547](http://arxiv.org/pdf/2506.21547)|null|[Kimi](https://papers.cool/arxiv/2506.21547)|
-| 4|**2025-06-26**|**HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation**|Xinzhuo Li et.al.|[2506.21546](http://arxiv.org/pdf/2506.21546)|null|[Kimi](https://papers.cool/arxiv/2506.21546)|
-| 5|**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/pdf/2506.21536)|null|[Kimi](https://papers.cool/arxiv/2506.21536)|
-| 6|**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/pdf/2506.21535)|null|[Kimi](https://papers.cool/arxiv/2506.21535)|
-| 7|**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532](http://arxiv.org/pdf/2506.21532)|null|[Kimi](https://papers.cool/arxiv/2506.21532)|
-| 8|**2025-06-26**|**WAFT: Warping-Alone Field Transforms for Optical Flow**|Yihan Wang et.al.|[2506.21526](http://arxiv.org/pdf/2506.21526)|null|[Kimi](https://papers.cool/arxiv/2506.21526)|
-| 9|**2025-06-26**|**Potemkin Understanding in Large Language Models**|Marina Mancoridis et.al.|[2506.21521](http://arxiv.org/pdf/2506.21521)|null|[Kimi](https://papers.cool/arxiv/2506.21521)|
-|10|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/pdf/2506.21509)|null|[Kimi](https://papers.cool/arxiv/2506.21509)|
+| 1|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/pdf/2506.24119)|null|[Kimi](https://papers.cool/arxiv/2506.24119)|
+| 2|**2025-06-30**|**On the Predictive Power of Representation Dispersion in Language Models**|Yanhong Li et.al.|[2506.24106](http://arxiv.org/pdf/2506.24106)|null|[Kimi](https://papers.cool/arxiv/2506.24106)|
+| 3|**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/pdf/2506.24086)|null|[Kimi](https://papers.cool/arxiv/2506.24086)|
+| 4|**2025-06-30**|**EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations**|Hyunjong Kim et.al.|[2506.24016](http://arxiv.org/pdf/2506.24016)|null|[Kimi](https://papers.cool/arxiv/2506.24016)|
+| 5|**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/pdf/2506.23998)|null|[Kimi](https://papers.cool/arxiv/2506.23998)|
+| 6|**2025-06-30**|**Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice**|Akshit Kumar et.al.|[2506.23924](http://arxiv.org/pdf/2506.23924)|null|[Kimi](https://papers.cool/arxiv/2506.23924)|
+| 7|**2025-06-30**|**Advancing Multi-Step Mathematical Reasoning in Large Language Models through Multi-Layered Self-Reflection with Auto-Prompting**|André de Souza Loureiro et.al.|[2506.23888](http://arxiv.org/pdf/2506.23888)|null|[Kimi](https://papers.cool/arxiv/2506.23888)|
+| 8|**2025-06-30**|**Chain of Thought in Order: Discovering Learning-Friendly Orders for Arithmetic**|Yuta Sato et.al.|[2506.23875](http://arxiv.org/pdf/2506.23875)|null|[Kimi](https://papers.cool/arxiv/2506.23875)|
+| 9|**2025-06-30**|**A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents**|Hang Su et.al.|[2506.23844](http://arxiv.org/pdf/2506.23844)|null|[Kimi](https://papers.cool/arxiv/2506.23844)|
+|10|**2025-06-30**|**Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model**|Bowen Ding et.al.|[2506.23840](http://arxiv.org/pdf/2506.23840)|null|[Kimi](https://papers.cool/arxiv/2506.23840)|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
