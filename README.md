@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/pdf/2507.02862)|null|[Kimi](https://papers.cool/arxiv/2507.02862)|
-| 2|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/pdf/2507.02860)|null|[Kimi](https://papers.cool/arxiv/2507.02860)|
-| 3|**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/pdf/2507.02859)|null|[Kimi](https://papers.cool/arxiv/2507.02859)|
-| 4|**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/pdf/2507.02858)|null|[Kimi](https://papers.cool/arxiv/2507.02858)|
-| 5|**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856](http://arxiv.org/pdf/2507.02856)|null|[Kimi](https://papers.cool/arxiv/2507.02856)|
-| 6|**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/pdf/2507.02851)|null|[Kimi](https://papers.cool/arxiv/2507.02851)|
-| 7|**2025-07-03**|**LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**|Almog Hilel et.al.|[2507.02850](http://arxiv.org/pdf/2507.02850)|null|[Kimi](https://papers.cool/arxiv/2507.02850)|
-| 8|**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844](http://arxiv.org/pdf/2507.02844)|null|[Kimi](https://papers.cool/arxiv/2507.02844)|
-| 9|**2025-07-03**|**StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason**|Kaiyi Zhang et.al.|[2507.02841](http://arxiv.org/pdf/2507.02841)|null|[Kimi](https://papers.cool/arxiv/2507.02841)|
-|10|**2025-07-03**|**ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning**|Ruiyang Zhou et.al.|[2507.02834](http://arxiv.org/pdf/2507.02834)|null|[Kimi](https://papers.cool/arxiv/2507.02834)|
+| 1|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/pdf/2507.05258)|null|[Kimi](https://papers.cool/arxiv/2507.05258)|
+| 2|**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/pdf/2507.05257)|null|[Kimi](https://papers.cool/arxiv/2507.05257)|
+| 3|**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/pdf/2507.05255)|null|[Kimi](https://papers.cool/arxiv/2507.05255)|
+| 4|**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246](http://arxiv.org/pdf/2507.05246)|null|[Kimi](https://papers.cool/arxiv/2507.05246)|
+| 5|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/pdf/2507.05240)|null|[Kimi](https://papers.cool/arxiv/2507.05240)|
+| 6|**2025-07-07**|**Critiques of World Models**|Eric Xing et.al.|[2507.05169](http://arxiv.org/pdf/2507.05169)|null|[Kimi](https://papers.cool/arxiv/2507.05169)|
+| 7|**2025-07-07**|**InfoSteer: Steering Information Utility in Language Model Post-Training**|Chunyuan Deng et.al.|[2507.05158](http://arxiv.org/pdf/2507.05158)|null|[Kimi](https://papers.cool/arxiv/2507.05158)|
+| 8|**2025-07-07**|**AI Generated Text Detection Using Instruction Fine-tuned Large Language and Transformer-Based Models**|Chinnappa Guggilla et.al.|[2507.05157](http://arxiv.org/pdf/2507.05157)|null|[Kimi](https://papers.cool/arxiv/2507.05157)|
+| 9|**2025-07-07**|**Interpretable Mnemonic Generation for Kanji Learning via Expectation-Maximization**|Jaewook Lee et.al.|[2507.05137](http://arxiv.org/pdf/2507.05137)|null|[Kimi](https://papers.cool/arxiv/2507.05137)|
+|10|**2025-07-07**|**MARBLE: A Multi-Agent Rule-Based LLM Reasoning Engine for Accident Severity Prediction**|Kaleem Ullah Qasim et.al.|[2507.04893](http://arxiv.org/pdf/2507.04893)|null|[Kimi](https://papers.cool/arxiv/2507.04893)|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
