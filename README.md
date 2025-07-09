@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/pdf/2507.05258)|null|[Kimi](https://papers.cool/arxiv/2507.05258)|
-| 2|**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/pdf/2507.05257)|null|[Kimi](https://papers.cool/arxiv/2507.05257)|
-| 3|**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/pdf/2507.05255)|null|[Kimi](https://papers.cool/arxiv/2507.05255)|
-| 4|**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246](http://arxiv.org/pdf/2507.05246)|null|[Kimi](https://papers.cool/arxiv/2507.05246)|
-| 5|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/pdf/2507.05240)|null|[Kimi](https://papers.cool/arxiv/2507.05240)|
-| 6|**2025-07-07**|**Critiques of World Models**|Eric Xing et.al.|[2507.05169](http://arxiv.org/pdf/2507.05169)|null|[Kimi](https://papers.cool/arxiv/2507.05169)|
-| 7|**2025-07-07**|**InfoSteer: Steering Information Utility in Language Model Post-Training**|Chunyuan Deng et.al.|[2507.05158](http://arxiv.org/pdf/2507.05158)|null|[Kimi](https://papers.cool/arxiv/2507.05158)|
-| 8|**2025-07-07**|**AI Generated Text Detection Using Instruction Fine-tuned Large Language and Transformer-Based Models**|Chinnappa Guggilla et.al.|[2507.05157](http://arxiv.org/pdf/2507.05157)|null|[Kimi](https://papers.cool/arxiv/2507.05157)|
-| 9|**2025-07-07**|**Interpretable Mnemonic Generation for Kanji Learning via Expectation-Maximization**|Jaewook Lee et.al.|[2507.05137](http://arxiv.org/pdf/2507.05137)|null|[Kimi](https://papers.cool/arxiv/2507.05137)|
-|10|**2025-07-07**|**MARBLE: A Multi-Agent Rule-Based LLM Reasoning Engine for Accident Severity Prediction**|Kaleem Ullah Qasim et.al.|[2507.04893](http://arxiv.org/pdf/2507.04893)|null|[Kimi](https://papers.cool/arxiv/2507.04893)|
+| 1|**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223](http://arxiv.org/pdf/2507.06223)|null|[Kimi](https://papers.cool/arxiv/2507.06223)|
+| 2|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/pdf/2507.06203)|null|[Kimi](https://papers.cool/arxiv/2507.06203)|
+| 3|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/pdf/2507.06167)|null|[Kimi](https://papers.cool/arxiv/2507.06167)|
+| 4|**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/pdf/2507.06138)|null|[Kimi](https://papers.cool/arxiv/2507.06138)|
+| 5|**2025-07-08**|**NeoBabel: A Multilingual Open Tower for Visual Generation**|Mohammad Mahdi Derakhshani et.al.|[2507.06137](http://arxiv.org/pdf/2507.06137)|null|[Kimi](https://papers.cool/arxiv/2507.06137)|
+| 6|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/pdf/2507.06119)|null|[Kimi](https://papers.cool/arxiv/2507.06119)|
+| 7|**2025-07-08**|**Few-shot text-based emotion detection**|Teodor-George Marchitan et.al.|[2507.05918](http://arxiv.org/pdf/2507.05918)|null|[Kimi](https://papers.cool/arxiv/2507.05918)|
+| 8|**2025-07-08**|**Affective-ROPTester: Capability and Bias Analysis of LLMs in Predicting Retinopathy of Prematurity**|Shuai Zhao et.al.|[2507.05816](http://arxiv.org/pdf/2507.05816)|null|[Kimi](https://papers.cool/arxiv/2507.05816)|
+| 9|**2025-07-08**|**Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition**|Zijin Gu et.al.|[2507.05724](http://arxiv.org/pdf/2507.05724)|null|[Kimi](https://papers.cool/arxiv/2507.05724)|
+|10|**2025-07-08**|**Agentic-R1: Distilled Dual-Strategy Reasoning**|Weihua Du et.al.|[2507.05707](http://arxiv.org/pdf/2507.05707)|null|[Kimi](https://papers.cool/arxiv/2507.05707)|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
