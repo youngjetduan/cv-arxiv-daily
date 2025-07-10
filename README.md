@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223](http://arxiv.org/pdf/2507.06223)|null|[Kimi](https://papers.cool/arxiv/2507.06223)|
-| 2|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/pdf/2507.06203)|null|[Kimi](https://papers.cool/arxiv/2507.06203)|
-| 3|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/pdf/2507.06167)|null|[Kimi](https://papers.cool/arxiv/2507.06167)|
-| 4|**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/pdf/2507.06138)|null|[Kimi](https://papers.cool/arxiv/2507.06138)|
-| 5|**2025-07-08**|**NeoBabel: A Multilingual Open Tower for Visual Generation**|Mohammad Mahdi Derakhshani et.al.|[2507.06137](http://arxiv.org/pdf/2507.06137)|null|[Kimi](https://papers.cool/arxiv/2507.06137)|
-| 6|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/pdf/2507.06119)|null|[Kimi](https://papers.cool/arxiv/2507.06119)|
-| 7|**2025-07-08**|**Few-shot text-based emotion detection**|Teodor-George Marchitan et.al.|[2507.05918](http://arxiv.org/pdf/2507.05918)|null|[Kimi](https://papers.cool/arxiv/2507.05918)|
-| 8|**2025-07-08**|**Affective-ROPTester: Capability and Bias Analysis of LLMs in Predicting Retinopathy of Prematurity**|Shuai Zhao et.al.|[2507.05816](http://arxiv.org/pdf/2507.05816)|null|[Kimi](https://papers.cool/arxiv/2507.05816)|
-| 9|**2025-07-08**|**Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition**|Zijin Gu et.al.|[2507.05724](http://arxiv.org/pdf/2507.05724)|null|[Kimi](https://papers.cool/arxiv/2507.05724)|
-|10|**2025-07-08**|**Agentic-R1: Distilled Dual-Strategy Reasoning**|Weihua Du et.al.|[2507.05707](http://arxiv.org/pdf/2507.05707)|null|[Kimi](https://papers.cool/arxiv/2507.05707)|
+| 1|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/pdf/2507.07104)|null|[Kimi](https://papers.cool/arxiv/2507.07104)|
+| 2|**2025-07-09**|**Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs**|Yahan Yu et.al.|[2507.06999](http://arxiv.org/pdf/2507.06999)|null|[Kimi](https://papers.cool/arxiv/2507.06999)|
+| 3|**2025-07-09**|**Exploring LLMs for Predicting Tutor Strategy and Student Outcomes in Dialogues**|Fareya Ikram et.al.|[2507.06910](http://arxiv.org/pdf/2507.06910)|null|[Kimi](https://papers.cool/arxiv/2507.06910)|
+| 4|**2025-07-09**|**MultiJustice: A Chinese Dataset for Multi-Party, Multi-Charge Legal Prediction**|Xiao Wang et.al.|[2507.06909](http://arxiv.org/pdf/2507.06909)|null|[Kimi](https://papers.cool/arxiv/2507.06909)|
+| 5|**2025-07-09**|**Developing and Maintaining an Open-Source Repository of AI Evaluations: Challenges and Insights**|Alexandra Abbas et.al.|[2507.06893](http://arxiv.org/pdf/2507.06893)|null|[Kimi](https://papers.cool/arxiv/2507.06893)|
+| 6|**2025-07-09**|**Text to model via SysML: Automated generation of dynamical system computational models from unstructured natural language text via enhanced System Modeling Language diagrams**|Matthew Anderson Hendricks et.al.|[2507.06803](http://arxiv.org/pdf/2507.06803)|null|[Kimi](https://papers.cool/arxiv/2507.06803)|
+| 7|**2025-07-09**|**Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining: Method, Evaluation and Applications**|Seonwu Kim et.al.|[2507.06795](http://arxiv.org/pdf/2507.06795)|null|[Kimi](https://papers.cool/arxiv/2507.06795)|
+| 8|**2025-07-09**|**Expediting data extraction using a large language model (LLM) and scoping review protocol: a methodological study within a complex scoping review**|James Stewart-Evans et.al.|[2507.06623](http://arxiv.org/pdf/2507.06623)|null|[Kimi](https://papers.cool/arxiv/2507.06623)|
+| 9|**2025-07-09**|**Nexus: Taming Throughput-Latency Tradeoff in LLM Serving via Efficient GPU Sharing**|Xiaoxiang Shi et.al.|[2507.06608](http://arxiv.org/pdf/2507.06608)|null|[Kimi](https://papers.cool/arxiv/2507.06608)|
+|10|**2025-07-09**|**Decoder-Hybrid-Decoder Architecture for Efficient Reasoning with Long Generation**|Liliang Ren et.al.|[2507.06607](http://arxiv.org/pdf/2507.06607)|null|[Kimi](https://papers.cool/arxiv/2507.06607)|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
