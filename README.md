@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.11
+## Updated on 2025.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -21,16 +21,16 @@
 |---|---|---|---|---|---|---|
 | 1|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999](http://arxiv.org/pdf/2507.07999)|null|[Kimi](https://papers.cool/arxiv/2507.07999)|
 | 2|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998](http://arxiv.org/pdf/2507.07998)|null|[Kimi](https://papers.cool/arxiv/2507.07998)|
-| 3|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/pdf/2507.07993)|null|[Kimi](https://papers.cool/arxiv/2507.07993)|
-| 4|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/pdf/2507.07990)|null|[Kimi](https://papers.cool/arxiv/2507.07990)|
-| 5|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/pdf/2507.07988)|null|[Kimi](https://papers.cool/arxiv/2507.07988)|
-| 6|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/pdf/2507.07983)|null|[Kimi](https://papers.cool/arxiv/2507.07983)|
-| 7|**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/pdf/2507.07966)|null|[Kimi](https://papers.cool/arxiv/2507.07966)|
-| 8|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/pdf/2507.07957)|null|[Kimi](https://papers.cool/arxiv/2507.07957)|
-| 9|**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847](http://arxiv.org/pdf/2507.07847)|null|[Kimi](https://papers.cool/arxiv/2507.07847)|
-|10|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818](http://arxiv.org/pdf/2507.07818)|null|[Kimi](https://papers.cool/arxiv/2507.07818)|
+| 3|**2025-07-10**|**MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization**|Mingkai Jia et.al.|[2507.07997](http://arxiv.org/pdf/2507.07997)|null|[Kimi](https://papers.cool/arxiv/2507.07997)|
+| 4|**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995](http://arxiv.org/pdf/2507.07995)|null|[Kimi](https://papers.cool/arxiv/2507.07995)|
+| 5|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/pdf/2507.07993)|null|[Kimi](https://papers.cool/arxiv/2507.07993)|
+| 6|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/pdf/2507.07990)|null|[Kimi](https://papers.cool/arxiv/2507.07990)|
+| 7|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/pdf/2507.07988)|null|[Kimi](https://papers.cool/arxiv/2507.07988)|
+| 8|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/pdf/2507.07984)|null|[Kimi](https://papers.cool/arxiv/2507.07984)|
+| 9|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/pdf/2507.07983)|null|[Kimi](https://papers.cool/arxiv/2507.07983)|
+|10|**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/pdf/2507.07982)|null|[Kimi](https://papers.cool/arxiv/2507.07982)|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
