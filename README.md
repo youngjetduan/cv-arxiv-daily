@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/pdf/2507.12428)|null|[Kimi](https://papers.cool/arxiv/2507.12428)|
-| 2|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/pdf/2507.12425)|null|[Kimi](https://papers.cool/arxiv/2507.12425)|
-| 3|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379](http://arxiv.org/pdf/2507.12379)|null|[Kimi](https://papers.cool/arxiv/2507.12379)|
-| 4|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/pdf/2507.12314)|null|[Kimi](https://papers.cool/arxiv/2507.12314)|
-| 5|**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/pdf/2507.12261)|null|[Kimi](https://papers.cool/arxiv/2507.12261)|
-| 6|**2025-07-16**|**Improving Contextual ASR via Multi-grained Fusion with Large Language Models**|Shilin Zhou et.al.|[2507.12252](http://arxiv.org/pdf/2507.12252)|null|[Kimi](https://papers.cool/arxiv/2507.12252)|
-| 7|**2025-07-16**|**Toward Efficient SpMV in Sparse LLMs via Block Extraction and Compressed Storage**|Junqing Lin et.al.|[2507.12205](http://arxiv.org/pdf/2507.12205)|null|[Kimi](https://papers.cool/arxiv/2507.12205)|
-| 8|**2025-07-16**|**Findings of MEGA: Maths Explanation with LLMs using the Socratic Method for Active Learning**|Tosin Adewumi et.al.|[2507.12079](http://arxiv.org/pdf/2507.12079)|null|[Kimi](https://papers.cool/arxiv/2507.12079)|
-| 9|**2025-07-16**|**Evaluating the Ability of Large Language Models to Reason about Cardinal Directions, Revisited**|Anthony G Cohn et.al.|[2507.12059](http://arxiv.org/pdf/2507.12059)|null|[Kimi](https://papers.cool/arxiv/2507.12059)|
-|10|**2025-07-16**|**Simplifications are Absolutists: How Simplified Language Reduces Word Sense Awareness in LLM-Generated Definitions**|Lukas Ellinger et.al.|[2507.11981](http://arxiv.org/pdf/2507.11981)|null|[Kimi](https://papers.cool/arxiv/2507.11981)|
+| 1|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/pdf/2507.13353)|null|[Kimi](https://papers.cool/arxiv/2507.13353)|
+| 2|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/pdf/2507.13348)|null|[Kimi](https://papers.cool/arxiv/2507.13348)|
+| 3|**2025-07-17**|**The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**|Zhouqi Hua et.al.|[2507.13332](http://arxiv.org/pdf/2507.13332)|null|[Kimi](https://papers.cool/arxiv/2507.13332)|
+| 4|**2025-07-17**|**The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations**|Carlos Arriaga et.al.|[2507.13302](http://arxiv.org/pdf/2507.13302)|null|[Kimi](https://papers.cool/arxiv/2507.13302)|
+| 5|**2025-07-17**|**AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research**|Yilun Zhao et.al.|[2507.13300](http://arxiv.org/pdf/2507.13300)|null|[Kimi](https://papers.cool/arxiv/2507.13300)|
+| 6|**2025-07-17**|**QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation**|Jiazheng Li et.al.|[2507.13266](http://arxiv.org/pdf/2507.13266)|null|[Kimi](https://papers.cool/arxiv/2507.13266)|
+| 7|**2025-07-17**|**Automating Steering for Safe Multimodal Large Language Models**|Lyucheng Wu et.al.|[2507.13255](http://arxiv.org/pdf/2507.13255)|null|[Kimi](https://papers.cool/arxiv/2507.13255)|
+| 8|**2025-07-17**|**HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models**|Ashray Gupta et.al.|[2507.13238](http://arxiv.org/pdf/2507.13238)|null|[Kimi](https://papers.cool/arxiv/2507.13238)|
+| 9|**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231](http://arxiv.org/pdf/2507.13231)|null|[Kimi](https://papers.cool/arxiv/2507.13231)|
+|10|**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158](http://arxiv.org/pdf/2507.13158)|null|[Kimi](https://papers.cool/arxiv/2507.13158)|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
