@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.18
+## Updated on 2025.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -21,16 +21,16 @@
 |---|---|---|---|---|---|---|
 | 1|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/pdf/2507.13353)|null|[Kimi](https://papers.cool/arxiv/2507.13353)|
 | 2|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/pdf/2507.13348)|null|[Kimi](https://papers.cool/arxiv/2507.13348)|
-| 3|**2025-07-17**|**The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**|Zhouqi Hua et.al.|[2507.13332](http://arxiv.org/pdf/2507.13332)|null|[Kimi](https://papers.cool/arxiv/2507.13332)|
-| 4|**2025-07-17**|**The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations**|Carlos Arriaga et.al.|[2507.13302](http://arxiv.org/pdf/2507.13302)|null|[Kimi](https://papers.cool/arxiv/2507.13302)|
-| 5|**2025-07-17**|**AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research**|Yilun Zhao et.al.|[2507.13300](http://arxiv.org/pdf/2507.13300)|null|[Kimi](https://papers.cool/arxiv/2507.13300)|
-| 6|**2025-07-17**|**QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation**|Jiazheng Li et.al.|[2507.13266](http://arxiv.org/pdf/2507.13266)|null|[Kimi](https://papers.cool/arxiv/2507.13266)|
-| 7|**2025-07-17**|**Automating Steering for Safe Multimodal Large Language Models**|Lyucheng Wu et.al.|[2507.13255](http://arxiv.org/pdf/2507.13255)|null|[Kimi](https://papers.cool/arxiv/2507.13255)|
-| 8|**2025-07-17**|**HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models**|Ashray Gupta et.al.|[2507.13238](http://arxiv.org/pdf/2507.13238)|null|[Kimi](https://papers.cool/arxiv/2507.13238)|
-| 9|**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231](http://arxiv.org/pdf/2507.13231)|null|[Kimi](https://papers.cool/arxiv/2507.13231)|
-|10|**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158](http://arxiv.org/pdf/2507.13158)|null|[Kimi](https://papers.cool/arxiv/2507.13158)|
+| 3|**2025-07-17**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen et.al.|[2507.13346](http://arxiv.org/pdf/2507.13346)|null|[Kimi](https://papers.cool/arxiv/2507.13346)|
+| 4|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/pdf/2507.13344)|null|[Kimi](https://papers.cool/arxiv/2507.13344)|
+| 5|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/pdf/2507.13343)|null|[Kimi](https://papers.cool/arxiv/2507.13343)|
+| 6|**2025-07-17**|**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**|Yiqi Wang et.al.|[2507.13340](http://arxiv.org/pdf/2507.13340)|null|[Kimi](https://papers.cool/arxiv/2507.13340)|
+| 7|**2025-07-17**|**FormulaOne: Measuring the Depth of Algorithmic Reasoning Beyond Competitive Programming**|Gal Beniamini et.al.|[2507.13337](http://arxiv.org/pdf/2507.13337)|null|[Kimi](https://papers.cool/arxiv/2507.13337)|
+| 8|**2025-07-17**|**Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**|Tyler Loakman et.al.|[2507.13335](http://arxiv.org/pdf/2507.13335)|null|[Kimi](https://papers.cool/arxiv/2507.13335)|
+| 9|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/pdf/2507.13334)|null|[Kimi](https://papers.cool/arxiv/2507.13334)|
+|10|**2025-07-17**|**The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**|Zhouqi Hua et.al.|[2507.13332](http://arxiv.org/pdf/2507.13332)|null|[Kimi](https://papers.cool/arxiv/2507.13332)|
 
-<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
