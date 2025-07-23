@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/pdf/2507.15849)|null|[Kimi](https://papers.cool/arxiv/2507.15849)|
-| 2|**2025-07-21**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/pdf/2507.15846)|null|[Kimi](https://papers.cool/arxiv/2507.15846)|
-| 3|**2025-07-21**|**Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning**|Sneheel Sarangi et.al.|[2507.15788](http://arxiv.org/pdf/2507.15788)|null|[Kimi](https://papers.cool/arxiv/2507.15788)|
-| 4|**2025-07-21**|**Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR**|Jiakang Wang et.al.|[2507.15778](http://arxiv.org/pdf/2507.15778)|null|[Kimi](https://papers.cool/arxiv/2507.15778)|
-| 5|**2025-07-21**|**Supernova: Achieving More with Less in Transformer Architectures**|Andrei-Valentin Tanase et.al.|[2507.15773](http://arxiv.org/pdf/2507.15773)|null|[Kimi](https://papers.cool/arxiv/2507.15773)|
-| 6|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/pdf/2507.15770)|null|[Kimi](https://papers.cool/arxiv/2507.15770)|
-| 7|**2025-07-21**|**LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization**|Xingyu Wu et.al.|[2507.15758](http://arxiv.org/pdf/2507.15758)|null|[Kimi](https://papers.cool/arxiv/2507.15758)|
-| 8|**2025-07-21**|**Understanding Large Language Models' Ability on Interdisciplinary Research**|Yuanhao Shen et.al.|[2507.15736](http://arxiv.org/pdf/2507.15736)|null|[Kimi](https://papers.cool/arxiv/2507.15736)|
-| 9|**2025-07-21**|**BEnchmarking LLMs for Ophthalmology (BELO) for Ophthalmological Knowledge and Reasoning**|Sahana Srinivasan et.al.|[2507.15717](http://arxiv.org/pdf/2507.15717)|null|[Kimi](https://papers.cool/arxiv/2507.15717)|
-|10|**2025-07-21**|**Is Large Language Model Performance on Reasoning Tasks Impacted by Different Ways Questions Are Asked?**|Seok Hwan Song et.al.|[2507.15707](http://arxiv.org/pdf/2507.15707)|null|[Kimi](https://papers.cool/arxiv/2507.15707)|
+| 1|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/pdf/2507.16815)|null|[Kimi](https://papers.cool/arxiv/2507.16815)|
+| 2|**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/pdf/2507.16809)|null|[Kimi](https://papers.cool/arxiv/2507.16809)|
+| 3|**2025-07-22**|**Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning**|Helena Casademunt et.al.|[2507.16795](http://arxiv.org/pdf/2507.16795)|null|[Kimi](https://papers.cool/arxiv/2507.16795)|
+| 4|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/pdf/2507.16784)|null|[Kimi](https://papers.cool/arxiv/2507.16784)|
+| 5|**2025-07-22**|**WGRAMMAR: Leverage Prior Knowledge to Accelerate Structured Decoding**|Ran Wang et.al.|[2507.16768](http://arxiv.org/pdf/2507.16768)|null|[Kimi](https://papers.cool/arxiv/2507.16768)|
+| 6|**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731](http://arxiv.org/pdf/2507.16731)|null|[Kimi](https://papers.cool/arxiv/2507.16731)|
+| 7|**2025-07-22**|**Advancing Risk and Quality Assurance: A RAG Chatbot for Improved Regulatory Compliance**|Lars Hillebrand et.al.|[2507.16711](http://arxiv.org/pdf/2507.16711)|null|[Kimi](https://papers.cool/arxiv/2507.16711)|
+| 8|**2025-07-22**|**PICACO: Pluralistic In-Context Value Alignment of LLMs via Total Correlation Optimization**|Han Jiang et.al.|[2507.16679](http://arxiv.org/pdf/2507.16679)|null|[Kimi](https://papers.cool/arxiv/2507.16679)|
+| 9|**2025-07-22**|**Towards Automated Regulatory Compliance Verification in Financial Auditing with Large Language Models**|Armin Berger et.al.|[2507.16642](http://arxiv.org/pdf/2507.16642)|null|[Kimi](https://papers.cool/arxiv/2507.16642)|
+|10|**2025-07-22**|**Learning Temporal Abstractions via Variational Homomorphisms in Option-Induced Abstract MDPs**|Chang Li et.al.|[2507.16473](http://arxiv.org/pdf/2507.16473)|null|[Kimi](https://papers.cool/arxiv/2507.16473)|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
