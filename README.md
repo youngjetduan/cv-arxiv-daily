@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > Other links:
@@ -19,18 +19,18 @@
 
 |ID|Publish Date|Title|Authors|PDF|Code|Kimi|
 |---|---|---|---|---|---|---|
-| 1|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/pdf/2507.16815)|null|[Kimi](https://papers.cool/arxiv/2507.16815)|
-| 2|**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/pdf/2507.16809)|null|[Kimi](https://papers.cool/arxiv/2507.16809)|
-| 3|**2025-07-22**|**Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning**|Helena Casademunt et.al.|[2507.16795](http://arxiv.org/pdf/2507.16795)|null|[Kimi](https://papers.cool/arxiv/2507.16795)|
-| 4|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/pdf/2507.16784)|null|[Kimi](https://papers.cool/arxiv/2507.16784)|
-| 5|**2025-07-22**|**WGRAMMAR: Leverage Prior Knowledge to Accelerate Structured Decoding**|Ran Wang et.al.|[2507.16768](http://arxiv.org/pdf/2507.16768)|null|[Kimi](https://papers.cool/arxiv/2507.16768)|
-| 6|**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731](http://arxiv.org/pdf/2507.16731)|null|[Kimi](https://papers.cool/arxiv/2507.16731)|
-| 7|**2025-07-22**|**Advancing Risk and Quality Assurance: A RAG Chatbot for Improved Regulatory Compliance**|Lars Hillebrand et.al.|[2507.16711](http://arxiv.org/pdf/2507.16711)|null|[Kimi](https://papers.cool/arxiv/2507.16711)|
-| 8|**2025-07-22**|**PICACO: Pluralistic In-Context Value Alignment of LLMs via Total Correlation Optimization**|Han Jiang et.al.|[2507.16679](http://arxiv.org/pdf/2507.16679)|null|[Kimi](https://papers.cool/arxiv/2507.16679)|
-| 9|**2025-07-22**|**Towards Automated Regulatory Compliance Verification in Financial Auditing with Large Language Models**|Armin Berger et.al.|[2507.16642](http://arxiv.org/pdf/2507.16642)|null|[Kimi](https://papers.cool/arxiv/2507.16642)|
-|10|**2025-07-22**|**Learning Temporal Abstractions via Variational Homomorphisms in Option-Induced Abstract MDPs**|Chang Li et.al.|[2507.16473](http://arxiv.org/pdf/2507.16473)|null|[Kimi](https://papers.cool/arxiv/2507.16473)|
+| 1|**2025-07-23**|**Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention**|Yiwen Chen et.al.|[2507.17745](http://arxiv.org/pdf/2507.17745)|null|[Kimi](https://papers.cool/arxiv/2507.17745)|
+| 2|**2025-07-23**|**Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models**|Changxin Tian et.al.|[2507.17702](http://arxiv.org/pdf/2507.17702)|null|[Kimi](https://papers.cool/arxiv/2507.17702)|
+| 3|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/pdf/2507.17695)|null|[Kimi](https://papers.cool/arxiv/2507.17695)|
+| 4|**2025-07-23**|**A Hybrid Early-Exit Algorithm for Large Language Models Based on Space Alignment Decoding (SPADE)**|Bowen Zheng et.al.|[2507.17618](http://arxiv.org/pdf/2507.17618)|null|[Kimi](https://papers.cool/arxiv/2507.17618)|
+| 5|**2025-07-23**|**MultiNRC: A Challenging and Native Multilingual Reasoning Evaluation Benchmark for LLMs**|Alexander R. Fabbri et.al.|[2507.17476](http://arxiv.org/pdf/2507.17476)|null|[Kimi](https://papers.cool/arxiv/2507.17476)|
+| 6|**2025-07-23**|**Each to Their Own: Exploring the Optimal Embedding in RAG**|Shiting Chen et.al.|[2507.17442](http://arxiv.org/pdf/2507.17442)|null|[Kimi](https://papers.cool/arxiv/2507.17442)|
+| 7|**2025-07-23**|**Leveraging Knowledge Graphs and LLM Reasoning to Identify Operational Bottlenecks for Warehouse Planning Assistance**|Rishi Parekh et.al.|[2507.17273](http://arxiv.org/pdf/2507.17273)|null|[Kimi](https://papers.cool/arxiv/2507.17273)|
+| 8|**2025-07-23**|**Agent Identity Evals: Measuring Agentic Identity**|Elija Perrier et.al.|[2507.17257](http://arxiv.org/pdf/2507.17257)|null|[Kimi](https://papers.cool/arxiv/2507.17257)|
+| 9|**2025-07-23**|**CLARIFID: Improving Radiology Report Generation by Reinforcing Clinically Accurate Impressions and Enforcing Detailed Findings**|Kyeongkyu Lee et.al.|[2507.17234](http://arxiv.org/pdf/2507.17234)|null|[Kimi](https://papers.cool/arxiv/2507.17234)|
+|10|**2025-07-23**|**The Pluralistic Moral Gap: Understanding Judgment and Value Differences between Humans and Large Language Models**|Giuseppe Russo et.al.|[2507.17216](http://arxiv.org/pdf/2507.17216)|null|[Kimi](https://papers.cool/arxiv/2507.17216)|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Early Stopping
 
@@ -47,7 +47,7 @@
 | 9|**2024-12-02**|**Early Exit Is a Natural Capability in Transformer-based Models: An Empirical Study on Early Exit without Joint Optimization**|Weiqiao Shan et.al.|[2412.01455](http://arxiv.org/abs/2412.01455)|null|[Kimi](https://papers.cool/arxiv/2412.01455)|
 |10|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267](http://arxiv.org/abs/2412.01267)|null|[Kimi](https://papers.cool/arxiv/2412.01267)|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/keyunj/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyunj/cv-arxiv-daily/graphs/contributors
