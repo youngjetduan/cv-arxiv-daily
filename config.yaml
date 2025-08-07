@@ -25,12 +25,12 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLM":
-        filters: [  "transformers", "LLM", "large language models", "agent",
+        filters: [  "transformers", "LLM", "large language models", "diffusion", "agent",
                     "deepseek", "qwen", "llama", "kimi",
                     "long-term memory", "long context", "long video",
                     "prefill", "decode", "decoding", "token",
                     "cot", "latent", "reasoning",
                     "moe", "attention", "mla", "coe", "experts",
-                    "KV Cache", "importance", "heterogeneous inference",
+                    "KV cache", "importance", "cache",
                     "pipeline parallel", "data parallel", "tensor parallel", "expert parallel", "operator parallel",
                     "speculative", "early stopping", "early exit", "token skip"]
